@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-21T05:31:49.415Z",
+  "asset_commit": "805a0349d32b5836f6c0b6c364782d637f3666fb",
+  "scope": "Bounded mixed-field rendering comparison in the actual browser, not a streaming-world benchmark.",
+  "camera_preset": "far",
+  "three_version": "0.180.0",
+  "browser": "Chrome 155 on Windows",
+  "gpu": "Not recorded; no hardware-general FPS claim.",
+  "drawing_buffer": [
+    1280,
+    720
+  ],
+  "device_pixel_ratio": 1,
+  "shadows": false,
+  "ground_layer": "MEADOW_ME_Grass_Terrain_Layer",
+  "ground_behavior": "One tiled diffuse/normal material; no terrain blending.",
+  "placements": 385,
+  "selected_assets": [
+    {
+      "id": "SM_Temple",
+      "count": 1
+    },
+    {
+      "id": "MEADOW_SM_OakTree_06",
+      "count": 96
+    },
+    {
+      "id": "MEADOW_SM_Grass_01_01",
+      "count": 192
+    },
+    {
+      "id": "MEADOW_SM_Flower_09_01",
+      "count": 64
+    },
+    {
+      "id": "MEADOW_SM_Rock_12",
+      "count": 32
+    }
+  ],
+  "samples": {
+    "warmup_frames": 30,
+    "rolling_window": 240,
+    "minimum_samples": 120
+  },
+  "results": [
+    {
+      "mode": "clone",
+      "draw_calls": 484,
+      "submitted_triangles": 386594,
+      "geometries": 9,
+      "textures": 18,
+      "programs": 8,
+      "raf_interval_p50_ms": 6.9,
+      "raf_interval_p95_ms": 7
+    },
+    {
+      "mode": "instanced",
+      "draw_calls": 9,
+      "submitted_triangles": 386594,
+      "geometries": 9,
+      "textures": 18,
+      "programs": 5,
+      "raf_interval_p50_ms": 6.9,
+      "raf_interval_p95_ms": 7
+    }
+  ],
+  "limits": [
+    "RAF intervals include browser scheduling and display cadence; they are not isolated GPU or simulation durations.",
+    "Renderer allocation values are resource counts, not GPU memory bytes.",
+    "Instanced batches cover the whole test field; a large world still needs spatially bounded batches and region loading."
+  ]
+}

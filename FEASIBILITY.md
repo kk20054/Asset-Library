@@ -6,7 +6,7 @@ The two collections can provide building blocks for a Three.js world: Temple sup
 
 | Question | Evidence | Limit |
 | --- | --- | --- |
-| Can Temple load in Three.js? | The prior 135-GLB snapshot has Khronos validation, browser loading, and public cross-origin receipts under validation/. | Those receipts apply to their recorded files and URLs, not automatically to Meadow or the renamed host. |
+| Can the combined library load in Three.js? | All 516 models passed the [unified browser loading check](validation/unified-browser-load.json). The renamed public viewer and mixed scene also rendered successfully. | Public runtime checks cover the stated samples; all-file format and local browser checks are recorded separately. |
 | What is present in Meadow? | 381 exported glTF variants from 144 independent static environment FBXs; 516 model assets across both collections. | Variants are not additional independent source models; six ground layers and 14 surface textures are separate resources. |
 | Are Meadow files structurally valid? | All 381 variants passed [Khronos validation](validation/meadow-gltf.json) with zero specification errors and zero dependency errors; 276 warnings concern runtime-generated normal tangents. | Format validation does not prove final lighting, source-shader equivalence, or public-host accessibility. |
 | Can Unity files be used directly? | Actual mesh and Prefab material content is exported as portable glTF. | Unity scripts, custom shaders, particle behavior, scene lighting, and binary Terrain assets are not a browser runtime. |
@@ -14,6 +14,8 @@ The two collections can provide building blocks for a Three.js world: Temple sup
 | Does instancing reduce calls in the mixed scene? | A local far-camera run observed 484 clone calls versus 9 instanced calls with equal 386,594 submitted triangles. | This is a bounded 385-placement scene observation; no general FPS, supported world size, or geographic streaming benchmark is established. |
 
 Meadow's audited static meshes cover trees, rocks, grass, flowers, cover plants, mushrooms, props, and distant hill/mountain forms. The six particle/VFX source meshes and one editor helper are outside the static export scope. Three binary Unity Terrain assets are excluded; hill/mountain mesh props do not replace a terrain, navigation, collision, or streaming system.
+
+The [anonymous public-delivery receipt](validation/unified-public-access.json) records 822/822 successful URL checks with CORS, file lengths where present and hashed model samples. The [public browser receipt](validation/public-browser-preview.json) covers the live Pages viewer, mixed scene and raw cross-origin model/texture loading. This establishes public delivery without GitHub credentials; individual coding-assistant environments may still restrict outbound requests.
 
 ## Storage is different from runtime cost
 

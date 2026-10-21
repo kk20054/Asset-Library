@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-21T05:35:47.994Z",
+  "asset_commit": "805a0349d32b5836f6c0b6c364782d637f3666fb",
+  "browser": "Chrome 155 on Windows",
+  "three_version": "0.180.0",
+  "raw_cross_origin": {
+    "page_origin": "http://127.0.0.1:54821",
+    "asset_base": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/",
+    "loaded": true,
+    "selected_model_count": 5,
+    "placements": 385,
+    "ground_layer": "MEADOW_ME_Grass_Terrain_Layer"
+  },
+  "pages_mixed_scene": {
+    "url": "https://kk20054.github.io/ThreeJS-Stylized-World-Assets/examples/world-demo.html",
+    "loaded": true,
+    "selected_assets": [
+      "SM_Temple",
+      "MEADOW_SM_OakTree_06",
+      "MEADOW_SM_Grass_01_01",
+      "MEADOW_SM_Flower_09_01",
+      "MEADOW_SM_Rock_12"
+    ],
+    "placements": 385,
+    "mode": "instanced",
+    "draw_calls": 9,
+    "submitted_triangles": 386594,
+    "ground_loaded": true
+  },
+  "pages_model_viewer": {
+    "url": "https://kk20054.github.io/ThreeJS-Stylized-World-Assets/?asset=MEADOW_SM_BirchTree_01",
+    "collection": "meadow",
+    "asset_id": "MEADOW_SM_BirchTree_01",
+    "loaded": true,
+    "dimensions_m": [
+      6.93,
+      9.69,
+      6.4
+    ],
+    "visual_check": "Source summer green foliage and alpha-cutout leaf edges are visible; no opaque leaf-card background."
+  },
+  "limits": [
+    "Public delivery and browser rendering were tested; no external Claude account was signed into or tested.",
+    "Static PBR portability does not reproduce all Unity shader behavior."
+  ]
+}

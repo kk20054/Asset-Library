@@ -46,7 +46,7 @@ async function request(url, method, limit = 8388608) {
   for (let attempt = 1; attempt <= 2; attempt++) {
     const controller = new AbortController(), timer = setTimeout(() => controller.abort(), 15000);
     try {
-      const response = await fetch(url, { method, redirect: 'follow', cache: 'no-store', signal: controller.signal });
+      const response = await fetch(url, { method, headers: { 'Accept-Encoding': 'identity' }, redirect: 'follow', cache: 'no-store', signal: controller.signal });
       if (response.status !== 200) throw new Error('HTTP ' + response.status);
       const chunks = [];
       let size = 0;
