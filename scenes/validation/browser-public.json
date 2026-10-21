@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-10-21T07:15:25.163Z",
+  "checked_at": "2026-10-21T07:20:36.405Z",
   "asset_commit": "4ad365e0c1b0719e1a7fcedbdc2fd3517a4da537",
   "public_viewer": "https://kk20054.github.io/ThreeJS-Stylized-World-Assets/examples/authored-scenes.html?scene=diorama",
   "checks": {
@@ -21,8 +21,34 @@
     }
   },
   "notes": [
-    "Public asset and scene link checks are in public-access.json.",
-    "Local desktop sidebar regression fixed: reference expansion scrolls the sidebar and keeps the 3D viewport intact.",
-    "Source transforms and materials are unchanged by the sidebar fix."
-  ]
+    "Both published scenes rendered successfully. Source-camera and group camera controls updated the visible scene.",
+    "Reference expansion keeps the desktop 3D viewport intact; sidebar scrolls independently.",
+    "Raw model/scene/PNG receipts are pinned to the unchanged asset commit.",
+    "This does not claim Unity shader parity or testing inside a particular web Claude account."
+  ],
+  "viewer_commit": "7209d639b6f6fbbefa826163962b7e47b4f096e0",
+  "viewport": {
+    "width": 1280,
+    "height": 720
+  },
+  "overview": {
+    "public_url": "https://kk20054.github.io/ThreeJS-Stylized-World-Assets/examples/authored-scenes.html?scene=overview",
+    "loaded": true,
+    "source_static_objects": 369,
+    "render_meshes": 456,
+    "source_triangles": 814894,
+    "materials": 105,
+    "decoded_textures": 124,
+    "views_tested": [
+      "complete-layout",
+      "04_summer_meshes"
+    ],
+    "reference_links_exposed": 9,
+    "reference_sidebar_expanded": true,
+    "sidebar_height": 720,
+    "viewport_height": 720,
+    "page_height": 720,
+    "console_warnings_or_errors": 0
+  },
+  "passed": true
 }

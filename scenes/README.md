@@ -74,3 +74,5 @@ There are 18 verified 1600 × 900 PNG references: complete layout, original sour
 The portable Three.js inspection viewer adds hemisphere and ambient fill to the source directional parameters. This avoids unlit back faces in the absence of Unity sky/SSS; it does not claim original lighting parity.
 
 [Transform checks](validation/authored-transforms.json) · [Official glTF checks](validation/gltf-validation.json) · [Recovered foliage alpha](validation/foliage-alpha.json)
+
+[Anonymous public access: 372/372 URLs](validation/public-access.json) · [18 full PNG hash checks](validation/public-preview-hashes.json) · [Published browser checks](validation/browser-public.json)
