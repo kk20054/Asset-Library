@@ -16,10 +16,16 @@
   "visual_samples": [
     "SM_Temple_BigRoof",
     "SM_Tree_01",
-    "SM_Bush_01"
+    "SM_Water_Plane"
   ],
-  "public_remote_access": "pending_after_push",
+  "public_remote_access": "verified",
   "follow_up_checks": [
-    "Water material changed to source water-color/static-normal approximation; reloaded separately after final glTF validation."
-  ]
+    "Final water GLB was reloaded separately after the material fix and displayed successfully."
+  ],
+  "cross_origin": {
+    "page_origin": "http://127.0.0.1:54821",
+    "asset_url": "https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/models/Buildings/SM_Temple_BigRoof.glb",
+    "status_text": "Loaded SM_Temple_BigRoof.",
+    "verified": true
+  }
 }

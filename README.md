@@ -6,6 +6,7 @@ Three.js-ready conversions of the user-supplied Unity environment pack: **134 so
 
 - [Interactive asset viewer](https://kk20054.github.io/Stylized-Chinese-Lost-Temple/)
 - [Instructions for Claude and other coding assistants](CLAUDE_USAGE.md)
+- [Compact asset index for text-based tools](https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/asset-index.json)
 - [Public JSON manifest](https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/manifest.json)
 - [Reusable Three.js loading helper](examples/load-model.js)
 - [Source inventory](source-catalog.json), [Prefab renderer assignments](source-prefabs.json), and [material mapping](source-materials.json)

@@ -4,9 +4,10 @@
 
 Read these public text files first:
 
-1. https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/manifest.json
-2. https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/README.md
-3. https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/examples/load-model.js
+1. https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/asset-index.json (compact asset list)
+2. https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/manifest.json (full metadata)
+3. https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/README.md
+4. https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/examples/load-model.js
 
 The manifest provides exact asset IDs, GLB paths and URLs, source identity, categories, sizes, triangle counts, hashes, and conversion limitations. Do not guess filenames. The GLB files are binary resources for GLTFLoader; a chat document parser does not need to decode their geometry as text.
 

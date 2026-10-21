@@ -1,0 +1,993 @@
+{
+  "date": "2026-10-21",
+  "authentication": "none",
+  "text": [
+    {
+      "path": "README.md",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "cors": "*",
+      "bytes": 5544
+    },
+    {
+      "path": "CLAUDE_USAGE.md",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "cors": "*",
+      "bytes": 2558
+    },
+    {
+      "path": "manifest.json",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "cors": "*",
+      "bytes": 162196,
+      "manifestAssets": 135
+    },
+    {
+      "path": "examples/load-model.js",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "cors": "*",
+      "bytes": 3700
+    }
+  ],
+  "real_glb": {
+    "path": "models/Buildings/SM_Temple_BigRoof.glb",
+    "status": 200,
+    "cors": "*",
+    "bytes": 9072540,
+    "magic": "glTF",
+    "hashMatches": true
+  },
+  "asset_url_count": 135,
+  "asset_url_passed": 135,
+  "asset_url_failed": [],
+  "asset_headers": [
+    {
+      "id": "SM_Beam_Angle",
+      "status": 200,
+      "bytes": 1159244,
+      "expected_bytes": 1159244,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BigRoof",
+      "status": 200,
+      "bytes": 1734664,
+      "expected_bytes": 1734664,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BigWall_B",
+      "status": 200,
+      "bytes": 4184228,
+      "expected_bytes": 4184228,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BigWall_Beam",
+      "status": 200,
+      "bytes": 2750128,
+      "expected_bytes": 2750128,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BigRoof_Angle",
+      "status": 200,
+      "bytes": 5615704,
+      "expected_bytes": 5615704,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Beam",
+      "status": 200,
+      "bytes": 1157380,
+      "expected_bytes": 1157380,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Bell_B",
+      "status": 200,
+      "bytes": 12379472,
+      "expected_bytes": 12379472,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BigRoof_Wave",
+      "status": 200,
+      "bytes": 2276464,
+      "expected_bytes": 2276464,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BigWall_Beam_B",
+      "status": 200,
+      "bytes": 2742144,
+      "expected_bytes": 2742144,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BigWall_roof_Straight",
+      "status": 200,
+      "bytes": 2170620,
+      "expected_bytes": 2170620,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BorderAngle",
+      "status": 200,
+      "bytes": 2443888,
+      "expected_bytes": 2443888,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BigWall_WindowWall",
+      "status": 200,
+      "bytes": 4185696,
+      "expected_bytes": 4185696,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BigWall_WoodWindow",
+      "status": 200,
+      "bytes": 3377700,
+      "expected_bytes": 3377700,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BigWall_roof_Angle",
+      "status": 200,
+      "bytes": 7130468,
+      "expected_bytes": 7130468,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Brick1",
+      "status": 200,
+      "bytes": 2394212,
+      "expected_bytes": 2394212,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BigWall_WoodWindowB",
+      "status": 200,
+      "bytes": 8767556,
+      "expected_bytes": 8767556,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Door2",
+      "status": 200,
+      "bytes": 2853168,
+      "expected_bytes": 2853168,
+      "cors": "*"
+    },
+    {
+      "id": "SM_DoorWall",
+      "status": 200,
+      "bytes": 4187192,
+      "expected_bytes": 4187192,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Foundation_C_Angle",
+      "status": 200,
+      "bytes": 4005184,
+      "expected_bytes": 4005184,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Door1",
+      "status": 200,
+      "bytes": 3584764,
+      "expected_bytes": 3584764,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Foundation1_5x5",
+      "status": 200,
+      "bytes": 3328792,
+      "expected_bytes": 3328792,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Foundation_D_Angle",
+      "status": 200,
+      "bytes": 2987168,
+      "expected_bytes": 2987168,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Foundation_C_Straight",
+      "status": 200,
+      "bytes": 3099900,
+      "expected_bytes": 3099900,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Foundation",
+      "status": 200,
+      "bytes": 3328480,
+      "expected_bytes": 3328480,
+      "cors": "*"
+    },
+    {
+      "id": "SM_KingsTempleWall2x2_B_",
+      "status": 200,
+      "bytes": 2816676,
+      "expected_bytes": 2816676,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Foundation_D_Straight",
+      "status": 200,
+      "bytes": 2761024,
+      "expected_bytes": 2761024,
+      "cors": "*"
+    },
+    {
+      "id": "SM_KingsTempleWall2x2_C_",
+      "status": 200,
+      "bytes": 2681512,
+      "expected_bytes": 2681512,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Lattice",
+      "status": 200,
+      "bytes": 2627164,
+      "expected_bytes": 2627164,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Roof3x1",
+      "status": 200,
+      "bytes": 1760480,
+      "expected_bytes": 1760480,
+      "cors": "*"
+    },
+    {
+      "id": "SM_KingsTempleWall2x2",
+      "status": 200,
+      "bytes": 3797260,
+      "expected_bytes": 3797260,
+      "cors": "*"
+    },
+    {
+      "id": "SM_RedStairs",
+      "status": 200,
+      "bytes": 4251196,
+      "expected_bytes": 4251196,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Roof3x2_Angle",
+      "status": 200,
+      "bytes": 3864964,
+      "expected_bytes": 3864964,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Temple_BigRoof",
+      "status": 200,
+      "bytes": 9072540,
+      "expected_bytes": 9072540,
+      "cors": "*"
+    },
+    {
+      "id": "SM_RoofPiece_BigWall",
+      "status": 200,
+      "bytes": 3943212,
+      "expected_bytes": 3943212,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Roof3x5",
+      "status": 200,
+      "bytes": 5223424,
+      "expected_bytes": 5223424,
+      "cors": "*"
+    },
+    {
+      "id": "SM_SmallRoof_1m",
+      "status": 200,
+      "bytes": 1476244,
+      "expected_bytes": 1476244,
+      "cors": "*"
+    },
+    {
+      "id": "SM_SmallRoof_Angle",
+      "status": 200,
+      "bytes": 3101040,
+      "expected_bytes": 3101040,
+      "cors": "*"
+    },
+    {
+      "id": "SM_SmallRoof",
+      "status": 200,
+      "bytes": 1553240,
+      "expected_bytes": 1553240,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Stairs",
+      "status": 200,
+      "bytes": 1764812,
+      "expected_bytes": 1764812,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Wall2x2",
+      "status": 200,
+      "bytes": 4183716,
+      "expected_bytes": 4183716,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Wall3x3",
+      "status": 200,
+      "bytes": 3175816,
+      "expected_bytes": 3175816,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Wall_Decor_A",
+      "status": 200,
+      "bytes": 3019472,
+      "expected_bytes": 3019472,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Window2",
+      "status": 200,
+      "bytes": 3414936,
+      "expected_bytes": 3414936,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Bush_02",
+      "status": 200,
+      "bytes": 1237040,
+      "expected_bytes": 1237040,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Bush_03",
+      "status": 200,
+      "bytes": 1163212,
+      "expected_bytes": 1163212,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Bush_01",
+      "status": 200,
+      "bytes": 1023532,
+      "expected_bytes": 1023532,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Character_Merged",
+      "status": 200,
+      "bytes": 13979556,
+      "expected_bytes": 13979556,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Wave_Roof",
+      "status": 200,
+      "bytes": 2659768,
+      "expected_bytes": 2659768,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Bush_04",
+      "status": 200,
+      "bytes": 1087196,
+      "expected_bytes": 1087196,
+      "cors": "*"
+    },
+    {
+      "id": "SM_DaisyFlowers",
+      "status": 200,
+      "bytes": 1809520,
+      "expected_bytes": 1809520,
+      "cors": "*"
+    },
+    {
+      "id": "SM_DaisyFlowersPatch",
+      "status": 200,
+      "bytes": 1888760,
+      "expected_bytes": 1888760,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Flower_01",
+      "status": 200,
+      "bytes": 895732,
+      "expected_bytes": 895732,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Flower_C",
+      "status": 200,
+      "bytes": 901096,
+      "expected_bytes": 901096,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Flower_B",
+      "status": 200,
+      "bytes": 923068,
+      "expected_bytes": 923068,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Flower_A",
+      "status": 200,
+      "bytes": 932804,
+      "expected_bytes": 932804,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Flower_D",
+      "status": 200,
+      "bytes": 980356,
+      "expected_bytes": 980356,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Flower_E",
+      "status": 200,
+      "bytes": 997664,
+      "expected_bytes": 997664,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Flower_F",
+      "status": 200,
+      "bytes": 912992,
+      "expected_bytes": 912992,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Flower_G",
+      "status": 200,
+      "bytes": 1254116,
+      "expected_bytes": 1254116,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Flower_H",
+      "status": 200,
+      "bytes": 998164,
+      "expected_bytes": 998164,
+      "cors": "*"
+    },
+    {
+      "id": "SM_GrassClump02",
+      "status": 200,
+      "bytes": 78888,
+      "expected_bytes": 78888,
+      "cors": "*"
+    },
+    {
+      "id": "SM_GrassClump01",
+      "status": 200,
+      "bytes": 89640,
+      "expected_bytes": 89640,
+      "cors": "*"
+    },
+    {
+      "id": "SM_LilyPad",
+      "status": 200,
+      "bytes": 256136,
+      "expected_bytes": 256136,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Mushrooms",
+      "status": 200,
+      "bytes": 106284,
+      "expected_bytes": 106284,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Plant_01",
+      "status": 200,
+      "bytes": 898032,
+      "expected_bytes": 898032,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Plant_02",
+      "status": 200,
+      "bytes": 897356,
+      "expected_bytes": 897356,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Plant_03",
+      "status": 200,
+      "bytes": 895320,
+      "expected_bytes": 895320,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Plant_05",
+      "status": 200,
+      "bytes": 912600,
+      "expected_bytes": 912600,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Plant_04",
+      "status": 200,
+      "bytes": 904464,
+      "expected_bytes": 904464,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Plant_07",
+      "status": 200,
+      "bytes": 903032,
+      "expected_bytes": 903032,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Plant_06",
+      "status": 200,
+      "bytes": 907580,
+      "expected_bytes": 907580,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Plant_08",
+      "status": 200,
+      "bytes": 907316,
+      "expected_bytes": 907316,
+      "cors": "*"
+    },
+    {
+      "id": "SM_RedLeaves",
+      "status": 200,
+      "bytes": 962384,
+      "expected_bytes": 962384,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Water_Lilies",
+      "status": 200,
+      "bytes": 817064,
+      "expected_bytes": 817064,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Tree_01",
+      "status": 200,
+      "bytes": 1157936,
+      "expected_bytes": 1157936,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Water_Lilies_B",
+      "status": 200,
+      "bytes": 825400,
+      "expected_bytes": 825400,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Water_Lilies_C",
+      "status": 200,
+      "bytes": 791860,
+      "expected_bytes": 791860,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pillar_Merged_01",
+      "status": 200,
+      "bytes": 1199440,
+      "expected_bytes": 1199440,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pillar_Merged_02",
+      "status": 200,
+      "bytes": 1200384,
+      "expected_bytes": 1200384,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pillar_02",
+      "status": 200,
+      "bytes": 2622476,
+      "expected_bytes": 2622476,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pillar_Merged_03",
+      "status": 200,
+      "bytes": 1194692,
+      "expected_bytes": 1194692,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pillar_Merged_04",
+      "status": 200,
+      "bytes": 1197540,
+      "expected_bytes": 1197540,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pillar_Merged_06",
+      "status": 200,
+      "bytes": 1210812,
+      "expected_bytes": 1210812,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pillar_Merged_08",
+      "status": 200,
+      "bytes": 1189000,
+      "expected_bytes": 1189000,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pillar_Merged_07",
+      "status": 200,
+      "bytes": 1196592,
+      "expected_bytes": 1196592,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pillar_Merged_09",
+      "status": 200,
+      "bytes": 1190892,
+      "expected_bytes": 1190892,
+      "cors": "*"
+    },
+    {
+      "id": "SK_Panda_AsStaticMesh",
+      "status": 200,
+      "bytes": 4178092,
+      "expected_bytes": 4178092,
+      "cors": "*"
+    },
+    {
+      "id": "SK_Character_AsStaticMesh",
+      "status": 200,
+      "bytes": 10029432,
+      "expected_bytes": 10029432,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Bag1",
+      "status": 200,
+      "bytes": 2709940,
+      "expected_bytes": 2709940,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Base_02_variant_1",
+      "status": 200,
+      "bytes": 1368416,
+      "expected_bytes": 1368416,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Base_02_variant_2",
+      "status": 200,
+      "bytes": 1368416,
+      "expected_bytes": 1368416,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Beams_Pile",
+      "status": 200,
+      "bytes": 1786096,
+      "expected_bytes": 1786096,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Banner_A",
+      "status": 200,
+      "bytes": 3264048,
+      "expected_bytes": 3264048,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Bench",
+      "status": 200,
+      "bytes": 3420524,
+      "expected_bytes": 3420524,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Bridge",
+      "status": 200,
+      "bytes": 3978420,
+      "expected_bytes": 3978420,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Bridge_02",
+      "status": 200,
+      "bytes": 3989336,
+      "expected_bytes": 3989336,
+      "cors": "*"
+    },
+    {
+      "id": "SM_BrokenVase",
+      "status": 200,
+      "bytes": 1361840,
+      "expected_bytes": 1361840,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Column3",
+      "status": 200,
+      "bytes": 3179024,
+      "expected_bytes": 3179024,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Column_B",
+      "status": 200,
+      "bytes": 3005920,
+      "expected_bytes": 3005920,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Fence",
+      "status": 200,
+      "bytes": 1828944,
+      "expected_bytes": 1828944,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Grass_Plane_02",
+      "status": 200,
+      "bytes": 67136,
+      "expected_bytes": 67136,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Lantern_A",
+      "status": 200,
+      "bytes": 1867096,
+      "expected_bytes": 1867096,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Fence_Column",
+      "status": 200,
+      "bytes": 1782652,
+      "expected_bytes": 1782652,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Lantern_B",
+      "status": 200,
+      "bytes": 1866756,
+      "expected_bytes": 1866756,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Lantern_C",
+      "status": 200,
+      "bytes": 1826084,
+      "expected_bytes": 1826084,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pillar",
+      "status": 200,
+      "bytes": 1185828,
+      "expected_bytes": 1185828,
+      "cors": "*"
+    },
+    {
+      "id": "SM_LotusStatue",
+      "status": 200,
+      "bytes": 6608540,
+      "expected_bytes": 6608540,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pot_B",
+      "status": 200,
+      "bytes": 2071328,
+      "expected_bytes": 2071328,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pot_A",
+      "status": 200,
+      "bytes": 1995560,
+      "expected_bytes": 1995560,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Pot_C",
+      "status": 200,
+      "bytes": 2364600,
+      "expected_bytes": 2364600,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Rock_01",
+      "status": 200,
+      "bytes": 1494624,
+      "expected_bytes": 1494624,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Rock_02",
+      "status": 200,
+      "bytes": 1692912,
+      "expected_bytes": 1692912,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Rock_03",
+      "status": 200,
+      "bytes": 1494624,
+      "expected_bytes": 1494624,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Rock_04",
+      "status": 200,
+      "bytes": 1692916,
+      "expected_bytes": 1692916,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Stair_03",
+      "status": 200,
+      "bytes": 2585692,
+      "expected_bytes": 2585692,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Stair_Merged_02",
+      "status": 200,
+      "bytes": 2589900,
+      "expected_bytes": 2589900,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Stair_Merged_01",
+      "status": 200,
+      "bytes": 2580784,
+      "expected_bytes": 2580784,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Stair_Merged_03",
+      "status": 200,
+      "bytes": 2572464,
+      "expected_bytes": 2572464,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Stairs_02",
+      "status": 200,
+      "bytes": 1753064,
+      "expected_bytes": 1753064,
+      "cors": "*"
+    },
+    {
+      "id": "SM_StoneLamp",
+      "status": 200,
+      "bytes": 1385856,
+      "expected_bytes": 1385856,
+      "cors": "*"
+    },
+    {
+      "id": "SM_StoneTablet1",
+      "status": 200,
+      "bytes": 6222516,
+      "expected_bytes": 6222516,
+      "cors": "*"
+    },
+    {
+      "id": "SM_StoneTablet2",
+      "status": 200,
+      "bytes": 6126832,
+      "expected_bytes": 6126832,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Stone_Lamp",
+      "status": 200,
+      "bytes": 2721132,
+      "expected_bytes": 2721132,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Temple_Base_01",
+      "status": 200,
+      "bytes": 2976596,
+      "expected_bytes": 2976596,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Temple",
+      "status": 200,
+      "bytes": 7438524,
+      "expected_bytes": 7438524,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Temple_Base_02",
+      "status": 200,
+      "bytes": 2975636,
+      "expected_bytes": 2975636,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Vase1",
+      "status": 200,
+      "bytes": 2582380,
+      "expected_bytes": 2582380,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Vase2",
+      "status": 200,
+      "bytes": 2570680,
+      "expected_bytes": 2570680,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Vase3",
+      "status": 200,
+      "bytes": 2574764,
+      "expected_bytes": 2574764,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Water_Plane",
+      "status": 200,
+      "bytes": 676560,
+      "expected_bytes": 676560,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Vase4",
+      "status": 200,
+      "bytes": 2579728,
+      "expected_bytes": 2579728,
+      "cors": "*"
+    },
+    {
+      "id": "SM_WoodFence",
+      "status": 200,
+      "bytes": 3874708,
+      "expected_bytes": 3874708,
+      "cors": "*"
+    },
+    {
+      "id": "SM_WoodFence2",
+      "status": 200,
+      "bytes": 3863244,
+      "expected_bytes": 3863244,
+      "cors": "*"
+    },
+    {
+      "id": "SM_WoodFence_Column",
+      "status": 200,
+      "bytes": 3770940,
+      "expected_bytes": 3770940,
+      "cors": "*"
+    },
+    {
+      "id": "SM_Woods",
+      "status": 200,
+      "bytes": 3278776,
+      "expected_bytes": 3278776,
+      "cors": "*"
+    }
+  ]
+}
