@@ -4975,7 +4975,7 @@
       "source_guid": "03b38e13f61f19a45b9f31cde6b21fbe",
       "source_sha256": "d29b89ff12e862d16a7928978df2140bc49ffc84075c294ca3e94b08f779d688",
       "bytes": 2493,
-      "sha256": "ed7edc072f10b3e6c78948a3de3003d75645e839bfed3eb8940b94cc713d76c6",
+      "sha256": "0eb6d20d7f9ef7d852b42956360874e1ecf834fc7c3442818a45721e07782222",
       "triangles": 2178,
       "mesh_count": 1,
       "material_count": 1,
@@ -5010,9 +5010,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d.png",
-          "bytes": 1812614,
-          "sha256": "5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d",
+          "path": "models/Meadow/_shared/textures/88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c.png",
+          "bytes": 4144,
+          "sha256": "88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c",
           "kind": "textures"
         },
         {
@@ -5045,7 +5045,7 @@
       "source_guid": "03b38e13f61f19a45b9f31cde6b21fbe",
       "source_sha256": "d29b89ff12e862d16a7928978df2140bc49ffc84075c294ca3e94b08f779d688",
       "bytes": 2493,
-      "sha256": "78dad1df47c37bc06be8a813b85dc69dae57513bacfedde56a39dbf23c441003",
+      "sha256": "ffc9d3a5a72aa32bb1a84be3f3a0490a346c4fbdaceb22e2a586cd6ace75c3b6",
       "triangles": 2178,
       "mesh_count": 1,
       "material_count": 1,
@@ -5080,9 +5080,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d.png",
-          "bytes": 1812614,
-          "sha256": "5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d",
+          "path": "models/Meadow/_shared/textures/88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c.png",
+          "bytes": 4144,
+          "sha256": "88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c",
           "kind": "textures"
         },
         {
@@ -5115,7 +5115,7 @@
       "source_guid": "03b38e13f61f19a45b9f31cde6b21fbe",
       "source_sha256": "d29b89ff12e862d16a7928978df2140bc49ffc84075c294ca3e94b08f779d688",
       "bytes": 2493,
-      "sha256": "0e887f7b09f158634fa29e0cfdd51dc567d58b630bb43699e05a811a75150299",
+      "sha256": "07a2426bdc97c001c8b7ce2a98578a8b196042f88f3b25ed8b990d865b851379",
       "triangles": 2178,
       "mesh_count": 1,
       "material_count": 1,
@@ -5150,9 +5150,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d.png",
-          "bytes": 1812614,
-          "sha256": "5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d",
+          "path": "models/Meadow/_shared/textures/88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c.png",
+          "bytes": 4144,
+          "sha256": "88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c",
           "kind": "textures"
         },
         {
@@ -5187,7 +5187,7 @@
       "source_guid": "6d9a59004665287458a3cbcb9bed5bcc",
       "source_sha256": "90d2af13c9929c05dcf2a09dd756947cf4609cd4952183df4b9243c65a84378a",
       "bytes": 2481,
-      "sha256": "15c73bcbf1b407a0456e6fe2dc9e3846c1988145c3a12807723998e8aeed7a32",
+      "sha256": "42b484a336211c7a9e2e12f36f01bea9258564d9a6b6eba61cfa45f304d01404",
       "triangles": 6030,
       "mesh_count": 1,
       "material_count": 1,
@@ -5222,9 +5222,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d.png",
-          "bytes": 1812614,
-          "sha256": "5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d",
+          "path": "models/Meadow/_shared/textures/88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c.png",
+          "bytes": 4144,
+          "sha256": "88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c",
           "kind": "textures"
         },
         {
@@ -5257,7 +5257,7 @@
       "source_guid": "6d9a59004665287458a3cbcb9bed5bcc",
       "source_sha256": "90d2af13c9929c05dcf2a09dd756947cf4609cd4952183df4b9243c65a84378a",
       "bytes": 2481,
-      "sha256": "a7f48afe9c8e2d824e4519d8f486660d43be6b61b56b461128e8ced56613318c",
+      "sha256": "37d98126235f2d608d2b1b5747aee1abc8496deb7dcebb563f2e7126461293eb",
       "triangles": 6030,
       "mesh_count": 1,
       "material_count": 1,
@@ -5292,9 +5292,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d.png",
-          "bytes": 1812614,
-          "sha256": "5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d",
+          "path": "models/Meadow/_shared/textures/88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c.png",
+          "bytes": 4144,
+          "sha256": "88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c",
           "kind": "textures"
         },
         {
@@ -5327,7 +5327,7 @@
       "source_guid": "6d9a59004665287458a3cbcb9bed5bcc",
       "source_sha256": "90d2af13c9929c05dcf2a09dd756947cf4609cd4952183df4b9243c65a84378a",
       "bytes": 2481,
-      "sha256": "8ae27282c92e4e529d1457109b8ef90ef67eaa5d1538846e368ee051a7c6b723",
+      "sha256": "4028579e06ca16b0d57f7081ea70a2c4cd235118badef700ad61b819569ce4c5",
       "triangles": 6030,
       "mesh_count": 1,
       "material_count": 1,
@@ -5362,9 +5362,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d.png",
-          "bytes": 1812614,
-          "sha256": "5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d",
+          "path": "models/Meadow/_shared/textures/88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c.png",
+          "bytes": 4144,
+          "sha256": "88478f5efb4f0a7c8c4e83b7ef18bb0e5bb5ad1d56d9dd5a18ad9dbef737653c",
           "kind": "textures"
         },
         {
@@ -7367,7 +7367,7 @@
       "source_guid": "930e5dc5b02f79d4faa0997171f1a7bf",
       "source_sha256": "6f0bfe9003b3d5e6e0f9a8eb5b201e4a9a3538d1ce1682e5c2080e4d602c58c0",
       "bytes": 2267,
-      "sha256": "a826ac25d98e38181ad2dfffee6585700420f2463fdd08732ad04c06452a4430",
+      "sha256": "de34e61a4c11f230909ad45b31c68b96c0345524461e1b3746c2feabab2f922e",
       "triangles": 96,
       "mesh_count": 1,
       "material_count": 1,
@@ -7429,7 +7429,7 @@
       "source_guid": "6ceb7535f366a0646b11ed38794fa978",
       "source_sha256": "e921eecd5c17895f7c6e73e60fa331a77b82475c2813f7cb6e3add637fefe81e",
       "bytes": 2246,
-      "sha256": "e84f7a9661efdf1394f5451ea0e1e04e170e141bae1dd1103eb1f3781a4873a1",
+      "sha256": "261f480d0989da6a6074580671d7277f937209760a6ad660c72e5538a4e061a5",
       "triangles": 192,
       "mesh_count": 1,
       "material_count": 1,
@@ -7491,7 +7491,7 @@
       "source_guid": "27317f1d298624043885f9f82836c7a6",
       "source_sha256": "13df2636b86d4e7922323cc9a0584e9b7e8c1f6a2c0b5a3023edba50eb972624",
       "bytes": 2283,
-      "sha256": "ea7752a874725a3d8c31c33a22312b0816b7cf89ba80919250373c90a6ddc8d9",
+      "sha256": "7702823a09407f4c91474a018bd6904196f4e9060eef1c58aeed6a34f7bcc482",
       "triangles": 576,
       "mesh_count": 1,
       "material_count": 1,
@@ -7553,7 +7553,7 @@
       "source_guid": "b090ffd87a844b04aaf9c0f182e15594",
       "source_sha256": "8a8f17059bdff2db86e9a33e44cdbad4bb2969fda99df6126528e32885b3dfe2",
       "bytes": 2268,
-      "sha256": "2ec91b70b9752af899330f839d516dfd9cce98e5e03c8839cbe9246a5417ac2c",
+      "sha256": "b62d114b5abc69a8d3c23c82c291e22dc27e0cca292cc0703f1bc4f60f07a0d1",
       "triangles": 96,
       "mesh_count": 1,
       "material_count": 1,
@@ -7615,7 +7615,7 @@
       "source_guid": "e3f66f0448706bb408e8f567a506a7c1",
       "source_sha256": "0e14041cf79e363847816242fe8e8924485f2153b4527eaa864ed187ede71535",
       "bytes": 2247,
-      "sha256": "92cca9a41a04735553f22ff8e3b6e916ef4e825d8772708ef1c341e44ae9e9f9",
+      "sha256": "68dd7565a5ffc6c86e082472a5798d0a67ae4a9d644316d0f03572637a7caba9",
       "triangles": 192,
       "mesh_count": 1,
       "material_count": 1,
@@ -7677,7 +7677,7 @@
       "source_guid": "a16eadfc6325359438997f48e6a2b33f",
       "source_sha256": "4a351071d607992ccb6ac4183b871b54a32e92ed33fdf07d613e2256279d19bf",
       "bytes": 2278,
-      "sha256": "33534f4aa96603401f6b4c32ef0ccf75c5deefc9aad21b0348242acc6929fc4f",
+      "sha256": "7277b85806c9cabffccec45ef8d692c46a6d73b3dc4b44a070e4977071bd29d1",
       "triangles": 576,
       "mesh_count": 1,
       "material_count": 1,
@@ -7739,7 +7739,7 @@
       "source_guid": "c72c80f3fa17f9e43a31a34a87c3f221",
       "source_sha256": "8eaa537bf4ce99112eedefe3ea8c531a7cf65f163ff069e26fd35efcb7ac562c",
       "bytes": 2240,
-      "sha256": "1a38253a7bae7c73974c44f10c161f3b57c32d7ad8ed32c04b461aeb45efb70a",
+      "sha256": "6eaa466c0ddf557fd8366fc8027f579f079a6754fe66c0efab6b6fcde9f11e64",
       "triangles": 84,
       "mesh_count": 1,
       "material_count": 1,
@@ -7801,7 +7801,7 @@
       "source_guid": "a0d535cc2fb657e43a76777ffb8e197f",
       "source_sha256": "27c00a52501d73be119ac81e3bc99d3daac31b3148800bb8c9198a7ff0294077",
       "bytes": 2249,
-      "sha256": "d1f7dff1ed2ed4b90f5b79ce21f531170fcc3c98d754da1e0310d494183fab3b",
+      "sha256": "1db1d25e08bab781b903d91e2fe56740bac469d95bd55769aee5dfbfcb4372c8",
       "triangles": 168,
       "mesh_count": 1,
       "material_count": 1,
@@ -7863,7 +7863,7 @@
       "source_guid": "4d94a941731bce84e9289398f6dbcc62",
       "source_sha256": "add3e1673b128af6ee61bf1e6e1ceae056e4317ccec6a7a109138e2e7abdf440",
       "bytes": 2251,
-      "sha256": "1e16c8b8ab2ee93e427fe6900d5d44e2ebbf333d6eee0f73994310faf5634ce8",
+      "sha256": "6b87d9a43f965f828d589255e24f4267b478b315cbe1ecbfb3dc5d5a60370873",
       "triangles": 448,
       "mesh_count": 1,
       "material_count": 1,
@@ -7925,7 +7925,7 @@
       "source_guid": "a4acdeaf8bb279142add08cfd04acf02",
       "source_sha256": "96151ade8f9218f5a5bb8251967591a949a5c338d5e3c015266d75ef5cf82d91",
       "bytes": 2239,
-      "sha256": "363cad0f076b506f2e71bcc1f2d7604c93f8130aa6f7334db8362ef73bc26a2f",
+      "sha256": "d35c312856750bfdf7df1a31a476cb62ed8a8e24d66d29b1fc068395861cf858",
       "triangles": 84,
       "mesh_count": 1,
       "material_count": 1,
@@ -7987,7 +7987,7 @@
       "source_guid": "29f2b389b81cd05489a06e928a644571",
       "source_sha256": "637c17abf97b3da297bc95203ee989ea643d30c36f4ebf66597a74a9bc55ae7e",
       "bytes": 2250,
-      "sha256": "797b505cca3bf8261f0aa7cd06d49124467b5e83beb0893740e8e6af40c5fb61",
+      "sha256": "c4cb19bbaae8f24c8c9075c2537eafa0befbf2ac199483003472e70b3702ad29",
       "triangles": 168,
       "mesh_count": 1,
       "material_count": 1,
@@ -8049,7 +8049,7 @@
       "source_guid": "b208a40fef993c54c922b4ebd9a61328",
       "source_sha256": "28669301b921b4dd13fe4161d9e86fbcdc95ad7057bac6248111b175c7a14dd7",
       "bytes": 2253,
-      "sha256": "3443b2f26aae609d8f3fe76a6353d94d843700762fc9ca64f219fb68d34cbfa9",
+      "sha256": "8b13bd6debd80357dfc1887d6d1d248ce546e6bd8bd1b64e6db7bf295b68e1d7",
       "triangles": 448,
       "mesh_count": 1,
       "material_count": 1,
@@ -8111,7 +8111,7 @@
       "source_guid": "b65f7daeab8e4ca4380b157a9252bbec",
       "source_sha256": "157b0522df87481c74887e5301647ebef3ba6ce13a0426d7735d1c76231fd0df",
       "bytes": 2237,
-      "sha256": "d24338354ebcbd68e8bd50e36ee0f9b9e5dd6a4c8152dfc0c625c2824891810d",
+      "sha256": "8e97b2f076160da3a7fc3d12fcdb17dcfb2a125328c473c44244952ea81ac141",
       "triangles": 84,
       "mesh_count": 1,
       "material_count": 1,
@@ -8173,7 +8173,7 @@
       "source_guid": "92dbca256fb5f194bad74964fd6f9709",
       "source_sha256": "8123ec3f7908960715cc8983d5ff271f93c07a666fe1c44ce1ce761d704308d4",
       "bytes": 2250,
-      "sha256": "6c0ef356cd961ab82e57ff19f69315fa833f9ca4b15bf586624e265db1e8f1e7",
+      "sha256": "fb33e017878926450bba44f1c514a6e984fbe7bb0bd469cab58e07064985bcb8",
       "triangles": 168,
       "mesh_count": 1,
       "material_count": 1,
@@ -8235,7 +8235,7 @@
       "source_guid": "7a91d28d6d412214ea67f225b298ebb2",
       "source_sha256": "7b0aa8d20fa36d82c34f76f5f7b76d4eca1b895a154ef94d6f721765ed467e83",
       "bytes": 2253,
-      "sha256": "c5a1d9950554686e2a25dd0db99c8de29b440a9dab4f0f186751e324857790de",
+      "sha256": "641da2a0a1b7a1774e8c3914a3b77bbea0f40da86b287abb6b7b03a542cf2770",
       "triangles": 448,
       "mesh_count": 1,
       "material_count": 1,
@@ -8297,7 +8297,7 @@
       "source_guid": "d316a85b699b04d48886e85ca3902939",
       "source_sha256": "580836d1bba67ca005962b585e6982a707e98e15d5958aee4bda7dc08d15dafc",
       "bytes": 2241,
-      "sha256": "6d9c8f88c0e484ab1365abb7ea758f400d7754aad2212581ac3c75daf05254d9",
+      "sha256": "3ad8bc4740161ba4017dea27e3cdb35815f813d4cc3794993b4bec772a693e91",
       "triangles": 84,
       "mesh_count": 1,
       "material_count": 1,
@@ -8359,7 +8359,7 @@
       "source_guid": "928ecf554e412bd4bb6078716788ecaa",
       "source_sha256": "fba5ccf54d1ad9b4e3f7ede0972996a37194643476a6cc24f939e7c77ae666bf",
       "bytes": 2250,
-      "sha256": "4139a30a5163073ff27d2a8fc67b85e8e5f5576e1b1cde6a389b78de52f47fec",
+      "sha256": "8a6a241ef4c0c18cc4666cd29c23289807a75d00421852a4fae1b6454761560e",
       "triangles": 168,
       "mesh_count": 1,
       "material_count": 1,
@@ -8421,7 +8421,7 @@
       "source_guid": "28ed2cb4070685d448f5eafa097f9998",
       "source_sha256": "9ab764c720332433f34d78171ac669103ef8603c1fd4e59834ccd6e4ec777154",
       "bytes": 2253,
-      "sha256": "6af8f32ceb7270d1e54024c4509553132fd5e4bb12a05722684e2a14c7c58fb3",
+      "sha256": "d3f5bef71a0686873d9a7a6ab3281087bd6c063a36ac3ec4144feebb622710aa",
       "triangles": 448,
       "mesh_count": 1,
       "material_count": 1,
@@ -8483,7 +8483,7 @@
       "source_guid": "30e9d2f635ca5c740b37180e8adc1722",
       "source_sha256": "70c038127f50dc56ef6bfd036b0e2024cff58e0d72a6c7cea9818274a32c590f",
       "bytes": 2238,
-      "sha256": "f019b6e34b1257d3032b697f2cca242d58ce9bedbe4918f00f1216f9436f0ce9",
+      "sha256": "759a9b9825c9d0b4e359054f6513cdefe89e2c5de755a63e2ecb16b2b58c175b",
       "triangles": 84,
       "mesh_count": 1,
       "material_count": 1,
@@ -8545,7 +8545,7 @@
       "source_guid": "bccd8e2865b57f14fbb94f312f6740e3",
       "source_sha256": "bd36667b412e60b183526e2f6f4ee1b1547bf5dcf8634400f2733e4275f7d6cf",
       "bytes": 2247,
-      "sha256": "ebf6148f3931cc73a2cd0e9d752ad478434f7d7b75ebe8db9b152d4027462709",
+      "sha256": "5bf95ec21d3e6def23571400ee339916727201fee1a84c3ee3b5840a3fa50d77",
       "triangles": 140,
       "mesh_count": 1,
       "material_count": 1,
@@ -8607,7 +8607,7 @@
       "source_guid": "e003af630651c6d43b0db872077f21a1",
       "source_sha256": "fe0345e1f56fcb858a734053981885ebad723fbe036b9b5f7adbe099c3e7a461",
       "bytes": 2253,
-      "sha256": "1ec616ebc3d305f11e106364e91c8b0fe799fb55f20a4bb0da882c3f8607b880",
+      "sha256": "694e6981629d681949dfcd274128c15c12542a6fa183cb0b11eb7600447d668f",
       "triangles": 420,
       "mesh_count": 1,
       "material_count": 1,
@@ -8669,7 +8669,7 @@
       "source_guid": "69cc8aa2f9dd09041aa8c44fec6aba94",
       "source_sha256": "f39582f61f031d72e5663a054816d8178e6fe115d44d9819e2e4dd0aed9e1a33",
       "bytes": 2240,
-      "sha256": "9345d279c918faaff282d8b70bd3271d79dd177bd81ab700af873387d90fddaa",
+      "sha256": "3151c5b31ff32c791a6849eea849ce781ecb2af3bd3502a8c1e833d53cb1da81",
       "triangles": 84,
       "mesh_count": 1,
       "material_count": 1,
@@ -8731,7 +8731,7 @@
       "source_guid": "b993d5863591cf24ab4005a90e02590c",
       "source_sha256": "d699d451510aa325c04488989338984c6f758800ad67cea13804da04df6b7fb2",
       "bytes": 2247,
-      "sha256": "4b4fddb46098edcc9a76c8abf467f73aff0313400549f61c2237c89d4fe45011",
+      "sha256": "c9c5af414a2928fb540e4884f4d4beff01b262a36a081f4d6cf9eaa986b1c457",
       "triangles": 140,
       "mesh_count": 1,
       "material_count": 1,
@@ -8793,7 +8793,7 @@
       "source_guid": "eab63797f06cf2e4b9bb8ad4615dc553",
       "source_sha256": "f8e2873851c82a356811a7ace44725474ce7d993ac99929003c8e81b4335a661",
       "bytes": 2253,
-      "sha256": "6f1e8e73fb06e3629c703245e944c35a42519c4e5f2ae068eec800e2ae453433",
+      "sha256": "5ab82a4eada3810dbe319db035669425f92328e5a8679bf2578b7237885c0f10",
       "triangles": 420,
       "mesh_count": 1,
       "material_count": 1,
@@ -8855,7 +8855,7 @@
       "source_guid": "35b4345b2517e484aa0a6ce1be61d26d",
       "source_sha256": "3379159069bc3d15cd5dfb8b54bf1457fa1173fa9a4718cb6e94ad303fb6f319",
       "bytes": 2100,
-      "sha256": "51baaf91b58e95a36c95953dd9420bc9f903160c9c70cc4a2bae8bbf4953890e",
+      "sha256": "f45b7b9d3268d605a6e38b3effa4a1b9897c7d8043d3b151981ff4e36a59654d",
       "triangles": 25,
       "mesh_count": 1,
       "material_count": 1,
@@ -8917,7 +8917,7 @@
       "source_guid": "91e73e44b4b0ef7469f4a8e94c053774",
       "source_sha256": "bb1a6cc28baeb8d464a1156278812a2925e63c4c40a80de169004ab25bac1850",
       "bytes": 2294,
-      "sha256": "0a2c75a16da0f4dbb4976aee1fe06ad2a5459b1a485e412f703ed4ed3f275df8",
+      "sha256": "73559008c1f0293c18f6d665e72e69ef3ca48c4c2a81eb510bed6595f5064150",
       "triangles": 42,
       "mesh_count": 1,
       "material_count": 1,
@@ -8979,7 +8979,7 @@
       "source_guid": "800608b5219d5d141942dd783bc6829d",
       "source_sha256": "96ebc11817fd9d72bc3630351cfa6e067b8aecff78f407f8f4b7508dfe30d74a",
       "bytes": 2308,
-      "sha256": "76565257ab3a10a2f8f70128002e3b1a4ae273c49f2d6e537c0b822a5f8cc375",
+      "sha256": "d6d982622753237eebce904eadcecefb6865ab004360bd8c2b297f540a98e93d",
       "triangles": 105,
       "mesh_count": 1,
       "material_count": 1,
@@ -9041,7 +9041,7 @@
       "source_guid": "cd21eab5004f7ea42b403cdf230141c9",
       "source_sha256": "fad108860183b0cb9ab039f93fbbfb27074cb72ef1a387f57fd1bb2fceceee20",
       "bytes": 2049,
-      "sha256": "37fb071ea00d656039b4f48d516507d2a0f631aafc7ec95bec921cdad42c3460",
+      "sha256": "f79f0f0ac8b6bb7da231ba27e6d515ffc2225bd5cf7fc2a764b036e5f118dc10",
       "triangles": 25,
       "mesh_count": 1,
       "material_count": 1,
@@ -9103,7 +9103,7 @@
       "source_guid": "684b2b2ad5f59004c8843e40d9cd8d79",
       "source_sha256": "4890a2430909d9944665d14bcd5d494d348aed71c7490689dc93f5c80152c361",
       "bytes": 2301,
-      "sha256": "18fbaf89bb7898577badb70b9edd79267c01edd8d57dba4ae9f726be3564e70a",
+      "sha256": "d9c3117f1bc78f005f9eba6df2110256c15ff23dc24c7fb96e37dc240086b54c",
       "triangles": 42,
       "mesh_count": 1,
       "material_count": 1,
@@ -9165,7 +9165,7 @@
       "source_guid": "70eeda61f29d163448a8c6869d937afa",
       "source_sha256": "331dde6d9a3bd49bc96ae090b88239ed8e2baa83039922f6b1b87ba34f5cadc0",
       "bytes": 2308,
-      "sha256": "a4d130d50e036e2b5e864163c863c8053e5af639e1e4661967da65208b6ac7b3",
+      "sha256": "f27d061ac9a197f348158c18a226fe9b84cdba878ed169b4ea4ce7ef41397fda",
       "triangles": 105,
       "mesh_count": 1,
       "material_count": 1,
@@ -9226,8 +9226,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_01.fbx",
       "source_guid": "a42a67a5f9847d24d881f169bae81a0c",
       "source_sha256": "4a31a050992a88ef75568fb480593fe73dd15c31dd61355b1b3c919117c31c0c",
-      "bytes": 2096,
-      "sha256": "9e745c16d4311145686995a931dde9f74b063ca319827cbd2e011ab795d52b63",
+      "bytes": 2109,
+      "sha256": "f685120e32422741ed7f63e4e04641b559627b2f8c0ef166ffe83281335d64b2",
       "triangles": 16,
       "mesh_count": 1,
       "material_count": 1,
@@ -9264,9 +9264,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/bfdf704e187ce106125291e04964fdda36f46000c9566fb07600665ddc978aae.jpg",
-          "bytes": 32910,
-          "sha256": "bfdf704e187ce106125291e04964fdda36f46000c9566fb07600665ddc978aae",
+          "path": "models/Meadow/_shared/textures/4afee5bf53679ad844c7f1880a307326defca6362b267f86297d5a4c2eccbeb9.png",
+          "bytes": 109225,
+          "sha256": "4afee5bf53679ad844c7f1880a307326defca6362b267f86297d5a4c2eccbeb9",
           "kind": "textures"
         }
       ],
@@ -9290,8 +9290,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_01.fbx",
       "source_guid": "a42a67a5f9847d24d881f169bae81a0c",
       "source_sha256": "4a31a050992a88ef75568fb480593fe73dd15c31dd61355b1b3c919117c31c0c",
-      "bytes": 2102,
-      "sha256": "f532fd32b697e06299a9ceb500ddfcf9a9ec3a58676bb1f99efbd79da8e7581c",
+      "bytes": 2115,
+      "sha256": "b83822b610a0499c4b11123580e0d608226024c14a109914ee70f4b087466b90",
       "triangles": 16,
       "mesh_count": 1,
       "material_count": 1,
@@ -9328,9 +9328,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/73d8c1c463fc0140c7f1ae7c2641d644b62dd72c15c6e005b510dd9a70302b95.jpg",
-          "bytes": 36314,
-          "sha256": "73d8c1c463fc0140c7f1ae7c2641d644b62dd72c15c6e005b510dd9a70302b95",
+          "path": "models/Meadow/_shared/textures/d7795818d1945e9ad1d19e55b7cb9d4dcc1c5e514167394b823307f18e1e445c.png",
+          "bytes": 102609,
+          "sha256": "d7795818d1945e9ad1d19e55b7cb9d4dcc1c5e514167394b823307f18e1e445c",
           "kind": "textures"
         }
       ],
@@ -9354,8 +9354,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_01.fbx",
       "source_guid": "a42a67a5f9847d24d881f169bae81a0c",
       "source_sha256": "4a31a050992a88ef75568fb480593fe73dd15c31dd61355b1b3c919117c31c0c",
-      "bytes": 2096,
-      "sha256": "d882c7379fff9f8ecb358316c3b7f66cb374b8ca39f0c4d99de8ffe09311f078",
+      "bytes": 2109,
+      "sha256": "548ad8b839506be6066ce1d0826db02b66ecccfa286d0db566351219115069ea",
       "triangles": 16,
       "mesh_count": 1,
       "material_count": 1,
@@ -9392,9 +9392,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/13835ebfa1bad0aba90bba5ce0b1a295833aa8df702adf8a62fafa662481c106.jpg",
-          "bytes": 27429,
-          "sha256": "13835ebfa1bad0aba90bba5ce0b1a295833aa8df702adf8a62fafa662481c106",
+          "path": "models/Meadow/_shared/textures/2045c8537bd906c37194eb69f65df06b9d24fe90f53222e47bf69470baaf2080.png",
+          "bytes": 104181,
+          "sha256": "2045c8537bd906c37194eb69f65df06b9d24fe90f53222e47bf69470baaf2080",
           "kind": "textures"
         }
       ],
@@ -9418,8 +9418,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_01.fbx",
       "source_guid": "a42a67a5f9847d24d881f169bae81a0c",
       "source_sha256": "4a31a050992a88ef75568fb480593fe73dd15c31dd61355b1b3c919117c31c0c",
-      "bytes": 2096,
-      "sha256": "085b4235386257b73b63dc3b379f752ae2fbbdbe238af7a00707c4c0492c00cf",
+      "bytes": 2109,
+      "sha256": "27428a4c82361ec85f294dbc9683d9822452604dc0f135349297f800ffe6a15b",
       "triangles": 16,
       "mesh_count": 1,
       "material_count": 1,
@@ -9456,9 +9456,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/f6fb2a6c2c0ed7d6be75713a8fba9c85c8bfea06447edfdccfeaf315ff275fff.jpg",
-          "bytes": 25165,
-          "sha256": "f6fb2a6c2c0ed7d6be75713a8fba9c85c8bfea06447edfdccfeaf315ff275fff",
+          "path": "models/Meadow/_shared/textures/20b2ae7f942fcea0282e9f03b14c981907232c87dff1dc9fd75c122e0ec4be67.png",
+          "bytes": 104709,
+          "sha256": "20b2ae7f942fcea0282e9f03b14c981907232c87dff1dc9fd75c122e0ec4be67",
           "kind": "textures"
         }
       ],
@@ -9482,8 +9482,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_02.fbx",
       "source_guid": "5603c5c75bcf5054cb2454cc77bb948a",
       "source_sha256": "ab64740eb5529c61dcac4876084d940c01c6097601e132148270dfe31a5758ce",
-      "bytes": 2104,
-      "sha256": "560672bbab62149d336757b34a88c0cf6492297e3a7a4f500542ce2cb2690622",
+      "bytes": 2117,
+      "sha256": "ae9597da7e0aade9c48e77379440fd9185c9c1bd23fc848510cb625c61192ad5",
       "triangles": 56,
       "mesh_count": 1,
       "material_count": 1,
@@ -9521,9 +9521,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/bfdf704e187ce106125291e04964fdda36f46000c9566fb07600665ddc978aae.jpg",
-          "bytes": 32910,
-          "sha256": "bfdf704e187ce106125291e04964fdda36f46000c9566fb07600665ddc978aae",
+          "path": "models/Meadow/_shared/textures/4afee5bf53679ad844c7f1880a307326defca6362b267f86297d5a4c2eccbeb9.png",
+          "bytes": 109225,
+          "sha256": "4afee5bf53679ad844c7f1880a307326defca6362b267f86297d5a4c2eccbeb9",
           "kind": "textures"
         }
       ],
@@ -9547,8 +9547,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_02.fbx",
       "source_guid": "5603c5c75bcf5054cb2454cc77bb948a",
       "source_sha256": "ab64740eb5529c61dcac4876084d940c01c6097601e132148270dfe31a5758ce",
-      "bytes": 2110,
-      "sha256": "f2b40416fc981f7ba945ce101a090208d1f4866a077c077795beafefe4ab3fd0",
+      "bytes": 2123,
+      "sha256": "350c63418b127e89b3349e264f62fc041f7abbfe1ddf5bd4f1908e98397dedd2",
       "triangles": 56,
       "mesh_count": 1,
       "material_count": 1,
@@ -9585,9 +9585,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/73d8c1c463fc0140c7f1ae7c2641d644b62dd72c15c6e005b510dd9a70302b95.jpg",
-          "bytes": 36314,
-          "sha256": "73d8c1c463fc0140c7f1ae7c2641d644b62dd72c15c6e005b510dd9a70302b95",
+          "path": "models/Meadow/_shared/textures/d7795818d1945e9ad1d19e55b7cb9d4dcc1c5e514167394b823307f18e1e445c.png",
+          "bytes": 102609,
+          "sha256": "d7795818d1945e9ad1d19e55b7cb9d4dcc1c5e514167394b823307f18e1e445c",
           "kind": "textures"
         }
       ],
@@ -9611,8 +9611,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_02.fbx",
       "source_guid": "5603c5c75bcf5054cb2454cc77bb948a",
       "source_sha256": "ab64740eb5529c61dcac4876084d940c01c6097601e132148270dfe31a5758ce",
-      "bytes": 2122,
-      "sha256": "de09b88e36f180b005e67cf14ec2a007cc59ffb492c6205c6a94c2db58895c54",
+      "bytes": 2135,
+      "sha256": "cf6e4b22e34faf7d69df975cc68cbada05cfee224956b9116fbf262fc1d4ff78",
       "triangles": 56,
       "mesh_count": 1,
       "material_count": 1,
@@ -9648,9 +9648,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/084bbb3730ebbf3ca96b52b88835cc40ffef1cc2d6933fa8a98d4696c105d2e1.jpg",
-          "bytes": 34555,
-          "sha256": "084bbb3730ebbf3ca96b52b88835cc40ffef1cc2d6933fa8a98d4696c105d2e1",
+          "path": "models/Meadow/_shared/textures/6777687101bcc6a1b7339028b6dfa73574050d3106ec07a0ef81420103a359fd.png",
+          "bytes": 104803,
+          "sha256": "6777687101bcc6a1b7339028b6dfa73574050d3106ec07a0ef81420103a359fd",
           "kind": "textures"
         }
       ],
@@ -9674,8 +9674,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_02.fbx",
       "source_guid": "5603c5c75bcf5054cb2454cc77bb948a",
       "source_sha256": "ab64740eb5529c61dcac4876084d940c01c6097601e132148270dfe31a5758ce",
-      "bytes": 2122,
-      "sha256": "b7251b57efa219855dc7fb46bf2cc752e69e3e8f1155d790328ac67a456e0e47",
+      "bytes": 2135,
+      "sha256": "6d7f859773697cf61cdd6dddb07835ad2c18c789726b7f9b626a74ee2b9a0a1f",
       "triangles": 56,
       "mesh_count": 1,
       "material_count": 1,
@@ -9711,9 +9711,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/c1f5d9dac9d3c39a9b44acdd61fb65b2c850bd268d1f76c35ec6a206e0d7905e.jpg",
-          "bytes": 32080,
-          "sha256": "c1f5d9dac9d3c39a9b44acdd61fb65b2c850bd268d1f76c35ec6a206e0d7905e",
+          "path": "models/Meadow/_shared/textures/ba59f5cc2037e43c69524c560a09287fe803056fbf8464d69fca159a6aa69fdb.png",
+          "bytes": 103467,
+          "sha256": "ba59f5cc2037e43c69524c560a09287fe803056fbf8464d69fca159a6aa69fdb",
           "kind": "textures"
         }
       ],
@@ -9737,8 +9737,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_02.fbx",
       "source_guid": "5603c5c75bcf5054cb2454cc77bb948a",
       "source_sha256": "ab64740eb5529c61dcac4876084d940c01c6097601e132148270dfe31a5758ce",
-      "bytes": 2122,
-      "sha256": "2b846abe5a5ace727d99eceee1599947d73b8bbb8824984678bb8f776e3a458b",
+      "bytes": 2135,
+      "sha256": "5b15be5d9a25012480368703f95a62823c39232a6c9d0cc402e3f74a00c42b88",
       "triangles": 56,
       "mesh_count": 1,
       "material_count": 1,
@@ -9774,9 +9774,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/3228377999d57829f013bb1586f109c6928cbf182f9d6cf45b9d4f3e9d4314ab.jpg",
-          "bytes": 35442,
-          "sha256": "3228377999d57829f013bb1586f109c6928cbf182f9d6cf45b9d4f3e9d4314ab",
+          "path": "models/Meadow/_shared/textures/9f12049bbe00a954c7a602a18af9757b70a538f8c15febc7467dc016a5fa8f99.png",
+          "bytes": 108156,
+          "sha256": "9f12049bbe00a954c7a602a18af9757b70a538f8c15febc7467dc016a5fa8f99",
           "kind": "textures"
         }
       ],
@@ -9800,8 +9800,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_02.fbx",
       "source_guid": "5603c5c75bcf5054cb2454cc77bb948a",
       "source_sha256": "ab64740eb5529c61dcac4876084d940c01c6097601e132148270dfe31a5758ce",
-      "bytes": 2122,
-      "sha256": "34e49108ace993fedd9a75abc00c08d6119cf0125f15bad854824a9c87466a69",
+      "bytes": 2135,
+      "sha256": "f31b3ae13fbc05c0a8cc72e0d28814961b42428af7de311e7e861bacd40b62ce",
       "triangles": 56,
       "mesh_count": 1,
       "material_count": 1,
@@ -9837,9 +9837,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/9a0ee33b7e3929a040344684e4883bd101e47707361a9213a5aa262da5952b9f.jpg",
-          "bytes": 34145,
-          "sha256": "9a0ee33b7e3929a040344684e4883bd101e47707361a9213a5aa262da5952b9f",
+          "path": "models/Meadow/_shared/textures/573b84b8f8a546a92e31d58bc8263c7e3c23312985b7535294883b7d8474969e.png",
+          "bytes": 108382,
+          "sha256": "573b84b8f8a546a92e31d58bc8263c7e3c23312985b7535294883b7d8474969e",
           "kind": "textures"
         }
       ],
@@ -9863,8 +9863,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_02.fbx",
       "source_guid": "5603c5c75bcf5054cb2454cc77bb948a",
       "source_sha256": "ab64740eb5529c61dcac4876084d940c01c6097601e132148270dfe31a5758ce",
-      "bytes": 2104,
-      "sha256": "0539a9c16656f118ded7f75358f6a1e9e00a9e7dc0c9df384973b545c5ce514c",
+      "bytes": 2117,
+      "sha256": "b7a34d7dca1e113be62d2a7405036f214db1498dae8096e5e6ae14845dc4c05a",
       "triangles": 56,
       "mesh_count": 1,
       "material_count": 1,
@@ -9902,9 +9902,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/13835ebfa1bad0aba90bba5ce0b1a295833aa8df702adf8a62fafa662481c106.jpg",
-          "bytes": 27429,
-          "sha256": "13835ebfa1bad0aba90bba5ce0b1a295833aa8df702adf8a62fafa662481c106",
+          "path": "models/Meadow/_shared/textures/2045c8537bd906c37194eb69f65df06b9d24fe90f53222e47bf69470baaf2080.png",
+          "bytes": 104181,
+          "sha256": "2045c8537bd906c37194eb69f65df06b9d24fe90f53222e47bf69470baaf2080",
           "kind": "textures"
         }
       ],
@@ -9928,8 +9928,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_02.fbx",
       "source_guid": "5603c5c75bcf5054cb2454cc77bb948a",
       "source_sha256": "ab64740eb5529c61dcac4876084d940c01c6097601e132148270dfe31a5758ce",
-      "bytes": 2104,
-      "sha256": "fc4a1928c71de4ff977b887341e886964a9cd542dc3fa99ddec8177d0fe276ee",
+      "bytes": 2117,
+      "sha256": "cb0b8e54efdb5e60bd75ed7597e8ea0d4e85e8b22afd7ad7853eef685ce1167d",
       "triangles": 56,
       "mesh_count": 1,
       "material_count": 1,
@@ -9967,9 +9967,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/f6fb2a6c2c0ed7d6be75713a8fba9c85c8bfea06447edfdccfeaf315ff275fff.jpg",
-          "bytes": 25165,
-          "sha256": "f6fb2a6c2c0ed7d6be75713a8fba9c85c8bfea06447edfdccfeaf315ff275fff",
+          "path": "models/Meadow/_shared/textures/20b2ae7f942fcea0282e9f03b14c981907232c87dff1dc9fd75c122e0ec4be67.png",
+          "bytes": 104709,
+          "sha256": "20b2ae7f942fcea0282e9f03b14c981907232c87dff1dc9fd75c122e0ec4be67",
           "kind": "textures"
         }
       ],
@@ -9993,8 +9993,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_03.fbx",
       "source_guid": "4b67190dec800f744a47f9c8bf162b6b",
       "source_sha256": "be133bc9f58f0b2a57cf9f0acac0d0761ac5ce11e1d2f8769c701c1942b18c1c",
-      "bytes": 2109,
-      "sha256": "113f17737d8343681d71885cc0aaecb8633ce0726aa44a39817a8ffbf9d6ec1c",
+      "bytes": 2122,
+      "sha256": "514b76cc16fb2e989671e16e13fc82879fb52298c4413caaf301349e22e1df00",
       "triangles": 108,
       "mesh_count": 1,
       "material_count": 1,
@@ -10031,9 +10031,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/bfdf704e187ce106125291e04964fdda36f46000c9566fb07600665ddc978aae.jpg",
-          "bytes": 32910,
-          "sha256": "bfdf704e187ce106125291e04964fdda36f46000c9566fb07600665ddc978aae",
+          "path": "models/Meadow/_shared/textures/4afee5bf53679ad844c7f1880a307326defca6362b267f86297d5a4c2eccbeb9.png",
+          "bytes": 109225,
+          "sha256": "4afee5bf53679ad844c7f1880a307326defca6362b267f86297d5a4c2eccbeb9",
           "kind": "textures"
         }
       ],
@@ -10057,8 +10057,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_03.fbx",
       "source_guid": "4b67190dec800f744a47f9c8bf162b6b",
       "source_sha256": "be133bc9f58f0b2a57cf9f0acac0d0761ac5ce11e1d2f8769c701c1942b18c1c",
-      "bytes": 2115,
-      "sha256": "8de0b844a6341ea4059f36723ba1f8444dacd3a52fa13867b08a5f671709eb51",
+      "bytes": 2128,
+      "sha256": "f5f8ae132824c55dcf0a2e9c841d81a2f4abe042754794fd31ac7d5fd0044348",
       "triangles": 108,
       "mesh_count": 1,
       "material_count": 1,
@@ -10095,9 +10095,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/73d8c1c463fc0140c7f1ae7c2641d644b62dd72c15c6e005b510dd9a70302b95.jpg",
-          "bytes": 36314,
-          "sha256": "73d8c1c463fc0140c7f1ae7c2641d644b62dd72c15c6e005b510dd9a70302b95",
+          "path": "models/Meadow/_shared/textures/d7795818d1945e9ad1d19e55b7cb9d4dcc1c5e514167394b823307f18e1e445c.png",
+          "bytes": 102609,
+          "sha256": "d7795818d1945e9ad1d19e55b7cb9d4dcc1c5e514167394b823307f18e1e445c",
           "kind": "textures"
         }
       ],
@@ -10121,8 +10121,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_03.fbx",
       "source_guid": "4b67190dec800f744a47f9c8bf162b6b",
       "source_sha256": "be133bc9f58f0b2a57cf9f0acac0d0761ac5ce11e1d2f8769c701c1942b18c1c",
-      "bytes": 2109,
-      "sha256": "8d6fc0e321c68979b03738b5253328bcd2eabc99ed19c3328ea49b46ad0ab2b7",
+      "bytes": 2122,
+      "sha256": "4dd8b3cd89abee8f297c13e713d07959a878de28a33e42b745a3cf36c5b7bdf8",
       "triangles": 108,
       "mesh_count": 1,
       "material_count": 1,
@@ -10159,9 +10159,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/13835ebfa1bad0aba90bba5ce0b1a295833aa8df702adf8a62fafa662481c106.jpg",
-          "bytes": 27429,
-          "sha256": "13835ebfa1bad0aba90bba5ce0b1a295833aa8df702adf8a62fafa662481c106",
+          "path": "models/Meadow/_shared/textures/2045c8537bd906c37194eb69f65df06b9d24fe90f53222e47bf69470baaf2080.png",
+          "bytes": 104181,
+          "sha256": "2045c8537bd906c37194eb69f65df06b9d24fe90f53222e47bf69470baaf2080",
           "kind": "textures"
         }
       ],
@@ -10185,8 +10185,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_01_03.fbx",
       "source_guid": "4b67190dec800f744a47f9c8bf162b6b",
       "source_sha256": "be133bc9f58f0b2a57cf9f0acac0d0761ac5ce11e1d2f8769c701c1942b18c1c",
-      "bytes": 2109,
-      "sha256": "a5ad1f5a32cea5ec9a129ff4b565cac7a5a8ae9dfb9f28c0b7eaf09655523e5d",
+      "bytes": 2122,
+      "sha256": "e376105a82599ee1fcf0180cf49313ed2ed7bb393f688d69cc30ce788b257cd6",
       "triangles": 108,
       "mesh_count": 1,
       "material_count": 1,
@@ -10223,9 +10223,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/f6fb2a6c2c0ed7d6be75713a8fba9c85c8bfea06447edfdccfeaf315ff275fff.jpg",
-          "bytes": 25165,
-          "sha256": "f6fb2a6c2c0ed7d6be75713a8fba9c85c8bfea06447edfdccfeaf315ff275fff",
+          "path": "models/Meadow/_shared/textures/20b2ae7f942fcea0282e9f03b14c981907232c87dff1dc9fd75c122e0ec4be67.png",
+          "bytes": 104709,
+          "sha256": "20b2ae7f942fcea0282e9f03b14c981907232c87dff1dc9fd75c122e0ec4be67",
           "kind": "textures"
         }
       ],
@@ -10249,8 +10249,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_01.fbx",
       "source_guid": "df38b21bd945d4647aa83756e780fdff",
       "source_sha256": "63ae8e62961e9b3ece7d9dc2262356744171ee1889e53484f12e39a37d1f5fe8",
-      "bytes": 2232,
-      "sha256": "c32b22877c7c21740392ecda72db4f21cda087dc1a4170c04fc9e0692a6ea262",
+      "bytes": 2245,
+      "sha256": "79f0be0d9a9544d7c58b7ddb6427b29781f13c2e031fd7f28bc8b61042ceb06e",
       "triangles": 32,
       "mesh_count": 1,
       "material_count": 1,
@@ -10287,9 +10287,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/27a1708ee6d0cc546f595fb1e38798b7c0bfdcd0fce0145b93f7439cac4722eb.jpg",
-          "bytes": 29083,
-          "sha256": "27a1708ee6d0cc546f595fb1e38798b7c0bfdcd0fce0145b93f7439cac4722eb",
+          "path": "models/Meadow/_shared/textures/8c44fdbdc0ee60ddde7cab04f6cab96bb743704ace7ae8ba782cfa19432230b0.png",
+          "bytes": 98056,
+          "sha256": "8c44fdbdc0ee60ddde7cab04f6cab96bb743704ace7ae8ba782cfa19432230b0",
           "kind": "textures"
         }
       ],
@@ -10312,8 +10312,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_01.fbx",
       "source_guid": "df38b21bd945d4647aa83756e780fdff",
       "source_sha256": "63ae8e62961e9b3ece7d9dc2262356744171ee1889e53484f12e39a37d1f5fe8",
-      "bytes": 2238,
-      "sha256": "2fe04fc296363f2f25720bfbcfe4e57652cadc7abef42b2c45111b9d757d0b40",
+      "bytes": 2251,
+      "sha256": "23c3d7c270b3ae0cb4cf21a39a26ed64428294ef6bec2b1669268151798cdc70",
       "triangles": 32,
       "mesh_count": 1,
       "material_count": 1,
@@ -10350,9 +10350,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/5763f24a8028e9dc5d6a713da21d3821aee898e602344f2bd5c558a2ab265b7e.jpg",
-          "bytes": 32761,
-          "sha256": "5763f24a8028e9dc5d6a713da21d3821aee898e602344f2bd5c558a2ab265b7e",
+          "path": "models/Meadow/_shared/textures/e4578fbf78a2f1f2e92bdebb87e6f18db750b0950172c00b99b9dc5f1d143a4d.png",
+          "bytes": 88857,
+          "sha256": "e4578fbf78a2f1f2e92bdebb87e6f18db750b0950172c00b99b9dc5f1d143a4d",
           "kind": "textures"
         }
       ],
@@ -10376,8 +10376,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_01.fbx",
       "source_guid": "df38b21bd945d4647aa83756e780fdff",
       "source_sha256": "63ae8e62961e9b3ece7d9dc2262356744171ee1889e53484f12e39a37d1f5fe8",
-      "bytes": 2232,
-      "sha256": "22cd03381d39126e8a81f7afce91e4836d556199e43a2f487131b08a05ff6986",
+      "bytes": 2245,
+      "sha256": "690717c26731ff4fe92cfe7b2eccddc1216fc937f173e753a9271d06003d43b0",
       "triangles": 32,
       "mesh_count": 1,
       "material_count": 1,
@@ -10414,9 +10414,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/50cd2550ed8fbdc621317c9313bd69b57f3c417cbb94fdd283e43dfa07f4a028.jpg",
-          "bytes": 34407,
-          "sha256": "50cd2550ed8fbdc621317c9313bd69b57f3c417cbb94fdd283e43dfa07f4a028",
+          "path": "models/Meadow/_shared/textures/9953d1d3b2a38f3c001469701c7b8221d6b75261c35e07b22ee5a3e6868268fc.png",
+          "bytes": 97164,
+          "sha256": "9953d1d3b2a38f3c001469701c7b8221d6b75261c35e07b22ee5a3e6868268fc",
           "kind": "textures"
         }
       ],
@@ -10439,8 +10439,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_01.fbx",
       "source_guid": "df38b21bd945d4647aa83756e780fdff",
       "source_sha256": "63ae8e62961e9b3ece7d9dc2262356744171ee1889e53484f12e39a37d1f5fe8",
-      "bytes": 2232,
-      "sha256": "6b43de764225661975ee587676d6880a4b1d3dbb948aae64ec14557ef0030e65",
+      "bytes": 2245,
+      "sha256": "513e936b7798abf176049b8c91d527579f5b84413bce7cdb032a9e917f773ee1",
       "triangles": 32,
       "mesh_count": 1,
       "material_count": 1,
@@ -10477,9 +10477,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/ef15b7ecfce0b4fe5ce480b33a3168bd6d941987059017b9c7b445842110796d.jpg",
-          "bytes": 30183,
-          "sha256": "ef15b7ecfce0b4fe5ce480b33a3168bd6d941987059017b9c7b445842110796d",
+          "path": "models/Meadow/_shared/textures/e33150584a67629e0fab7d6e27e3e78b48a25690d832fa57960010e459cf11a9.png",
+          "bytes": 96804,
+          "sha256": "e33150584a67629e0fab7d6e27e3e78b48a25690d832fa57960010e459cf11a9",
           "kind": "textures"
         }
       ],
@@ -10502,8 +10502,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_02.fbx",
       "source_guid": "e274f7a0e17c27f4a8f10b751c0f945a",
       "source_sha256": "47a3aa73da7716f1b4d483159196acfa1069d0fe5efc0a675147c984517c1ffa",
-      "bytes": 2233,
-      "sha256": "795db17d6cea4579d54ddd690769ef112b3721192b8a4106832e5a3d6ee96ece",
+      "bytes": 2246,
+      "sha256": "8c962412997e22f2c6d7beba2819f4e3115fa53463425a7eaa1e978512184c36",
       "triangles": 48,
       "mesh_count": 1,
       "material_count": 1,
@@ -10540,9 +10540,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/27a1708ee6d0cc546f595fb1e38798b7c0bfdcd0fce0145b93f7439cac4722eb.jpg",
-          "bytes": 29083,
-          "sha256": "27a1708ee6d0cc546f595fb1e38798b7c0bfdcd0fce0145b93f7439cac4722eb",
+          "path": "models/Meadow/_shared/textures/8c44fdbdc0ee60ddde7cab04f6cab96bb743704ace7ae8ba782cfa19432230b0.png",
+          "bytes": 98056,
+          "sha256": "8c44fdbdc0ee60ddde7cab04f6cab96bb743704ace7ae8ba782cfa19432230b0",
           "kind": "textures"
         }
       ],
@@ -10565,8 +10565,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_02.fbx",
       "source_guid": "e274f7a0e17c27f4a8f10b751c0f945a",
       "source_sha256": "47a3aa73da7716f1b4d483159196acfa1069d0fe5efc0a675147c984517c1ffa",
-      "bytes": 2239,
-      "sha256": "7b9adc4dc5994d736954bea1e83ba7f13eea27fc3937adb654be02d7899721b5",
+      "bytes": 2252,
+      "sha256": "e32e8796c4f7bd7317fb7b25a9f58ce70a8fa787030f2468d344f22d2b8c654b",
       "triangles": 48,
       "mesh_count": 1,
       "material_count": 1,
@@ -10603,9 +10603,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/5763f24a8028e9dc5d6a713da21d3821aee898e602344f2bd5c558a2ab265b7e.jpg",
-          "bytes": 32761,
-          "sha256": "5763f24a8028e9dc5d6a713da21d3821aee898e602344f2bd5c558a2ab265b7e",
+          "path": "models/Meadow/_shared/textures/e4578fbf78a2f1f2e92bdebb87e6f18db750b0950172c00b99b9dc5f1d143a4d.png",
+          "bytes": 88857,
+          "sha256": "e4578fbf78a2f1f2e92bdebb87e6f18db750b0950172c00b99b9dc5f1d143a4d",
           "kind": "textures"
         }
       ],
@@ -10629,8 +10629,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_02.fbx",
       "source_guid": "e274f7a0e17c27f4a8f10b751c0f945a",
       "source_sha256": "47a3aa73da7716f1b4d483159196acfa1069d0fe5efc0a675147c984517c1ffa",
-      "bytes": 2233,
-      "sha256": "a3ce37667cbfd1c0c7ae9b9f2b1f79f9aca9d6aaffb070c853a2d6c3323a8937",
+      "bytes": 2246,
+      "sha256": "c21bc425d1a119649de103899cd300d5f6dafff342f8ca27860410f41be21bfe",
       "triangles": 48,
       "mesh_count": 1,
       "material_count": 1,
@@ -10667,9 +10667,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/50cd2550ed8fbdc621317c9313bd69b57f3c417cbb94fdd283e43dfa07f4a028.jpg",
-          "bytes": 34407,
-          "sha256": "50cd2550ed8fbdc621317c9313bd69b57f3c417cbb94fdd283e43dfa07f4a028",
+          "path": "models/Meadow/_shared/textures/9953d1d3b2a38f3c001469701c7b8221d6b75261c35e07b22ee5a3e6868268fc.png",
+          "bytes": 97164,
+          "sha256": "9953d1d3b2a38f3c001469701c7b8221d6b75261c35e07b22ee5a3e6868268fc",
           "kind": "textures"
         }
       ],
@@ -10692,8 +10692,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_02.fbx",
       "source_guid": "e274f7a0e17c27f4a8f10b751c0f945a",
       "source_sha256": "47a3aa73da7716f1b4d483159196acfa1069d0fe5efc0a675147c984517c1ffa",
-      "bytes": 2233,
-      "sha256": "c8bd8a8be79929cbf601d2930b980c012afad9bf54d8614932839a5e1a0cc978",
+      "bytes": 2246,
+      "sha256": "2fb37240118dcb3508e9cff1859e6113fe55486d158971ab8276c2048427f3b7",
       "triangles": 48,
       "mesh_count": 1,
       "material_count": 1,
@@ -10730,9 +10730,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/ef15b7ecfce0b4fe5ce480b33a3168bd6d941987059017b9c7b445842110796d.jpg",
-          "bytes": 30183,
-          "sha256": "ef15b7ecfce0b4fe5ce480b33a3168bd6d941987059017b9c7b445842110796d",
+          "path": "models/Meadow/_shared/textures/e33150584a67629e0fab7d6e27e3e78b48a25690d832fa57960010e459cf11a9.png",
+          "bytes": 96804,
+          "sha256": "e33150584a67629e0fab7d6e27e3e78b48a25690d832fa57960010e459cf11a9",
           "kind": "textures"
         }
       ],
@@ -10755,8 +10755,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_03.fbx",
       "source_guid": "26e1f2dc40184894999b4e984d43f877",
       "source_sha256": "a91f8f51b734e8bf27ec1a01ba1b5b87ab818b0734ebcf2f0f7d7d2a783a156f",
-      "bytes": 2234,
-      "sha256": "5f3f0ddd258df5a51644a69a255097a0b6859113d26aaeb4b15c13ce74c3e6c6",
+      "bytes": 2247,
+      "sha256": "c8f84101ec15dc84ae87344722fd289386bfcc2198c332710b163ae2a99e92f6",
       "triangles": 84,
       "mesh_count": 1,
       "material_count": 1,
@@ -10793,9 +10793,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/27a1708ee6d0cc546f595fb1e38798b7c0bfdcd0fce0145b93f7439cac4722eb.jpg",
-          "bytes": 29083,
-          "sha256": "27a1708ee6d0cc546f595fb1e38798b7c0bfdcd0fce0145b93f7439cac4722eb",
+          "path": "models/Meadow/_shared/textures/8c44fdbdc0ee60ddde7cab04f6cab96bb743704ace7ae8ba782cfa19432230b0.png",
+          "bytes": 98056,
+          "sha256": "8c44fdbdc0ee60ddde7cab04f6cab96bb743704ace7ae8ba782cfa19432230b0",
           "kind": "textures"
         }
       ],
@@ -10818,8 +10818,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_03.fbx",
       "source_guid": "26e1f2dc40184894999b4e984d43f877",
       "source_sha256": "a91f8f51b734e8bf27ec1a01ba1b5b87ab818b0734ebcf2f0f7d7d2a783a156f",
-      "bytes": 2240,
-      "sha256": "188716bae1cd1487b4cd83e0938c10f1c2ec81d64e40c07b8da3ccf15b0e064b",
+      "bytes": 2253,
+      "sha256": "a4a9c53dc5c7d7577a09ab107de8f5f02ffbd35aa1b311fac54ecdd568f429cf",
       "triangles": 84,
       "mesh_count": 1,
       "material_count": 1,
@@ -10856,9 +10856,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/5763f24a8028e9dc5d6a713da21d3821aee898e602344f2bd5c558a2ab265b7e.jpg",
-          "bytes": 32761,
-          "sha256": "5763f24a8028e9dc5d6a713da21d3821aee898e602344f2bd5c558a2ab265b7e",
+          "path": "models/Meadow/_shared/textures/e4578fbf78a2f1f2e92bdebb87e6f18db750b0950172c00b99b9dc5f1d143a4d.png",
+          "bytes": 88857,
+          "sha256": "e4578fbf78a2f1f2e92bdebb87e6f18db750b0950172c00b99b9dc5f1d143a4d",
           "kind": "textures"
         }
       ],
@@ -10882,8 +10882,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_03.fbx",
       "source_guid": "26e1f2dc40184894999b4e984d43f877",
       "source_sha256": "a91f8f51b734e8bf27ec1a01ba1b5b87ab818b0734ebcf2f0f7d7d2a783a156f",
-      "bytes": 2234,
-      "sha256": "ce747658a47c0dcedc7d1f27aae56ebcfef63a6523c911fdf4c2cd4b452bf62e",
+      "bytes": 2247,
+      "sha256": "ac08ce6fab30440606ed51ca44a2e2efb20faa9d09f18ccd294bd3b86149416b",
       "triangles": 84,
       "mesh_count": 1,
       "material_count": 1,
@@ -10920,9 +10920,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/50cd2550ed8fbdc621317c9313bd69b57f3c417cbb94fdd283e43dfa07f4a028.jpg",
-          "bytes": 34407,
-          "sha256": "50cd2550ed8fbdc621317c9313bd69b57f3c417cbb94fdd283e43dfa07f4a028",
+          "path": "models/Meadow/_shared/textures/9953d1d3b2a38f3c001469701c7b8221d6b75261c35e07b22ee5a3e6868268fc.png",
+          "bytes": 97164,
+          "sha256": "9953d1d3b2a38f3c001469701c7b8221d6b75261c35e07b22ee5a3e6868268fc",
           "kind": "textures"
         }
       ],
@@ -10945,8 +10945,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_02_03.fbx",
       "source_guid": "26e1f2dc40184894999b4e984d43f877",
       "source_sha256": "a91f8f51b734e8bf27ec1a01ba1b5b87ab818b0734ebcf2f0f7d7d2a783a156f",
-      "bytes": 2234,
-      "sha256": "4b296568e40c1f2675ce8b4d9898db87e2b2eeacaaf33966edb00bac5335f227",
+      "bytes": 2247,
+      "sha256": "dedd69f9144aa2e34d1a55d2461cd4f26f4e48388c3d31262d65272b3f9e32c5",
       "triangles": 84,
       "mesh_count": 1,
       "material_count": 1,
@@ -10983,9 +10983,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/ef15b7ecfce0b4fe5ce480b33a3168bd6d941987059017b9c7b445842110796d.jpg",
-          "bytes": 30183,
-          "sha256": "ef15b7ecfce0b4fe5ce480b33a3168bd6d941987059017b9c7b445842110796d",
+          "path": "models/Meadow/_shared/textures/e33150584a67629e0fab7d6e27e3e78b48a25690d832fa57960010e459cf11a9.png",
+          "bytes": 96804,
+          "sha256": "e33150584a67629e0fab7d6e27e3e78b48a25690d832fa57960010e459cf11a9",
           "kind": "textures"
         }
       ],
@@ -11008,8 +11008,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_01.fbx",
       "source_guid": "fa8178ac9e9cbd04094752f77f78e224",
       "source_sha256": "2070f37bbfb7da81d4a010639dd555eae9cb82f5ac5a4c9a3a4b1cc5f598ea46",
-      "bytes": 2041,
-      "sha256": "f6511fcae19976cd03f0dcb61df0db508fdcc9ff8fd437dc785817b17cc299d2",
+      "bytes": 2054,
+      "sha256": "5c24c3a00dc1b7e5d45b69e5a294fdbe872355d36eed191287a8cbfea4a97261",
       "triangles": 16,
       "mesh_count": 1,
       "material_count": 1,
@@ -11046,9 +11046,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/a1f71a88cd97746d984195694166320b09fa3c8aff2bed04c49d34f519044d2a.jpg",
-          "bytes": 40811,
-          "sha256": "a1f71a88cd97746d984195694166320b09fa3c8aff2bed04c49d34f519044d2a",
+          "path": "models/Meadow/_shared/textures/7f97ee87a7549bc9224a68277785550333554054a3380f2413744206d4938f23.png",
+          "bytes": 141153,
+          "sha256": "7f97ee87a7549bc9224a68277785550333554054a3380f2413744206d4938f23",
           "kind": "textures"
         }
       ],
@@ -11071,8 +11071,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_01.fbx",
       "source_guid": "fa8178ac9e9cbd04094752f77f78e224",
       "source_sha256": "2070f37bbfb7da81d4a010639dd555eae9cb82f5ac5a4c9a3a4b1cc5f598ea46",
-      "bytes": 2047,
-      "sha256": "f6871e9017e183113edee883bbacd6034b864ccd390c7ce9f67149e744c9970a",
+      "bytes": 2060,
+      "sha256": "937fefa58ace2515dae0b47878ff96c9dbbe3b4026e40e14e7af6656a369d992",
       "triangles": 16,
       "mesh_count": 1,
       "material_count": 1,
@@ -11109,9 +11109,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/3b5fd96bfb99b3f082465288bb317d012651f0d50126c5ff8a174429c6ecaf4b.jpg",
-          "bytes": 42270,
-          "sha256": "3b5fd96bfb99b3f082465288bb317d012651f0d50126c5ff8a174429c6ecaf4b",
+          "path": "models/Meadow/_shared/textures/be69408bf8a70278fcd782ab3063765893b1932bcc462df375b4edb8e52393e0.png",
+          "bytes": 128185,
+          "sha256": "be69408bf8a70278fcd782ab3063765893b1932bcc462df375b4edb8e52393e0",
           "kind": "textures"
         }
       ],
@@ -11135,8 +11135,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_01.fbx",
       "source_guid": "fa8178ac9e9cbd04094752f77f78e224",
       "source_sha256": "2070f37bbfb7da81d4a010639dd555eae9cb82f5ac5a4c9a3a4b1cc5f598ea46",
-      "bytes": 2041,
-      "sha256": "d48eff168e56055e214f1dd4aeb36b7e064febde391016a5e5b91c9c36a23adf",
+      "bytes": 2054,
+      "sha256": "fce0ffa9a020a63ad6b56a5c6464497e4e42f31d85002643fb39ecf821c5a952",
       "triangles": 16,
       "mesh_count": 1,
       "material_count": 1,
@@ -11173,9 +11173,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/42b619783391066ab11610d7f82a370f7933ff3bfe85ee035c6d294df36657b4.jpg",
-          "bytes": 41831,
-          "sha256": "42b619783391066ab11610d7f82a370f7933ff3bfe85ee035c6d294df36657b4",
+          "path": "models/Meadow/_shared/textures/3604b9e899a2e0d8b69002267ff7ed8ee63869d609e845384b26c778d54ca3af.png",
+          "bytes": 136825,
+          "sha256": "3604b9e899a2e0d8b69002267ff7ed8ee63869d609e845384b26c778d54ca3af",
           "kind": "textures"
         }
       ],
@@ -11199,8 +11199,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_01.fbx",
       "source_guid": "fa8178ac9e9cbd04094752f77f78e224",
       "source_sha256": "2070f37bbfb7da81d4a010639dd555eae9cb82f5ac5a4c9a3a4b1cc5f598ea46",
-      "bytes": 2041,
-      "sha256": "b320c913609d61de1cbb320b93862cc335246fb5c557e6a239102946cbff11a5",
+      "bytes": 2054,
+      "sha256": "9bc46d7a7dfe0ff103693b76af3dff98cd8c002770b26f3761dd73cc193d0a49",
       "triangles": 16,
       "mesh_count": 1,
       "material_count": 1,
@@ -11237,9 +11237,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/8810634e253da5584da138d2d782ae8b8a3ca686c96e839fd8e66b4085544b06.jpg",
-          "bytes": 39887,
-          "sha256": "8810634e253da5584da138d2d782ae8b8a3ca686c96e839fd8e66b4085544b06",
+          "path": "models/Meadow/_shared/textures/f6323117206e526d66bef92eb7d6cb1faaae2b6860fb64c95c0595c150bd7479.png",
+          "bytes": 139843,
+          "sha256": "f6323117206e526d66bef92eb7d6cb1faaae2b6860fb64c95c0595c150bd7479",
           "kind": "textures"
         }
       ],
@@ -11262,8 +11262,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_02.fbx",
       "source_guid": "d1df9783d63b30c4084de6fae95035c0",
       "source_sha256": "6e442a9f12fdf4d7f05b0abe12418ddde8862c5372865518bb7278fd03e8a12e",
-      "bytes": 2051,
-      "sha256": "f09415ae8a395950ed65f7f1e08adf0b5ab861ec589792fdec920693de3ecfcc",
+      "bytes": 2064,
+      "sha256": "3febe55f2761dcac8b3ff9a0f9e4b19fee32743c71c000f8cbcc38eedd50f018",
       "triangles": 44,
       "mesh_count": 1,
       "material_count": 1,
@@ -11300,9 +11300,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/a1f71a88cd97746d984195694166320b09fa3c8aff2bed04c49d34f519044d2a.jpg",
-          "bytes": 40811,
-          "sha256": "a1f71a88cd97746d984195694166320b09fa3c8aff2bed04c49d34f519044d2a",
+          "path": "models/Meadow/_shared/textures/7f97ee87a7549bc9224a68277785550333554054a3380f2413744206d4938f23.png",
+          "bytes": 141153,
+          "sha256": "7f97ee87a7549bc9224a68277785550333554054a3380f2413744206d4938f23",
           "kind": "textures"
         }
       ],
@@ -11325,8 +11325,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_02.fbx",
       "source_guid": "d1df9783d63b30c4084de6fae95035c0",
       "source_sha256": "6e442a9f12fdf4d7f05b0abe12418ddde8862c5372865518bb7278fd03e8a12e",
-      "bytes": 2057,
-      "sha256": "d4ff5b9c5795e8c6b81d65919dda371503796b97268de96c821f09301d1232b5",
+      "bytes": 2070,
+      "sha256": "2a2d6a0bb5e63208e0f7a63da2da27f356f2dc9c81a2fbcc273c22464997fa73",
       "triangles": 44,
       "mesh_count": 1,
       "material_count": 1,
@@ -11363,9 +11363,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/3b5fd96bfb99b3f082465288bb317d012651f0d50126c5ff8a174429c6ecaf4b.jpg",
-          "bytes": 42270,
-          "sha256": "3b5fd96bfb99b3f082465288bb317d012651f0d50126c5ff8a174429c6ecaf4b",
+          "path": "models/Meadow/_shared/textures/be69408bf8a70278fcd782ab3063765893b1932bcc462df375b4edb8e52393e0.png",
+          "bytes": 128185,
+          "sha256": "be69408bf8a70278fcd782ab3063765893b1932bcc462df375b4edb8e52393e0",
           "kind": "textures"
         }
       ],
@@ -11389,8 +11389,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_02.fbx",
       "source_guid": "d1df9783d63b30c4084de6fae95035c0",
       "source_sha256": "6e442a9f12fdf4d7f05b0abe12418ddde8862c5372865518bb7278fd03e8a12e",
-      "bytes": 2069,
-      "sha256": "811ec204a1a7abd26547442fcabfdf821cacb1790e6c5faed655c124bdcacd58",
+      "bytes": 2082,
+      "sha256": "76b04fde361dc04674047cb0fb489a11ccc37729da6ff3ef55096fd37d7261d4",
       "triangles": 44,
       "mesh_count": 1,
       "material_count": 1,
@@ -11426,9 +11426,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/42d9739d42d42237694de8a7979e5e9787b368b58d271c5421c485aeb7cf68c0.jpg",
-          "bytes": 41950,
-          "sha256": "42d9739d42d42237694de8a7979e5e9787b368b58d271c5421c485aeb7cf68c0",
+          "path": "models/Meadow/_shared/textures/1b2879a73fcae893afc1acd71e06ab3c66463da3e749e730728f20f797e21828.png",
+          "bytes": 138566,
+          "sha256": "1b2879a73fcae893afc1acd71e06ab3c66463da3e749e730728f20f797e21828",
           "kind": "textures"
         }
       ],
@@ -11451,8 +11451,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_02.fbx",
       "source_guid": "d1df9783d63b30c4084de6fae95035c0",
       "source_sha256": "6e442a9f12fdf4d7f05b0abe12418ddde8862c5372865518bb7278fd03e8a12e",
-      "bytes": 2069,
-      "sha256": "f973b0f00ff19db664f8e53a86413632d235bff84aa79f14880a362cb2fa439b",
+      "bytes": 2082,
+      "sha256": "b48399afe1e1ebb4799641aa526fcb1e28b8a159bbccfd4945cea26977c93618",
       "triangles": 44,
       "mesh_count": 1,
       "material_count": 1,
@@ -11488,9 +11488,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/87d8cc19ae11eb5d84909a7cbf7a19f7b22b05464406cd6a4f11d66eb314a8fb.jpg",
-          "bytes": 37317,
-          "sha256": "87d8cc19ae11eb5d84909a7cbf7a19f7b22b05464406cd6a4f11d66eb314a8fb",
+          "path": "models/Meadow/_shared/textures/cf23db0e2b2fbd78abd6f7d44b73e4402aeca891b0b373b525b28320840f6a81.png",
+          "bytes": 132911,
+          "sha256": "cf23db0e2b2fbd78abd6f7d44b73e4402aeca891b0b373b525b28320840f6a81",
           "kind": "textures"
         }
       ],
@@ -11513,8 +11513,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_02.fbx",
       "source_guid": "d1df9783d63b30c4084de6fae95035c0",
       "source_sha256": "6e442a9f12fdf4d7f05b0abe12418ddde8862c5372865518bb7278fd03e8a12e",
-      "bytes": 2069,
-      "sha256": "b3d574904627b33eac9e34d20bb8a814fe66b42cdcc41af04737d2162c075bb0",
+      "bytes": 2082,
+      "sha256": "5c0832bbb9d3b40d4d51e3745a208e5eaf1f9df815182475e1220da680f87e3f",
       "triangles": 44,
       "mesh_count": 1,
       "material_count": 1,
@@ -11550,9 +11550,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/4b8885b9c320262c1fcc16cb06f648f57c0d14ff569cb14e2abe22aa03c91708.jpg",
-          "bytes": 42816,
-          "sha256": "4b8885b9c320262c1fcc16cb06f648f57c0d14ff569cb14e2abe22aa03c91708",
+          "path": "models/Meadow/_shared/textures/3312618393d3d24a598d5a59f2572c4637887dab595e6e2c6a41da61ebaa2baf.png",
+          "bytes": 137402,
+          "sha256": "3312618393d3d24a598d5a59f2572c4637887dab595e6e2c6a41da61ebaa2baf",
           "kind": "textures"
         }
       ],
@@ -11575,8 +11575,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_02.fbx",
       "source_guid": "d1df9783d63b30c4084de6fae95035c0",
       "source_sha256": "6e442a9f12fdf4d7f05b0abe12418ddde8862c5372865518bb7278fd03e8a12e",
-      "bytes": 2069,
-      "sha256": "a3ab4e56c0eb7a940ca2965c85803996549f46a3786b5f4deddae7cefa933a7e",
+      "bytes": 2082,
+      "sha256": "ef2048f9845cfa98d95281a8724e627109c51d4bdcecacbaa7493c5939d2996e",
       "triangles": 44,
       "mesh_count": 1,
       "material_count": 1,
@@ -11612,9 +11612,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/fa057cc04927a2aa604846ca88e267d4c3ecffafecc5c8ac534d54625ec6d571.jpg",
-          "bytes": 28980,
-          "sha256": "fa057cc04927a2aa604846ca88e267d4c3ecffafecc5c8ac534d54625ec6d571",
+          "path": "models/Meadow/_shared/textures/0a71aa458908152bf5f9dc8327577aec685f2882e456514e204b58278c3a5514.png",
+          "bytes": 138253,
+          "sha256": "0a71aa458908152bf5f9dc8327577aec685f2882e456514e204b58278c3a5514",
           "kind": "textures"
         }
       ],
@@ -11637,8 +11637,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_02.fbx",
       "source_guid": "d1df9783d63b30c4084de6fae95035c0",
       "source_sha256": "6e442a9f12fdf4d7f05b0abe12418ddde8862c5372865518bb7278fd03e8a12e",
-      "bytes": 2051,
-      "sha256": "ee957a3420177642e9f5cefdc67f7b638d26dad4cab149795c5398255a6b1c06",
+      "bytes": 2064,
+      "sha256": "99d6f29829f033781e240ea6256ba92d17924afe8522ba6865e9a68c846347b8",
       "triangles": 44,
       "mesh_count": 1,
       "material_count": 1,
@@ -11675,9 +11675,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/42b619783391066ab11610d7f82a370f7933ff3bfe85ee035c6d294df36657b4.jpg",
-          "bytes": 41831,
-          "sha256": "42b619783391066ab11610d7f82a370f7933ff3bfe85ee035c6d294df36657b4",
+          "path": "models/Meadow/_shared/textures/3604b9e899a2e0d8b69002267ff7ed8ee63869d609e845384b26c778d54ca3af.png",
+          "bytes": 136825,
+          "sha256": "3604b9e899a2e0d8b69002267ff7ed8ee63869d609e845384b26c778d54ca3af",
           "kind": "textures"
         }
       ],
@@ -11701,8 +11701,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_02.fbx",
       "source_guid": "d1df9783d63b30c4084de6fae95035c0",
       "source_sha256": "6e442a9f12fdf4d7f05b0abe12418ddde8862c5372865518bb7278fd03e8a12e",
-      "bytes": 2051,
-      "sha256": "49dbc92695ea9060958a24870366097246fe950d56f8113957e90c4f47938c87",
+      "bytes": 2064,
+      "sha256": "43ce05996e5ad7fe1ce74aa234664b032c3d8e5e12d3ce7d521fdc7fcf9233fc",
       "triangles": 44,
       "mesh_count": 1,
       "material_count": 1,
@@ -11739,9 +11739,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/8810634e253da5584da138d2d782ae8b8a3ca686c96e839fd8e66b4085544b06.jpg",
-          "bytes": 39887,
-          "sha256": "8810634e253da5584da138d2d782ae8b8a3ca686c96e839fd8e66b4085544b06",
+          "path": "models/Meadow/_shared/textures/f6323117206e526d66bef92eb7d6cb1faaae2b6860fb64c95c0595c150bd7479.png",
+          "bytes": 139843,
+          "sha256": "f6323117206e526d66bef92eb7d6cb1faaae2b6860fb64c95c0595c150bd7479",
           "kind": "textures"
         }
       ],
@@ -11764,8 +11764,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_03.fbx",
       "source_guid": "31cc98662fca7034787d65d12b660941",
       "source_sha256": "ad1469cc1cd81a44b3cb23196d7fe7e4f509bc45e98d65c99770ba20d83193d9",
-      "bytes": 2049,
-      "sha256": "101a724b65380568fc96248c215bc4ee075ce08e05837d8adbb4a0d4b6e34c20",
+      "bytes": 2062,
+      "sha256": "6e6d11cdda12bd14188f401adf22bf5e1cc8d71c98b621ad6731784135841845",
       "triangles": 104,
       "mesh_count": 1,
       "material_count": 1,
@@ -11802,9 +11802,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/a1f71a88cd97746d984195694166320b09fa3c8aff2bed04c49d34f519044d2a.jpg",
-          "bytes": 40811,
-          "sha256": "a1f71a88cd97746d984195694166320b09fa3c8aff2bed04c49d34f519044d2a",
+          "path": "models/Meadow/_shared/textures/7f97ee87a7549bc9224a68277785550333554054a3380f2413744206d4938f23.png",
+          "bytes": 141153,
+          "sha256": "7f97ee87a7549bc9224a68277785550333554054a3380f2413744206d4938f23",
           "kind": "textures"
         }
       ],
@@ -11827,8 +11827,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_03.fbx",
       "source_guid": "31cc98662fca7034787d65d12b660941",
       "source_sha256": "ad1469cc1cd81a44b3cb23196d7fe7e4f509bc45e98d65c99770ba20d83193d9",
-      "bytes": 2055,
-      "sha256": "1b89bdf8ed3f4cd3ce70dff94279db84b9d519c377e4a43f460995de2b3f2d03",
+      "bytes": 2068,
+      "sha256": "e39715fdb680bce25b0703300cb7d02b661c9785f7e634b8c5c2b15983f39486",
       "triangles": 104,
       "mesh_count": 1,
       "material_count": 1,
@@ -11865,9 +11865,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/3b5fd96bfb99b3f082465288bb317d012651f0d50126c5ff8a174429c6ecaf4b.jpg",
-          "bytes": 42270,
-          "sha256": "3b5fd96bfb99b3f082465288bb317d012651f0d50126c5ff8a174429c6ecaf4b",
+          "path": "models/Meadow/_shared/textures/be69408bf8a70278fcd782ab3063765893b1932bcc462df375b4edb8e52393e0.png",
+          "bytes": 128185,
+          "sha256": "be69408bf8a70278fcd782ab3063765893b1932bcc462df375b4edb8e52393e0",
           "kind": "textures"
         }
       ],
@@ -11891,8 +11891,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_03.fbx",
       "source_guid": "31cc98662fca7034787d65d12b660941",
       "source_sha256": "ad1469cc1cd81a44b3cb23196d7fe7e4f509bc45e98d65c99770ba20d83193d9",
-      "bytes": 2049,
-      "sha256": "22511d584a6e7aa9bff89d933f2034c3d248b334dcab9b00315bfd6c1718fa27",
+      "bytes": 2062,
+      "sha256": "9d82f089a7af312562233d1f09a0b1aedacd3317a602a155ac2ce5e4b5641b60",
       "triangles": 104,
       "mesh_count": 1,
       "material_count": 1,
@@ -11929,9 +11929,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/42b619783391066ab11610d7f82a370f7933ff3bfe85ee035c6d294df36657b4.jpg",
-          "bytes": 41831,
-          "sha256": "42b619783391066ab11610d7f82a370f7933ff3bfe85ee035c6d294df36657b4",
+          "path": "models/Meadow/_shared/textures/3604b9e899a2e0d8b69002267ff7ed8ee63869d609e845384b26c778d54ca3af.png",
+          "bytes": 136825,
+          "sha256": "3604b9e899a2e0d8b69002267ff7ed8ee63869d609e845384b26c778d54ca3af",
           "kind": "textures"
         }
       ],
@@ -11955,8 +11955,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Grass/SM_Grass_03_03.fbx",
       "source_guid": "31cc98662fca7034787d65d12b660941",
       "source_sha256": "ad1469cc1cd81a44b3cb23196d7fe7e4f509bc45e98d65c99770ba20d83193d9",
-      "bytes": 2049,
-      "sha256": "45cc590f587f77a55d79faef46ccca47f0b5ddc08f5544831727d8d5e66f1561",
+      "bytes": 2062,
+      "sha256": "4889bff3ccb7e4d61f0d2461ecc48fbde6b9dcea544b063f5b205e539035e053",
       "triangles": 104,
       "mesh_count": 1,
       "material_count": 1,
@@ -11993,9 +11993,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/8810634e253da5584da138d2d782ae8b8a3ca686c96e839fd8e66b4085544b06.jpg",
-          "bytes": 39887,
-          "sha256": "8810634e253da5584da138d2d782ae8b8a3ca686c96e839fd8e66b4085544b06",
+          "path": "models/Meadow/_shared/textures/f6323117206e526d66bef92eb7d6cb1faaae2b6860fb64c95c0595c150bd7479.png",
+          "bytes": 139843,
+          "sha256": "f6323117206e526d66bef92eb7d6cb1faaae2b6860fb64c95c0595c150bd7479",
           "kind": "textures"
         }
       ],
@@ -12018,8 +12018,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_BirchTree_01.fbx",
       "source_guid": "946884432149cbc4b93d537086ab69a3",
       "source_sha256": "75295e50adbdc50f629b297ce157d3ab8d7f34aa273818275d55c99e8d2299b3",
-      "bytes": 2331,
-      "sha256": "6df05064835a879a59545d33cd2752300d9649c22662d8fb47ebfcaf188bfa68",
+      "bytes": 2344,
+      "sha256": "4106036e5feb15e88b655f726f249bd01d75f91de2171c35603e45bbecc5f283",
       "triangles": 80,
       "mesh_count": 1,
       "material_count": 1,
@@ -12055,9 +12055,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/5ab38c9c873c2e0f7cc2616336374feb75e3a755dd894d5dc58db2e5bb8e9c69.jpg",
-          "bytes": 11675,
-          "sha256": "5ab38c9c873c2e0f7cc2616336374feb75e3a755dd894d5dc58db2e5bb8e9c69",
+          "path": "models/Meadow/_shared/textures/9739a39f44ca3f5c7f89e30de1578d9ba97d98b0de30a56a296bef7ab4092003.png",
+          "bytes": 55560,
+          "sha256": "9739a39f44ca3f5c7f89e30de1578d9ba97d98b0de30a56a296bef7ab4092003",
           "kind": "textures"
         }
       ],
@@ -12077,8 +12077,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_BirchTree_01.fbx",
       "source_guid": "946884432149cbc4b93d537086ab69a3",
       "source_sha256": "75295e50adbdc50f629b297ce157d3ab8d7f34aa273818275d55c99e8d2299b3",
-      "bytes": 2331,
-      "sha256": "3ccf0e66d01c99bc889cfc54b708dba023765c7bb814c057e29973e627da03cf",
+      "bytes": 2344,
+      "sha256": "44125a2eb66683c56ab5e974f38b6dbd581106c08c3cb3bc0914ddaba18fae0c",
       "triangles": 80,
       "mesh_count": 1,
       "material_count": 1,
@@ -12114,9 +12114,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/bc80c072ce2291039a53db841383ee7e65b129b4b80aea48b0140bfbae409b3f.jpg",
-          "bytes": 11887,
-          "sha256": "bc80c072ce2291039a53db841383ee7e65b129b4b80aea48b0140bfbae409b3f",
+          "path": "models/Meadow/_shared/textures/83f5b54b4792c94bef4b3482b8cd284c6668abbc981d2367e79973b5a75d1fe4.png",
+          "bytes": 54832,
+          "sha256": "83f5b54b4792c94bef4b3482b8cd284c6668abbc981d2367e79973b5a75d1fe4",
           "kind": "textures"
         }
       ],
@@ -12136,8 +12136,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_BirchTree_01.fbx",
       "source_guid": "946884432149cbc4b93d537086ab69a3",
       "source_sha256": "75295e50adbdc50f629b297ce157d3ab8d7f34aa273818275d55c99e8d2299b3",
-      "bytes": 2331,
-      "sha256": "a333b40da9d31c0212935a85c5d821ca216ff8583e139fb9c6627cfbeff95d3a",
+      "bytes": 2344,
+      "sha256": "77eae2548d10cfafe9981b2509762565b5d9b82bbdf98587a4a5420923c40c0c",
       "triangles": 80,
       "mesh_count": 1,
       "material_count": 1,
@@ -12173,9 +12173,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/a67c5ca9f1c8af7cc17727434aec5ae6354a88349be91dabfc3697c19668b6f4.jpg",
-          "bytes": 8456,
-          "sha256": "a67c5ca9f1c8af7cc17727434aec5ae6354a88349be91dabfc3697c19668b6f4",
+          "path": "models/Meadow/_shared/textures/a043e48b39022ab863cf5f893d423ab452bf5747db5f4f5e0b62dfb1f63e31bc.png",
+          "bytes": 49164,
+          "sha256": "a043e48b39022ab863cf5f893d423ab452bf5747db5f4f5e0b62dfb1f63e31bc",
           "kind": "textures"
         }
       ],
@@ -12195,8 +12195,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_BirchTree_02.fbx",
       "source_guid": "a1cd28e748e53ad40beeb37ffe91e72c",
       "source_sha256": "9fb338e82ac8ce743adae58d68452977d5f2c6944fe9a41ed3c527071a792d25",
-      "bytes": 2372,
-      "sha256": "b006a1e431ebc69e353569050fbc018165b28f9ac3b795e2df12f32115080128",
+      "bytes": 2385,
+      "sha256": "9c96f9a49a56715e32b3404377c9bce0307fe02e9d46748391cd9d18bc23f4ac",
       "triangles": 152,
       "mesh_count": 1,
       "material_count": 1,
@@ -12232,9 +12232,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/5ab38c9c873c2e0f7cc2616336374feb75e3a755dd894d5dc58db2e5bb8e9c69.jpg",
-          "bytes": 11675,
-          "sha256": "5ab38c9c873c2e0f7cc2616336374feb75e3a755dd894d5dc58db2e5bb8e9c69",
+          "path": "models/Meadow/_shared/textures/9739a39f44ca3f5c7f89e30de1578d9ba97d98b0de30a56a296bef7ab4092003.png",
+          "bytes": 55560,
+          "sha256": "9739a39f44ca3f5c7f89e30de1578d9ba97d98b0de30a56a296bef7ab4092003",
           "kind": "textures"
         }
       ],
@@ -12254,8 +12254,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_BirchTree_02.fbx",
       "source_guid": "a1cd28e748e53ad40beeb37ffe91e72c",
       "source_sha256": "9fb338e82ac8ce743adae58d68452977d5f2c6944fe9a41ed3c527071a792d25",
-      "bytes": 2403,
-      "sha256": "c99f47f6141f935e414dbb23bacdfad0897f1aa2e7a4b1795d37127981a4c9b3",
+      "bytes": 2416,
+      "sha256": "ad9f6395bb1e2bdbe90878f1f4e7af3bc1a6db8309de0dcb0c96116b1aa7e436",
       "triangles": 152,
       "mesh_count": 1,
       "material_count": 1,
@@ -12290,9 +12290,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/128a45ffb9304fcfa3276d68eee5cffae877907f919ac64f076914dec81d417d.jpg",
-          "bytes": 9432,
-          "sha256": "128a45ffb9304fcfa3276d68eee5cffae877907f919ac64f076914dec81d417d",
+          "path": "models/Meadow/_shared/textures/d2df30ac8a751e000ea1953f516333f49627fd873eae7290ed4e546c89c51d01.png",
+          "bytes": 48959,
+          "sha256": "d2df30ac8a751e000ea1953f516333f49627fd873eae7290ed4e546c89c51d01",
           "kind": "textures"
         }
       ],
@@ -12312,8 +12312,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_BirchTree_02.fbx",
       "source_guid": "a1cd28e748e53ad40beeb37ffe91e72c",
       "source_sha256": "9fb338e82ac8ce743adae58d68452977d5f2c6944fe9a41ed3c527071a792d25",
-      "bytes": 2403,
-      "sha256": "b3fd39919d90a534bcf4d92f6b9f460022d4f8c60bdbb382f98800575b50fe4f",
+      "bytes": 2416,
+      "sha256": "602369e71a4eacfe5d7f259200d3dd57a645a0edeb6c4e476c8ffa56fb3f59fa",
       "triangles": 152,
       "mesh_count": 1,
       "material_count": 1,
@@ -12348,9 +12348,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/beda3cece7676e6955f4fc0edf1c344f9fe6074b0b1550702491ff1b288f4644.jpg",
-          "bytes": 12894,
-          "sha256": "beda3cece7676e6955f4fc0edf1c344f9fe6074b0b1550702491ff1b288f4644",
+          "path": "models/Meadow/_shared/textures/37d3dfbed8dab5a1347195292cbe2d70b4686f258b4c37f08517db36e5d4e69a.png",
+          "bytes": 52101,
+          "sha256": "37d3dfbed8dab5a1347195292cbe2d70b4686f258b4c37f08517db36e5d4e69a",
           "kind": "textures"
         }
       ],
@@ -12370,8 +12370,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_BirchTree_02.fbx",
       "source_guid": "a1cd28e748e53ad40beeb37ffe91e72c",
       "source_sha256": "9fb338e82ac8ce743adae58d68452977d5f2c6944fe9a41ed3c527071a792d25",
-      "bytes": 2403,
-      "sha256": "e32c58bed21f9efd5d71d8d089d39c06bf74bc8971a2415837b74d9916e08fe2",
+      "bytes": 2416,
+      "sha256": "47eed1b2e837b0c9664fcf7b6960a6ddb07f392252f42bb90e2d6650386d06ad",
       "triangles": 152,
       "mesh_count": 1,
       "material_count": 1,
@@ -12406,9 +12406,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/04948d713948baa312bdc47aeb4fc4799d5a381e029ac5dae7819b96c18b650f.jpg",
-          "bytes": 10438,
-          "sha256": "04948d713948baa312bdc47aeb4fc4799d5a381e029ac5dae7819b96c18b650f",
+          "path": "models/Meadow/_shared/textures/27b8b4e869999829d04d8f69779194e3405fd59fb801cef1b6766d4c382a864c.png",
+          "bytes": 55488,
+          "sha256": "27b8b4e869999829d04d8f69779194e3405fd59fb801cef1b6766d4c382a864c",
           "kind": "textures"
         }
       ],
@@ -12428,8 +12428,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_BirchTree_02.fbx",
       "source_guid": "a1cd28e748e53ad40beeb37ffe91e72c",
       "source_sha256": "9fb338e82ac8ce743adae58d68452977d5f2c6944fe9a41ed3c527071a792d25",
-      "bytes": 2403,
-      "sha256": "74db447cb5af065aea716af47ac7e11ec70566cc322620d2d026d637101171d6",
+      "bytes": 2416,
+      "sha256": "0ea4bf0ba6d8599b56e84518cf0c928f79b1398358026194545a772c7946dfb6",
       "triangles": 152,
       "mesh_count": 1,
       "material_count": 1,
@@ -12464,9 +12464,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/f6222a86ab426b0be828596b3008aef6f237031c752702b11a4fddb94de2d43a.jpg",
-          "bytes": 12460,
-          "sha256": "f6222a86ab426b0be828596b3008aef6f237031c752702b11a4fddb94de2d43a",
+          "path": "models/Meadow/_shared/textures/365fe8f4e83163cd4cac8456ed04f5510b32a2203c9fd8577920328f617add08.png",
+          "bytes": 55311,
+          "sha256": "365fe8f4e83163cd4cac8456ed04f5510b32a2203c9fd8577920328f617add08",
           "kind": "textures"
         }
       ],
@@ -12486,8 +12486,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_BirchTree_02.fbx",
       "source_guid": "a1cd28e748e53ad40beeb37ffe91e72c",
       "source_sha256": "9fb338e82ac8ce743adae58d68452977d5f2c6944fe9a41ed3c527071a792d25",
-      "bytes": 2372,
-      "sha256": "b8b1a37e44b42eea3d8ca7734077982e33ebd913719cdb81a5afc2a0b39a2cbf",
+      "bytes": 2385,
+      "sha256": "8faaa63383ec9a4e58c04145452602c025f15892534f91df03fdb203369b4fb9",
       "triangles": 152,
       "mesh_count": 1,
       "material_count": 1,
@@ -12523,9 +12523,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/bc80c072ce2291039a53db841383ee7e65b129b4b80aea48b0140bfbae409b3f.jpg",
-          "bytes": 11887,
-          "sha256": "bc80c072ce2291039a53db841383ee7e65b129b4b80aea48b0140bfbae409b3f",
+          "path": "models/Meadow/_shared/textures/83f5b54b4792c94bef4b3482b8cd284c6668abbc981d2367e79973b5a75d1fe4.png",
+          "bytes": 54832,
+          "sha256": "83f5b54b4792c94bef4b3482b8cd284c6668abbc981d2367e79973b5a75d1fe4",
           "kind": "textures"
         }
       ],
@@ -12545,8 +12545,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_BirchTree_02.fbx",
       "source_guid": "a1cd28e748e53ad40beeb37ffe91e72c",
       "source_sha256": "9fb338e82ac8ce743adae58d68452977d5f2c6944fe9a41ed3c527071a792d25",
-      "bytes": 2372,
-      "sha256": "67bf727e28d7b8c39c6d5c2bcf6a8461a327d835f81de86caa2a9a2c15626380",
+      "bytes": 2385,
+      "sha256": "933aaa17e6bdca3732705f7ecdae3a6c21d169a1dd8bb7ee30ebaab4a47f8824",
       "triangles": 152,
       "mesh_count": 1,
       "material_count": 1,
@@ -12582,9 +12582,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/a67c5ca9f1c8af7cc17727434aec5ae6354a88349be91dabfc3697c19668b6f4.jpg",
-          "bytes": 8456,
-          "sha256": "a67c5ca9f1c8af7cc17727434aec5ae6354a88349be91dabfc3697c19668b6f4",
+          "path": "models/Meadow/_shared/textures/a043e48b39022ab863cf5f893d423ab452bf5747db5f4f5e0b62dfb1f63e31bc.png",
+          "bytes": 49164,
+          "sha256": "a043e48b39022ab863cf5f893d423ab452bf5747db5f4f5e0b62dfb1f63e31bc",
           "kind": "textures"
         }
       ],
@@ -12604,8 +12604,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_OakTree_01.fbx",
       "source_guid": "6e1dc2c4bdc223049a48a0f3bd697d0e",
       "source_sha256": "3f06ecb3e9622bfd9672016473dabe9ec119ead32e2079483017588838bc9247",
-      "bytes": 2362,
-      "sha256": "db71e799f786f4be9b59993faa808b6e40428b062fef1446336780f1087e3bd4",
+      "bytes": 2375,
+      "sha256": "1a5db470a09c0d1acc85ad7690b5307fd7688209201c822aa96459e696b2bac0",
       "triangles": 72,
       "mesh_count": 1,
       "material_count": 1,
@@ -12641,9 +12641,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/37753bc9386ecdf5c120f4ee4b7041b45bbcc27d6b12095940d1673ac115999e.jpg",
-          "bytes": 10854,
-          "sha256": "37753bc9386ecdf5c120f4ee4b7041b45bbcc27d6b12095940d1673ac115999e",
+          "path": "models/Meadow/_shared/textures/d9b582d58ad7a2762a8bd10a3cc3cfdac04fbf34506422cbd09fbe4e51636a70.png",
+          "bytes": 54729,
+          "sha256": "d9b582d58ad7a2762a8bd10a3cc3cfdac04fbf34506422cbd09fbe4e51636a70",
           "kind": "textures"
         }
       ],
@@ -12663,8 +12663,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_OakTree_01.fbx",
       "source_guid": "6e1dc2c4bdc223049a48a0f3bd697d0e",
       "source_sha256": "3f06ecb3e9622bfd9672016473dabe9ec119ead32e2079483017588838bc9247",
-      "bytes": 2362,
-      "sha256": "4dedb3b64d4de1661ce37f30f4a74782423795ff35ea7b7a45dcfbfd9d2b47cb",
+      "bytes": 2375,
+      "sha256": "18580dec6bcd173afa50abaa58cf772d9308fab925fe2778a13ded6f3b0b0362",
       "triangles": 72,
       "mesh_count": 1,
       "material_count": 1,
@@ -12700,9 +12700,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/67a7ac05ac04ec9b3d8c3d62438eb49dc1d7ae59d50a1a5311012d7d21ad8ea5.jpg",
-          "bytes": 11722,
-          "sha256": "67a7ac05ac04ec9b3d8c3d62438eb49dc1d7ae59d50a1a5311012d7d21ad8ea5",
+          "path": "models/Meadow/_shared/textures/3debbd0e9301b8cf0e5aaeb5e2df181fd6823e580fe263d55145022735922526.png",
+          "bytes": 55374,
+          "sha256": "3debbd0e9301b8cf0e5aaeb5e2df181fd6823e580fe263d55145022735922526",
           "kind": "textures"
         }
       ],
@@ -12722,8 +12722,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_OakTree_01.fbx",
       "source_guid": "6e1dc2c4bdc223049a48a0f3bd697d0e",
       "source_sha256": "3f06ecb3e9622bfd9672016473dabe9ec119ead32e2079483017588838bc9247",
-      "bytes": 2362,
-      "sha256": "547da55a882c89f65752a13622906680376ed0342877c23f3ed9cbb4f7f9b578",
+      "bytes": 2375,
+      "sha256": "3d508a058db48f0d34a5379ba9862456d56b8e3848d951b389368620e8863280",
       "triangles": 72,
       "mesh_count": 1,
       "material_count": 1,
@@ -12759,9 +12759,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/a67c5ca9f1c8af7cc17727434aec5ae6354a88349be91dabfc3697c19668b6f4.jpg",
-          "bytes": 8456,
-          "sha256": "a67c5ca9f1c8af7cc17727434aec5ae6354a88349be91dabfc3697c19668b6f4",
+          "path": "models/Meadow/_shared/textures/a043e48b39022ab863cf5f893d423ab452bf5747db5f4f5e0b62dfb1f63e31bc.png",
+          "bytes": 49164,
+          "sha256": "a043e48b39022ab863cf5f893d423ab452bf5747db5f4f5e0b62dfb1f63e31bc",
           "kind": "textures"
         }
       ],
@@ -12781,8 +12781,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_OakTree_02.fbx",
       "source_guid": "0eebba389ca96f9428e5568b69f11863",
       "source_sha256": "e302b4aa69a89e5b62db5470dec9088f1d1e19ce85b3107287e8fd1054780046",
-      "bytes": 2364,
-      "sha256": "913bdf3502a9a5cb1b8dc08ab106605a1f60e55fdb7bf27313e508d9220592b7",
+      "bytes": 2377,
+      "sha256": "844486acdf4124abf5cfbbc8c135943ae6ff51bca2fb6f68c6caf5a9646754a8",
       "triangles": 104,
       "mesh_count": 1,
       "material_count": 1,
@@ -12818,9 +12818,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/37753bc9386ecdf5c120f4ee4b7041b45bbcc27d6b12095940d1673ac115999e.jpg",
-          "bytes": 10854,
-          "sha256": "37753bc9386ecdf5c120f4ee4b7041b45bbcc27d6b12095940d1673ac115999e",
+          "path": "models/Meadow/_shared/textures/d9b582d58ad7a2762a8bd10a3cc3cfdac04fbf34506422cbd09fbe4e51636a70.png",
+          "bytes": 54729,
+          "sha256": "d9b582d58ad7a2762a8bd10a3cc3cfdac04fbf34506422cbd09fbe4e51636a70",
           "kind": "textures"
         }
       ],
@@ -12840,8 +12840,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_OakTree_02.fbx",
       "source_guid": "0eebba389ca96f9428e5568b69f11863",
       "source_sha256": "e302b4aa69a89e5b62db5470dec9088f1d1e19ce85b3107287e8fd1054780046",
-      "bytes": 2364,
-      "sha256": "8b06c3865f8d4b8048f0871043c79fad0157801ecac174252fff9ca93ad1eddb",
+      "bytes": 2377,
+      "sha256": "881191c0957fa8612d8b28024556802fae63d2db3e9bc4d3f293d797e8407b7a",
       "triangles": 104,
       "mesh_count": 1,
       "material_count": 1,
@@ -12877,9 +12877,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/67a7ac05ac04ec9b3d8c3d62438eb49dc1d7ae59d50a1a5311012d7d21ad8ea5.jpg",
-          "bytes": 11722,
-          "sha256": "67a7ac05ac04ec9b3d8c3d62438eb49dc1d7ae59d50a1a5311012d7d21ad8ea5",
+          "path": "models/Meadow/_shared/textures/3debbd0e9301b8cf0e5aaeb5e2df181fd6823e580fe263d55145022735922526.png",
+          "bytes": 55374,
+          "sha256": "3debbd0e9301b8cf0e5aaeb5e2df181fd6823e580fe263d55145022735922526",
           "kind": "textures"
         }
       ],
@@ -12899,8 +12899,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Leaves/SM_Leaves_OakTree_02.fbx",
       "source_guid": "0eebba389ca96f9428e5568b69f11863",
       "source_sha256": "e302b4aa69a89e5b62db5470dec9088f1d1e19ce85b3107287e8fd1054780046",
-      "bytes": 2364,
-      "sha256": "7be24176db2b959eb245da7380c9e9b944c9eab53de9cdf8b5e9811d1aa67b95",
+      "bytes": 2377,
+      "sha256": "18015a96209049e37b3ed213fe7e011d247217212c32be0d64a7a0861e33982b",
       "triangles": 104,
       "mesh_count": 1,
       "material_count": 1,
@@ -12936,9 +12936,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/a67c5ca9f1c8af7cc17727434aec5ae6354a88349be91dabfc3697c19668b6f4.jpg",
-          "bytes": 8456,
-          "sha256": "a67c5ca9f1c8af7cc17727434aec5ae6354a88349be91dabfc3697c19668b6f4",
+          "path": "models/Meadow/_shared/textures/a043e48b39022ab863cf5f893d423ab452bf5747db5f4f5e0b62dfb1f63e31bc.png",
+          "bytes": 49164,
+          "sha256": "a043e48b39022ab863cf5f893d423ab452bf5747db5f4f5e0b62dfb1f63e31bc",
           "kind": "textures"
         }
       ],
@@ -16466,8 +16466,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_01_01.fbx",
       "source_guid": "f546ca5dfe719294884150872f24f737",
       "source_sha256": "338917cdcb9c2b84e5ed00a95c7079177d3d6f05df6f8be1690679e383a258a0",
-      "bytes": 2303,
-      "sha256": "378c6e61edf2635e34c685de8d4657b2e0a51b1f15ad259a8e731c083e962ba0",
+      "bytes": 2316,
+      "sha256": "3739d6fa64933baf828d331c635bc2f8a67bcd32809410d90ca4abb7c81f621f",
       "triangles": 92,
       "mesh_count": 1,
       "material_count": 1,
@@ -16503,9 +16503,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c.jpg",
-          "bytes": 117221,
-          "sha256": "c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c",
+          "path": "models/Meadow/_shared/textures/f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0.png",
+          "bytes": 467250,
+          "sha256": "f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0",
           "kind": "textures"
         }
       ],
@@ -16528,8 +16528,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_01_01.fbx",
       "source_guid": "f546ca5dfe719294884150872f24f737",
       "source_sha256": "338917cdcb9c2b84e5ed00a95c7079177d3d6f05df6f8be1690679e383a258a0",
-      "bytes": 2303,
-      "sha256": "84191db1dabcdd542c9e71f0b2e592ca453fbd79f39c2654fa92974de910680d",
+      "bytes": 2316,
+      "sha256": "1e032fdef49aeefcdc4f71d0ec0366f1edc6a59f54f5a88e4a5fdcaf06c9db2a",
       "triangles": 92,
       "mesh_count": 1,
       "material_count": 1,
@@ -16565,9 +16565,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739.jpg",
-          "bytes": 98475,
-          "sha256": "9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739",
+          "path": "models/Meadow/_shared/textures/62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd.png",
+          "bytes": 407320,
+          "sha256": "62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd",
           "kind": "textures"
         }
       ],
@@ -16590,8 +16590,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_01_01.fbx",
       "source_guid": "f546ca5dfe719294884150872f24f737",
       "source_sha256": "338917cdcb9c2b84e5ed00a95c7079177d3d6f05df6f8be1690679e383a258a0",
-      "bytes": 2303,
-      "sha256": "668f14944353fb5001ce6d034cb7753bfd7b65dcc1cb4b369f319ebe0cfb6dc3",
+      "bytes": 2316,
+      "sha256": "200f18fc18c81c5b658e6b1b05b5be216fd90b6f00b37b5d9ab44fd91e53f582",
       "triangles": 92,
       "mesh_count": 1,
       "material_count": 1,
@@ -16627,9 +16627,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb.jpg",
-          "bytes": 74316,
-          "sha256": "71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb",
+          "path": "models/Meadow/_shared/textures/882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d.png",
+          "bytes": 382670,
+          "sha256": "882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d",
           "kind": "textures"
         }
       ],
@@ -16652,8 +16652,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_01_02.fbx",
       "source_guid": "98c95f0005f523e45ae5b3d540ad24ac",
       "source_sha256": "1ed63b8b418a2dd50307b2eb552ca9bf5480c696861a28c86ccb5da214a5ea02",
-      "bytes": 2307,
-      "sha256": "51bc4e1e7e3b4381c99b55e7e83065e2d038aa60f4484b35fd339d68be4d61c0",
+      "bytes": 2320,
+      "sha256": "3eb39148f7f36fee239bb479ee98983cf8239d8fe4a194812f4f18522c73adbc",
       "triangles": 140,
       "mesh_count": 1,
       "material_count": 1,
@@ -16689,9 +16689,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c.jpg",
-          "bytes": 117221,
-          "sha256": "c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c",
+          "path": "models/Meadow/_shared/textures/f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0.png",
+          "bytes": 467250,
+          "sha256": "f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0",
           "kind": "textures"
         }
       ],
@@ -16714,8 +16714,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_01_02.fbx",
       "source_guid": "98c95f0005f523e45ae5b3d540ad24ac",
       "source_sha256": "1ed63b8b418a2dd50307b2eb552ca9bf5480c696861a28c86ccb5da214a5ea02",
-      "bytes": 2307,
-      "sha256": "24047b6ea2fa7582e3e156a9f943e131f87bf0dc57dd2cb520c9f81cc8306627",
+      "bytes": 2320,
+      "sha256": "27b5eb0a75a022748a0eec513c1f8f792e3c7b887a31312ef2bd3588fa4647dd",
       "triangles": 140,
       "mesh_count": 1,
       "material_count": 1,
@@ -16751,9 +16751,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739.jpg",
-          "bytes": 98475,
-          "sha256": "9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739",
+          "path": "models/Meadow/_shared/textures/62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd.png",
+          "bytes": 407320,
+          "sha256": "62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd",
           "kind": "textures"
         }
       ],
@@ -16776,8 +16776,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_01_02.fbx",
       "source_guid": "98c95f0005f523e45ae5b3d540ad24ac",
       "source_sha256": "1ed63b8b418a2dd50307b2eb552ca9bf5480c696861a28c86ccb5da214a5ea02",
-      "bytes": 2307,
-      "sha256": "6427a9bd586975ae1011d22e5ec8c7b7dfbb9ed44feece2d9ccefb7ebd2184bb",
+      "bytes": 2320,
+      "sha256": "b08207b1eb4392697ca08f0aa8f67b3ebfd092464eac698ad4a919aa2751a3a9",
       "triangles": 140,
       "mesh_count": 1,
       "material_count": 1,
@@ -16813,9 +16813,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb.jpg",
-          "bytes": 74316,
-          "sha256": "71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb",
+          "path": "models/Meadow/_shared/textures/882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d.png",
+          "bytes": 382670,
+          "sha256": "882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d",
           "kind": "textures"
         }
       ],
@@ -16838,8 +16838,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_01_03.fbx",
       "source_guid": "471c6c6f13fa6f3458b39d340dcec90f",
       "source_sha256": "24b3f62f818f8c438cd17de78588fcd0830327c5761cf70f2d2a9fe7527a1051",
-      "bytes": 2308,
-      "sha256": "8986fe7dd2e2a9a3d7b95525ab19ffadc5977e4cfdbd7c397f65f876b740fb3e",
+      "bytes": 2321,
+      "sha256": "bb5d49f41640e08d67c7bc3865aa98838406bff84f43cc1943b9301f63a96003",
       "triangles": 260,
       "mesh_count": 1,
       "material_count": 1,
@@ -16875,9 +16875,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c.jpg",
-          "bytes": 117221,
-          "sha256": "c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c",
+          "path": "models/Meadow/_shared/textures/f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0.png",
+          "bytes": 467250,
+          "sha256": "f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0",
           "kind": "textures"
         }
       ],
@@ -16900,8 +16900,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_01_03.fbx",
       "source_guid": "471c6c6f13fa6f3458b39d340dcec90f",
       "source_sha256": "24b3f62f818f8c438cd17de78588fcd0830327c5761cf70f2d2a9fe7527a1051",
-      "bytes": 2308,
-      "sha256": "49638dc9d7324267359c9eb9780a5211d53da5754ff4c13643bf8bb95d7bfcae",
+      "bytes": 2321,
+      "sha256": "8326f979f509fe17e2bde5cc67351ffae950111569a03e857d8b2ddd969387d3",
       "triangles": 260,
       "mesh_count": 1,
       "material_count": 1,
@@ -16937,9 +16937,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739.jpg",
-          "bytes": 98475,
-          "sha256": "9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739",
+          "path": "models/Meadow/_shared/textures/62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd.png",
+          "bytes": 407320,
+          "sha256": "62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd",
           "kind": "textures"
         }
       ],
@@ -16962,8 +16962,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_01_03.fbx",
       "source_guid": "471c6c6f13fa6f3458b39d340dcec90f",
       "source_sha256": "24b3f62f818f8c438cd17de78588fcd0830327c5761cf70f2d2a9fe7527a1051",
-      "bytes": 2308,
-      "sha256": "d8e508f2f9df6505bddf2bb7fda811d966abf435269c5f3fb48783895cbced7a",
+      "bytes": 2321,
+      "sha256": "aa81f6999040d7c451f1d2c8deb7fe73f4830031807f5fa5083b09b188ee7e79",
       "triangles": 260,
       "mesh_count": 1,
       "material_count": 1,
@@ -16999,9 +16999,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb.jpg",
-          "bytes": 74316,
-          "sha256": "71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb",
+          "path": "models/Meadow/_shared/textures/882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d.png",
+          "bytes": 382670,
+          "sha256": "882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d",
           "kind": "textures"
         }
       ],
@@ -17024,8 +17024,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_02_01.fbx",
       "source_guid": "91eb352c962e9bb47b4410e7d62cc6cd",
       "source_sha256": "1a47be496e18e015f81bce56abcd0149c90d3825726139eb76267509a1ec44bd",
-      "bytes": 2300,
-      "sha256": "9b2cfc2b51cc9a76a2d084382cf450e4857b7f608fa0767f9d694008f77a7cac",
+      "bytes": 2313,
+      "sha256": "b728a8efa4512e662eea8ef3bfb9620db67051e0bda4478740640927fc7b8cc1",
       "triangles": 100,
       "mesh_count": 1,
       "material_count": 1,
@@ -17061,9 +17061,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c.jpg",
-          "bytes": 117221,
-          "sha256": "c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c",
+          "path": "models/Meadow/_shared/textures/f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0.png",
+          "bytes": 467250,
+          "sha256": "f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0",
           "kind": "textures"
         }
       ],
@@ -17086,8 +17086,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_02_01.fbx",
       "source_guid": "91eb352c962e9bb47b4410e7d62cc6cd",
       "source_sha256": "1a47be496e18e015f81bce56abcd0149c90d3825726139eb76267509a1ec44bd",
-      "bytes": 2300,
-      "sha256": "4e6da675a28e2b0c8e4a6e47571072bd796cd2d35d1dd965d459fe86c56998e9",
+      "bytes": 2313,
+      "sha256": "736da98ce548ba2626238867acc2209f2b1bcc6444c77866c4459aac4263efed",
       "triangles": 100,
       "mesh_count": 1,
       "material_count": 1,
@@ -17123,9 +17123,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739.jpg",
-          "bytes": 98475,
-          "sha256": "9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739",
+          "path": "models/Meadow/_shared/textures/62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd.png",
+          "bytes": 407320,
+          "sha256": "62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd",
           "kind": "textures"
         }
       ],
@@ -17148,8 +17148,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_02_01.fbx",
       "source_guid": "91eb352c962e9bb47b4410e7d62cc6cd",
       "source_sha256": "1a47be496e18e015f81bce56abcd0149c90d3825726139eb76267509a1ec44bd",
-      "bytes": 2300,
-      "sha256": "0d84141ab7f434c86d461c4a023c336d9d1d25e2507bd184241aa29f9c85ef45",
+      "bytes": 2313,
+      "sha256": "7d0eb89d94329532f5d7dfe1f986c2a2380682d5ff02b726be176261676e595a",
       "triangles": 100,
       "mesh_count": 1,
       "material_count": 1,
@@ -17185,9 +17185,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb.jpg",
-          "bytes": 74316,
-          "sha256": "71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb",
+          "path": "models/Meadow/_shared/textures/882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d.png",
+          "bytes": 382670,
+          "sha256": "882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d",
           "kind": "textures"
         }
       ],
@@ -17210,8 +17210,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_02_02.fbx",
       "source_guid": "180eed47c273d20418ae2b156e9402a0",
       "source_sha256": "0383e1cfb2f1a555acdae64e54ce73ecd710c6dfb75f6dd0f40d9ffa63c8b07d",
-      "bytes": 2303,
-      "sha256": "de0349926e50124598d9cfc26a44f6a84a7054427aa642254ff6acbe703fa88d",
+      "bytes": 2316,
+      "sha256": "b8335b892b12974e767735066ee62b679d4379f3bed4b2d1f5737e70b7710f9b",
       "triangles": 184,
       "mesh_count": 1,
       "material_count": 1,
@@ -17247,9 +17247,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c.jpg",
-          "bytes": 117221,
-          "sha256": "c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c",
+          "path": "models/Meadow/_shared/textures/f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0.png",
+          "bytes": 467250,
+          "sha256": "f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0",
           "kind": "textures"
         }
       ],
@@ -17272,8 +17272,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_02_02.fbx",
       "source_guid": "180eed47c273d20418ae2b156e9402a0",
       "source_sha256": "0383e1cfb2f1a555acdae64e54ce73ecd710c6dfb75f6dd0f40d9ffa63c8b07d",
-      "bytes": 2303,
-      "sha256": "02fc0a8197089889a86d9de6f92c260d3113738b2415689e0cf6f9cae0cfa05d",
+      "bytes": 2316,
+      "sha256": "74dcd6c4cf1726d9c77b7c0ecad0d72f1c3219ed352e5a786a865a64955339e9",
       "triangles": 184,
       "mesh_count": 1,
       "material_count": 1,
@@ -17309,9 +17309,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739.jpg",
-          "bytes": 98475,
-          "sha256": "9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739",
+          "path": "models/Meadow/_shared/textures/62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd.png",
+          "bytes": 407320,
+          "sha256": "62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd",
           "kind": "textures"
         }
       ],
@@ -17334,8 +17334,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_02_02.fbx",
       "source_guid": "180eed47c273d20418ae2b156e9402a0",
       "source_sha256": "0383e1cfb2f1a555acdae64e54ce73ecd710c6dfb75f6dd0f40d9ffa63c8b07d",
-      "bytes": 2303,
-      "sha256": "b65e2d51b3ae5338b9b9aca07c9091b7bb78fcf49198acee2d98c5dcd2287eed",
+      "bytes": 2316,
+      "sha256": "1a5ec0675d2e03ec7ac39c6eec3d6d7b4aa4b434179785925791e9a2f73ea78c",
       "triangles": 184,
       "mesh_count": 1,
       "material_count": 1,
@@ -17371,9 +17371,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb.jpg",
-          "bytes": 74316,
-          "sha256": "71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb",
+          "path": "models/Meadow/_shared/textures/882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d.png",
+          "bytes": 382670,
+          "sha256": "882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d",
           "kind": "textures"
         }
       ],
@@ -17396,8 +17396,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_02_03.fbx",
       "source_guid": "e9ac48db9f3faaf46b585ab8e7f84828",
       "source_sha256": "cb058e70a7971f4a119bb7175fb02de9632db2ea5f63081bdaadabdc440eecbe",
-      "bytes": 2307,
-      "sha256": "64a3be82a03dafc7ef43e4e93a0943944502d64a39c5772c7e807e9f57760212",
+      "bytes": 2320,
+      "sha256": "94929c3001c1862965df428e75015c38a82ec813ea6509822ea2f16cf98e8360",
       "triangles": 392,
       "mesh_count": 1,
       "material_count": 1,
@@ -17433,9 +17433,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c.jpg",
-          "bytes": 117221,
-          "sha256": "c0bdbe45ad662234641d6929636f659e0fe8ee8ca765abd5d846d81fe4bb296c",
+          "path": "models/Meadow/_shared/textures/f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0.png",
+          "bytes": 467250,
+          "sha256": "f8e862cc0c114996ac6262f23afb2e369f966e2aeef5305cd6e658ded1afa0d0",
           "kind": "textures"
         }
       ],
@@ -17458,8 +17458,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_02_03.fbx",
       "source_guid": "e9ac48db9f3faaf46b585ab8e7f84828",
       "source_sha256": "cb058e70a7971f4a119bb7175fb02de9632db2ea5f63081bdaadabdc440eecbe",
-      "bytes": 2307,
-      "sha256": "65efb157a5ad347eb5cfe550ade2d653af44cadd8207776207318307049afd59",
+      "bytes": 2320,
+      "sha256": "2afa905b78df67d850c53535f1a6e375881efbe8068615a50364419df7095c7a",
       "triangles": 392,
       "mesh_count": 1,
       "material_count": 1,
@@ -17495,9 +17495,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739.jpg",
-          "bytes": 98475,
-          "sha256": "9d18591a59fe0641c71322b165f821d1aeabf2c9ad507b906c0b2bc0c445b739",
+          "path": "models/Meadow/_shared/textures/62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd.png",
+          "bytes": 407320,
+          "sha256": "62080b036edadb4f6fccde6b36c13c40589b0eb8867bfdc011b19a377b06f7fd",
           "kind": "textures"
         }
       ],
@@ -17520,8 +17520,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Plants/SM_Plant_02_03.fbx",
       "source_guid": "e9ac48db9f3faaf46b585ab8e7f84828",
       "source_sha256": "cb058e70a7971f4a119bb7175fb02de9632db2ea5f63081bdaadabdc440eecbe",
-      "bytes": 2307,
-      "sha256": "d1b6b6c479f7ccaeda181eed961beda344ed1026a9b3258ff2dd7c2411bc48c6",
+      "bytes": 2320,
+      "sha256": "734d881aa754e9d6805aaf4509ff6e461b2a61a7e4ce2a6f9e48e19dc12e28d3",
       "triangles": 392,
       "mesh_count": 1,
       "material_count": 1,
@@ -17557,9 +17557,9 @@
           "kind": "buffers"
         },
         {
-          "path": "models/Meadow/_shared/textures/71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb.jpg",
-          "bytes": 74316,
-          "sha256": "71420a149596f354b9436f2e6b03e3489f20dda8d3ffc2fc2c709f6177968ffb",
+          "path": "models/Meadow/_shared/textures/882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d.png",
+          "bytes": 382670,
+          "sha256": "882834a0e23fb860ff17f08572d856f93e1108eedd70932b6be837689e862c5d",
           "kind": "textures"
         }
       ],
@@ -18509,7 +18509,7 @@
       "source_guid": "0b0ef994197b2a34c98b431bd3e103e6",
       "source_sha256": "d61dc670f78d99ed6bd6381f3495b41770c3fe27f4d744a2d731ba4913d2b580",
       "bytes": 4633,
-      "sha256": "d1f2e11edb4ab35d1085d7b377ba1929d312f5b1330b639a41348dfc6ec6f167",
+      "sha256": "f19fc1c91b11891c1fb92f8e0ec849ab1cad415136aebd19bd477cb5f134431d",
       "triangles": 1938,
       "mesh_count": 1,
       "material_count": 2,
@@ -18563,9 +18563,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -18594,7 +18594,7 @@
       "source_guid": "0b0ef994197b2a34c98b431bd3e103e6",
       "source_sha256": "d61dc670f78d99ed6bd6381f3495b41770c3fe27f4d744a2d731ba4913d2b580",
       "bytes": 4633,
-      "sha256": "16cc25a4d0d7039441eb5770f10ab459746021cd3dba02080d2a27109266fa3d",
+      "sha256": "66a25c2d8410ab33ec8a767f450d4582bfdde60f21d1ebae29944b4d65beb072",
       "triangles": 1938,
       "mesh_count": 1,
       "material_count": 2,
@@ -18648,9 +18648,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -18679,7 +18679,7 @@
       "source_guid": "0b0ef994197b2a34c98b431bd3e103e6",
       "source_sha256": "d61dc670f78d99ed6bd6381f3495b41770c3fe27f4d744a2d731ba4913d2b580",
       "bytes": 4633,
-      "sha256": "7d58b209d6f35d491c95abfa6b894d98b091c51ddce267fe32af4c2b346f93ff",
+      "sha256": "a5ce1f94e4263fef786f745c9bb43847788928f185ac1add1d4eab03f5c20af6",
       "triangles": 1938,
       "mesh_count": 1,
       "material_count": 2,
@@ -18733,9 +18733,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -18765,7 +18765,7 @@
       "source_guid": "76ec278323cbbbb4090fb254947497b5",
       "source_sha256": "10d703703589479ece70e2c6173fbe21472797e7e244ce1e3648cac9614695b4",
       "bytes": 4634,
-      "sha256": "268c16124c8e43abb7c3ba26eaa083f2e95e2dbbe3739510ead8ce6925807f34",
+      "sha256": "4b4cb4002513759ef94fe7fa4a7f9a49087f6d218cd3ef2c881948e8e148d651",
       "triangles": 1590,
       "mesh_count": 1,
       "material_count": 2,
@@ -18819,9 +18819,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -18850,7 +18850,7 @@
       "source_guid": "76ec278323cbbbb4090fb254947497b5",
       "source_sha256": "10d703703589479ece70e2c6173fbe21472797e7e244ce1e3648cac9614695b4",
       "bytes": 4634,
-      "sha256": "a70dcf6094a330286c8162128247561b7952bad2a29de7651c8c5571c3beea41",
+      "sha256": "3c58f6b1708168861a9c073d29017f3b32087435c47d4f5523564fd3df2687a8",
       "triangles": 1590,
       "mesh_count": 1,
       "material_count": 2,
@@ -18904,9 +18904,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -18935,7 +18935,7 @@
       "source_guid": "76ec278323cbbbb4090fb254947497b5",
       "source_sha256": "10d703703589479ece70e2c6173fbe21472797e7e244ce1e3648cac9614695b4",
       "bytes": 4634,
-      "sha256": "b864cbd26db863e2d625e1c327a6e1de4973e2624b08f7ec64d5acc8c8ffc588",
+      "sha256": "f3847a775cf636b7e14f20e27ab6da20539e42bfbaaff8e893f8338f83a7e31c",
       "triangles": 1590,
       "mesh_count": 1,
       "material_count": 2,
@@ -18989,9 +18989,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -19021,7 +19021,7 @@
       "source_guid": "138c1f75425b6564b80786c5f012e111",
       "source_sha256": "45c6213c9f3d9388435ea977fab5b4e0034922daaa4107d213e572247187d456",
       "bytes": 4633,
-      "sha256": "89b78e3d0d7c7f4e6193f9eb83b08af673e0064ee6981b045b240b722c36c6b3",
+      "sha256": "a325f65d7ac398fbf832ea681f11d88c9425f6f9331c528e20e9be9c3602a689",
       "triangles": 1854,
       "mesh_count": 1,
       "material_count": 2,
@@ -19075,9 +19075,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -19106,7 +19106,7 @@
       "source_guid": "138c1f75425b6564b80786c5f012e111",
       "source_sha256": "45c6213c9f3d9388435ea977fab5b4e0034922daaa4107d213e572247187d456",
       "bytes": 4633,
-      "sha256": "8e4f8e6e632b2d89840760de361e3ec28225a8d4f7a1eb064db599a3f9a5f619",
+      "sha256": "c05174c08eff1676cf9ed390a5d839ce56a7fe68da25d3b115c7d3ce48e95aeb",
       "triangles": 1854,
       "mesh_count": 1,
       "material_count": 2,
@@ -19160,9 +19160,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -19191,7 +19191,7 @@
       "source_guid": "138c1f75425b6564b80786c5f012e111",
       "source_sha256": "45c6213c9f3d9388435ea977fab5b4e0034922daaa4107d213e572247187d456",
       "bytes": 4633,
-      "sha256": "2ad6751bb5bf2bf3ae9276b501bdfccebe90dbfd167dc31f7ab3a72934d914d9",
+      "sha256": "ac5e09a01e11749d43bce8faf779fef116df674ea14bf9c49025f1d3c55c2538",
       "triangles": 1854,
       "mesh_count": 1,
       "material_count": 2,
@@ -19245,9 +19245,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -19277,7 +19277,7 @@
       "source_guid": "6402740099e42854fae4783346ef334d",
       "source_sha256": "e7b5094a2258abb9384932ecb724b0944e13ef253da47c6cbd02ac986cb616a0",
       "bytes": 4636,
-      "sha256": "730d8ff861b4f7295ed0d7d9400ade3b836fd45c43fe6bc1ce83d5b2f1ef79b5",
+      "sha256": "63118012576842534709252b7f137d89b19f3e41953c3e5444490a969368436c",
       "triangles": 1865,
       "mesh_count": 1,
       "material_count": 2,
@@ -19331,9 +19331,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -19362,7 +19362,7 @@
       "source_guid": "6402740099e42854fae4783346ef334d",
       "source_sha256": "e7b5094a2258abb9384932ecb724b0944e13ef253da47c6cbd02ac986cb616a0",
       "bytes": 4636,
-      "sha256": "6419899aaa0be7469bcf01590379598750555b753be86134115a0125273e69bb",
+      "sha256": "86eb8bd197070f604af2bfc4ce5d52ec5ff93ccc1547b0bf7d2b01ad3674ab9b",
       "triangles": 1865,
       "mesh_count": 1,
       "material_count": 2,
@@ -19416,9 +19416,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -19447,7 +19447,7 @@
       "source_guid": "6402740099e42854fae4783346ef334d",
       "source_sha256": "e7b5094a2258abb9384932ecb724b0944e13ef253da47c6cbd02ac986cb616a0",
       "bytes": 4636,
-      "sha256": "c8c44efc03d8374c5c2914cc619ed988b066d5a7035e2ea4476209e16709f75f",
+      "sha256": "acbae150f9f32543d57781fd455e3f62f2adbe94da766166632d4fa826483834",
       "triangles": 1865,
       "mesh_count": 1,
       "material_count": 2,
@@ -19501,9 +19501,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -29494,8 +29494,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_01.fbx",
       "source_guid": "d3800957d3342214788c0a0faed33581",
       "source_sha256": "5e5e2b1d09a0e2b65d78fbf4eca68903223055fba346b11ea895525bc3a8d061",
-      "bytes": 4848,
-      "sha256": "0b185932e307708ea2b0d9bfa37b43e88f8b51e79c60e13ec3b9b761f139a873",
+      "bytes": 4861,
+      "sha256": "4503773d50a5a6cbfec94b6162d8cb6eb8db81822a3086020f332b3bf4100ed0",
       "triangles": 13198,
       "mesh_count": 1,
       "material_count": 2,
@@ -29549,9 +29549,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a.jpg",
-          "bytes": 229552,
-          "sha256": "68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a",
+          "path": "models/Meadow/_shared/textures/1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334.png",
+          "bytes": 1125956,
+          "sha256": "1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334",
           "kind": "textures"
         }
       ],
@@ -29574,8 +29574,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_01.fbx",
       "source_guid": "d3800957d3342214788c0a0faed33581",
       "source_sha256": "5e5e2b1d09a0e2b65d78fbf4eca68903223055fba346b11ea895525bc3a8d061",
-      "bytes": 4848,
-      "sha256": "8d3b82c96271520f8a382a0d0e4902cc3269d3fa6cb3f8c05edd993f8b455c99",
+      "bytes": 4861,
+      "sha256": "74c44921a763ef8f8bc1f64ca9828e7c891251ed7f1a6e6ccadb045ef046660f",
       "triangles": 13198,
       "mesh_count": 1,
       "material_count": 2,
@@ -29629,9 +29629,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7.jpg",
-          "bytes": 211858,
-          "sha256": "232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7",
+          "path": "models/Meadow/_shared/textures/a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417.png",
+          "bytes": 1072329,
+          "sha256": "a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417",
           "kind": "textures"
         }
       ],
@@ -29654,8 +29654,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_01.fbx",
       "source_guid": "d3800957d3342214788c0a0faed33581",
       "source_sha256": "5e5e2b1d09a0e2b65d78fbf4eca68903223055fba346b11ea895525bc3a8d061",
-      "bytes": 4848,
-      "sha256": "97ada03164f9dfd2d6386689013ecdf2deb3a57a547b16d1cd1d1e3ffad54315",
+      "bytes": 4861,
+      "sha256": "6ea73c5fe010ec91502298699867746f8fede83faedeb279751871127dc5de06",
       "triangles": 13198,
       "mesh_count": 1,
       "material_count": 2,
@@ -29709,9 +29709,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a.jpg",
-          "bytes": 213795,
-          "sha256": "1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a",
+          "path": "models/Meadow/_shared/textures/cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2.png",
+          "bytes": 1124539,
+          "sha256": "cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2",
           "kind": "textures"
         }
       ],
@@ -29734,8 +29734,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_01_Ivy.fbx",
       "source_guid": "8d3fd01ac83943e4ebf1ef6a67591abc",
       "source_sha256": "5c9d54e2734ceb0babc30f4f7a18c50465465cdf54a1899d9ae9e93a5a8590e7",
-      "bytes": 6930,
-      "sha256": "a5e27c658e5ab178acd7dcd96f2a78c9a1e9bbca8a01dc97243e90e55532f9e3",
+      "bytes": 6943,
+      "sha256": "cb9eabc8f296bf9127c5cba2fc2de6607237620f94a2018ce4b40c87bef85cfc",
       "triangles": 17276,
       "mesh_count": 1,
       "material_count": 3,
@@ -29789,15 +29789,15 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a.jpg",
-          "bytes": 229552,
-          "sha256": "68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a",
+          "path": "models/Meadow/_shared/textures/1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334.png",
+          "bytes": 1125956,
+          "sha256": "1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334",
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -29826,8 +29826,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_01_Ivy.fbx",
       "source_guid": "8d3fd01ac83943e4ebf1ef6a67591abc",
       "source_sha256": "5c9d54e2734ceb0babc30f4f7a18c50465465cdf54a1899d9ae9e93a5a8590e7",
-      "bytes": 6930,
-      "sha256": "12821baa5adeb9c5c560c54fef55796a5e723cb3c294689f129ff6adbe955e86",
+      "bytes": 6943,
+      "sha256": "915c8f0a25f8d7ed41e52714d30289982e758e863d76a83595941cd4f438503f",
       "triangles": 17276,
       "mesh_count": 1,
       "material_count": 3,
@@ -29881,15 +29881,15 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7.jpg",
-          "bytes": 211858,
-          "sha256": "232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7",
+          "path": "models/Meadow/_shared/textures/a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417.png",
+          "bytes": 1072329,
+          "sha256": "a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417",
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -29918,8 +29918,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_01_Ivy.fbx",
       "source_guid": "8d3fd01ac83943e4ebf1ef6a67591abc",
       "source_sha256": "5c9d54e2734ceb0babc30f4f7a18c50465465cdf54a1899d9ae9e93a5a8590e7",
-      "bytes": 6930,
-      "sha256": "e677f6b256dc26ac0b68b92aea6f3fa5dfab373fb77a80df66f834e7b34ce3c9",
+      "bytes": 6943,
+      "sha256": "74de36144e1b47323473a527c346edf784724ae53a5b62a391ca8721eec494aa",
       "triangles": 17276,
       "mesh_count": 1,
       "material_count": 3,
@@ -29973,15 +29973,15 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a.jpg",
-          "bytes": 213795,
-          "sha256": "1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a",
+          "path": "models/Meadow/_shared/textures/cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2.png",
+          "bytes": 1124539,
+          "sha256": "cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2",
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -30010,8 +30010,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_02.fbx",
       "source_guid": "fffeb22eb23acfb4b87a7d1f5eecd083",
       "source_sha256": "57fa41a2a359b91ef7133809ecb00e9695485b63710585a2d563a7b14dbf4bfc",
-      "bytes": 4868,
-      "sha256": "d23d52cdaa28aa86ab5384c47600c5f19c6506c3249c550a0288d596a8ef7218",
+      "bytes": 4881,
+      "sha256": "9bcc35c1b0684da93580839ea44f8aa38744558ee8771b7cfe5ec2d63cd62008",
       "triangles": 11817,
       "mesh_count": 1,
       "material_count": 2,
@@ -30065,9 +30065,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a.jpg",
-          "bytes": 229552,
-          "sha256": "68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a",
+          "path": "models/Meadow/_shared/textures/1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334.png",
+          "bytes": 1125956,
+          "sha256": "1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334",
           "kind": "textures"
         }
       ],
@@ -30090,8 +30090,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_02.fbx",
       "source_guid": "fffeb22eb23acfb4b87a7d1f5eecd083",
       "source_sha256": "57fa41a2a359b91ef7133809ecb00e9695485b63710585a2d563a7b14dbf4bfc",
-      "bytes": 4868,
-      "sha256": "39547474f7bc3dd983d708e9ed8162f9fc8413dffc437ddf247fb67c3200b26f",
+      "bytes": 4881,
+      "sha256": "593754b473e4f8f3d926d82b530d71becc848a58da03ed59972be8e82fbd251f",
       "triangles": 11817,
       "mesh_count": 1,
       "material_count": 2,
@@ -30145,9 +30145,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7.jpg",
-          "bytes": 211858,
-          "sha256": "232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7",
+          "path": "models/Meadow/_shared/textures/a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417.png",
+          "bytes": 1072329,
+          "sha256": "a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417",
           "kind": "textures"
         }
       ],
@@ -30170,8 +30170,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_02.fbx",
       "source_guid": "fffeb22eb23acfb4b87a7d1f5eecd083",
       "source_sha256": "57fa41a2a359b91ef7133809ecb00e9695485b63710585a2d563a7b14dbf4bfc",
-      "bytes": 4868,
-      "sha256": "c191b54b832d3db3ee005ade809a8e2408eca75ab7f427a40c9835953ac16d7b",
+      "bytes": 4881,
+      "sha256": "ef57de67f24bd0c7bda90c32ff86e9d97278a9bf1c654d59edf49908ceb213d4",
       "triangles": 11817,
       "mesh_count": 1,
       "material_count": 2,
@@ -30225,9 +30225,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a.jpg",
-          "bytes": 213795,
-          "sha256": "1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a",
+          "path": "models/Meadow/_shared/textures/cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2.png",
+          "bytes": 1124539,
+          "sha256": "cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2",
           "kind": "textures"
         }
       ],
@@ -30250,8 +30250,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_02_Ivy.fbx",
       "source_guid": "66126e1bd2f489d4bb205963ee936734",
       "source_sha256": "bdadaf829217bd312c3490775f601f9cf655a67260475de4979bf3f0d08ccfdf",
-      "bytes": 6954,
-      "sha256": "edc9bafd7f3044305d1ca240012ea60cf1a61b80e2e4bc72152a358c12a54117",
+      "bytes": 6967,
+      "sha256": "bb0e6f6e4ee0ddd53b30412a501146028622c002b370d67b3acd0c867179b483",
       "triangles": 16109,
       "mesh_count": 1,
       "material_count": 3,
@@ -30305,15 +30305,15 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a.jpg",
-          "bytes": 229552,
-          "sha256": "68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a",
+          "path": "models/Meadow/_shared/textures/1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334.png",
+          "bytes": 1125956,
+          "sha256": "1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334",
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -30342,8 +30342,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_02_Ivy.fbx",
       "source_guid": "66126e1bd2f489d4bb205963ee936734",
       "source_sha256": "bdadaf829217bd312c3490775f601f9cf655a67260475de4979bf3f0d08ccfdf",
-      "bytes": 6954,
-      "sha256": "539c2852a620e3872be2f3e9adc7dacc69487ce3b5365e4943acdab60de84bea",
+      "bytes": 6967,
+      "sha256": "692c05035804051ece84bc5e0e7057431ba232b733e43c82fc42f13e7bdf8b90",
       "triangles": 16109,
       "mesh_count": 1,
       "material_count": 3,
@@ -30397,15 +30397,15 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7.jpg",
-          "bytes": 211858,
-          "sha256": "232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7",
+          "path": "models/Meadow/_shared/textures/a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417.png",
+          "bytes": 1072329,
+          "sha256": "a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417",
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -30434,8 +30434,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_02_Ivy.fbx",
       "source_guid": "66126e1bd2f489d4bb205963ee936734",
       "source_sha256": "bdadaf829217bd312c3490775f601f9cf655a67260475de4979bf3f0d08ccfdf",
-      "bytes": 6954,
-      "sha256": "f7ca0f83f235faa62070ec62e9e5d43ab6c08527cf133351fdec7c197c3ee28e",
+      "bytes": 6967,
+      "sha256": "331f7b0c3487217f07b688fef3106897c505b8b534b73d221c80b912d224ec79",
       "triangles": 16109,
       "mesh_count": 1,
       "material_count": 3,
@@ -30489,15 +30489,15 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a.jpg",
-          "bytes": 213795,
-          "sha256": "1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a",
+          "path": "models/Meadow/_shared/textures/cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2.png",
+          "bytes": 1124539,
+          "sha256": "cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2",
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -30526,8 +30526,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_03.fbx",
       "source_guid": "cfdd53a92d644f7439d5f4ac27887109",
       "source_sha256": "a4830380744647e7af1062ad506204e1c14c2782bf6d7419a4b60158b67ff76d",
-      "bytes": 4846,
-      "sha256": "4522c1675b2e449a2dadffb05ed13f6415e6f3639674acbd59aa1b060dfb8466",
+      "bytes": 4859,
+      "sha256": "d0d8118fddef709245ba98b7300612ca637c0f6963b721342e2a0fa9bdb092a1",
       "triangles": 10995,
       "mesh_count": 1,
       "material_count": 2,
@@ -30581,9 +30581,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a.jpg",
-          "bytes": 229552,
-          "sha256": "68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a",
+          "path": "models/Meadow/_shared/textures/1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334.png",
+          "bytes": 1125956,
+          "sha256": "1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334",
           "kind": "textures"
         }
       ],
@@ -30606,8 +30606,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_03.fbx",
       "source_guid": "cfdd53a92d644f7439d5f4ac27887109",
       "source_sha256": "a4830380744647e7af1062ad506204e1c14c2782bf6d7419a4b60158b67ff76d",
-      "bytes": 4846,
-      "sha256": "41994570c4447c0e11d9b79e5b04337730ca2e535179a12440d18a79bc1ae32d",
+      "bytes": 4859,
+      "sha256": "41dad96f820ac7697cd06d01f3df618286ae05579a775c77e976c663f110bffb",
       "triangles": 10995,
       "mesh_count": 1,
       "material_count": 2,
@@ -30661,9 +30661,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7.jpg",
-          "bytes": 211858,
-          "sha256": "232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7",
+          "path": "models/Meadow/_shared/textures/a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417.png",
+          "bytes": 1072329,
+          "sha256": "a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417",
           "kind": "textures"
         }
       ],
@@ -30686,8 +30686,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_03.fbx",
       "source_guid": "cfdd53a92d644f7439d5f4ac27887109",
       "source_sha256": "a4830380744647e7af1062ad506204e1c14c2782bf6d7419a4b60158b67ff76d",
-      "bytes": 4846,
-      "sha256": "2328edc0dd1851f1bf4a2ca2126bce4fbb7968963d846009462e23330eeb8823",
+      "bytes": 4859,
+      "sha256": "b67c9fa80c9b6f7e91604d8b566e0d4ddf1c1cc31e4462bf96d783dc585fcae5",
       "triangles": 10995,
       "mesh_count": 1,
       "material_count": 2,
@@ -30741,9 +30741,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a.jpg",
-          "bytes": 213795,
-          "sha256": "1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a",
+          "path": "models/Meadow/_shared/textures/cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2.png",
+          "bytes": 1124539,
+          "sha256": "cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2",
           "kind": "textures"
         }
       ],
@@ -30766,8 +30766,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_04.fbx",
       "source_guid": "b25bdfd6434929d4e96d87541b06235f",
       "source_sha256": "acc96cf4e06e4dbd874a6bcb8c2b91f0766f1e89688f01f7167fa8f2a862b06f",
-      "bytes": 4837,
-      "sha256": "7d0e6bd97f4153c11866e651cb0a7ab27a6021ea1d448ab71a2b6cb6922002da",
+      "bytes": 4850,
+      "sha256": "b5a3c7b03eb7a2715438521e4739c806b105148e12fe872d572e5cea85e28b55",
       "triangles": 9151,
       "mesh_count": 1,
       "material_count": 2,
@@ -30821,9 +30821,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a.jpg",
-          "bytes": 229552,
-          "sha256": "68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a",
+          "path": "models/Meadow/_shared/textures/1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334.png",
+          "bytes": 1125956,
+          "sha256": "1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334",
           "kind": "textures"
         }
       ],
@@ -30846,8 +30846,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_04.fbx",
       "source_guid": "b25bdfd6434929d4e96d87541b06235f",
       "source_sha256": "acc96cf4e06e4dbd874a6bcb8c2b91f0766f1e89688f01f7167fa8f2a862b06f",
-      "bytes": 4837,
-      "sha256": "5703fc34a8c2059df649db9098e6f61157921b1c464be0b182f70eb23d4c1269",
+      "bytes": 4850,
+      "sha256": "82a1e9a766338eb4803cb224497aa96ed5156ca484378f4efeaaa354604c208c",
       "triangles": 9151,
       "mesh_count": 1,
       "material_count": 2,
@@ -30901,9 +30901,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7.jpg",
-          "bytes": 211858,
-          "sha256": "232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7",
+          "path": "models/Meadow/_shared/textures/a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417.png",
+          "bytes": 1072329,
+          "sha256": "a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417",
           "kind": "textures"
         }
       ],
@@ -30926,8 +30926,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_04.fbx",
       "source_guid": "b25bdfd6434929d4e96d87541b06235f",
       "source_sha256": "acc96cf4e06e4dbd874a6bcb8c2b91f0766f1e89688f01f7167fa8f2a862b06f",
-      "bytes": 4837,
-      "sha256": "9f14a40142e6ebef519441db46ffdacf2e53b0a8ba7796aa32012be0a9790cc4",
+      "bytes": 4850,
+      "sha256": "799adee16e12e1ab45fdc0649d95e94736b528d2ca070a5b495dce381d9393a0",
       "triangles": 9151,
       "mesh_count": 1,
       "material_count": 2,
@@ -30981,9 +30981,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a.jpg",
-          "bytes": 213795,
-          "sha256": "1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a",
+          "path": "models/Meadow/_shared/textures/cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2.png",
+          "bytes": 1124539,
+          "sha256": "cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2",
           "kind": "textures"
         }
       ],
@@ -31006,8 +31006,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_04_Ivy.fbx",
       "source_guid": "e5516dd0786597749a7c085b0ce7d706",
       "source_sha256": "780f8e60b1f113601cd83b3a5589f532b4a6740d87b8f12cb35bfead55eb2610",
-      "bytes": 6908,
-      "sha256": "a8fddf9f78fa9ad6055c3e026f44134cf948073a64c68554b4e4637077f9f382",
+      "bytes": 6921,
+      "sha256": "8adb2c56a9f87e65d839c882fe798aaaa61fc8e0193613a6c2429c70c6427530",
       "triangles": 12209,
       "mesh_count": 1,
       "material_count": 3,
@@ -31061,15 +31061,15 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a.jpg",
-          "bytes": 229552,
-          "sha256": "68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a",
+          "path": "models/Meadow/_shared/textures/1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334.png",
+          "bytes": 1125956,
+          "sha256": "1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334",
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -31098,8 +31098,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_04_Ivy.fbx",
       "source_guid": "e5516dd0786597749a7c085b0ce7d706",
       "source_sha256": "780f8e60b1f113601cd83b3a5589f532b4a6740d87b8f12cb35bfead55eb2610",
-      "bytes": 6908,
-      "sha256": "49c0866283941594cacb358f939073318b3bd2f158e792a2c55fde3ff33ad8df",
+      "bytes": 6921,
+      "sha256": "c0f07fd0d1beaa0470cc216db4de621059dcead99a0dbdec8338b34d48eb50dc",
       "triangles": 12209,
       "mesh_count": 1,
       "material_count": 3,
@@ -31153,15 +31153,15 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7.jpg",
-          "bytes": 211858,
-          "sha256": "232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7",
+          "path": "models/Meadow/_shared/textures/a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417.png",
+          "bytes": 1072329,
+          "sha256": "a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417",
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -31190,8 +31190,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_04_Ivy.fbx",
       "source_guid": "e5516dd0786597749a7c085b0ce7d706",
       "source_sha256": "780f8e60b1f113601cd83b3a5589f532b4a6740d87b8f12cb35bfead55eb2610",
-      "bytes": 6908,
-      "sha256": "ead00a9f69e6f57be4b12c20761aab8756ddfb8423b45633af07118b048877e6",
+      "bytes": 6921,
+      "sha256": "30074d7d0d66498170bbf5d08054a6161d88913d6d7c68c3c7dcbc1e5e0e9370",
       "triangles": 12209,
       "mesh_count": 1,
       "material_count": 3,
@@ -31245,15 +31245,15 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a.jpg",
-          "bytes": 213795,
-          "sha256": "1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a",
+          "path": "models/Meadow/_shared/textures/cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2.png",
+          "bytes": 1124539,
+          "sha256": "cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2",
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd.png",
-          "bytes": 336349,
-          "sha256": "586424799a61104c1cb163c7f09d1847f59085444c7fadb93f3361efa40a9cbd",
+          "path": "models/Meadow/_shared/textures/d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e.png",
+          "bytes": 291609,
+          "sha256": "d5fc108ef1975aa9b7a00f4109ed4e5d19b6f40427f841456682be44ed95205e",
           "kind": "textures"
         },
         {
@@ -31282,8 +31282,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_05.fbx",
       "source_guid": "b314c16fbeafa4e4b87ef208aa292060",
       "source_sha256": "5841baf3738e0d9a9ab48a6304ece10ec335eb23e78c176383e94ec4e3edf0a5",
-      "bytes": 4815,
-      "sha256": "2afb64fbb36b7f2d6c6616690627796813d2fb6e222cf2256f50952b78543a68",
+      "bytes": 4828,
+      "sha256": "e3979dae63700eee5dd6971d344f0ab63a5e6aaff2356fab43577136062e1190",
       "triangles": 4720,
       "mesh_count": 1,
       "material_count": 2,
@@ -31337,9 +31337,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a.jpg",
-          "bytes": 229552,
-          "sha256": "68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a",
+          "path": "models/Meadow/_shared/textures/1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334.png",
+          "bytes": 1125956,
+          "sha256": "1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334",
           "kind": "textures"
         }
       ],
@@ -31362,8 +31362,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_05.fbx",
       "source_guid": "b314c16fbeafa4e4b87ef208aa292060",
       "source_sha256": "5841baf3738e0d9a9ab48a6304ece10ec335eb23e78c176383e94ec4e3edf0a5",
-      "bytes": 4815,
-      "sha256": "2c2fcdd051d4fd8ea3f7d16ded3c269569fbc8e8abc70607ec666d552abd5a81",
+      "bytes": 4828,
+      "sha256": "6d8e7ac59b2282e911e3a863eeadb55da6ce35ac565640578c23b71ab31a7a38",
       "triangles": 4720,
       "mesh_count": 1,
       "material_count": 2,
@@ -31417,9 +31417,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7.jpg",
-          "bytes": 211858,
-          "sha256": "232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7",
+          "path": "models/Meadow/_shared/textures/a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417.png",
+          "bytes": 1072329,
+          "sha256": "a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417",
           "kind": "textures"
         }
       ],
@@ -31442,8 +31442,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_05.fbx",
       "source_guid": "b314c16fbeafa4e4b87ef208aa292060",
       "source_sha256": "5841baf3738e0d9a9ab48a6304ece10ec335eb23e78c176383e94ec4e3edf0a5",
-      "bytes": 4815,
-      "sha256": "7793085d9e93cbc3ae4c5c245dfb5fe27113105a18028e789158995384080a0c",
+      "bytes": 4828,
+      "sha256": "372e49f0ef9b707684581f648d9697f88bc78c3d342802e9371deda8a1c0cbe8",
       "triangles": 4720,
       "mesh_count": 1,
       "material_count": 2,
@@ -31497,9 +31497,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a.jpg",
-          "bytes": 213795,
-          "sha256": "1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a",
+          "path": "models/Meadow/_shared/textures/cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2.png",
+          "bytes": 1124539,
+          "sha256": "cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2",
           "kind": "textures"
         }
       ],
@@ -31522,8 +31522,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_06.fbx",
       "source_guid": "507e7b443987c1440a2ed24baa76989d",
       "source_sha256": "f7fd2c066725c098ecd982b81634e9a3ce5518adfa9177a4ef2d8e7d1a497e82",
-      "bytes": 4826,
-      "sha256": "216584a88375d9e2b37c9d0244ba269966c58ed0999e7cc8bfaac2114615ba1d",
+      "bytes": 4839,
+      "sha256": "eb6c012e2e0e09d59ad79bd4c44c15702873525943878972f9ff1298660d934f",
       "triangles": 3846,
       "mesh_count": 1,
       "material_count": 2,
@@ -31577,9 +31577,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a.jpg",
-          "bytes": 229552,
-          "sha256": "68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a",
+          "path": "models/Meadow/_shared/textures/1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334.png",
+          "bytes": 1125956,
+          "sha256": "1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334",
           "kind": "textures"
         }
       ],
@@ -31602,8 +31602,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_06.fbx",
       "source_guid": "507e7b443987c1440a2ed24baa76989d",
       "source_sha256": "f7fd2c066725c098ecd982b81634e9a3ce5518adfa9177a4ef2d8e7d1a497e82",
-      "bytes": 4826,
-      "sha256": "d33a3149bacacbc15377b97dfb33350090bc7ffc014f06ab4bae1c3ebea45522",
+      "bytes": 4839,
+      "sha256": "479eb54df0a7221a805ab6be5d70c26ec1c349500782bf34b8b5cc7a24b6901e",
       "triangles": 3846,
       "mesh_count": 1,
       "material_count": 2,
@@ -31657,9 +31657,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7.jpg",
-          "bytes": 211858,
-          "sha256": "232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7",
+          "path": "models/Meadow/_shared/textures/a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417.png",
+          "bytes": 1072329,
+          "sha256": "a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417",
           "kind": "textures"
         }
       ],
@@ -31682,8 +31682,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_06.fbx",
       "source_guid": "507e7b443987c1440a2ed24baa76989d",
       "source_sha256": "f7fd2c066725c098ecd982b81634e9a3ce5518adfa9177a4ef2d8e7d1a497e82",
-      "bytes": 4826,
-      "sha256": "d29a55642de0d80829e2bbda4175c2bcfa82422b5ac35d0b10ca0845ede1c973",
+      "bytes": 4839,
+      "sha256": "ba302d78b83e115dda3c28b9946418b8939c45d934884ca1875123bb94369991",
       "triangles": 3846,
       "mesh_count": 1,
       "material_count": 2,
@@ -31737,9 +31737,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a.jpg",
-          "bytes": 213795,
-          "sha256": "1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a",
+          "path": "models/Meadow/_shared/textures/cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2.png",
+          "bytes": 1124539,
+          "sha256": "cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2",
           "kind": "textures"
         }
       ],
@@ -31762,8 +31762,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_07.fbx",
       "source_guid": "ab585ba803aa20b44a322cc400962433",
       "source_sha256": "8cfabe3d035977d7c0724c81ec9dbb82d46a18f903aec806826de89f3454ebfc",
-      "bytes": 4864,
-      "sha256": "eb8cc735f0d90e5a20bd8eb90701c7bc8683ab30c01c3dea69ba232af86377aa",
+      "bytes": 4877,
+      "sha256": "bb86a71106b89f40863cbfe582b28ed61d020cef6cfe032b1e820042d48763c5",
       "triangles": 7802,
       "mesh_count": 1,
       "material_count": 2,
@@ -31817,9 +31817,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a.jpg",
-          "bytes": 229552,
-          "sha256": "68fba070619e246fe4c22158bb8191d4c1e98122e1d9356a5e4bafb33c9fc74a",
+          "path": "models/Meadow/_shared/textures/1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334.png",
+          "bytes": 1125956,
+          "sha256": "1bfd98c81809b1cf1a465fbc5fb6b46eaca309e1ab77ccf20d2a9b3fb699a334",
           "kind": "textures"
         }
       ],
@@ -31842,8 +31842,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_07.fbx",
       "source_guid": "ab585ba803aa20b44a322cc400962433",
       "source_sha256": "8cfabe3d035977d7c0724c81ec9dbb82d46a18f903aec806826de89f3454ebfc",
-      "bytes": 4864,
-      "sha256": "6491d25c1e137d876862edb0134c05c1bbb622b7d0dde50026ee7ca8d0aae835",
+      "bytes": 4877,
+      "sha256": "54eebfff32283418999e5059ca07cc3e3b71981435b2d7e52a4b81e9f2cbb88d",
       "triangles": 7802,
       "mesh_count": 1,
       "material_count": 2,
@@ -31897,9 +31897,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7.jpg",
-          "bytes": 211858,
-          "sha256": "232e648ec924d526a6a6e63692ac00b9ca42deb49b91cc85d33b4ae8f5fb28b7",
+          "path": "models/Meadow/_shared/textures/a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417.png",
+          "bytes": 1072329,
+          "sha256": "a98e6003bf48b92c8a0c680f5ee077546531e85d16c50e45538acddd97311417",
           "kind": "textures"
         }
       ],
@@ -31922,8 +31922,8 @@
       "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Meshes/Trees/SM_OakTree_07.fbx",
       "source_guid": "ab585ba803aa20b44a322cc400962433",
       "source_sha256": "8cfabe3d035977d7c0724c81ec9dbb82d46a18f903aec806826de89f3454ebfc",
-      "bytes": 4864,
-      "sha256": "c6fe37070aa6f626d98f7e2997103ddb48e7c6f4412d78767614de6041f4b4df",
+      "bytes": 4877,
+      "sha256": "53407fdcdcda55b2db5ee31f22e350cbeffe275f53db641e142b448afb4bc0a5",
       "triangles": 7802,
       "mesh_count": 1,
       "material_count": 2,
@@ -31977,9 +31977,9 @@
           "kind": "textures"
         },
         {
-          "path": "models/Meadow/_shared/textures/1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a.jpg",
-          "bytes": 213795,
-          "sha256": "1e945482e79b1e7f97ab31047dee68d7f3b727614f4b211a20c88d228fc0639a",
+          "path": "models/Meadow/_shared/textures/cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2.png",
+          "bytes": 1124539,
+          "sha256": "cc99f62c19c72a2bd0fb263eec3ee995bc17b603349a898c3e4226051729a6d2",
           "kind": "textures"
         }
       ],
@@ -32049,7 +32049,7 @@
         "Rocks": 50,
         "Trees": 74
       },
-      "total_payload_bytes": 156454631,
+      "total_payload_bytes": 160238587,
       "asset_index": "collections/meadow/asset-index.json",
       "source_catalog": "collections/meadow/source-catalog.json",
       "self_contained": false,
@@ -32065,7 +32065,7 @@
     }
   ],
   "unique_model_count": 278,
-  "total_payload_bytes": 512125151,
+  "total_payload_bytes": 515909107,
   "payload_file_count": 814,
   "total_glb_bytes_scope": "temple collection only; use total_payload_bytes for the entire library"
 }

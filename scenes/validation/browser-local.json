@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-21T07:09:37.533Z",
+  "surface": "Desktop in-app browser, local HTTP, Three.js 0.180.0",
+  "scope": "Actual browser load, decoded textures, visible camera/scene controls, screenshots and console warnings/errors; no frame-rate or Claude-account claim",
+  "results": [
+    {
+      "scene": "diorama",
+      "loaded": true,
+      "source_static_objects": 609,
+      "render_meshes": 623,
+      "source_triangles": 95326,
+      "materials": 32,
+      "decoded_textures": 34,
+      "views_tested": [
+        "complete-layout",
+        "source-camera"
+      ],
+      "console_errors_or_warnings": 0
+    },
+    {
+      "scene": "overview",
+      "loaded": true,
+      "source_static_objects": 369,
+      "render_meshes": 456,
+      "source_triangles": 814894,
+      "materials": 105,
+      "decoded_textures": 124,
+      "views_tested": [
+        "complete-layout",
+        "04_summer_meshes"
+      ],
+      "console_errors_or_warnings": 0
+    }
+  ],
+  "interaction": "Diorama complete layout -> original source camera -> scene selection Overview -> Summer Meshes group; UI labels and rendered output changed as expected.",
+  "limitations": [
+    "Desktop browser validation only.",
+    "Unity wind, SSS, particles, collisions, sky and postprocessing are not ported.",
+    "Viewer hemisphere/ambient inspection fill is approximate.",
+    "No specific web Claude account was exercised."
+  ]
+}

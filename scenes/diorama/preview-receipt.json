@@ -1,0 +1,99 @@
+{
+  "scene_id": "diorama",
+  "input_scene_sha256": "95e937e18b30bfab44fbcae213b54b59ffbeb529e83b2e880d822a543ca05e6f",
+  "renderer": "Blender 5.2.2 LTS / Eevee",
+  "source_camera_preserved": true,
+  "original_unity_capture": false,
+  "previews": [
+    {
+      "path": "scenes/diorama/previews/complete-layout.png",
+      "label": "Complete authored layout",
+      "view_id": "complete-layout",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1448614,
+      "sha256": "8e3cf624073829a5b2a49838d25b85ba051285dfb1a9bfe439936d3f2b90d3f2",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/diorama/previews/source-camera.png",
+      "label": "Original source camera (local view)",
+      "view_id": "source-camera",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1678931,
+      "sha256": "4dcfc392324c3e7110b90425764ebaf1c2acd1ecaeeca14a5b101f0909c4e0fa",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/diorama/previews/01_diorama_example_04.png",
+      "label": "Diorama Example 04 / authored group",
+      "view_id": "01_diorama_example_04",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1671861,
+      "sha256": "306bba9cbacc4ab24943a01d3d4d7c859bf8305fb058369da9412777953b8933",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/diorama/previews/02_diorama_example_03.png",
+      "label": "Diorama Example 03 / authored group",
+      "view_id": "02_diorama_example_03",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1714842,
+      "sha256": "fac0646305adaac23513babf6d33d0a13ec0982a0743a59d166d63d40046778f",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/diorama/previews/03_diorama_example_02.png",
+      "label": "Diorama Example 02 / authored group",
+      "view_id": "03_diorama_example_02",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1700686,
+      "sha256": "9613d1c16cad40e175a522f241c945c52a4ceb11f019e7164af0c667cf0e52d6",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/diorama/previews/04_diorama_example_01.png",
+      "label": "Diorama Example 01 / authored group",
+      "view_id": "04_diorama_example_01",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1699101,
+      "sha256": "ce220aeeeb178168e9db82193f8a00709fdf69d2286fe83c6b4a68058e2917a1",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/diorama/previews/05_diorama_03_winter.png",
+      "label": "Diorama 03 Winter / authored group",
+      "view_id": "05_diorama_03_winter",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1650975,
+      "sha256": "93b1879bd8f83798c573ebdb1a6be9b7a4c676a3a65e30ef8ca8b8a3ec531cc2",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/diorama/previews/06_diorama_02_autumn.png",
+      "label": "Diorama 02 Autumn / authored group",
+      "view_id": "06_diorama_02_autumn",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1710449,
+      "sha256": "4e8890494db52057784ab939aedfc141010088140b1799b0b2aaceaf696f05e2",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/diorama/previews/07_diorama_01_summer.png",
+      "label": "Diorama 01 Summer / authored group",
+      "view_id": "07_diorama_01_summer",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1694397,
+      "sha256": "aacaaf606fbb8f5fceb3b01a1eb712d56fb6d3fce26e5603b88fcffd826e2064",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    }
+  ]
+}

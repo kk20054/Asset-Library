@@ -1,0 +1,99 @@
+{
+  "scene_id": "overview",
+  "input_scene_sha256": "fc3f15de86941b788b6aad1167c2e61464a8ca1ca0851cc290f4d594fcb017f3",
+  "renderer": "Blender 5.2.2 LTS / Eevee",
+  "source_camera_preserved": true,
+  "original_unity_capture": false,
+  "previews": [
+    {
+      "path": "scenes/overview/previews/complete-layout.png",
+      "label": "Complete authored layout",
+      "view_id": "complete-layout",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1480669,
+      "sha256": "b1837672932f1dcff72d01ef46bf3b1f1b32fae454b83245ae2c9b2f342523f6",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/overview/previews/source-camera.png",
+      "label": "Original source camera (local view)",
+      "view_id": "source-camera",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1661161,
+      "sha256": "2ae41f0ca8d29391b4cf4d17038e70c98414aed792201991a3b092a108110dce",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/overview/previews/01_vfx.png",
+      "label": "VFX / authored group",
+      "view_id": "01_vfx",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1476118,
+      "sha256": "cb0cbc0b4d58786f93a11aa401d3dcefb7166ff46c983a52962594e9e84b4f3f",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/overview/previews/02_winter_meshes.png",
+      "label": "Winter Meshes / authored group",
+      "view_id": "02_winter_meshes",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1669223,
+      "sha256": "d8795ee3a4023be5fd8680575dae4dbb740e23eab2cff0db7f93756310ad5bae",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/overview/previews/03_autumn_meshes.png",
+      "label": "Autumn Meshes / authored group",
+      "view_id": "03_autumn_meshes",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1771594,
+      "sha256": "9474fecd80043170a68b577a8b5efb7e1a3dcefc94dfd1a5e7b91a92bdb5a749",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/overview/previews/04_summer_meshes.png",
+      "label": "Summer Meshes / authored group",
+      "view_id": "04_summer_meshes",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1766706,
+      "sha256": "88c4c19392022f3ccd966cfa53785f30d44e73ec477873b05319dd4d3e375075",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/overview/previews/05_background_winter_meshes.png",
+      "label": "Background Winter Meshes / authored group",
+      "view_id": "05_background_winter_meshes",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1605095,
+      "sha256": "a62899021fd9bcd60ada68b251819ba7eae0de7dd8989f4c740e003afaa6f684",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/overview/previews/06_background_autumn_meshes.png",
+      "label": "Background Autumn Meshes / authored group",
+      "view_id": "06_background_autumn_meshes",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1627267,
+      "sha256": "a757bf4c1af4366e2b7304659db76cea88b94d563fa94c368a53ab52a6ef528a",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    },
+    {
+      "path": "scenes/overview/previews/07_background_summer_meshes.png",
+      "label": "Background Summer Meshes / authored group",
+      "view_id": "07_background_summer_meshes",
+      "width": 1600,
+      "height": 900,
+      "bytes": 1589341,
+      "sha256": "908090412c2dd038140f90be053bdc25b2db5e17dda5bd9017506354fa812adc",
+      "caption": "Rendered from converted original author placements with Blender Eevee; portable static PBR, not an original Unity screenshot."
+    }
+  ]
+}

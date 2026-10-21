@@ -93,15 +93,16 @@ def main():
  for name,items in [('temple',temple),('meadow',meadow)]:write(repo/'collections'/name/'asset-index.json',{'schema_version':2,'collection':name,'base_url':BASE,'asset_count':len(items),'assets':[compact(a) for a in items]},True)
  write(repo/'collections/meadow/source-catalog.json',source_catalog)
  target=repo/'tools/meadow';target.mkdir(parents=True,exist_ok=True);copied=[]
+ allowed_tools={'extract_sources.py','prepare_meadow_mapping.py','prepare_textures.py','prepare_pbr_specs.py','portable_materials.py','convert_meadow.py','build_library.py','export_terrain_textures.py','validate_assets.mjs','audit_foliage_alpha.py'}
  for p in sorted((work/'tools').iterdir()):
-  if p.is_file() and p.suffix in ('.py','.mjs'):
+  if p.is_file() and p.name in allowed_tools:
    shutil.copy2(p,target/p.name);copied.append(p.name)
  source_index=load(work/'audit/source_index.json');source_index['source_package']=Path(source_index['source_package']).name
  write(target/'source_index.json',source_index)
  readme='''# Meadow conversion tools
 
 Exact conversion scripts used for this collection. Original Unity assets are not bundled.
-Install Python dependencies: python -m pip install PyYAML Pillow numpy. Install gltf-validator with npm for official validation. Set MEADOW_WORK to your work folder when running the copied validator. Blender supplies bpy/mathutils.
+Install Python dependencies: python -m pip install PyYAML Pillow numpy tifffile. Install gltf-validator with npm for official validation. Set MEADOW_WORK to your work folder when running the copied validator. Blender supplies bpy/mathutils.
 Use a separate work folder with tools/, audit/, cache/. Source indexing streams the original gzip+tar package and records GUID/asset/pathname entries; pathname uses its first text line. Restore the included source_index.json to audit/source_index.json before extraction.
 Commands: extract_sources.py <work> <original-package>; prepare_meadow_mapping.py --work <work>; prepare_textures.py <work>; prepare_pbr_specs.py <work>; Blender --background --python convert_meadow.py -- <work> <repository>.
 Run build_library.py --work <work> --repo <repository> only after complete conversion with 144 exported sources and seven excluded sources. No runtime caches or installed dependencies are copied here.

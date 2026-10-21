@@ -7,6 +7,7 @@ The two collections can provide building blocks for a Three.js world: Temple sup
 | Question | Evidence | Limit |
 | --- | --- | --- |
 | Can the combined library load in Three.js? | All 516 models passed the [unified browser loading check](validation/unified-browser-load.json). The renamed public viewer and mixed scene also rendered successfully. | Public runtime checks cover the stated samples; all-file format and local browser checks are recorded separately. |
+| Are complete authored arrangements included? | Overview preserves 369 static objects (361 models + eight visible Cubes); DioramaExample preserves 609 across seven groups. | These 978 placements preserve static hierarchy and material choices, not the complete Unity runtime or dynamic effects. |
 | What is present in Meadow? | 381 exported glTF variants from 144 independent static environment FBXs; 516 model assets across both collections. | Variants are not additional independent source models; six ground layers and 14 surface textures are separate resources. |
 | Are Meadow files structurally valid? | All 381 variants passed [Khronos validation](validation/meadow-gltf.json) with zero specification errors and zero dependency errors; 276 warnings concern runtime-generated normal tangents. | Format validation does not prove final lighting, source-shader equivalence, or public-host accessibility. |
 | Can Unity files be used directly? | Actual mesh and Prefab material content is exported as portable glTF. | Unity scripts, custom shaders, particle behavior, scene lighting, and binary Terrain assets are not a browser runtime. |
@@ -15,7 +16,19 @@ The two collections can provide building blocks for a Three.js world: Temple sup
 
 Meadow's audited static meshes cover trees, rocks, grass, flowers, cover plants, mushrooms, props, and distant hill/mountain forms. The six particle/VFX source meshes and one editor helper are outside the static export scope. Three binary Unity Terrain assets are excluded; hill/mountain mesh props do not replace a terrain, navigation, collision, or streaming system.
 
-The [anonymous public-delivery receipt](validation/unified-public-access.json) records 822/822 successful URL checks with CORS, file lengths where present and hashed model samples. The [public browser receipt](validation/public-browser-preview.json) covers the live Pages viewer, mixed scene and raw cross-origin model/texture loading. This establishes public delivery without GitHub credentials; individual coding-assistant environments may still restrict outbound requests.
+The [anonymous public-delivery receipt](validation/unified-public-access.json) records 822/822 successful URL checks with CORS, file lengths where present and hashed model samples. The [public browser receipt](validation/public-browser-preview.json) covers the live Pages viewer, mixed scene and raw cross-origin model/texture loading. This establishes delivery of the earlier asset-library/mixed-demo snapshot without GitHub credentials; individual coding-assistant environments may still restrict outbound requests. It does not establish final remote verification of the subsequently added authored scenes, TIFF-alpha updates, or final preview PNG set.
+
+## Authored layout reuse and independent evidence
+
+The original Overview and DioramaExample static arrangements are included as complete scene.gltf files, layout metadata, summaries, and small per-group JSON documents. Start at [scenes/index.json](scenes/index.json), read the selected summary, then follow only the required group paths. The [scene README](scenes/README.md) explains the contract; [CLAUDE_AUTHORED_SCENES.md](CLAUDE_AUTHORED_SCENES.md) provides a direct reuse prompt. GLTFLoader resolves the scene's external dependencies when the original relative layout remains reachable.
+
+Overview has 361 model placements plus eight original visible Cube platforms/backdrops; DioramaExample has 609 model placements. Source counts additionally record 21 and 14 FX anchors, respectively, plus each scene's global settings. All 35 FX anchors remain metadata without particle animation. Collisions, ASP global behavior, Unity sky/post-processing, and procedural shader behavior are not claimed as equivalent runtime systems.
+
+An independent source-YAML check compared ten original Prefab-root landmarks and Overview's eight visible Cube roots against accumulated glTF parent-chain matrices. The checked source-root positions matched, including the nonuniform-scale/rotated-parent case that produces shear. This geometric evidence concerns the preserved arrangement; it does not establish final material appearance, Unity lighting equivalence, browser completion, or remote delivery of a later revision.
+
+Preserve local parent transforms rather than decomposing flattened world matrices. Keep Unity 64-bit IDs as JSON strings; JavaScript numbers cannot safely retain every source file ID. Retain native mesh scales/pivots once and avoid a second application of JSON world matrices after loading an assembled glTF. Do not normalize, recenter, or random-scatter the authored objects. A clearly labeled outer whole-group translation can reposition an arrangement without changing its internal layout.
+
+Only source-camera corresponds to the original author's local camera. Complete-layout and per-group views are added inspection cameras. Preview references identify **Blender renders of the converted layout, not original Unity screenshots**. Read actual index entries and receipts for image paths/provenance; no fixed final PNG count or completed final remote QA is inferred here.
 
 ## Storage is different from runtime cost
 
@@ -41,6 +54,8 @@ For the inspected summer oak leaf material, desaturation = 1, brightness = 1, an
 [collections/meadow/terrain-textures.json](collections/meadow/terrain-textures.json) records **six TerrainLayer definitions and 14 unique image files: six diffuse, four normal, and four mask textures**. It includes source identities, layer tileSize/tileOffset, normalScale, remap values, and importer notes. Normals and masks are shared between some layers. The demo applies the real Grass diffuse and normal to one tiled plane material; it provides a surface-material check without reconstructing Unity Terrain blending.
 
 Mask images retain their source channels and have unverified channel semantics (channel_mapping is null). They are **not repacked or guessed as ORM**. Source importer sRGB settings are recorded separately from the portable linear-data role. Normal pixels and source flipGreenChannel settings are preserved as metadata; independent normal orientation validation is not claimed. These texture resources do not include terrain meshes, heightfields, splatmaps, collision, or a streaming terrain system.
+
+The inspected grass/foliage albedo inputs also require retaining real cutout alpha from TIFF files whose stored fourth channel is not recognized as alpha by Pillow. The conversion uses **tifffile 2026.10.15** to read those samples directly, alongside numpy/Pillow/PyYAML. Replacing that channel with opaque alpha would turn foliage cards into solid rectangles; it is a material-conversion defect rather than evidence of a different authored placement. This alpha handling is specific to inspected albedo inputs and does not assign ORM semantics to terrain mask channels. See [tools/README.md](tools/README.md).
 
 ## Apply Three.js mechanisms deliberately
 

@@ -6,7 +6,9 @@ A unified environment asset library for Three.js, combining **Stylized Chinese L
 
 - [Compact asset index](https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/asset-index.json): select exact asset IDs without downloading the model library.
 - [Full manifest](https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/manifest.json): paths, collection, category, geometry statistics, sizes, provenance, and limitations.
-- [Instructions for Claude](CLAUDE_USAGE.md).
+- [Instructions for Claude: individual assets](CLAUDE_USAGE.md).
+- [Original authored scene layouts](scenes/README.md), [compact scene index](scenes/index.json), and [Claude authored-scene guide](CLAUDE_AUTHORED_SCENES.md).
+- [Authored scene viewer](https://kk20054.github.io/ThreeJS-Stylized-World-Assets/examples/authored-scenes.html): source camera, complete-layout view, and individual authored groups.
 - [Asset viewer](https://kk20054.github.io/ThreeJS-Stylized-World-Assets/).
 - [Temple + Meadow comparison](https://kk20054.github.io/ThreeJS-Stylized-World-Assets/examples/world-demo.html): the same seeded placements rendered as shared-resource clones or instanced meshes.
 - [Large-world feasibility and measurement notes](FEASIBILITY.md).
@@ -56,6 +58,16 @@ Use raw URLs for JSON/model data, not GitHub blob pages. Serve JavaScript module
 
 Models use +Y up, right-handed coordinates, and meters. Preserve source import scale and pivots; check each asset's bounds before combining modules. Temple architecture includes modular building parts, not just complete buildings. Included Temple character and panda objects are static props, not rigged animation assets.
 
+## Original author arrangements
+
+The library also contains two complete **static** Meadow scene arrangements: **Overview has 369 objects (361 environment models + eight visible original Cube display platforms/backdrops)**; **DioramaExample has 609 objects across seven groups**. The 978 placements reuse library assets and are not 978 additional unique models. Start with [scenes/index.json](scenes/index.json), then the selected summary and only the needed groups[].path JSON files. Load the selected scene.gltf with GLTFLoader to resolve its shared dependencies automatically.
+
+The original hierarchy, local transforms, material choices, and string source IDs are preserved. Unity 64-bit file IDs stay JSON strings; do not convert them to JavaScript numbers. Preserve the hierarchy because nonuniform parent scale and child rotation can create world shear. Do not normalize or recenter each model, flatten/decompose world transforms, or apply JSON world matrices again to an already assembled glTF. A clearly identified translation on one outer whole-group wrapper is available for adaptations without changing its internal layout.
+
+The source-camera view retains the original local camera composition. Complete-layout and group views are additional inspection cameras. Reference PNGs are **Blender renders of the converted layout, not original Unity screenshots**; consult the scene index and preview receipts for actual available paths and provenance, without inferring a fixed final image count.
+
+All **35 source FX anchors** remain metadata (21 Overview + 14 Diorama); particles, collisions, ASP global behavior, Unity sky/post-processing, and other dynamic shader effects are not reproduced as a Unity runtime. See [scenes/README.md](scenes/README.md) and [CLAUDE_AUTHORED_SCENES.md](CLAUDE_AUTHORED_SCENES.md) for direct reuse instructions and a copyable prompt.
+
 ## Portability boundaries
 
 The portable materials use actual source renderer/material assignments where available. A glTF material is not a copy of a Unity ShaderGraph or custom shader.
@@ -63,6 +75,7 @@ The portable materials use actual source renderer/material assignments where ava
 - Temple retains portable base color, normal, ORM, and enabled opacity masks. Base colors are capped at 2048 pixels and normal/data maps at 1024; opaque colors use JPEG and alpha/data images use PNG. Existing GLB geometry is not newly decimated.
 - Meadow's shared buffers and textures reduce repeated file dependencies between material variants. Inspect per-asset metadata for the actual material mapping and omitted source behavior. Its static color bake follows the source shader's desaturation → brightness → color-controlled overlay → color/texture lerp sequence. The overlay branch is selected by _BaseAlbedoColor, not the sampled texture; this preserves the source material's green overlay on grayscale oak leaf images.
 - Procedural wind, noise-driven variation, vertex-AO/vertex-mask shading, subsurface scattering, and runtime seasonal blending are not reproduced by that base-color bake. The exported material remains a static PBR approximation.
+- Inspected grass/foliage albedo TIFFs can contain real cutout alpha without a recognized ExtraSamples alpha tag. The conversion uses tifffile to read that stored alpha rather than replacing it with Pillow's opaque fallback. This does not assign new semantics to terrain mask channels; see the [tool dependency notes](tools/README.md).
 - Wind, global seasonal/top-layer behavior, particles, water distortion, terrain blending, and baked scene lighting require separate Three.js work. They are not implied by an FBX or material conversion.
 - The three binary Unity Terrain assets are not ported as terrain. Distant hill/mountain mesh props do not provide a streamed or traversable terrain system.
 - Exported lower-LOD exclusions are explicit. Three.js LOD can switch supplied meshes; it does not generate missing lower-detail geometry.
@@ -79,7 +92,9 @@ These are surface materials, not Unity Terrain meshes, heightfields, splatmaps, 
 
 ## Validation and local use
 
-All **381 Meadow glTF variants passed** the [Khronos glTF validation check](validation/meadow-gltf.json) with **zero specification errors and zero dependency errors**. The 276 warnings concern runtime-generated normal-map tangents. The unchanged Temple baseline has its own 135/135 pass record with zero specification/container errors. [Validation files](validation/) identify the files and URLs covered by each receipt. All **516 assets loaded successfully** in the [unified local browser check](validation/unified-browser-load.json). The [anonymous public-access check](validation/unified-public-access.json) passed **822/822 URL checks**, including CORS and available file lengths, with successful hashes for the two model samples and their selected dependencies. The renamed Pages viewer, mixed scene and cross-origin raw loading were also [opened and rendered in a browser](validation/public-browser-preview.json). Individual Claude accounts or sandboxes may still impose their own network restrictions.
+For the current authored-scenes/foliage-alpha revision, all 381 Meadow models passed the [current standard check](collections/meadow/validation-current.json). Both combined scene glTF files passed with zero specification/dependency errors; [independent source checks](scenes/validation/authored-transforms.json) confirm 978 static placements, ten landmarks, native pivots and the nonuniform-scale hierarchy. The [18 rendered references](scenes/index.json) retain their original camera or explicitly labeled inspection camera. [Current scene checks](scenes/validation/gltf-validation.json) and [alpha recovery checks](scenes/validation/foliage-alpha.json) record their exact scope.
+
+All **381 Meadow glTF variants passed** the [Khronos glTF validation check](validation/meadow-gltf.json) with **zero specification errors and zero dependency errors**. The 276 warnings concern runtime-generated normal-map tangents. The unchanged Temple baseline has its own 135/135 pass record with zero specification/container errors. [Validation files](validation/) identify the files and URLs covered by each receipt. All **516 assets loaded successfully** in the [unified local browser check](validation/unified-browser-load.json). The [anonymous public-access check](validation/unified-public-access.json) passed **822/822 URL checks**, including CORS and available file lengths, with successful hashes for the two model samples and their selected dependencies. The renamed Pages viewer, mixed scene and cross-origin raw loading were also [opened and rendered in a browser](validation/public-browser-preview.json). Individual Claude accounts or sandboxes may still impose their own network restrictions. These receipts apply to their recorded asset-library and mixed-demo snapshot; they do not certify this later authored-scene/alpha-update revision, its final remote delivery, or a completed PNG set.
 
 The mixed-scene example loads five selected source models plus the Grass surface textures. A bounded local far-camera run in Chrome 155 on Windows at 1280 × 720, DPR 1, with shadows off, observed **484 draw calls for clones and 9 for instancing**, with **386,594 submitted triangles in both modes** across 385 model placements. These are observations for that scene, not a general FPS or world-capacity claim. The example does not implement terrain streaming. See the [measured scene receipt](validation/mixed-scene.json) and [FEASIBILITY.md](FEASIBILITY.md) for selected IDs, measurement conditions, and limits.
 
