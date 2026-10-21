@@ -1,6 +1,6 @@
 # Stylized Chinese Lost Temple
 
-Three.js-ready conversions of the user-supplied Unity environment pack: **134 source FBX files, 135 self-contained GLB files**, approximately 363.5 MB in total. The extra GLB preserves a second source material variant for SM_Base_02. Every GLB contains its geometry, materials, and used image textures.
+Three.js-ready conversions of the user-supplied Unity environment pack: **134 source FBX files, 135 self-contained GLB files**, approximately 355.7 MB in total. The extra GLB preserves a second source material variant for SM_Base_02. Every GLB contains its geometry, materials, and used image textures.
 
 ## Start here
 
@@ -44,6 +44,8 @@ The original ZIP files contain nested Unity packages. Built-in was selected beca
 - Base-color images are at most 2048 pixels on their longest side. Normal/data images are at most 1024 pixels. Opaque colors use quality-92 JPEG; alpha and data images use PNG.
 - Only highest-detail render meshes are exported. Lower LODs and collision helper meshes are excluded and listed in the manifest. No additional mesh decimation was performed.
 - SM_Base_02_variant_1 and SM_Base_02_variant_2 preserve the two original Prefab material choices.
+
+The water plane uses the source water color and a static normal map, with inactive legacy wood-texture properties excluded.
 
 Unity ShaderGraph code, foliage wind, particles, water distortion, terrain/moss blending, scene lighting, and Unity runtime components are **not** converted into equivalent Three.js behaviors. This is a portable asset library, not a reconstruction of the complete Unity demo scene. Source Prefab and material metadata is included to support further work. One material slot in the source SM_Character_Merged Prefab is unassigned; that slot retains a neutral fallback.
 

@@ -28,5 +28,7 @@ for guid,m in mapping['materials'].items():
  if 'water' in m['name'].lower():factor[3]=0.65;alpha_mode='BLEND'
  slot=base or {};scale=slot.get('scale',{'x':1,'y':1});offset=slot.get('offset',{'x':0,'y':0})
  result[guid]={'name':m['name'],'base':basefile,'normal':file(normal),'orm':file(orm),'factor':factor,'normal_scale':max(0,float(floats.get('_Normal_Strength',floats.get('_BumpScale',1)))),'roughness':1 if orm else max(0.05,min(1,float(floats.get('_Roughness',1-floats.get('_Smoothness',0.5))))),'metallic':1 if orm else max(0,min(1,float(floats.get('_Metallic',0)))),'alpha_mode':alpha_mode,'alpha_cutoff':max(0,min(1,float(floats.get('_Alpha_Clip_Treshold',floats.get('_Cutoff',0.5))))),'uv_scale':[scale.get('x',1),scale.get('y',1)],'uv_offset':[offset.get('x',0),offset.get('y',0)],'source':m['source'],'mapped_texture_slots':[k for k,v in [(bk,base),(nk,normal),(ok,orm),(mk,mask if use_mask else None)] if v]}
+ if m['name']=='M_Water':
+  water=colors.get('_Water_Color',{'r':0,'g':0.43,'b':0.46});_,wn=pick(m,['_SecondNormal']);result[guid].update(base=None,normal=file(wn),orm=None,factor=[water.get(k,0) for k in ['r','g','b']]+[0.65],roughness=0.25,metallic=0,alpha_mode='BLEND',mapped_texture_slots=['_Water_Color','_SecondNormal'])
 (work/'audit/pbr_specs.json').write_text(json.dumps(result,indent=2),encoding='utf-8')
 print(json.dumps({'materials':len(result),'textured':sum(bool(m['base']) for m in result.values()),'masked':sum(m['alpha_mode']=='MASK' for m in result.values())}))

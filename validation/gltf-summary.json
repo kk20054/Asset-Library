@@ -1068,8 +1068,8 @@
     },
     {
       "path": "Props/SM_Water_Plane.glb",
-      "bytes": 8456896,
-      "sha256": "06e9a510a87936a98164beff939e3943ddbad2d264c56d7ecab3edc719c5a28a",
+      "bytes": 676560,
+      "sha256": "f21f474564a018ade26b11f9759f32cd6332b14eef1e04a087817aa4e5128d90",
       "passed": true,
       "errors": 0,
       "warnings": 1

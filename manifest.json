@@ -6,7 +6,7 @@
   "source_variant": "Built-in",
   "source_fbx_count": 134,
   "asset_count": 135,
-  "total_glb_bytes": 363450856,
+  "total_glb_bytes": 355670520,
   "base_url": "https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/",
   "viewer_url": "https://kk20054.github.io/Stylized-Chinese-Lost-Temple/",
   "units": "meters, preserving source FBX import scale",
@@ -4541,12 +4541,12 @@
       "source": "Assets/Stylarts/Stylized Chinese Lost Temple/Art/Meshes/SM_Water_Plane.fbx",
       "source_guid": "abc00000000006436735458228087943",
       "source_sha256": "e21b67860c8ff1f6147d1d9238af7871c8b0ee5911216ea6a3a41aaeb67ed127",
-      "bytes": 8456896,
-      "sha256": "06e9a510a87936a98164beff939e3943ddbad2d264c56d7ecab3edc719c5a28a",
+      "bytes": 676560,
+      "sha256": "f21f474564a018ade26b11f9759f32cd6332b14eef1e04a087817aa4e5128d90",
       "triangles": 16,
       "mesh_count": 1,
       "material_count": 1,
-      "texture_count": 3,
+      "texture_count": 1,
       "bounds": {
         "min": [
           -0.5,
@@ -4563,7 +4563,9 @@
       "material_variant": null,
       "self_contained": true,
       "url": "https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/models/Props/SM_Water_Plane.glb",
-      "warnings": []
+      "warnings": [
+        "Static water-color and normal-map approximation. Unity water distortion and depth blending are not ported; inactive legacy wood-texture slots are excluded."
+      ]
     },
     {
       "id": "SM_WoodFence",

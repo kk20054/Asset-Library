@@ -14,7 +14,12 @@
     "No LoadingManager resource error"
   ],
   "visual_samples": [
-    "SM_Temple_BigRoof"
+    "SM_Temple_BigRoof",
+    "SM_Tree_01",
+    "SM_Bush_01"
   ],
-  "public_remote_access": "pending_after_push"
+  "public_remote_access": "pending_after_push",
+  "follow_up_checks": [
+    "Water material changed to source water-color/static-normal approximation; reloaded separately after final glTF validation."
+  ]
 }

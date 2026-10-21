@@ -9565,17 +9565,16 @@
         }
       },
       "portable_slots": [
-        "_BaseMap",
-        "_Normal",
-        "_ORM"
+        "_Water_Color",
+        "_SecondNormal"
       ],
       "custom_shader_values_not_automatically_ported": true,
       "portable_alpha_mode": "BLEND",
       "portable_normal_scale": 3,
       "portable_base_color_factor": [
-        1,
-        1,
-        1,
+        0,
+        0.42745098,
+        0.454902,
         0.65
       ]
     },

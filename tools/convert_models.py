@@ -18,6 +18,8 @@ def patch_glb(path):
  return gltf
 assets=[];failures=[]
 models=sorted([e for e in source['assets'] if e['path'].lower().endswith('.fbx')],key=lambda e:e['path'])
+only=sys.argv[sys.argv.index('--only')+1] if '--only' in sys.argv else None
+if only:models=[e for e in models if Path(e['path']).stem==only]
 limit=int(sys.argv[-1]) if sys.argv[-1].isdigit() else len(models)
 for ei,e in enumerate(models[:limit]):
  try:
@@ -61,5 +63,5 @@ for ei,e in enumerate(models[:limit]):
    if mat not in before and mat.users==0 and mat not in factory.cache.values():bpy.data.materials.remove(mat)
  except Exception as exc:
   failures.append({'source':e['path'],'error':str(exc)});print('ASSET_ERROR',json.dumps(failures[-1]),flush=True)
- (work/'audit/conversion_progress.json').write_text(json.dumps({'assets':assets,'failures':failures,'completed_sources':ei+1,'source_count':len(models),'complete':ei+1==len(models),'unmatched_material_names':sorted(set(factory.missing))},indent=2),encoding='utf-8')
+ (work/('audit/conversion_progress_water.json' if only else 'audit/conversion_progress.json')).write_text(json.dumps({'assets':assets,'failures':failures,'completed_sources':ei+1,'source_count':len(models),'complete':ei+1==len(models),'unmatched_material_names':sorted(set(factory.missing))},indent=2),encoding='utf-8')
 print('CONVERSION_COMPLETE',json.dumps({'assets':len(assets),'failures':len(failures),'bytes':sum(a['bytes'] for a in assets)}),flush=True)
