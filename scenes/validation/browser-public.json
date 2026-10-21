@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-21T07:15:25.163Z",
+  "asset_commit": "4ad365e0c1b0719e1a7fcedbdc2fd3517a4da537",
+  "public_viewer": "https://kk20054.github.io/ThreeJS-Stylized-World-Assets/examples/authored-scenes.html?scene=diorama",
+  "checks": {
+    "public_diorama_loaded": true,
+    "source_camera_switched": true,
+    "reference_links_exposed": 9,
+    "render_meshes": 623,
+    "decoded_textures": 34,
+    "console_warnings_or_errors": 0,
+    "local_sidebar_fix": {
+      "viewport_width": 1280,
+      "viewport_height": 720,
+      "viewport_top": 0,
+      "page_scroll": 0,
+      "page_height": 720,
+      "aside_scroll_height": 2801,
+      "passed": true
+    }
+  },
+  "notes": [
+    "Public asset and scene link checks are in public-access.json.",
+    "Local desktop sidebar regression fixed: reference expansion scrolls the sidebar and keeps the 3D viewport intact.",
+    "Source transforms and materials are unchanged by the sidebar fix."
+  ]
+}
