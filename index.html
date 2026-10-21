@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Stylized Chinese Lost Temple — Asset Viewer</title>
+  <style>
+    :root { color-scheme: dark; font: 14px/1.5 system-ui, sans-serif; color: #e8eaf0; background: #151b23; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    main { display: grid; grid-template-columns: 310px minmax(0,1fr); min-height: 100dvh; }
+    aside { padding: 28px 22px; background: #1c2430; border-right: 1px solid #344052; overflow-wrap: anywhere; }
+    h1 { font-size: 22px; line-height: 1.2; margin: 0 0 12px; }
+    p { color: #b7c3d3; }
+    label { display: block; margin-top: 22px; margin-bottom: 7px; font-weight: 600; }
+    select, button { font: inherit; color: inherit; background: #263244; border: 1px solid #52647b; border-radius: 6px; padding: 10px; width: 100%; }
+    select:focus-visible, button:focus-visible, a:focus-visible, summary:focus-visible { outline: 3px solid #8dc9ff; outline-offset: 3px; }
+    button { margin-top: 18px; cursor: pointer; }
+    button:disabled, select:disabled { opacity: .55; cursor: default; }
+    a { color: #91ccff; }
+    #status { min-height: 3em; padding: 14px 0; }
+    [data-state="error"] { color: #ffb4ae !important; }
+    dl { display: grid; grid-template-columns: auto 1fr; gap: 9px 12px; font-size: 13px; }
+    dt { color: #aab9cc; }
+    dd { margin: 0; text-align: right; }
+    #viewport { position: relative; min-width: 0; height: 100dvh; }
+    canvas { display: block; width: 100%; height: 100%; touch-action: none; }
+    .hint { position: absolute; bottom: 20px; left: 20px; right: 20px; text-align: center; color: #d1dbe8; pointer-events: none; font-size: 12px; }
+    details { margin-top: 22px; }
+    pre { white-space: pre-wrap; max-height: 360px; overflow: auto; font-size: 11px; background: #111821; padding: 10px; }
+    .small { font-size: 12px; }
+    @media (max-width: 700px) { main { grid-template-columns: 1fr; } aside { border-right: 0; border-bottom: 1px solid #344052; padding: 20px; } #viewport { height: 65dvh; min-height: 320px; } }
+  </style>
+  <script type="importmap">
+    { "imports": { "three": "https://unpkg.com/three@0.180.0/build/three.module.js", "three/addons/": "https://unpkg.com/three@0.180.0/examples/jsm/" } }
+  </script>
+</head>
+<body>
+  <main>
+    <aside>
+      <h1>Stylized Chinese<br>Lost Temple</h1>
+      <p>Reusable building assets, converted to self-contained GLB.</p>
+      <label for="category">Category</label>
+      <select id="category" disabled><option>Loading categories…</option></select>
+      <label for="asset">Model</label>
+      <select id="asset" disabled><option>Loading models…</option></select>
+      <p id="status" role="status" aria-live="polite">Starting viewer…</p>
+      <dl>
+        <dt>Dimensions (m)</dt><dd id="dimensions">—</dd>
+        <dt>Triangles</dt><dd id="triangles">—</dd>
+        <dt>File size</dt><dd id="bytes">—</dd>
+        <dt>Meshes / materials</dt><dd id="structure">—</dd>
+      </dl>
+      <button id="frame" disabled>Reset camera</button>
+      <p class="small"><a id="download" hidden>Download GLB</a></p>
+      <p class="small">Drag to orbit · Right-drag to pan · Scroll to zoom</p>
+      <details id="validation-panel" hidden>
+        <summary>Validation results</summary>
+        <p id="validation-status" role="status" aria-live="polite"></p>
+        <pre id="validation-results"></pre>
+      </details>
+      <p class="small">Three.js 0.180.0 · <a href="./manifest.json">Asset manifest</a></p>
+    </aside>
+    <section id="viewport" aria-label="Interactive 3D model preview">
+      <canvas id="viewer" aria-label="Model preview. Use a pointer to orbit and zoom."></canvas>
+      <div class="hint">Original model scale · Y up</div>
+    </section>
+  </main>
+  <script>
+    function showStartupError(message) {
+      const status = document.getElementById('status');
+      status.textContent = message;
+      status.dataset.state = 'error';
+    }
+    window.addEventListener('error', (event) => {
+      if (event.message) showStartupError(event.message);
+      else if (event.target instanceof HTMLScriptElement) showStartupError('A viewer module failed to load. Check the network connection.');
+    }, true);
+    window.addEventListener('unhandledrejection', (event) => showStartupError(String(event.reason?.message || event.reason)));
+  </script>
+  <script type="module" src="./viewer.js"></script>
+</body>
+</html>

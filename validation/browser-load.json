@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-21",
+  "tested_url": "http://127.0.0.1:54821/?validate=1&asset=SM_Temple_BigRoof",
+  "engine": "Three.js 0.180.0 / browser WebGL",
+  "manifest_asset_count": 135,
+  "complete": true,
+  "passed": 135,
+  "failed": 0,
+  "checks": [
+    "GLTFLoader loadAsync completed for every asset",
+    "Decoded image dimensions are nonzero",
+    "Mesh positions and bounds are finite",
+    "No LoadingManager resource error"
+  ],
+  "visual_samples": [
+    "SM_Temple_BigRoof"
+  ],
+  "public_remote_access": "pending_after_push"
+}

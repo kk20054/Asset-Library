@@ -1,0 +1,1110 @@
+{
+  "schema_version": 1,
+  "validator": {
+    "version": "2.0.0-dev.3.10",
+    "provenance": {
+      "name": "gltf-validator",
+      "version": "2.0.0-dev.3.10",
+      "registry": "https://registry.npmjs.org/gltf-validator",
+      "tarball": "https://registry.npmjs.org/gltf-validator/-/gltf-validator-2.0.0-dev.3.10.tgz",
+      "integrity": "sha512-odJ4k0tRkGXiDGn78yDBg+fBbAIvBnXxh3RwAta0emSxGtyagFE8B4xELB1oYe3S5RD8Ci3uZAsZaascH2LAEQ==",
+      "license": "Apache-2.0",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KhronosGroup/glTF-Validator.git"
+      }
+    }
+  },
+  "summary": {
+    "files": 135,
+    "passed": 135,
+    "failed": 0,
+    "specification_errors": 0,
+    "specification_warnings": 152,
+    "container_errors": 0,
+    "external_resource_references": 0
+  },
+  "warning_explanation": "Normal maps use runtime-generated tangent space; this is a portability warning, not a glTF validation error.",
+  "files": [
+    {
+      "path": "Buildings/SM_Beam.glb",
+      "bytes": 1157380,
+      "sha256": "bb49ea4adf646645cfb5dcf87123616e61b1136bd15d157d093027171741964b",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Beam_Angle.glb",
+      "bytes": 1159244,
+      "sha256": "1c4a104dbb1540af778326f9950249a5c15830db97a303d15d87c9cf11cb2817",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Bell_B.glb",
+      "bytes": 12379472,
+      "sha256": "3bb7244f4c3889d8b09cc409d3597de40edaceca0cbce4cbbb96068300d845bd",
+      "passed": true,
+      "errors": 0,
+      "warnings": 4
+    },
+    {
+      "path": "Buildings/SM_BigRoof.glb",
+      "bytes": 1734664,
+      "sha256": "25643823e8994b7223dd407252c4500a57b8e7b7119d5049f7d0e9669cf5ab79",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_BigRoof_Angle.glb",
+      "bytes": 5615704,
+      "sha256": "ea91200f0bc1f2cb9675a06f01bf8531637f6f913360da8a30d2f864052adfcc",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Buildings/SM_BigRoof_Wave.glb",
+      "bytes": 2276464,
+      "sha256": "c0fc1d41e84b8517db8093f05d6f062bb0a621aa00995ba707126aa4c81d5abd",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_BigWall_B.glb",
+      "bytes": 4184228,
+      "sha256": "abcbff8744ccb13ceddc5ce4b79035692cade5f9c4e62d987ba9d150b0f006b1",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_BigWall_Beam.glb",
+      "bytes": 2750128,
+      "sha256": "28099a61853d31a2104d0c91d2f9112de4050df375d5eab8a14c3fbb63c72403",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_BigWall_Beam_B.glb",
+      "bytes": 2742144,
+      "sha256": "0d3c6f5c96c1749e8072c8eb9079679ab932a45d09db381b24fecd6f42ab217a",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_BigWall_WindowWall.glb",
+      "bytes": 4185696,
+      "sha256": "c0358fc73d70f5aec937a42c88de15a765776ff4590cbd6f8b0c30a8ee67ecbf",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_BigWall_WoodWindow.glb",
+      "bytes": 3377700,
+      "sha256": "da8590647dc2bad0a1c72b9da6b8549d3692268b7e0c5b07027616f9d7e37f03",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_BigWall_WoodWindowB.glb",
+      "bytes": 8767556,
+      "sha256": "1f34c742280e066774433f1c773ca405d8fd8a16b0a42a6967012493e9aaa0df",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Buildings/SM_BigWall_roof_Angle.glb",
+      "bytes": 7130468,
+      "sha256": "8f03d98d85b45edc3d3425bd4cd101b1e404936ce97368bc4c51d0301eba1ffd",
+      "passed": true,
+      "errors": 0,
+      "warnings": 3
+    },
+    {
+      "path": "Buildings/SM_BigWall_roof_Straight.glb",
+      "bytes": 2170620,
+      "sha256": "d312c5cb391ec5786ef619864e1eb155196f95505d328a2bced71b89a152ffa9",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_BorderAngle.glb",
+      "bytes": 2443888,
+      "sha256": "3caf2e6a69e615a9077deef813320ad87858ceee165c07c46b2870f136072172",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Brick1.glb",
+      "bytes": 2394212,
+      "sha256": "54322c86530b593ae30effca7b8d8487d2926f8304acd819e3b7e6c20a9f76ed",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Door1.glb",
+      "bytes": 3584764,
+      "sha256": "18873ade3ae66e20abe8d028925fe8e6cc855b19609500db97a3bac001405c24",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Door2.glb",
+      "bytes": 2853168,
+      "sha256": "10a795509559946752faedd0f52e9c83c77b9a6a506ae51b66884a4d80af1acf",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_DoorWall.glb",
+      "bytes": 4187192,
+      "sha256": "960318be2a3b39064e68cfae76be1d200a7ed8a03e2e16121d1bef43c13fc853",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Foundation.glb",
+      "bytes": 3328480,
+      "sha256": "ba56c96b439ec7c6ca9a4217c0fe6353f6b20480c2781942dda78a1cad43bcc6",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Foundation1_5x5.glb",
+      "bytes": 3328792,
+      "sha256": "9da11a34fa51ba9df4878a52f501e22c960bf77d695465ef735b208409ce265e",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Foundation_C_Angle.glb",
+      "bytes": 4005184,
+      "sha256": "f0aef04a0ad95b1cce7230753f66b1945f9791e6071715f310f999d1190ee6b9",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Foundation_C_Straight.glb",
+      "bytes": 3099900,
+      "sha256": "e1df8812d65657bdadb9914d1e23bae7500f1fd79847192098be0a71d0f5f88b",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Foundation_D_Angle.glb",
+      "bytes": 2987168,
+      "sha256": "a3d8f74da93d042bc50d36dbc5694199eebae07109613e85dc4e2797a3ba3c1b",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Foundation_D_Straight.glb",
+      "bytes": 2761024,
+      "sha256": "267d1b137b79df2cde6abd50088d2f546797b981c20dfe1750d55a77ac4af8d0",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_KingsTempleWall2x2.glb",
+      "bytes": 3797260,
+      "sha256": "e82e90508f4eee56d347c8e838f5ffb908ae908b16b1311c726e45cf878ca440",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_KingsTempleWall2x2_B_.glb",
+      "bytes": 2816676,
+      "sha256": "74c187d9d62303de860105e8d49290fc8e41bc91ab5d1ef734229789ef2818e8",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_KingsTempleWall2x2_C_.glb",
+      "bytes": 2681512,
+      "sha256": "f04e07917136d5afbeb283bf6648942072af93cef78ffb614cef842648cdbdd1",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Lattice.glb",
+      "bytes": 2627164,
+      "sha256": "af29e5e7edcfd1534208ada18b76a391d8078410d65053cdf5819f40801caf1c",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_RedStairs.glb",
+      "bytes": 4251196,
+      "sha256": "1ba890e8115d4e3a9e1d59f948c2d6d05a7e2968d6a32d7906b22156d5bee007",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Roof3x1.glb",
+      "bytes": 1760480,
+      "sha256": "f1169f168000a091827861e4cbb553750e56d71daad9dd3d0fb0f02e2de8990e",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Roof3x2_Angle.glb",
+      "bytes": 3864964,
+      "sha256": "e7f2c378cdbc753716801dc32aafdc4ee8ec6e837ca7a9e784f3704020eb8622",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Buildings/SM_Roof3x5.glb",
+      "bytes": 5223424,
+      "sha256": "51c8297f35275d2a3ac619d03ce982039bd9b20f0690736f9aca62825bfef2c5",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Buildings/SM_RoofPiece_BigWall.glb",
+      "bytes": 3943212,
+      "sha256": "9b0e0b3c0809866e7186ea0ed077ba98e300ea828fa1ad8b48ff5e84f1b41c00",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Buildings/SM_SmallRoof.glb",
+      "bytes": 1553240,
+      "sha256": "dc98ff1e410267bde139b7f32558f93a8a4e19d9501f19694621aeedfa23cf18",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_SmallRoof_1m.glb",
+      "bytes": 1476244,
+      "sha256": "3533645a6e3cfb898c40a88edee0b401d55c5036864a97b63caa076fcdb5ad6d",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_SmallRoof_Angle.glb",
+      "bytes": 3101040,
+      "sha256": "6812d8256afcccf3ad184dd3dc587137299a623556ec048b6ae1844e0631eb41",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Stairs.glb",
+      "bytes": 1764812,
+      "sha256": "d74dc33588fb3f953d50bfc2686696bc1bfbeb6f3e146608c8d11f74115216a4",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Temple_BigRoof.glb",
+      "bytes": 9072540,
+      "sha256": "3d64973ff9bc7455457cc6b08f71389eb0e19afd669dded7a84b3133f65c4315",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Buildings/SM_Wall2x2.glb",
+      "bytes": 4183716,
+      "sha256": "dc6a6e15001cdb527fd6972e4bd549f878d7d0ab61e3c8b6f0d3bf1215e3d2fd",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Wall3x3.glb",
+      "bytes": 3175816,
+      "sha256": "63028667e8b708016cdf00159030a3130fd614ba9a39d5655dea9c8eb1b118d0",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Wall_Decor_A.glb",
+      "bytes": 3019472,
+      "sha256": "c0e34de800deec7d6753e6ff111fb75710f830cc72005a3f0f4f8098a270af47",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Wave_Roof.glb",
+      "bytes": 2659768,
+      "sha256": "c4c3eb8d9cca0922e35d135aaa74bc8389a76caacbd0d85b56c5791b9ec59eb3",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Buildings/SM_Window2.glb",
+      "bytes": 3414936,
+      "sha256": "d8aa8384a98dedaa83e1b59c10efa99dd3743e112d68dba4af066c3b0b799f5e",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Character/SM_Character_Merged.glb",
+      "bytes": 13979556,
+      "sha256": "64754103f68f5f786caf2e81537d920157c46463a74a83ff935897f49c5a9f76",
+      "passed": true,
+      "errors": 0,
+      "warnings": 7
+    },
+    {
+      "path": "Foliages/SM_Bush_01.glb",
+      "bytes": 1023532,
+      "sha256": "89c50485aa9092d1fa885f2f328b215ba7913bba82f4670e765c79248b186664",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Foliages/SM_Bush_02.glb",
+      "bytes": 1237040,
+      "sha256": "519b26f0da2d4b775e306ef3930c5ec16d12948636c7d7fae5282fd139a386f3",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Foliages/SM_Bush_03.glb",
+      "bytes": 1163212,
+      "sha256": "41172747f06c33fd57cff3ad2fbb76f9ec02a12499ef27e7fec5ab35ba9ea6fd",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Foliages/SM_Bush_04.glb",
+      "bytes": 1087196,
+      "sha256": "90f2ab1fcc3231cb95164dfef02cde6d0cf2b6069e8e4072ed939c19860a1e10",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Foliages/SM_DaisyFlowers.glb",
+      "bytes": 1809520,
+      "sha256": "9e7b7aa2ae82647a7f4ce88ac1f6b501a884e007836d3431c3bb3fe591e9fe43",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_DaisyFlowersPatch.glb",
+      "bytes": 1888760,
+      "sha256": "13e529cc3c94448f353f03afbbf6b677a646b56b9325ce280c6f6bb02c8f9d97",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Flower_01.glb",
+      "bytes": 895732,
+      "sha256": "9628b7b067cef9e3158af9f4f1e45c2a96d492125d5f82c4f175515c7797ac56",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Flower_A.glb",
+      "bytes": 932804,
+      "sha256": "42bedd217808ebc46a1f6ef0d84294d97038fb57b9ec4aa6aa4460cc7049e86b",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Flower_B.glb",
+      "bytes": 923068,
+      "sha256": "08f84dc946df0687efca31b4480e5939ea757376c7871e5b8fd2a9dd3cba2d32",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Flower_C.glb",
+      "bytes": 901096,
+      "sha256": "ffa22ed714ada4258d03834780fbac5b90142e4122e2225b51d5769762adadb2",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Flower_D.glb",
+      "bytes": 980356,
+      "sha256": "faf77d7414ce58cea6badae1019c6c75ba0847e17390760add2108bd2e130514",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Flower_E.glb",
+      "bytes": 997664,
+      "sha256": "5553d3ff98a2c51b10b25bf7f877e2998756763646fe14af929160ba850cf801",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Flower_F.glb",
+      "bytes": 912992,
+      "sha256": "079ebd25e9c0a6ba045b02de9ee5e0851be244d8a5b566326cf58c31aa07750b",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Flower_G.glb",
+      "bytes": 1254116,
+      "sha256": "35815b4f0c8b407276e477c2edcd9adfc21c7465bfa7ce84a0cc94508e0fe872",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Flower_H.glb",
+      "bytes": 998164,
+      "sha256": "d21cf5608650979cbd2c318d1b7ef6ae1b0507c185cb17239c14cf9147db587e",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_GrassClump01.glb",
+      "bytes": 89640,
+      "sha256": "aaed4ce02dcddb40109d3b0258048c585195638b803f2d3c9d82630c92c76771",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_GrassClump02.glb",
+      "bytes": 78888,
+      "sha256": "086a5e04d61548738779f6ebce36ad363b69ad2c9024cda70ad30316539ad8a5",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_LilyPad.glb",
+      "bytes": 256136,
+      "sha256": "eb1e7773be95d2133d14a4e7587f37321cd1acbe73975c664bbaca3b9424d8cc",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Foliages/SM_Mushrooms.glb",
+      "bytes": 106284,
+      "sha256": "cd6df5313dcfed7df35d4e474237d6ec023858dfc69feedb2d34ac7d28486f8e",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Foliages/SM_Plant_01.glb",
+      "bytes": 898032,
+      "sha256": "122bb86ebec5d4484f8607c985541542b6f4beee4cd3eafe41afa8cd9547c68b",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Plant_02.glb",
+      "bytes": 897356,
+      "sha256": "277f2c04f9a9d3fc9ac698b689cb5e94d16f91c0797beca4d7a7af63f7b54209",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Plant_03.glb",
+      "bytes": 895320,
+      "sha256": "d7de568a0ea24e75bdf91b5da873fce77eecab5de10b5d9761428355c8d496c0",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Plant_04.glb",
+      "bytes": 904464,
+      "sha256": "2f9ebddd390a06e1dbb523e2f86438acafd44cb8f19c4e3cb9d6cf2c013e8965",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Foliages/SM_Plant_05.glb",
+      "bytes": 912600,
+      "sha256": "ff13f42d2de117de182e0b1b37f0282f3380b820a1672fe0f5cacd83b0f7452b",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Foliages/SM_Plant_06.glb",
+      "bytes": 907580,
+      "sha256": "40bf20c3e41d710388c0ca5a76c8c025adddad27f332b991d47c36b5b7e034b2",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Foliages/SM_Plant_07.glb",
+      "bytes": 903032,
+      "sha256": "d1355c370914d7dca5adda19acdfb9cf01d1005f65922b139fc47c3c34ea62cc",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Foliages/SM_Plant_08.glb",
+      "bytes": 907316,
+      "sha256": "8d0ae2420280dddd4bdb973f8e87b597c71ded6f790a7d1a32e57b4c0608df3d",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Foliages/SM_RedLeaves.glb",
+      "bytes": 962384,
+      "sha256": "4f87947be16b574681bb982e7f8ca48bbbd53a20e673ef17ea8847dbf46d7fbf",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Foliages/SM_Tree_01.glb",
+      "bytes": 1157936,
+      "sha256": "de263d46172b75780c4f167211e5df00de94b7814dc9e51e003e2e2f31fa9706",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Foliages/SM_Water_Lilies.glb",
+      "bytes": 817064,
+      "sha256": "03f5e1115a6d410de0f9630d4a25d819732354d5dbfa5e5bdbcb4a7f15318bce",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Foliages/SM_Water_Lilies_B.glb",
+      "bytes": 825400,
+      "sha256": "1129758dc24825f6c517065c693cee8dcee3b6528372aa4a5e7966ce5a57024d",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Foliages/SM_Water_Lilies_C.glb",
+      "bytes": 791860,
+      "sha256": "6945a080120dbad71ffb84c9c1e33032961ce732217c39d5968b425ff0d40a3b",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Pillar/SM_Pillar_02.glb",
+      "bytes": 2622476,
+      "sha256": "1c6bf58c1c62b71a3d0b583218386bf8ecf71510f634f2f570707dc1b6158c1a",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Pillar/SM_Pillar_Merged_01.glb",
+      "bytes": 1199440,
+      "sha256": "7acb6fb6c5fdd648e37c060b0b25974219b10ae1ec35a5b270d5d5ff215ebba1",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Pillar/SM_Pillar_Merged_02.glb",
+      "bytes": 1200384,
+      "sha256": "87b9f48be1768ab89756fa09e9956f3fc2f49c3d720fee09c79ddb8f2c3ed910",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Pillar/SM_Pillar_Merged_03.glb",
+      "bytes": 1194692,
+      "sha256": "1d866d23976d75f72ac049aeef14f4b9329abd86ac5ea81f22d62d17778fd6f1",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Pillar/SM_Pillar_Merged_04.glb",
+      "bytes": 1197540,
+      "sha256": "34dff5d974ee8ad01b1ca456941e660029e6bb35b699034888dce17df24111a1",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Pillar/SM_Pillar_Merged_06.glb",
+      "bytes": 1210812,
+      "sha256": "efcd082bef9f69d00ee78b0ffc737cff30436a821b94bb778babfc3ee2072db2",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Pillar/SM_Pillar_Merged_07.glb",
+      "bytes": 1196592,
+      "sha256": "8fb58fb555837727305d44c4b92b22c7eddb4f4311f16d250a5b9eb656f31311",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Pillar/SM_Pillar_Merged_08.glb",
+      "bytes": 1189000,
+      "sha256": "8321f3c8ee58ae4861cd9d98676c293cef9f54ed601232890b634c32a8bb494f",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Pillar/SM_Pillar_Merged_09.glb",
+      "bytes": 1190892,
+      "sha256": "5af3fa508b26d91a23b702438be3aa7acee28337b9bbd591598f806972f87665",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SK_Character_AsStaticMesh.glb",
+      "bytes": 10029432,
+      "sha256": "f176e06b8ab33a58aa6b8910ba83a146a8ac1bf488d4e3029c6d7bf340f340b3",
+      "passed": true,
+      "errors": 0,
+      "warnings": 4
+    },
+    {
+      "path": "Props/SK_Panda_AsStaticMesh.glb",
+      "bytes": 4178092,
+      "sha256": "163293c79b866a1e7ec579d0b8d7b1d797b85494cb3ae15d039a6478dc192e28",
+      "passed": true,
+      "errors": 0,
+      "warnings": 3
+    },
+    {
+      "path": "Props/SM_Bag1.glb",
+      "bytes": 2709940,
+      "sha256": "b15c14fc9434829d8b850d846c58075a74452f7d94fc9201ade5487c1b474ee0",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Banner_A.glb",
+      "bytes": 3264048,
+      "sha256": "76426fc5bbed0519632ab834b15281c3020c91cb80cd51e6a9e1605aeb3d730d",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Base_02_variant_1.glb",
+      "bytes": 1368416,
+      "sha256": "771973b1e0b38256037c888e5ed8783843dcdd63e05b2e1cb5d38ef26a7221e3",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Base_02_variant_2.glb",
+      "bytes": 1368416,
+      "sha256": "f5320441e36453e481630871b6614366fa699a52c46419ea1efea93557e63afb",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Beams_Pile.glb",
+      "bytes": 1786096,
+      "sha256": "eaa4eefcd385cafce20cab33728983831b53a8ceed0c31d58f2a9c3f4a59d171",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Bench.glb",
+      "bytes": 3420524,
+      "sha256": "60e3dab5ab8ca9bfb6edc79ccede5574b0e80e665528d140c32a9601457b1632",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Bridge.glb",
+      "bytes": 3978420,
+      "sha256": "c137a18a528123fd16a7f8038a31eb16aae397ce883010e508bf9abe1eabd0a9",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Props/SM_Bridge_02.glb",
+      "bytes": 3989336,
+      "sha256": "ad6518e23e3c4c08e9ac9172d29df865aeae26fb19fe3f283da1a182da4d2897",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Props/SM_BrokenVase.glb",
+      "bytes": 1361840,
+      "sha256": "1d7c419a1dbb8b094a7ee88971120c1b5ca7ccf91fb1810756dd2bc9b6e5f86a",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Props/SM_Column3.glb",
+      "bytes": 3179024,
+      "sha256": "abf4c5c2c6bc78a4a20db2f8606ffb01b72ba5482d2ff837f07d4c4cae67209a",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Column_B.glb",
+      "bytes": 3005920,
+      "sha256": "fc9629dea61579182eba64089b94e33d795c876fdb87aa9da028793f1ac2bdbf",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Fence.glb",
+      "bytes": 1828944,
+      "sha256": "3f344e9fd911133f17473dca700649aeeee81b8076f18d548cb1036e7f1f8168",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Fence_Column.glb",
+      "bytes": 1782652,
+      "sha256": "8c85f985840eaf4afbb57a0ca2900785ac5c84f90adc611a230125e43f15de34",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Grass_Plane_02.glb",
+      "bytes": 67136,
+      "sha256": "c5e00c88c1d7aed73bedb61ecd5e1e3bffab3db0bd5c22f26df36bf19a626fe6",
+      "passed": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "path": "Props/SM_Lantern_A.glb",
+      "bytes": 1867096,
+      "sha256": "8a523d83a76c63d38d6850a7d592c54ed688c916789766c6251e2e4054eaa381",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Lantern_B.glb",
+      "bytes": 1866756,
+      "sha256": "3313a888c5c34259e7d7c8228ce4250f67ff5b3cd5b345003df3c63cceaf2370",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Lantern_C.glb",
+      "bytes": 1826084,
+      "sha256": "9618f023f58560f8f8a6345666d8a7bf2404c2c8bad3a8014f12b83f57676fa6",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_LotusStatue.glb",
+      "bytes": 6608540,
+      "sha256": "bef6aa3b19acdb45223399d392705a0498119f9cf600287fe0d68929426f7f6b",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Props/SM_Pillar.glb",
+      "bytes": 1185828,
+      "sha256": "ae728e89c80db0bc0769bb68fd48d4f30b85f78f2446a5dbd09d1953686b4a24",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Pot_A.glb",
+      "bytes": 1995560,
+      "sha256": "0e26642256e45ced5204c90a850ee7d7845484c8421046d1de476fabdd675471",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Pot_B.glb",
+      "bytes": 2071328,
+      "sha256": "c218e28266d4aca0401d2f16f09d7adfe45bd1ea3fcde78f333d0a3230671d32",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Pot_C.glb",
+      "bytes": 2364600,
+      "sha256": "3734592565c5c70c388a338ba876c6aa4e6d2390b9b43ee57822f7ec6e3b1fc4",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Rock_01.glb",
+      "bytes": 1494624,
+      "sha256": "a874a6855565025427a276a0a33773c652f58f681f5de80cb774f33e1eecf592",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Rock_02.glb",
+      "bytes": 1692912,
+      "sha256": "a311bcc20d094db0a2dbd5b802313a7e66e784242078ada8624a89d132e23248",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Rock_03.glb",
+      "bytes": 1494624,
+      "sha256": "a5864cbd3044ed4ddc1296b6dc7f67609ec377530b30a453cc7d4917bf3b3eee",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Rock_04.glb",
+      "bytes": 1692916,
+      "sha256": "91bb3d65223845e433356de36b753f3008db078ceb11cb56b486e7b9c6a75184",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Stair_03.glb",
+      "bytes": 2585692,
+      "sha256": "beb7bd956cf9258e300767ea40c78db856fb41ea0a43499f9ebb11ebc5af97a7",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Props/SM_Stair_Merged_01.glb",
+      "bytes": 2580784,
+      "sha256": "53ca84053d699262050e374fc3792983690bf01b4ac8987e097731aeedd1f6be",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Props/SM_Stair_Merged_02.glb",
+      "bytes": 2589900,
+      "sha256": "ff2d9713b521d9b5564ec645d374a14711ed010b9787bac9b2f22512b39793a9",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Props/SM_Stair_Merged_03.glb",
+      "bytes": 2572464,
+      "sha256": "ae8054aba264c2a7cb1dff589eb424f93bed66da8281d08fec681ef2c90ac27b",
+      "passed": true,
+      "errors": 0,
+      "warnings": 2
+    },
+    {
+      "path": "Props/SM_Stairs_02.glb",
+      "bytes": 1753064,
+      "sha256": "9864419e0aa865be830c55ed5d587340dc0bf34d2d66b6b8e294f3bd396682db",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_StoneLamp.glb",
+      "bytes": 1385856,
+      "sha256": "d687a13eb8345bc799529e507e672b9cc93c99c5feb69c96674415fc010f3123",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_StoneTablet1.glb",
+      "bytes": 6222516,
+      "sha256": "2b4f97886c20f243bf30849d25070e10b911c9e70ebee43ee6428964c4151cd9",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_StoneTablet2.glb",
+      "bytes": 6126832,
+      "sha256": "37cd4a3501e9d15fddc9dba7c3db33be20595538f07021fd7e65d7380b817eb4",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Stone_Lamp.glb",
+      "bytes": 2721132,
+      "sha256": "51357cab4d013c08e62a11bddd4866674176edd18d3815cf99310b1230104796",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Temple.glb",
+      "bytes": 7438524,
+      "sha256": "8cdb24f3853db19db9ab7d78fa2cea859d8a295c01562539c4ddd11efb49d88e",
+      "passed": true,
+      "errors": 0,
+      "warnings": 3
+    },
+    {
+      "path": "Props/SM_Temple_Base_01.glb",
+      "bytes": 2976596,
+      "sha256": "4a0e53138383bba9593f9dd9d6d3b7cce7ec0941291a8a42f0f56edc8dd1f92f",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Temple_Base_02.glb",
+      "bytes": 2975636,
+      "sha256": "763d060d65d2d4a3e05115c3cb29dd2abde8eef418bab9db9d77dd1b8cdafb77",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Vase1.glb",
+      "bytes": 2582380,
+      "sha256": "a0866d07b7c0511e44bb1e57c460bd4889ceb14312e772b987885c787bbaf90b",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Vase2.glb",
+      "bytes": 2570680,
+      "sha256": "a5e08a9cc3bb102c42763ac091712bb94e7594f2560ee7ac2c31c6a3948a9489",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Vase3.glb",
+      "bytes": 2574764,
+      "sha256": "8d15562d729cc40560e03e1c97ace8f88fb113ddf8d2083bb65ae13ed4b6b697",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Vase4.glb",
+      "bytes": 2579728,
+      "sha256": "03e28a4d869dc1b240514192fd19ea4f69ced497cd753b2d06fc615c56b07401",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Water_Plane.glb",
+      "bytes": 8456896,
+      "sha256": "06e9a510a87936a98164beff939e3943ddbad2d264c56d7ecab3edc719c5a28a",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_WoodFence.glb",
+      "bytes": 3874708,
+      "sha256": "70e21ee7b214fbb0ad5ea845a3473bcb4b285714f5bcc7e65071e2116ea30b56",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_WoodFence2.glb",
+      "bytes": 3863244,
+      "sha256": "17330fb6fbf9c7ab9bda385c8f3398428681e1bee9551cb0447fd0c4ce5b957f",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_WoodFence_Column.glb",
+      "bytes": 3770940,
+      "sha256": "58d694dde30a2e23f87c5891a755e7234fe5bc0f7c74e7a42e84e91dd7d2cda4",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    {
+      "path": "Props/SM_Woods.glb",
+      "bytes": 3278776,
+      "sha256": "e7d8b8bc5163f7241c4a8b9dc1780a5407d292993fe4851ceab94476998495a1",
+      "passed": true,
+      "errors": 0,
+      "warnings": 1
+    }
+  ]
+}
