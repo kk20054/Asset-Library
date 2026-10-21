@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Temple + Meadow | Three.js mixed scene check</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#c8d9df;color:#edf3ef;font:14px/1.45 system-ui,sans-serif}canvas{display:block;width:100vw;height:100vh}aside{position:fixed;left:16px;top:16px;width:min(460px,calc(100vw - 32px));padding:18px;background:#172824ed;border:1px solid #566e63;border-radius:10px;max-height:calc(100vh - 32px);overflow:auto}h1{font-size:19px;line-height:1.2;margin:0 0 10px}p{margin:8px 0;color:#c5d5cc}.buttons{display:flex;flex-wrap:wrap;gap:7px;margin:12px 0}button,a{font:inherit}button{border:1px solid #7c9585;border-radius:5px;padding:7px 10px;background:#2d443b;color:white;cursor:pointer}button[aria-pressed="true"]{background:#e6d59d;color:#15271e;border-color:#e6d59d}button:disabled{opacity:.45;cursor:wait}button:focus-visible,a:focus-visible{outline:3px solid #ffe08b;outline-offset:3px}a{color:#eadba8}#status{white-space:pre-wrap;overflow-wrap:anywhere}#status[data-error="true"]{color:#ffbab2}pre{font:12px/1.5 ui-monospace,monospace;white-space:pre-wrap;overflow-wrap:anywhere;border-top:1px solid #52675d;padding-top:12px;margin-bottom:0}small{color:#afc4b7}
+</style>
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js","three/addons/":"https://cdn.jsdelivr.net/npm/three@0.180.0/examples/jsm/"}}</script>
+</head>
+<body>
+<canvas id="world" aria-label="Interactive mixed asset scene"></canvas>
+<aside>
+<h1>Temple + Meadow</h1>
+<p>A repeatable mixed scene and rendering comparison. Drag to orbit, scroll to zoom. Shadows are OFF. No terrain streaming or game logic is included.</p>
+<div class="buttons" aria-label="Rendering mode">
+<button id="instanced" aria-pressed="true" disabled>Instanced meshes</button><button id="clone" aria-pressed="false" disabled>Shared-resource clones</button>
+</div>
+<div class="buttons" aria-label="Camera and loading controls">
+<button id="near">Near camera</button><button id="far">Far camera</button><button id="retry" disabled>Retry loading</button>
+</div>
+<p id="status" role="status" aria-live="polite">Preparing renderer and selected assets...</p>
+<small>Identical seeded placements in both modes. Each material primitive can require its own draw call. Resource counts are not GPU memory bytes.</small>
+<pre id="metrics">Waiting for real rendered frames...</pre>
+<p><a href="../">Asset library</a></p>
+</aside>
+<script>
+window.addEventListener('error', function (event) {
+  const status = document.getElementById('status');
+  status.dataset.error = 'true';
+  status.textContent = event.message || 'A module or network resource failed. Check network access to the Three.js CDN and reload this page.';
+}, true);
+window.addEventListener('unhandledrejection', function (event) {
+  const status = document.getElementById('status');
+  status.dataset.error = 'true';
+  status.textContent = 'Unexpected error: ' + (event.reason?.message || event.reason);
+});
+</script>
+<script type="module" src="./world-demo.js"></script>
+</body>
+</html>

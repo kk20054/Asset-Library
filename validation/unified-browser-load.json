@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-21T05:29:53.593Z",
+  "scope": "Actual Three.js GLTFLoader loads of every asset from the unified local HTTP library, including external image and buffer resources.",
+  "manifest_asset_catalog_sha256": "c6baa77b5f0a2b58cfe176a7dea1ff6cedb09132d841428a14ed068158fad72a",
+  "base_url": "http://127.0.0.1:54821/",
+  "three_version": "0.180.0",
+  "browser": "Chrome 155 on Windows",
+  "complete": true,
+  "total": 516,
+  "passed": 516,
+  "failed": 0,
+  "collections": {
+    "temple": 135,
+    "meadow": 381
+  },
+  "failures": [],
+  "limits": [
+    "Loading and texture decoding validation does not prove exact Unity shader parity or a complete streaming-world game.",
+    "The renamed public raw host is checked separately."
+  ]
+}

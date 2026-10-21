@@ -1,67 +1,96 @@
-# Stylized Chinese Lost Temple
+# ThreeJS Stylized World Assets
 
-Three.js-ready conversions of the user-supplied Unity environment pack: **134 source FBX files, 135 self-contained GLB files**, approximately 355.7 MB in total. The extra GLB preserves a second source material variant for SM_Base_02. Every GLB contains its geometry, materials, and used image textures.
+A unified environment asset library for Three.js, combining **Stylized Chinese Lost Temple** architecture and props with **Meadow Environment – Stylized Pack 1.6** vegetation, rocks, and distant scenery. The deliverable is portable glTF data and browser examples, with English text indexes for coding assistants.
 
 ## Start here
 
-- [Interactive asset viewer](https://kk20054.github.io/Stylized-Chinese-Lost-Temple/)
-- [Instructions for Claude and other coding assistants](CLAUDE_USAGE.md)
-- [Compact asset index for text-based tools](https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/asset-index.json)
-- [Public JSON manifest](https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/manifest.json)
-- [Reusable Three.js loading helper](examples/load-model.js)
-- [Source inventory](source-catalog.json), [Prefab renderer assignments](source-prefabs.json), and [material mapping](source-materials.json)
+- [Compact asset index](https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/asset-index.json): select exact asset IDs without downloading the model library.
+- [Full manifest](https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/manifest.json): paths, collection, category, geometry statistics, sizes, provenance, and limitations.
+- [Instructions for Claude](CLAUDE_USAGE.md).
+- [Asset viewer](https://kk20054.github.io/ThreeJS-Stylized-World-Assets/).
+- [Temple + Meadow comparison](https://kk20054.github.io/ThreeJS-Stylized-World-Assets/examples/world-demo.html): the same seeded placements rendered as shared-resource clones or instanced meshes.
+- [Large-world feasibility and measurement notes](FEASIBILITY.md).
+- [Loading and disposal helper](examples/load-model.js).
 
-All assets are ordinary Git files. **No Git LFS checkout, Unity installation, authentication, API key, or Draco/KTX2 decoder is required to load them.** Use the manifest URLs or the Pages viewer, rather than GitHub blob-page URLs.
+The library contains **516 model assets: 135 Temple GLBs and 381 Meadow glTF variants**, representing **278 independent source models** (134 Temple + 144 Meadow). Source FBX counts, Prefab counts, material combinations, and exported assets are different quantities. Use the manifest for current paths, hashes, dependencies, and payload sizes; do not add per-asset dependency sizes without deduplicating shared files.
 
-## Load a model in Three.js
+## Collections and formats
 
-Use the same Three.js version for the core library and its addons. The included viewer uses version 0.180.0.
+| Collection | Exported assets | Independent source models | Runtime format |
+| --- | ---: | ---: | --- |
+| Temple | 135 | 134 | Self-contained GLB; original IDs such as SM_Temple. |
+| Meadow | 381 | 144 | glTF JSON with shared external resources; MEADOW_ IDs. |
+
+The existing **135 Temple GLBs, 355,670,520 bytes**, retain their original paths and bytes. The additional Temple output preserves a second source material variant; it is not a new source FBX. Those files represent 134 source FBXs.
+
+The **381 Meadow variants** retain actual Prefab material choices after lower-LOD filtering and deduplication of the 537 source material combinations. They cover 144 static environment FBXs. Six particle/VFX source meshes and one editor helper are excluded. Every Meadow glTF must retain its declared relative dependencies under models/Meadow/_shared/buffers and models/Meadow/_shared/textures.
+
+Both formats load through GLTFLoader. No Unity runtime is required. This export does not require Draco, Meshopt, or KTX2 decoders unless a future manifest explicitly declares a compressed version.
+
+## Load only the assets you need
+
+Use the same pinned Three.js version for the core and addons. The included browser examples use **0.180.0**.
 
 ~~~js
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 
-const base = 'https://raw.githubusercontent.com/kk20054/Stylized-Chinese-Lost-Temple/main/';
-const manifest = await fetch(base + 'manifest.json').then(r => {
-  if (!r.ok) throw new Error('Manifest HTTP ' + r.status);
-  return r.json();
-});
-const asset = manifest.assets.find(item => item.id === 'SM_Temple_BigRoof');
-if (!asset) throw new Error('Unknown asset ID');
-const gltf = await new GLTFLoader().loadAsync(new URL(asset.path, base).href);
-scene.add(gltf.scene);
-gltf.scene.position.set(0, 0, 0);
+const base = 'https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/';
+const response = await fetch(new URL('manifest.json', base));
+if (!response.ok) throw new Error('Manifest HTTP ' + response.status);
+const { assets } = await response.json();
+const chosen = [
+  assets.find(asset => asset.collection === 'temple' && asset.id === 'SM_Temple'),
+  assets.find(asset => asset.collection === 'meadow' && asset.category === 'Trees'),
+];
+if (chosen.some(asset => !asset)) throw new Error('Required assets are missing from the current manifest.');
+const loader = new GLTFLoader();
+for (const asset of chosen) {
+  const gltf = await loader.loadAsync(new URL(asset.path, base).href);
+  scene.add(gltf.scene);
+}
 ~~~
 
-Models preserve their source pivots and import scale. glTF uses meters, a right-handed coordinate system, and +Y up. Sizes and triangle counts are available per asset in the manifest. Many files are modular building pieces, not complete standalone temples; assemble them as reusable objects. Character and panda meshes are included as static props only.
+For Meadow, passing the original glTF URL lets GLTFLoader resolve relative buffers and textures correctly. **Downloading or uploading only the .gltf file is incomplete.** If you vendor a subset, copy its transitive dependencies and preserve their relative paths, or deliberately rewrite the URIs. Refer to the glTF JSON rather than guessing shared-resource filenames.
 
-For reproducible projects, replace main in the base URL with a full commit SHA. Copy examples/load-model.js into your application, or import it from the Pages host. GitHub raw is appropriate for model and JSON data, but its JavaScript MIME type is not an ES-module hosting guarantee.
+Use raw URLs for JSON/model data, not GitHub blob pages. Serve JavaScript modules from the Pages site or your application host; GitHub raw JavaScript MIME types are not an ES-module hosting guarantee. Pin the base URL to a full commit SHA for reproducible builds. Public access removes the need for a GitHub token; it does not guarantee that a particular chat service or sandbox can reach every host or understand binary geometry.
 
-## Conversion details
+Models use +Y up, right-handed coordinates, and meters. Preserve source import scale and pivots; check each asset's bounds before combining modules. Temple architecture includes modular building parts, not just complete buildings. Included Temple character and panda objects are static props, not rigged animation assets.
 
-The original ZIP files contain nested Unity packages. Built-in was selected because all 134 Built-in and URP FBX hashes matched. Original archives and full-resolution source images remain unchanged in the local source library and are not duplicated into this repository.
+## Portability boundaries
 
-- Actual Prefab renderer/material GUID assignments were used, rather than untextured FBX defaults.
-- Base color, normal, ORM, and enabled opacity-mask inputs were rebuilt as portable metallic/roughness PBR materials.
-- Base-color images are at most 2048 pixels on their longest side. Normal/data images are at most 1024 pixels. Opaque colors use quality-92 JPEG; alpha and data images use PNG.
-- Only highest-detail render meshes are exported. Lower LODs and collision helper meshes are excluded and listed in the manifest. No additional mesh decimation was performed.
-- SM_Base_02_variant_1 and SM_Base_02_variant_2 preserve the two original Prefab material choices.
+The portable materials use actual source renderer/material assignments where available. A glTF material is not a copy of a Unity ShaderGraph or custom shader.
 
-The water plane uses the source water color and a static normal map, with inactive legacy wood-texture properties excluded.
+- Temple retains portable base color, normal, ORM, and enabled opacity masks. Base colors are capped at 2048 pixels and normal/data maps at 1024; opaque colors use JPEG and alpha/data images use PNG. Existing GLB geometry is not newly decimated.
+- Meadow's shared buffers and textures reduce repeated file dependencies between material variants. Inspect per-asset metadata for the actual material mapping and omitted source behavior. Its static color bake follows the source shader's desaturation → brightness → color-controlled overlay → color/texture lerp sequence. The overlay branch is selected by _BaseAlbedoColor, not the sampled texture; this preserves the source material's green overlay on grayscale oak leaf images.
+- Procedural wind, noise-driven variation, vertex-AO/vertex-mask shading, subsurface scattering, and runtime seasonal blending are not reproduced by that base-color bake. The exported material remains a static PBR approximation.
+- Wind, global seasonal/top-layer behavior, particles, water distortion, terrain blending, and baked scene lighting require separate Three.js work. They are not implied by an FBX or material conversion.
+- The three binary Unity Terrain assets are not ported as terrain. Distant hill/mountain mesh props do not provide a streamed or traversable terrain system.
+- Exported lower-LOD exclusions are explicit. Three.js LOD can switch supplied meshes; it does not generate missing lower-detail geometry.
 
-Unity ShaderGraph code, foliage wind, particles, water distortion, terrain/moss blending, scene lighting, and Unity runtime components are **not** converted into equivalent Three.js behaviors. This is a portable asset library, not a reconstruction of the complete Unity demo scene. Source Prefab and material metadata is included to support further work. One material slot in the source SM_Character_Merged Prefab is unassigned; that slot retains a neutral fallback.
+Original source archives and full-resolution authoring images remain in the source library. Provenance is carried in the manifest and supporting source catalogs. The original Temple [source inventory](source-catalog.json), [Prefab assignments](source-prefabs.json), and [material mapping](source-materials.json) are retained for traceability.
 
-## Validation
+## Ground surface textures
 
-All 135 files passed the official Khronos glTF Validator with zero specification errors, zero container errors, and zero external-resource references. See [validation summary](validation/gltf-summary.json). The retained portability warnings concern runtime-generated normal-map tangent space; different renderers may produce small shading differences.
+[collections/meadow/terrain-textures.json](collections/meadow/terrain-textures.json) provides **six TerrainLayer definitions and 14 unique texture files: six diffuse, four normal, and four mask images**. It preserves the source layer tiling, offsets, normal scale, remap settings, texture identity, and importer notes. Shared normals/masks account for fewer texture files than layer references.
 
-The browser viewer also has an explicit full-library load check at [?validate=1](https://kk20054.github.io/Stylized-Chinese-Lost-Temple/?validate=1). Results are displayed on the page, including failed resources and decoded image dimensions. Public-access and browser test receipts are recorded under validation after publication. These checks prove public HTTP access and Three.js loading; they do not claim an untested third-party chat account has parsed binary geometry as text.
+Masks preserve their original channels. Their channel semantics are unverified, so channel_mapping is null; **do not guess ORM packing**. Source mask importer color-space settings are recorded separately from the portable linear-data role. Normal pixels and importer flipGreenChannel values are recorded without claiming independent orientation validation.
 
-To view a local checkout, serve this folder over HTTP; do not open index.html through a file URL:
+These are surface materials, not Unity Terrain meshes, heightfields, splatmaps, colliders, or a complete terrain scene. The mixed demo tiles the real Grass diffuse and normal on a single plane material; it does not reconstruct Unity terrain blending.
+
+## Validation and local use
+
+All **381 Meadow glTF variants passed** the [Khronos glTF validation check](validation/meadow-gltf.json) with **zero specification errors and zero dependency errors**. The 276 warnings concern runtime-generated normal-map tangents. The unchanged Temple baseline has its own 135/135 pass record with zero specification/container errors. [Validation files](validation/) identify the files and URLs covered by each receipt. Local conversion and browser evidence do not establish that the renamed public host or an external Claude account has been checked; consult the actual public-access receipt for that claim.
+
+The mixed-scene example loads five selected source models plus the Grass surface textures. A bounded local far-camera run in Chrome 155 on Windows at 1280 × 720, DPR 1, with shadows off, observed **484 draw calls for clones and 9 for instancing**, with **386,594 submitted triangles in both modes** across 385 model placements. These are observations for that scene, not a general FPS or world-capacity claim. The example does not implement terrain streaming. See [FEASIBILITY.md](FEASIBILITY.md) for selected IDs, measurement conditions, and limits.
+
+Serve a local checkout over HTTP, then open /examples/world-demo.html. Do not use a file URL:
 
 ~~~sh
 python -m http.server 8080
 ~~~
 
+The demo accepts ?mode=clone or ?mode=instanced and an optional base query parameter pointing to a raw repository root. A cross-origin test must check both the glTF and every external buffer/texture request. Visible loading failures should be investigated rather than replaced with a silent placeholder.
+
 ## Source and rights
 
-Source identity: the user-provided Stylized Chinese Lost Temple package, using the Assets/Stylarts namespace. Source hashes and mappings are retained for traceability. The user requested this repository publication on 2026-10-21. Conversion does not change the original assets' ownership or license terms, and this repository does not grant a new permissive license for third-party models or textures. Use the assets under the rights attached to your original source package. The third-party Three.js library and Khronos validator retain their own licenses.
+The source packages are user-supplied Stylized Chinese Lost Temple (Assets/Stylarts namespace) and Meadow Environment – Stylized Pack 1.6 (Assets/ANGRY MESH namespace). Conversion and repository publication do not change the original assets' ownership or license terms. This repository does not grant a new permissive license for third-party models or textures; use them under the rights attached to the original source packages. Three.js and validation tooling retain their own licenses.

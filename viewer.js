@@ -6,6 +6,8 @@ import { disposeTempleGLTF } from './examples/load-model.js';
 const $ = (id) => document.getElementById(id);
 const params = new URLSearchParams(location.search);
 const repoBase = new URL(params.get('base') || './', import.meta.url);
+if (!repoBase.pathname.endsWith('/')) repoBase.pathname += '/';
+$('manifest').href = new URL('manifest.json', repoBase).href;
 const events = new AbortController();
 const viewport = $('viewport');
 const scene = new THREE.Scene();
@@ -31,7 +33,7 @@ floor.receiveShadow = true;
 const grid = new THREE.GridHelper(1, 20, 0x728297, 0x435063);
 scene.add(floor, grid);
 floor.visible = grid.visible = false;
-let assets = [], current = null, currentDocument = null, currentBox = null, request = 0, closed = false;
+let assets = [], collections = [], current = null, currentDocument = null, currentBox = null, request = 0, closed = false;
 
 function status(message, state = 'ready') {
   $('status').textContent = message;
@@ -170,6 +172,7 @@ async function load(asset) {
     $('structure').textContent = report.meshes + ' / ' + report.materials;
     $('frame').disabled = false;
     $('download').href = new URL(asset.path, repoBase).href;
+    $('download').textContent = asset.self_contained ? 'Download GLB' : 'Open glTF (shared dependencies required)';
     $('download').hidden = false;
     const url = new URL(location.href);
     url.searchParams.set('asset', asset.id);
@@ -185,12 +188,21 @@ async function load(asset) {
 
 function fillModels(preferred) {
   const category = $('category').value;
-  const matches = assets.filter((asset) => !category || asset.category === category);
+  const collection = $('collection').value;
+  const matches = assets.filter((asset) => asset.collection === collection && (!category || asset.category === category));
   $('asset').replaceChildren(...matches.map((asset) => new Option(asset.name, asset.id)));
   const selected = matches.find((asset) => asset.id === preferred) || matches[0];
   $('asset').disabled = !selected;
   if (selected) { $('asset').value = selected.id; return load(selected); }
   status('No models in this category.');
+}
+
+function fillCategories(preferred) {
+  const matches = assets.filter((asset) => asset.collection === $('collection').value);
+  const categories = [...new Set(matches.map((asset) => asset.category))].sort();
+  $('category').replaceChildren(new Option('All categories', ''), ...categories.map((category) => new Option(category, category)));
+  $('category').disabled = !matches.length;
+  return fillModels(preferred);
 }
 
 async function validateAll() {
@@ -209,9 +221,9 @@ async function validateAll() {
       document = await new GLTFLoader(manager).loadAsync(new URL(asset.path, repoBase).href);
       root = document.scene;
       const report = inspect(root);
-      entry = { id: asset.id, path: asset.path, ...report, resourceErrors: failures };
+      entry = { id: asset.id, collection: asset.collection, path: asset.path, ...report, resourceErrors: failures };
       entry.ok = report.errors.length === 0 && failures.length === 0;
-    } catch (error) { entry = { id: asset.id, path: asset.path, ok: false, error: error.message, resourceErrors: failures }; }
+    } catch (error) { entry = { id: asset.id, collection: asset.collection, path: asset.path, ok: false, error: error.message, resourceErrors: failures }; }
     finally { if (document) disposeTempleGLTF(document); }
     result.assets.push(entry);
     result[entry.ok ? 'passed' : 'failed']++;
@@ -223,6 +235,7 @@ async function validateAll() {
   $('validation-status').dataset.state = result.failed ? 'error' : 'ready';
 }
 
+$('collection').addEventListener('change', () => fillCategories(), { signal: events.signal });
 $('category').addEventListener('change', () => fillModels(), { signal: events.signal });
 $('asset').addEventListener('change', () => load(assets.find((asset) => asset.id === $('asset').value)), { signal: events.signal });
 $('frame').addEventListener('click', () => frame(), { signal: events.signal });
@@ -242,20 +255,33 @@ window.addEventListener('pagehide', (event) => {
 }, { signal: events.signal });
 
 try {
-  const response = await fetch(new URL('manifest.json', repoBase));
+  const response = await fetch(new URL('manifest.json', repoBase), { cache: 'no-store' });
   if (!response.ok) throw new Error('Manifest HTTP ' + response.status);
   const manifest = await response.json();
   if (!Array.isArray(manifest.assets) || !manifest.assets.length) throw new Error('The manifest has no assets.');
+  collections = manifest.collections || [{ id: 'temple', name: 'Stylized Chinese Lost Temple' }];
+  if (!Array.isArray(collections) || !collections.length) throw new Error('The manifest has no collections.');
+  const collectionIds = new Set();
+  for (const collection of collections) {
+    if (!collection.id || collectionIds.has(collection.id)) throw new Error('Invalid or duplicate collection.');
+    collectionIds.add(collection.id);
+  }
   const ids = new Set();
   assets = manifest.assets.map((asset) => {
-    if (!asset.id || ids.has(asset.id) || typeof asset.path !== 'string' || !asset.path.startsWith('models/')) throw new Error('Invalid or duplicate manifest entry.');
+    const collection = asset.collection || 'temple';
+    if (!asset.id || ids.has(asset.id) || !collectionIds.has(collection) || typeof asset.path !== 'string' || !asset.path.startsWith('models/')) throw new Error('Invalid or duplicate manifest entry.');
     ids.add(asset.id);
-    return { ...asset, name: asset.name || asset.id, category: asset.category || 'Uncategorized' };
+    return { ...asset, collection, name: asset.name || asset.id, category: asset.category || 'Uncategorized' };
   });
-  $('category').replaceChildren(new Option('All categories', ''), ...[...new Set(assets.map((asset) => asset.category))].sort().map((category) => new Option(category, category)));
-  $('category').disabled = false;
+  const title = manifest.title || 'Three.js Stylized World Assets';
+  $('library-title').textContent = title;
+  document.title = title + ' — Asset Viewer';
+  $('collection').replaceChildren(...collections.map((collection) => new Option(collection.name || collection.id, collection.id)));
+  $('collection').disabled = false;
   const preferred = params.get('asset') || (ids.has('SM_Temple_BigRoof') ? 'SM_Temple_BigRoof' : assets[0].id);
-  await fillModels(preferred);
+  const selected = assets.find((asset) => asset.id === preferred) || assets[0];
+  $('collection').value = selected.collection;
+  await fillCategories(preferred);
   if (preferred && !ids.has(preferred)) status('Unknown asset ID. Showing the first model.', 'error');
   if (params.get('validate') === '1') await validateAll();
 } catch (error) { status('Viewer could not start: ' + error.message, 'error'); }

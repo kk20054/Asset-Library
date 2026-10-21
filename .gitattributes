@@ -5,3 +5,5 @@
 *.js text eol=lf
 *.html text eol=lf
 *.md text eol=lf
+*.gltf text eol=lf
+*.bin -filter binary

@@ -1,0 +1,810 @@
+{
+  "schema_version": 1,
+  "collection": "meadow",
+  "title": "Meadow TerrainLayer Textures",
+  "base_url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/",
+  "layer_count": 6,
+  "texture_count": 14,
+  "total_texture_bytes": 25474557,
+  "role_counts": {
+    "diffuse": 6,
+    "normal": 4,
+    "mask": 4
+  },
+  "scope": "TerrainLayer material definitions and portable texture files. These are not terrain meshes, heightfields, splatmaps, colliders, or complete Unity Terrain scenes.",
+  "uv_contract": "Authored tileSize and tileOffset are preserved verbatim; consumers must implement their terrain UV convention.",
+  "mask_policy": "Masks retain their source channels without packing into ORM. Channel semantics are unverified in the inspected TerrainLayer/texture importer records, so channel_mapping is null. Source mask importers set sRGBTexture=true; the portable mask role is linear data and that source setting is recorded separately.",
+  "normal_policy": "RGB normal pixels and source importer flipGreenChannel values are recorded; no independent normal orientation validation or channel conversion is claimed.",
+  "layers": [
+    {
+      "id": "MEADOW_ME_Cliffs_Terrain_Layer",
+      "name": "ME_Cliffs_Terrain_Layer",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Terrain Layers/ME_Cliffs_Terrain_Layer.terrainlayer",
+      "source_guid": "fb12f7049acbd5a4a8129834dd262ede",
+      "source_sha256": "043dacac4ae8aa3ed6da2de677df2973b7a4263be4ebe8fa734b617cc1eff657",
+      "textures": {
+        "diffuse": "MEADOW_TERRAIN_T_Terrain_Cliffs_01_A",
+        "normal": "MEADOW_TERRAIN_T_Terrain_Cliffs_01_N",
+        "mask": "MEADOW_TERRAIN_T_Terrain_Cliffs_01_Mask"
+      },
+      "texture_guids": {
+        "diffuse": "19bcbaaf86e02a24e9a1f405a2dc4305",
+        "normal": "fef7920017a02ce458e2182e19652931",
+        "mask": "ef485c32385b0694abb4e23dc293a274"
+      },
+      "tileSize": {
+        "x": 4,
+        "y": 4
+      },
+      "tileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "normalScale": 1,
+      "metallic": 0,
+      "smoothness": 0,
+      "specular": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "diffuseRemapMin": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 0
+      },
+      "diffuseRemapMax": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "w": 1
+      },
+      "maskMapRemapMin": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 0
+      },
+      "maskMapRemapMax": {
+        "x": 1,
+        "y": 1,
+        "z": 5,
+        "w": 0.6782178
+      },
+      "mask_channel_mapping": null
+    },
+    {
+      "id": "MEADOW_ME_DryGrass_Terrain_Layer",
+      "name": "ME_DryGrass_Terrain_Layer",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Terrain Layers/ME_DryGrass_Terrain_Layer.terrainlayer",
+      "source_guid": "9617662c7cc7c074eab0196507c38b15",
+      "source_sha256": "a570f8b18949fb4a6c3113fdf542022475944222dbd529e0229d8a4da6c9fe01",
+      "textures": {
+        "diffuse": "MEADOW_TERRAIN_T_Terrain_DryGrass_01_A",
+        "normal": "MEADOW_TERRAIN_T_Terrain_Grass_01_N",
+        "mask": "MEADOW_TERRAIN_T_Terrain_Grass_01_Mask"
+      },
+      "texture_guids": {
+        "diffuse": "ea8249da604df71488f068ba5248a6bc",
+        "normal": "ce33c7bbfcc6ff044979c54b9fb01fae",
+        "mask": "f7baafb84179e494b83c81bc7279008f"
+      },
+      "tileSize": {
+        "x": 2,
+        "y": 2
+      },
+      "tileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "normalScale": 0.5,
+      "metallic": 0,
+      "smoothness": 0,
+      "specular": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "diffuseRemapMin": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 0
+      },
+      "diffuseRemapMax": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "w": 1
+      },
+      "maskMapRemapMin": {
+        "x": 0,
+        "y": 1,
+        "z": 0,
+        "w": 0
+      },
+      "maskMapRemapMax": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "w": 0.23886141
+      },
+      "mask_channel_mapping": null
+    },
+    {
+      "id": "MEADOW_ME_Grass_Terrain_Layer",
+      "name": "ME_Grass_Terrain_Layer",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Terrain Layers/ME_Grass_Terrain_Layer.terrainlayer",
+      "source_guid": "fbb05c2ce95544e43890e4d77b1ea158",
+      "source_sha256": "b1afbc4831e082ad0b0376f1a2281a70f9e03590185b657a4f3d158d68ec1bfb",
+      "textures": {
+        "diffuse": "MEADOW_TERRAIN_T_Terrain_Grass_01_A",
+        "normal": "MEADOW_TERRAIN_T_Terrain_Grass_01_N",
+        "mask": "MEADOW_TERRAIN_T_Terrain_Grass_01_Mask"
+      },
+      "texture_guids": {
+        "diffuse": "f6dc7c0cfcd8cb54cb5f4dbe15bb7047",
+        "normal": "ce33c7bbfcc6ff044979c54b9fb01fae",
+        "mask": "f7baafb84179e494b83c81bc7279008f"
+      },
+      "tileSize": {
+        "x": 2,
+        "y": 2
+      },
+      "tileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "normalScale": 0.5,
+      "metallic": 0,
+      "smoothness": 0,
+      "specular": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "diffuseRemapMin": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 0
+      },
+      "diffuseRemapMax": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "w": 1
+      },
+      "maskMapRemapMin": {
+        "x": 0,
+        "y": 1,
+        "z": 0,
+        "w": 0
+      },
+      "maskMapRemapMax": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "w": 0.3646037
+      },
+      "mask_channel_mapping": null
+    },
+    {
+      "id": "MEADOW_ME_MudSnow_Terrain_Layer",
+      "name": "ME_MudSnow_Terrain_Layer",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Terrain Layers/ME_MudSnow_Terrain_Layer.terrainlayer",
+      "source_guid": "912dca82c4d8a214a8af0a2e6721b919",
+      "source_sha256": "24863ab6256387c691a5dc9fcac6f743a0baa8389d5b7e27d6fe10c557019199",
+      "textures": {
+        "diffuse": "MEADOW_TERRAIN_T_Terrain_MudSnow_01_A",
+        "normal": "MEADOW_TERRAIN_T_Terrain_Mud_01_N",
+        "mask": "MEADOW_TERRAIN_T_Terrain_Mud_01_Mask"
+      },
+      "texture_guids": {
+        "diffuse": "f07627b950b0eef4a8fc6d627e5ddf42",
+        "normal": "5ad46670807e11440989ea257f7338b0",
+        "mask": "5d23e053dd8b4674b82264f36a76bfda"
+      },
+      "tileSize": {
+        "x": 4,
+        "y": 4
+      },
+      "tileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "normalScale": 1,
+      "metallic": 0,
+      "smoothness": 0,
+      "specular": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "diffuseRemapMin": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 0
+      },
+      "diffuseRemapMax": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "w": 1
+      },
+      "maskMapRemapMin": {
+        "x": 0,
+        "y": 0.90099,
+        "z": 0,
+        "w": 0
+      },
+      "maskMapRemapMax": {
+        "x": 1,
+        "y": 0.9999999,
+        "z": 0.5,
+        "w": 0.47091576
+      },
+      "mask_channel_mapping": null
+    },
+    {
+      "id": "MEADOW_ME_Mud_Terrain_Layer",
+      "name": "ME_Mud_Terrain_Layer",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Terrain Layers/ME_Mud_Terrain_Layer.terrainlayer",
+      "source_guid": "71aa0d476033ef741bbc7a8946cd3031",
+      "source_sha256": "81c80aab73b9525b22f6a6263ec235a3c9d8b8e43c9acf1d9d2982062468a066",
+      "textures": {
+        "diffuse": "MEADOW_TERRAIN_T_Terrain_Mud_01_A",
+        "normal": "MEADOW_TERRAIN_T_Terrain_Mud_01_N",
+        "mask": "MEADOW_TERRAIN_T_Terrain_Mud_01_Mask"
+      },
+      "texture_guids": {
+        "diffuse": "8b878d84748013d4abdef246ee909872",
+        "normal": "5ad46670807e11440989ea257f7338b0",
+        "mask": "5d23e053dd8b4674b82264f36a76bfda"
+      },
+      "tileSize": {
+        "x": 4,
+        "y": 4
+      },
+      "tileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "normalScale": 1,
+      "metallic": 0,
+      "smoothness": 0,
+      "specular": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "diffuseRemapMin": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 0
+      },
+      "diffuseRemapMax": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "w": 1
+      },
+      "maskMapRemapMin": {
+        "x": 0,
+        "y": 0.8391088,
+        "z": 0,
+        "w": 0
+      },
+      "maskMapRemapMax": {
+        "x": 1,
+        "y": 0.9999999,
+        "z": 1,
+        "w": 0.4541911
+      },
+      "mask_channel_mapping": null
+    },
+    {
+      "id": "MEADOW_ME_Snow_Terrain_Layer",
+      "name": "ME_Snow_Terrain_Layer",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Terrain Layers/ME_Snow_Terrain_Layer.terrainlayer",
+      "source_guid": "022f36c56ccb69044be2e81e606c4f8c",
+      "source_sha256": "d4ce46e85961b73a90af322c64e483732cb651748e8c638e64a1dcfaf7fed24e",
+      "textures": {
+        "diffuse": "MEADOW_TERRAIN_T_Terrain_Snow_01_A",
+        "normal": "MEADOW_TERRAIN_T_Terrain_Snow_01_N",
+        "mask": "MEADOW_TERRAIN_T_Terrain_Snow_01_Mask"
+      },
+      "texture_guids": {
+        "diffuse": "43c6850ec73cb9f44a949ba754b68c58",
+        "normal": "b867360ec0563b84093b009b4842f2d5",
+        "mask": "e7c1b590ae0ccab4cb9a64d09feb8aa1"
+      },
+      "tileSize": {
+        "x": 2,
+        "y": 2
+      },
+      "tileOffset": {
+        "x": 0,
+        "y": 0
+      },
+      "normalScale": 1,
+      "metallic": 0,
+      "smoothness": 0,
+      "specular": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "diffuseRemapMin": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 0
+      },
+      "diffuseRemapMax": {
+        "x": 1,
+        "y": 1,
+        "z": 1,
+        "w": 1
+      },
+      "maskMapRemapMin": {
+        "x": 0,
+        "y": 0.8122283,
+        "z": 0,
+        "w": 0
+      },
+      "maskMapRemapMax": {
+        "x": 0.9999999,
+        "y": 0.99999994,
+        "z": 1.5,
+        "w": 0.5420792
+      },
+      "mask_channel_mapping": null
+    }
+  ],
+  "textures": [
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Cliffs_01_A",
+      "role": "diffuse",
+      "path": "textures/Meadow/Terrain/T_Terrain_Cliffs_01_A.jpg",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Cliffs_01_A.jpg",
+      "bytes": 634643,
+      "sha256": "2d002628cec780498598f2d011db90c8f4a676b42f9fddc4a8b489aa10935a9d",
+      "colorSpace": "sRGB",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "19bcbaaf86e02a24e9a1f405a2dc4305",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Cliffs_01_A.tif",
+      "source_sha256": "1dcde7ffbeb75456bdd0fb5c82f6275bb74a0e4167e1010f491a3ddc06122ded",
+      "source_mode": null,
+      "source_importer": {
+        "sRGBTexture": true,
+        "textureType": 0,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Byte-identical copy of the existing browser PNG/JPEG conversion.",
+      "channel_mapping": "RGB diffuse"
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Cliffs_01_Mask",
+      "role": "mask",
+      "path": "textures/Meadow/Terrain/T_Terrain_Cliffs_01_Mask.png",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Cliffs_01_Mask.png",
+      "bytes": 3737542,
+      "sha256": "b48a8007efb0a63d515055afee5a2d2af7d6c18f9f4d4eea2a709c51068addd5",
+      "colorSpace": "linear",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "ef485c32385b0694abb4e23dc293a274",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Cliffs_01_Mask.tif",
+      "source_sha256": "767f57cf38e49b423cfb2e0053ac9e2f7c366a82719c1ed937a78b3ab5dfdb9b",
+      "source_mode": "RGB",
+      "source_importer": {
+        "sRGBTexture": true,
+        "textureType": 0,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Source TIFF channels exported as losslessly compressed RGBA PNG; maximum dimension 2048; Lanczos resize; no gamma or channel remapping.",
+      "channel_mapping": null
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Cliffs_01_N",
+      "role": "normal",
+      "path": "textures/Meadow/Terrain/T_Terrain_Cliffs_01_N.png",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Cliffs_01_N.png",
+      "bytes": 2569791,
+      "sha256": "eafa2bdcb7afa3de2264dfafe8fca2c490118f05de1a49a3d075bd882ce54901",
+      "colorSpace": "linear",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "fef7920017a02ce458e2182e19652931",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Cliffs_01_N.tif",
+      "source_sha256": "f21c67ea2ad1b9af00b4b74f6328f3f01da5002b3d4c629bd2a80832d219987c",
+      "source_mode": null,
+      "source_importer": {
+        "sRGBTexture": false,
+        "textureType": 1,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Byte-identical copy of the existing browser PNG/JPEG conversion.",
+      "channel_mapping": "RGB normal, source channel convention preserved"
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_DryGrass_01_A",
+      "role": "diffuse",
+      "path": "textures/Meadow/Terrain/T_Terrain_DryGrass_01_A.jpg",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_DryGrass_01_A.jpg",
+      "bytes": 639811,
+      "sha256": "7ae9ddef9dcbe5b430baa758b8a42f623f09b5874750ccde6b71016187de27b6",
+      "colorSpace": "sRGB",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "ea8249da604df71488f068ba5248a6bc",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_DryGrass_01_A.tif",
+      "source_sha256": "0eb267f929ce2e0314a627e67f9a86a5dc0d8cc4f0153a402a58033f6c567d5f",
+      "source_mode": null,
+      "source_importer": {
+        "sRGBTexture": true,
+        "textureType": 0,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Byte-identical copy of the existing browser PNG/JPEG conversion.",
+      "channel_mapping": "RGB diffuse"
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Grass_01_A",
+      "role": "diffuse",
+      "path": "textures/Meadow/Terrain/T_Terrain_Grass_01_A.jpg",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Grass_01_A.jpg",
+      "bytes": 604195,
+      "sha256": "db0c3f4440b51e61697fd0bfa43875320859278984b5226e7aeec03cdce4980e",
+      "colorSpace": "sRGB",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "f6dc7c0cfcd8cb54cb5f4dbe15bb7047",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Grass_01_A.tif",
+      "source_sha256": "e056a362c08495db3342a8d87dfb754d9c0994560cab599746aec184479a8a73",
+      "source_mode": null,
+      "source_importer": {
+        "sRGBTexture": true,
+        "textureType": 0,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Byte-identical copy of the existing browser PNG/JPEG conversion.",
+      "channel_mapping": "RGB diffuse"
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Grass_01_Mask",
+      "role": "mask",
+      "path": "textures/Meadow/Terrain/T_Terrain_Grass_01_Mask.png",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Grass_01_Mask.png",
+      "bytes": 5047005,
+      "sha256": "7976db3b6344547b8fe78b218274e1fa32475ce170dd46ea9a934a09c3e0ab27",
+      "colorSpace": "linear",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "f7baafb84179e494b83c81bc7279008f",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Grass_01_Mask.tif",
+      "source_sha256": "10d72f0d59f6bfe95a0f7c6feec458319c1dcc5cf8f15b5458d3c2f4daf0aa17",
+      "source_mode": "RGB",
+      "source_importer": {
+        "sRGBTexture": true,
+        "textureType": 0,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Source TIFF channels exported as losslessly compressed RGBA PNG; maximum dimension 2048; Lanczos resize; no gamma or channel remapping.",
+      "channel_mapping": null
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Grass_01_N",
+      "role": "normal",
+      "path": "textures/Meadow/Terrain/T_Terrain_Grass_01_N.png",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Grass_01_N.png",
+      "bytes": 1812614,
+      "sha256": "5d3482d869d2ddd02c61a6f29f7575f79e2b9b9cb527278d893d7c9388df580d",
+      "colorSpace": "linear",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "ce33c7bbfcc6ff044979c54b9fb01fae",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Grass_01_N.tif",
+      "source_sha256": "fe0eff6de90c1f15339a20576add666d159a64741ae53ac6fad13880c44fb1d7",
+      "source_mode": null,
+      "source_importer": {
+        "sRGBTexture": false,
+        "textureType": 1,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Byte-identical copy of the existing browser PNG/JPEG conversion.",
+      "channel_mapping": "RGB normal, source channel convention preserved"
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_MudSnow_01_A",
+      "role": "diffuse",
+      "path": "textures/Meadow/Terrain/T_Terrain_MudSnow_01_A.jpg",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_MudSnow_01_A.jpg",
+      "bytes": 460700,
+      "sha256": "435669c8dfae8b9e29955b4f22b57ca7340703ea6d9c353e0bafb19ffec22b7a",
+      "colorSpace": "sRGB",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "f07627b950b0eef4a8fc6d627e5ddf42",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_MudSnow_01_A.tif",
+      "source_sha256": "606bfe6c482b6e40cf6a50917f01a8e67f6a227a54fbb7139a458563bc5ee869",
+      "source_mode": null,
+      "source_importer": {
+        "sRGBTexture": true,
+        "textureType": 0,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Byte-identical copy of the existing browser PNG/JPEG conversion.",
+      "channel_mapping": "RGB diffuse"
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Mud_01_A",
+      "role": "diffuse",
+      "path": "textures/Meadow/Terrain/T_Terrain_Mud_01_A.jpg",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Mud_01_A.jpg",
+      "bytes": 228553,
+      "sha256": "6fced4a5cb29c57b845fb25f2a60b15c3752517d58135a07abb35ee335cc0521",
+      "colorSpace": "sRGB",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "8b878d84748013d4abdef246ee909872",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Mud_01_A.tif",
+      "source_sha256": "287ad6470732a13071b42b7cff5b6390d09af32239ec40faacd04321f01de99b",
+      "source_mode": null,
+      "source_importer": {
+        "sRGBTexture": true,
+        "textureType": 0,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Byte-identical copy of the existing browser PNG/JPEG conversion.",
+      "channel_mapping": "RGB diffuse"
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Mud_01_Mask",
+      "role": "mask",
+      "path": "textures/Meadow/Terrain/T_Terrain_Mud_01_Mask.png",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Mud_01_Mask.png",
+      "bytes": 2872003,
+      "sha256": "4a86f8406f12fdba6468b0b1d9b8b8537fa8b75f51cb100006cbfd3be9c39130",
+      "colorSpace": "linear",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "5d23e053dd8b4674b82264f36a76bfda",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Mud_01_Mask.tif",
+      "source_sha256": "72ba7b9d42b877d7f10a0d117aab6a76039be4d8626e40bb93ae0fc4a76c912e",
+      "source_mode": "RGB",
+      "source_importer": {
+        "sRGBTexture": true,
+        "textureType": 0,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Source TIFF channels exported as losslessly compressed RGBA PNG; maximum dimension 2048; Lanczos resize; no gamma or channel remapping.",
+      "channel_mapping": null
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Mud_01_N",
+      "role": "normal",
+      "path": "textures/Meadow/Terrain/T_Terrain_Mud_01_N.png",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Mud_01_N.png",
+      "bytes": 1371715,
+      "sha256": "86b9c0bedf85de40ace217ec366e50afb97d506d7e63fdfaa24db3dacf53ee02",
+      "colorSpace": "linear",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "5ad46670807e11440989ea257f7338b0",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Mud_01_N.tif",
+      "source_sha256": "df49d75e3b79068410c3b67d9b35e96318431d556ecde07176411c1611eca032",
+      "source_mode": null,
+      "source_importer": {
+        "sRGBTexture": false,
+        "textureType": 1,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Byte-identical copy of the existing browser PNG/JPEG conversion.",
+      "channel_mapping": "RGB normal, source channel convention preserved"
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Snow_01_A",
+      "role": "diffuse",
+      "path": "textures/Meadow/Terrain/T_Terrain_Snow_01_A.jpg",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Snow_01_A.jpg",
+      "bytes": 70640,
+      "sha256": "804b0910acb731a32a70ce3c651e80fc53e902a30325824758a80380924744ef",
+      "colorSpace": "sRGB",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "43c6850ec73cb9f44a949ba754b68c58",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Snow_01_A.tif",
+      "source_sha256": "d3a6895fd9f08a447042b05e049c9fdbd0f8ede9ab0903cf93d2741cf877adf6",
+      "source_mode": null,
+      "source_importer": {
+        "sRGBTexture": true,
+        "textureType": 0,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Byte-identical copy of the existing browser PNG/JPEG conversion.",
+      "channel_mapping": "RGB diffuse"
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Snow_01_Mask",
+      "role": "mask",
+      "path": "textures/Meadow/Terrain/T_Terrain_Snow_01_Mask.png",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Snow_01_Mask.png",
+      "bytes": 3588159,
+      "sha256": "0ddac5380d2e76c392e44d44f5260dae88fc9d3f683637f571032eab29530ff4",
+      "colorSpace": "linear",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "e7c1b590ae0ccab4cb9a64d09feb8aa1",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Snow_01_Mask.tif",
+      "source_sha256": "b8db12e5dbfda87d9e4dd51820727c65d9db3d0c7bd8b58815ebd6c4c8661508",
+      "source_mode": "RGB",
+      "source_importer": {
+        "sRGBTexture": true,
+        "textureType": 0,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Source TIFF channels exported as losslessly compressed RGBA PNG; maximum dimension 2048; Lanczos resize; no gamma or channel remapping.",
+      "channel_mapping": null
+    },
+    {
+      "id": "MEADOW_TERRAIN_T_Terrain_Snow_01_N",
+      "role": "normal",
+      "path": "textures/Meadow/Terrain/T_Terrain_Snow_01_N.png",
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/textures/Meadow/Terrain/T_Terrain_Snow_01_N.png",
+      "bytes": 1837186,
+      "sha256": "7c10696d0f068aa60c9146898f490c0739a43e117936ea479d8b50d3253e3120",
+      "colorSpace": "linear",
+      "dimensions": [
+        1024,
+        1024
+      ],
+      "source_dimensions": [
+        4096,
+        4096
+      ],
+      "source_guid": "b867360ec0563b84093b009b4842f2d5",
+      "source": "Assets/ANGRY MESH/Stylized Pack - Meadow Environment/Sources/Textures/Terrain/T_Terrain_Snow_01_N.tif",
+      "source_sha256": "de31fb9530e4a1409a9c81b2e817d2d1e3d58407cbe0b7b0b3cb9695108bb157",
+      "source_mode": null,
+      "source_importer": {
+        "sRGBTexture": false,
+        "textureType": 1,
+        "convertToNormalMap": false,
+        "flipGreenChannel": false,
+        "wrapU": 0,
+        "wrapV": 0
+      },
+      "conversion": "Byte-identical copy of the existing browser PNG/JPEG conversion.",
+      "channel_mapping": "RGB normal, source channel convention preserved"
+    }
+  ]
+}
