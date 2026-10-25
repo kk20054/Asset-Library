@@ -1,0 +1,751 @@
+{
+  "schema_version": 1,
+  "verified_at": "2026-10-25T15:13:38.139Z",
+  "result": "verified_public_delivery",
+  "content_snapshot_commit": "31855e606e760bc99eec7a520a8150c7833e71d7",
+  "scope": "Public text/selected binary GETs plus seven Release uploads verified by GitHub size/digest and anonymous HEAD; complete ZIPs were not downloaded again.",
+  "anonymous_catalog_and_samples": {
+    "schema_version": 1,
+    "checked_at": "2026-10-25T15:11:16.710Z",
+    "repository": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets",
+    "commit": "31855e606e760bc99eec7a520a8150c7833e71d7",
+    "result": "passed_for_stated_scope",
+    "scope": "Anonymous HTTP GET access to root index, all seven category selection indexes, first and last detail page per category, four direct sample GLBs and two preview PNGs at the pinned commit.",
+    "network": {
+      "method": "GET",
+      "authentication": "none",
+      "credentials": "omit",
+      "overall_timeout_ms": 30000,
+      "elapsed_ms": 18393,
+      "requests": 27,
+      "retries": 0,
+      "all_http_200": true
+    },
+    "root_index": {
+      "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/index.json",
+      "bytes": 1306,
+      "local_sha256_match": true,
+      "declared_assets": 1090,
+      "category_count": 7,
+      "category_asset_total": 1090,
+      "unique_category_asset_ids": 1090
+    },
+    "categories": [
+      {
+        "category": "Trees",
+        "http_status": 200,
+        "selection_bytes": 63090,
+        "within_200000_bytes": true,
+        "declared_count": 161,
+        "actual_count": 161,
+        "count_matches_root": true,
+        "duplicate_ids_within": false,
+        "duplicate_ids_across_categories": [],
+        "bad_relative_detail_references": [],
+        "ids_path_and_bytes_mismatching_local_catalog": [],
+        "local_file_sha256_match": true,
+        "selected_first_last_details": [
+          "details/Trees-01.json",
+          "details/Trees-09.json"
+        ]
+      },
+      {
+        "category": "Rocks",
+        "http_status": 200,
+        "selection_bytes": 131022,
+        "within_200000_bytes": true,
+        "declared_count": 324,
+        "actual_count": 324,
+        "count_matches_root": true,
+        "duplicate_ids_within": false,
+        "duplicate_ids_across_categories": [],
+        "bad_relative_detail_references": [],
+        "ids_path_and_bytes_mismatching_local_catalog": [],
+        "local_file_sha256_match": true,
+        "selected_first_last_details": [
+          "details/Rocks-01.json",
+          "details/Rocks-17.json"
+        ]
+      },
+      {
+        "category": "Foliage",
+        "http_status": 200,
+        "selection_bytes": 42791,
+        "within_200000_bytes": true,
+        "declared_count": 109,
+        "actual_count": 109,
+        "count_matches_root": true,
+        "duplicate_ids_within": false,
+        "duplicate_ids_across_categories": [],
+        "bad_relative_detail_references": [],
+        "ids_path_and_bytes_mismatching_local_catalog": [],
+        "local_file_sha256_match": true,
+        "selected_first_last_details": [
+          "details/Foliage-01.json",
+          "details/Foliage-06.json"
+        ]
+      },
+      {
+        "category": "WaterSky",
+        "http_status": 200,
+        "selection_bytes": 18223,
+        "within_200000_bytes": true,
+        "declared_count": 45,
+        "actual_count": 45,
+        "count_matches_root": true,
+        "duplicate_ids_within": false,
+        "duplicate_ids_across_categories": [],
+        "bad_relative_detail_references": [],
+        "ids_path_and_bytes_mismatching_local_catalog": [],
+        "local_file_sha256_match": true,
+        "selected_first_last_details": [
+          "details/WaterSky-01.json",
+          "details/WaterSky-03.json"
+        ]
+      },
+      {
+        "category": "Other",
+        "http_status": 200,
+        "selection_bytes": 60920,
+        "within_200000_bytes": true,
+        "declared_count": 148,
+        "actual_count": 148,
+        "count_matches_root": true,
+        "duplicate_ids_within": false,
+        "duplicate_ids_across_categories": [],
+        "bad_relative_detail_references": [],
+        "ids_path_and_bytes_mismatching_local_catalog": [],
+        "local_file_sha256_match": true,
+        "selected_first_last_details": [
+          "details/Other-01.json",
+          "details/Other-08.json"
+        ]
+      },
+      {
+        "category": "Textures",
+        "http_status": 200,
+        "selection_bytes": 109025,
+        "within_200000_bytes": true,
+        "declared_count": 286,
+        "actual_count": 286,
+        "count_matches_root": true,
+        "duplicate_ids_within": false,
+        "duplicate_ids_across_categories": [],
+        "bad_relative_detail_references": [],
+        "ids_path_and_bytes_mismatching_local_catalog": [],
+        "local_file_sha256_match": true,
+        "selected_first_last_details": [
+          "details/Textures-01.json",
+          "details/Textures-15.json"
+        ]
+      },
+      {
+        "category": "Audio",
+        "http_status": 200,
+        "selection_bytes": 6362,
+        "within_200000_bytes": true,
+        "declared_count": 17,
+        "actual_count": 17,
+        "count_matches_root": true,
+        "duplicate_ids_within": false,
+        "duplicate_ids_across_categories": [],
+        "bad_relative_detail_references": [],
+        "ids_path_and_bytes_mismatching_local_catalog": [],
+        "local_file_sha256_match": true,
+        "selected_first_last_details": [
+          "details/Audio-01.json"
+        ]
+      }
+    ],
+    "selected_detail_pages": [
+      {
+        "category": "Trees",
+        "relative_path": "indexes/details/Trees-01.json",
+        "http_status": 200,
+        "bytes": 83945,
+        "assets": 20,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "Trees",
+        "relative_path": "indexes/details/Trees-09.json",
+        "http_status": 200,
+        "bytes": 4136,
+        "assets": 1,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "Rocks",
+        "relative_path": "indexes/details/Rocks-01.json",
+        "http_status": 200,
+        "bytes": 65017,
+        "assets": 20,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "Rocks",
+        "relative_path": "indexes/details/Rocks-17.json",
+        "http_status": 200,
+        "bytes": 13106,
+        "assets": 4,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "Foliage",
+        "relative_path": "indexes/details/Foliage-01.json",
+        "http_status": 200,
+        "bytes": 71015,
+        "assets": 20,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "Foliage",
+        "relative_path": "indexes/details/Foliage-06.json",
+        "http_status": 200,
+        "bytes": 31138,
+        "assets": 9,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "WaterSky",
+        "relative_path": "indexes/details/WaterSky-01.json",
+        "http_status": 200,
+        "bytes": 66948,
+        "assets": 20,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "WaterSky",
+        "relative_path": "indexes/details/WaterSky-03.json",
+        "http_status": 200,
+        "bytes": 22286,
+        "assets": 5,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "Other",
+        "relative_path": "indexes/details/Other-01.json",
+        "http_status": 200,
+        "bytes": 62769,
+        "assets": 20,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "Other",
+        "relative_path": "indexes/details/Other-08.json",
+        "http_status": 200,
+        "bytes": 25187,
+        "assets": 8,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "Textures",
+        "relative_path": "indexes/details/Textures-01.json",
+        "http_status": 200,
+        "bytes": 45481,
+        "assets": 20,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "Textures",
+        "relative_path": "indexes/details/Textures-15.json",
+        "http_status": 200,
+        "bytes": 13728,
+        "assets": 6,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      },
+      {
+        "category": "Audio",
+        "relative_path": "indexes/details/Audio-01.json",
+        "http_status": 200,
+        "bytes": 31670,
+        "assets": 17,
+        "ids_match_category_page_selection": true,
+        "duplicate_ids": false,
+        "ids_path_size_sha256_mismatching_local_catalog": [],
+        "local_file_sha256_match": true
+      }
+    ],
+    "sample_glbs": [
+      {
+        "id": "SOSTYLIZED_SM_Bush1",
+        "path": "samples/SM_Bush1.glb",
+        "http_status": 200,
+        "bytes": 694780,
+        "expected_bytes": 694780,
+        "sha256": "62dfad63a7863403fe2a66247293351bea5d463858e12828b6b5b7c090e91739",
+        "expected_sha256": "62dfad63a7863403fe2a66247293351bea5d463858e12828b6b5b7c090e91739",
+        "size_matches": true,
+        "sha256_matches": true
+      },
+      {
+        "id": "SOSTYLIZED_SM_Bamboo1",
+        "path": "samples/SM_Bamboo1.glb",
+        "http_status": 200,
+        "bytes": 3234400,
+        "expected_bytes": 3234400,
+        "sha256": "ecd0efce96b12bfb569bf80be04fa002a57144967e1fd53335681403a04e104c",
+        "expected_sha256": "ecd0efce96b12bfb569bf80be04fa002a57144967e1fd53335681403a04e104c",
+        "size_matches": true,
+        "sha256_matches": true
+      },
+      {
+        "id": "SOSTYLIZED_SM_Pine01",
+        "path": "samples/SM_Pine01.glb",
+        "http_status": 200,
+        "bytes": 1879120,
+        "expected_bytes": 1879120,
+        "sha256": "becef1a0267eb0a29cb03ce2b73d9d731325cba18d3792e76011d3a4079e53bd",
+        "expected_sha256": "becef1a0267eb0a29cb03ce2b73d9d731325cba18d3792e76011d3a4079e53bd",
+        "size_matches": true,
+        "sha256_matches": true
+      },
+      {
+        "id": "SOSTYLIZED_SM_WaterRiver04",
+        "path": "samples/SM_WaterRiver04.glb",
+        "http_status": 200,
+        "bytes": 828004,
+        "expected_bytes": 828004,
+        "sha256": "fb7d3d083c22f642addabbefed9f3a9f8496052ada1fa3fc25d0f000f0298824",
+        "expected_sha256": "fb7d3d083c22f642addabbefed9f3a9f8496052ada1fa3fc25d0f000f0298824",
+        "size_matches": true,
+        "sha256_matches": true
+      }
+    ],
+    "preview_pngs": [
+      {
+        "path": "previews/contact_sheet.png",
+        "http_status": 200,
+        "bytes": 2236338,
+        "local_bytes": 2236338,
+        "sha256": "b07f653413bcce6a77dc080acd27a863d14d4d63cccb8809300a30ae51c2f8c4",
+        "local_sha256": "b07f653413bcce6a77dc080acd27a863d14d4d63cccb8809300a30ae51c2f8c4",
+        "size_matches": true,
+        "sha256_matches": true
+      },
+      {
+        "path": "previews/oak-contact-sheet.png",
+        "http_status": 200,
+        "bytes": 749596,
+        "local_bytes": 749596,
+        "sha256": "8f341ae1b35765ba2061a0cd5e4084cb067debf89b430c2582bd56da9ea3c0ae",
+        "local_sha256": "8f341ae1b35765ba2061a0cd5e4084cb067debf89b430c2582bd56da9ea3c0ae",
+        "size_matches": true,
+        "sha256_matches": true
+      }
+    ],
+    "requests": [
+      {
+        "relative_path": "index.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/index.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 1306,
+        "sha256": "76f3acabb1cbb14889f3ab864c5400adbc92aeffc38fc2bc6b2ce68b334cf465",
+        "elapsed_ms": 1178,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/Trees.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/Trees.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 63090,
+        "sha256": "647f5f8d1c6c6e44692f1a451f6f51d0fa61b4122c9277f1859de84f1eee6392",
+        "elapsed_ms": 461,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/Foliage.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/Foliage.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 42791,
+        "sha256": "33817460f56cc53ad70331585363820ef718d0e7d62acbbc3176323c67fc0f4e",
+        "elapsed_ms": 891,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/Audio.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/Audio.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 6362,
+        "sha256": "b334bc85455dbc15cb9b1d1a426593df91188357e283a0647ab5287c86bb4024",
+        "elapsed_ms": 916,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/WaterSky.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/WaterSky.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 18223,
+        "sha256": "af6b79eb06dcc72c66a3fccd4062520afaf9bfbd3d8ff803a797bb61337f16b2",
+        "elapsed_ms": 973,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/Other.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/Other.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 60920,
+        "sha256": "b5a1b7e6b7f1e3c146d158d0f93015b4922412758ee77621d2ab626913fc9d11",
+        "elapsed_ms": 972,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/Textures.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/Textures.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 109025,
+        "sha256": "05040135999423f9ca0d0cac637d321565b461028b99f7e1b7804e35eb651919",
+        "elapsed_ms": 972,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/Rocks.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/Rocks.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 131022,
+        "sha256": "5f295b43fc57d9acad65e05267e951ef3d0da7e518d17a564cb97e964e191c36",
+        "elapsed_ms": 4466,
+        "anonymous": true
+      },
+      {
+        "relative_path": "samples/SM_Bush1.glb",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/samples/SM_Bush1.glb",
+        "kind": "glb",
+        "http_status": 200,
+        "bytes": 694780,
+        "sha256": "62dfad63a7863403fe2a66247293351bea5d463858e12828b6b5b7c090e91739",
+        "elapsed_ms": 8779,
+        "anonymous": true
+      },
+      {
+        "relative_path": "previews/oak-contact-sheet.png",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/previews/oak-contact-sheet.png",
+        "kind": "png",
+        "http_status": 200,
+        "bytes": 749596,
+        "sha256": "8f341ae1b35765ba2061a0cd5e4084cb067debf89b430c2582bd56da9ea3c0ae",
+        "elapsed_ms": 8925,
+        "anonymous": true
+      },
+      {
+        "relative_path": "samples/SM_WaterRiver04.glb",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/samples/SM_WaterRiver04.glb",
+        "kind": "glb",
+        "http_status": 200,
+        "bytes": 828004,
+        "sha256": "fb7d3d083c22f642addabbefed9f3a9f8496052ada1fa3fc25d0f000f0298824",
+        "elapsed_ms": 9720,
+        "anonymous": true
+      },
+      {
+        "relative_path": "samples/SM_Pine01.glb",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/samples/SM_Pine01.glb",
+        "kind": "glb",
+        "http_status": 200,
+        "bytes": 1879120,
+        "sha256": "becef1a0267eb0a29cb03ce2b73d9d731325cba18d3792e76011d3a4079e53bd",
+        "elapsed_ms": 14507,
+        "anonymous": true
+      },
+      {
+        "relative_path": "previews/contact_sheet.png",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/previews/contact_sheet.png",
+        "kind": "png",
+        "http_status": 200,
+        "bytes": 2236338,
+        "sha256": "b07f653413bcce6a77dc080acd27a863d14d4d63cccb8809300a30ae51c2f8c4",
+        "elapsed_ms": 16291,
+        "anonymous": true
+      },
+      {
+        "relative_path": "samples/SM_Bamboo1.glb",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/samples/SM_Bamboo1.glb",
+        "kind": "glb",
+        "http_status": 200,
+        "bytes": 3234400,
+        "sha256": "ecd0efce96b12bfb569bf80be04fa002a57144967e1fd53335681403a04e104c",
+        "elapsed_ms": 16346,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/Textures-01.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/Textures-01.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 45481,
+        "sha256": "3bfc277d62b7dbcc42d966c7c12764d601397824c629b515796cf2083edd1d43",
+        "elapsed_ms": 319,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/Other-01.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/Other-01.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 62769,
+        "sha256": "2d7c5991f5303804affb6f4b5acdb4362e8e04e3c15a38f688a0e8a0fc4cbb19",
+        "elapsed_ms": 320,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/Rocks-17.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/Rocks-17.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 13106,
+        "sha256": "409091bde62907c4c0f3fb60d6ceef91af2e0a47f2e8213be6e47b9aefaa3470",
+        "elapsed_ms": 794,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/Trees-01.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/Trees-01.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 83945,
+        "sha256": "ec38417be868a5976831edbd654fb681a592f48a9baa9ceccc74e77f883f8a97",
+        "elapsed_ms": 817,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/Rocks-01.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/Rocks-01.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 65017,
+        "sha256": "8c60f47621432e16b23bf5bb9087588c79af2e8ef6bb6d52adcc9ed0faca1f2e",
+        "elapsed_ms": 826,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/Audio-01.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/Audio-01.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 31670,
+        "sha256": "e47d81e8db179913cee5f37ceb634a8c5280c5f3e90191085564b9a0f067f5de",
+        "elapsed_ms": 835,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/Trees-09.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/Trees-09.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 4136,
+        "sha256": "61878932c75eadb7d15a716cb72b1d77308d952cb88b20324f4ab31266cf2401",
+        "elapsed_ms": 842,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/Foliage-01.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/Foliage-01.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 71015,
+        "sha256": "c01aa735b42a88698d74e8b6d967519956874a2fcfcc0c35be765d762062cd98",
+        "elapsed_ms": 840,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/Other-08.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/Other-08.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 25187,
+        "sha256": "0d9afc66d8644a446deb5e69c276a366dac2e21bdcdb63f66daca2fcd2b69b3f",
+        "elapsed_ms": 841,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/Textures-15.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/Textures-15.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 13728,
+        "sha256": "77d370baff4c77fa385e9fbf3d1bdad2a92f6baa6a62a62e45ac9d8dc8c224d2",
+        "elapsed_ms": 854,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/WaterSky-03.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/WaterSky-03.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 22286,
+        "sha256": "3537bd47afeb3de5f8a57f10a64a033850615b9fd76632e67438c04688aad768",
+        "elapsed_ms": 858,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/WaterSky-01.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/WaterSky-01.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 66948,
+        "sha256": "e46baedf6b67555aabb2f6e3707d30c484540128869d4fdc3b9c40d4cb9da702",
+        "elapsed_ms": 859,
+        "anonymous": true
+      },
+      {
+        "relative_path": "indexes/details/Foliage-06.json",
+        "url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/31855e606e760bc99eec7a520a8150c7833e71d7/collections/sostylized/indexes/details/Foliage-06.json",
+        "kind": "json",
+        "http_status": 200,
+        "bytes": 31138,
+        "sha256": "5e16678d6437e64e69ed63ce6b861945a2fc61555fb308841ddf95c0411ebd30",
+        "elapsed_ms": 859,
+        "anonymous": true
+      }
+    ],
+    "errors": [],
+    "limitations": [
+      "Only the first and last details pages of each category were downloaded; intermediate pages were not probed.",
+      "Public HTTP access does not establish that a specific Claude account or tool can download, import or execute binaries.",
+      "No release ZIP upload, digest or download URL validation is included; it is handled separately.",
+      "This access test does not establish visual, material, runtime, full-game, EXE or gameplay acceptance.",
+      "Source metadata publication_status and planned URL fields are retained as authored; this receipt records the actual pinned-commit access result."
+    ]
+  },
+  "release": {
+    "id": 423475490,
+    "tag": "sostylized-godot-blender-2026-10-25",
+    "url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/tag/sostylized-godot-blender-2026-10-25",
+    "asset_count": 7,
+    "total_bytes": 2781517098,
+    "files": [
+      {
+        "name": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "id": 675343444,
+        "bytes": 433669875,
+        "sha256": "cb7e110f6977c11742fd9b4fdd8ce29a4c957e609f0a999e9bd8bc262e4a8142",
+        "github_digest": "sha256:cb7e110f6977c11742fd9b4fdd8ce29a4c957e609f0a999e9bd8bc262e4a8142",
+        "state": "uploaded",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "anonymous_head_status": 200,
+        "anonymous_head_length": 433669875,
+        "size_and_sha256_verified": true
+      },
+      {
+        "name": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "id": 675343452,
+        "bytes": 1019217507,
+        "sha256": "5e9088d3a7783425c942b82169a2dc4c408ddb02afe05fe3f128b347733c6650",
+        "github_digest": "sha256:5e9088d3a7783425c942b82169a2dc4c408ddb02afe05fe3f128b347733c6650",
+        "state": "uploaded",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "anonymous_head_status": 200,
+        "anonymous_head_length": 1019217507,
+        "size_and_sha256_verified": true
+      },
+      {
+        "name": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "id": 675345137,
+        "bytes": 160587236,
+        "sha256": "5571a8316779b0c6ce3355f36cda68d8769a2924812ec2418a6ae96ef468df65",
+        "github_digest": "sha256:5571a8316779b0c6ce3355f36cda68d8769a2924812ec2418a6ae96ef468df65",
+        "state": "uploaded",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "anonymous_head_status": 200,
+        "anonymous_head_length": 160587236,
+        "size_and_sha256_verified": true
+      },
+      {
+        "name": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "id": 675345692,
+        "bytes": 16999576,
+        "sha256": "8076531a045af248b2bacbb7fd958e8c12f5d321a06e10eb353804eaf0a2c2f9",
+        "github_digest": "sha256:8076531a045af248b2bacbb7fd958e8c12f5d321a06e10eb353804eaf0a2c2f9",
+        "state": "uploaded",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "anonymous_head_status": 200,
+        "anonymous_head_length": 16999576,
+        "size_and_sha256_verified": true
+      },
+      {
+        "name": "SoStylized_Godot_Blender_Other_part01.zip",
+        "id": 675345809,
+        "bytes": 74887968,
+        "sha256": "0980502b544bcdbe43f45a8bf66a988ed49a2dd501fe2be83257d259dce6a324",
+        "github_digest": "sha256:0980502b544bcdbe43f45a8bf66a988ed49a2dd501fe2be83257d259dce6a324",
+        "state": "uploaded",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "anonymous_head_status": 200,
+        "anonymous_head_length": 74887968,
+        "size_and_sha256_verified": true
+      },
+      {
+        "name": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "id": 675346163,
+        "bytes": 1043884796,
+        "sha256": "938f9d7277c4b0ed9a26905db19aab98591c55cd986bbf656e93df5278f39178",
+        "github_digest": "sha256:938f9d7277c4b0ed9a26905db19aab98591c55cd986bbf656e93df5278f39178",
+        "state": "uploaded",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "anonymous_head_status": 200,
+        "anonymous_head_length": 1043884796,
+        "size_and_sha256_verified": true
+      },
+      {
+        "name": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "id": 675347637,
+        "bytes": 32270140,
+        "sha256": "b6d1c7744a063dc6a30c12cadeab9c1fe6596c20d9e1de64bcc3580828b9c42a",
+        "github_digest": "sha256:b6d1c7744a063dc6a30c12cadeab9c1fe6596c20d9e1de64bcc3580828b9c42a",
+        "state": "uploaded",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "anonymous_head_status": 200,
+        "anonymous_head_length": 32270140,
+        "size_and_sha256_verified": true
+      }
+    ]
+  },
+  "limitations": [
+    "Anonymous HTTP access does not certify that a particular Claude account can execute WebGL or decode binary assets.",
+    "Material readiness and Unreal runtime parity are separate from public access."
+  ]
+}

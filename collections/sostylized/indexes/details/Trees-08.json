@@ -106,7 +106,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakStump1_SnowCover.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -225,7 +225,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTree1.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -342,7 +342,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTree2.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -460,7 +460,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTree3.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -578,7 +578,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTree4.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -696,7 +696,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTreeLarge1.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -814,7 +814,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTreeLarge2.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -933,7 +933,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTreeLarge3.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1051,14 +1051,14 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_Pine01.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       },
       "direct_sample_url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/samples/SM_Pine01.glb",
       "direct_sample": {
         "path": "samples/SM_Pine01.glb",
         "bytes": 1879120,
         "sha256": "becef1a0267eb0a29cb03ce2b73d9d731325cba18d3792e76011d3a4079e53bd",
-        "url_status": "planned_repository_url_not_verified_online"
+        "url_status": "verified_anonymous_get_sha256"
       }
     },
     {
@@ -1175,7 +1175,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_Pine02.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1292,7 +1292,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_Pine03.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1389,7 +1389,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineDead01.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1506,7 +1506,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineDead02.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1623,7 +1623,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineDead03.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1728,7 +1728,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineFallen1_SnowCover.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1833,7 +1833,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineFallen2_SnowCover.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1946,7 +1946,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineLeafySnow01.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -2064,7 +2064,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineLeafySnow02.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -2197,7 +2197,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineSnowCover01.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -2331,7 +2331,7 @@
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineSnowCover02.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     }
   ]

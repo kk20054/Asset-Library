@@ -3,7 +3,8 @@
   "reports": [
     "native-export.json",
     "glb-format.json",
-    "godot-samples.json"
+    "godot-samples.json",
+    "public-access.json"
   ],
   "previews": [
     "../previews/preview-receipt.json",

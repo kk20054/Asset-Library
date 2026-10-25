@@ -87,7 +87,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Demo/Meshes/SM_Ramp.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -143,12 +143,12 @@
       "bounds": {
         "min": [
           -0.999999463558197,
-          -1.0,
-          -1.0
+          -1,
+          -1
         ],
         "max": [
           0.9999998211860657,
-          1.0,
+          1,
           0.9999997019767761
         ]
       },
@@ -173,7 +173,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Demo/Meshes/SM_Sphere.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -263,7 +263,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike01.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -353,7 +353,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike02.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -443,7 +443,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike03.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -533,7 +533,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike04.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -623,7 +623,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike05.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -682,13 +682,13 @@
       "image_count": 0,
       "bounds": {
         "min": [
-          -3.0,
-          -5.563223126614503e-08,
+          -3,
+          -5.563223126614503e-8,
           -0.10000002384185791
         ],
         "max": [
-          2.503434792799908e-08,
-          5.5632320083987e-08,
+          2.503434792799908e-8,
+          5.5632320083987e-8,
           0.1000007688999176
         ]
       },
@@ -718,7 +718,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RainDrop.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -778,7 +778,7 @@
       "bounds": {
         "min": [
           -0.10000002384185791,
-          -1.6292073468093804e-08,
+          -1.6292073468093804e-8,
           -0.1000000536441803
         ],
         "max": [
@@ -813,7 +813,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RainSplash.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -903,7 +903,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RockDebris01.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -993,7 +993,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RockDebris02.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1083,7 +1083,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RockDebris03.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1171,7 +1171,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_VegetationParticle.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1226,14 +1226,14 @@
       "image_count": 0,
       "bounds": {
         "min": [
-          -2.0663208033511182e-06,
+          -0.0000020663208033511182,
           -0.12098508328199387,
-          -5.0
+          -5
         ],
         "max": [
-          2.0663208033511182e-06,
+          0.0000020663208033511182,
           0.12098508328199387,
-          5.0
+          5
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -1261,7 +1261,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_WindLineMesh.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1347,7 +1347,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus01_Collision.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1433,7 +1433,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus02_Collision.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1519,7 +1519,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus03_Collision.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1605,7 +1605,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus04_Collision.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1691,7 +1691,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus05_Collision.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1777,7 +1777,7 @@
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus06_Collision.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     }
   ]

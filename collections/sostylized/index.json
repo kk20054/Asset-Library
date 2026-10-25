@@ -50,5 +50,7 @@
       "index": "indexes/Audio.json"
     }
   ],
-  "publication_status": "Local metadata staged; release upload and URL verification are separate."
+  "publication_status": "Released: seven category ZIPs uploaded; server digests and anonymous download access verified.",
+  "public_access_verification": "validation/public-access.json",
+  "release_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/tag/sostylized-godot-blender-2026-10-25"
 }

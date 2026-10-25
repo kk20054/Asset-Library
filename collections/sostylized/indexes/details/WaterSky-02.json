@@ -56,14 +56,14 @@
       "image_count": 1,
       "bounds": {
         "min": [
-          -1.0,
-          -1.6292067073209182e-07,
+          -1,
+          -1.6292067073209182e-7,
           -1.0000015497207642
         ],
         "max": [
-          1.0,
-          10.0,
-          1.0
+          1,
+          10,
+          1
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -90,7 +90,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterSurface32.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -149,14 +149,14 @@
       "image_count": 1,
       "bounds": {
         "min": [
-          -8.0,
-          0.0,
-          -8.0
+          -8,
+          0,
+          -8
         ],
         "max": [
-          8.0,
-          0.0,
-          8.0
+          8,
+          0,
+          8
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -184,7 +184,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -243,14 +243,14 @@
       "image_count": 1,
       "bounds": {
         "min": [
-          -1.0,
-          -1.6292067073209182e-07,
-          -1.0
+          -1,
+          -1.6292067073209182e-7,
+          -1
         ],
         "max": [
-          1.0,
-          1.6292067073209182e-07,
-          1.0
+          1,
+          1.6292067073209182e-7,
+          1
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -278,7 +278,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_01.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -337,14 +337,14 @@
       "image_count": 1,
       "bounds": {
         "min": [
-          -1.0,
-          -1.6292067073209182e-07,
-          -1.0
+          -1,
+          -1.6292067073209182e-7,
+          -1
         ],
         "max": [
-          1.0,
-          1.6292067073209182e-07,
-          1.0
+          1,
+          1.6292067073209182e-7,
+          1
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -372,7 +372,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_02.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -431,14 +431,14 @@
       "image_count": 1,
       "bounds": {
         "min": [
-          -1.0,
-          -1.6292067073209182e-07,
-          -1.0
+          -1,
+          -1.6292067073209182e-7,
+          -1
         ],
         "max": [
-          1.0,
-          1.6292067073209182e-07,
-          1.0
+          1,
+          1.6292067073209182e-7,
+          1
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -466,7 +466,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_04.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -525,14 +525,14 @@
       "image_count": 1,
       "bounds": {
         "min": [
-          -1.0,
-          -1.6292067073209182e-07,
-          -1.0
+          -1,
+          -1.6292067073209182e-7,
+          -1
         ],
         "max": [
-          1.0,
-          1.6292067073209182e-07,
-          1.0
+          1,
+          1.6292067073209182e-7,
+          1
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -560,7 +560,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_08.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -619,14 +619,14 @@
       "image_count": 1,
       "bounds": {
         "min": [
-          -1.0,
-          -1.6292067073209182e-07,
-          -1.0
+          -1,
+          -1.6292067073209182e-7,
+          -1
         ],
         "max": [
-          1.0,
-          1.6292067073209182e-07,
-          1.0
+          1,
+          1.6292067073209182e-7,
+          1
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -654,7 +654,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_16.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -713,14 +713,14 @@
       "image_count": 1,
       "bounds": {
         "min": [
-          -1.0,
-          -1.6292067073209182e-07,
-          -1.0
+          -1,
+          -1.6292067073209182e-7,
+          -1
         ],
         "max": [
-          1.0,
-          1.6292067073209182e-07,
-          1.0
+          1,
+          1.6292067073209182e-7,
+          1
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -748,7 +748,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_32.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -807,14 +807,14 @@
       "image_count": 2,
       "bounds": {
         "min": [
-          0.0,
-          -8.146033678713138e-07,
-          -5.0
+          0,
+          -8.146033678713138e-7,
+          -5
         ],
         "max": [
-          10.0,
-          8.146033678713138e-07,
-          5.0
+          10,
+          8.146033678713138e-7,
+          5
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -842,7 +842,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver01.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -901,14 +901,14 @@
       "image_count": 2,
       "bounds": {
         "min": [
-          0.0,
-          -8.146033678713138e-07,
-          -5.0
+          0,
+          -8.146033678713138e-7,
+          -5
         ],
         "max": [
-          10.0,
-          8.146033678713138e-07,
-          5.0
+          10,
+          8.146033678713138e-7,
+          5
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -936,7 +936,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver02.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -995,14 +995,14 @@
       "image_count": 2,
       "bounds": {
         "min": [
-          0.0,
-          -8.146033678713138e-07,
-          -5.0
+          0,
+          -8.146033678713138e-7,
+          -5
         ],
         "max": [
-          10.0,
-          8.146033678713138e-07,
-          5.0
+          10,
+          8.146033678713138e-7,
+          5
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -1031,14 +1031,14 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver04.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       },
       "direct_sample_url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/samples/SM_WaterRiver04.glb",
       "direct_sample": {
         "path": "samples/SM_WaterRiver04.glb",
         "bytes": 828004,
         "sha256": "fb7d3d083c22f642addabbefed9f3a9f8496052ada1fa3fc25d0f000f0298824",
-        "url_status": "planned_repository_url_not_verified_online"
+        "url_status": "verified_anonymous_get_sha256"
       }
     },
     {
@@ -1097,14 +1097,14 @@
       "image_count": 2,
       "bounds": {
         "min": [
-          0.0,
-          -8.146033678713138e-07,
-          -5.0
+          0,
+          -8.146033678713138e-7,
+          -5
         ],
         "max": [
-          10.0,
-          8.146033678713138e-07,
-          5.0
+          10,
+          8.146033678713138e-7,
+          5
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -1132,7 +1132,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver08.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1191,14 +1191,14 @@
       "image_count": 2,
       "bounds": {
         "min": [
-          0.0,
-          -8.146033678713138e-07,
-          -5.0
+          0,
+          -8.146033678713138e-7,
+          -5
         ],
         "max": [
-          10.0,
-          8.146033678713138e-07,
-          5.0
+          10,
+          8.146033678713138e-7,
+          5
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -1226,7 +1226,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver16.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1285,14 +1285,14 @@
       "image_count": 2,
       "bounds": {
         "min": [
-          0.0,
-          -8.146033678713138e-07,
-          -5.0
+          0,
+          -8.146033678713138e-7,
+          -5
         ],
         "max": [
-          10.0,
-          8.146033678713138e-07,
-          5.0
+          10,
+          8.146033678713138e-7,
+          5
         ]
       },
       "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
@@ -1320,7 +1320,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver32.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1396,7 +1396,7 @@
       "bounds": {
         "min": [
           -4.281857967376709,
-          -4.4359035200614017e-07,
+          -4.4359035200614017e-7,
           -3.02213716506958
         ],
         "max": [
@@ -1431,7 +1431,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall1.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1507,7 +1507,7 @@
       "bounds": {
         "min": [
           -8.814702033996582,
-          -1.2399510751492926e-06,
+          -0.0000012399510751492926,
           -4.05127477645874
         ],
         "max": [
@@ -1542,7 +1542,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall2.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1653,7 +1653,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall3.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1730,7 +1730,7 @@
         "min": [
           -6.403069496154785,
           -0.05541243404150009,
-          -5.0
+          -5
         ],
         "max": [
           6.403069972991943,
@@ -1764,7 +1764,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall4.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1875,7 +1875,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall5.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -1986,7 +1986,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall6.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     }
   ]

@@ -112,7 +112,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall7.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -223,7 +223,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall8.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -334,7 +334,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_WaterfallSplit1.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -410,8 +410,8 @@
       "bounds": {
         "min": [
           -6.403069496154785,
-          -1.0186264489675523e-06,
-          -5.0
+          -0.0000010186264489675523,
+          -5
         ],
         "max": [
           6.403069972991943,
@@ -445,7 +445,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_WaterfallSplit2.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
     {
@@ -521,7 +521,7 @@
       "bounds": {
         "min": [
           -13.678539276123047,
-          -2.1760383788205218e-06,
+          -0.0000021760383788205218,
           -6.292070388793945
         ],
         "max": [
@@ -556,7 +556,7 @@
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_WaterfallSplit3.glb",
         "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
-        "url_status": "planned_release_url_not_verified_online"
+        "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     }
   ]
