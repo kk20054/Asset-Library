@@ -1,0 +1,948 @@
+{
+  "schema_version": 1,
+  "category": "Textures",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_T_Banana_Leaf",
+      "source": {
+        "name": "T_Banana_Leaf",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_Banana_Leaf.T_Banana_Leaf",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_Banana_Leaf",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2f5edce7f0ff49e3d748573b416f35c1f3d561d44cf3e2be391f3f2287c07a37",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "87b5290a5b50bf7ef910f2e4fefd9acde653e8dbeb514d0f11ab98f2014c54db",
+      "native_bytes": 39604,
+      "path": "Textures/Environment/Trees/Textures/T_Banana_Leaf.png",
+      "bytes": 39604,
+      "sha256": "87b5290a5b50bf7ef910f2e4fefd9acde653e8dbeb514d0f11ab98f2014c54db",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_Banana_Leaf.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Banana_Leaf_BC",
+      "source": {
+        "name": "T_Banana_Leaf_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_Banana_Leaf_BC.T_Banana_Leaf_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_Banana_Leaf_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4a7803895f3c3cfe67ffa3379b8e582c3d1384f0edcbcc7dcdcda9700496e21a",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "59eb5a0b9be99e7bfdc0307fcf0859197d0ea3c0f55dcbb68ec9f7d22ac6b5ed",
+      "native_bytes": 460854,
+      "path": "Textures/Environment/Trees/Textures/T_Banana_Leaf_BC.png",
+      "bytes": 460854,
+      "sha256": "59eb5a0b9be99e7bfdc0307fcf0859197d0ea3c0f55dcbb68ec9f7d22ac6b5ed",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_Banana_Leaf_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Banana_Leaf_R",
+      "source": {
+        "name": "T_Banana_Leaf_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_Banana_Leaf_R.T_Banana_Leaf_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_Banana_Leaf_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a24293f28f407fb32fc08e3190090b2717380701f3f7c5832de22999240870be",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "79df95f2c68f572b2e3963c5e68f860075d3a8550c758210e592cac56fb823b6",
+      "native_bytes": 194629,
+      "path": "Textures/Environment/Trees/Textures/T_Banana_Leaf_R.png",
+      "bytes": 194629,
+      "sha256": "79df95f2c68f572b2e3963c5e68f860075d3a8550c758210e592cac56fb823b6",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_Banana_Leaf_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBarkMisc_BC",
+      "source": {
+        "name": "T_BirchBarkMisc_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBarkMisc_BC.T_BirchBarkMisc_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBarkMisc_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "86eeaa2e6b8bcd9b5238fcb61d8f2f713f849184196a15a2337e6fc6f36f5131",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "1eb74e2c307d98d7c682773653a397fe87feeec3692800f29a5074b0eecff10f",
+      "native_bytes": 11336112,
+      "path": "Textures/Environment/Trees/Textures/T_BirchBarkMisc_BC.png",
+      "bytes": 11336112,
+      "sha256": "1eb74e2c307d98d7c682773653a397fe87feeec3692800f29a5074b0eecff10f",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BirchBarkMisc_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBarkMisc_N",
+      "source": {
+        "name": "T_BirchBarkMisc_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBarkMisc_N.T_BirchBarkMisc_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBarkMisc_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6e9d79700db94bddaf32b0826f0ce6b9579bc509696095b8e050270358fbc411",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "2ed58ab804c8b8bbdb56598c839dda4a81aa24befe901d24a4bbd124a6d67bad",
+      "native_bytes": 14181746,
+      "path": "Textures/Environment/Trees/Textures/T_BirchBarkMisc_N.png",
+      "bytes": 14181746,
+      "sha256": "2ed58ab804c8b8bbdb56598c839dda4a81aa24befe901d24a4bbd124a6d67bad",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BirchBarkMisc_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBarkMisc_R",
+      "source": {
+        "name": "T_BirchBarkMisc_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBarkMisc_R.T_BirchBarkMisc_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBarkMisc_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b7600c53b6801e56b0c8cbc6711a8847435ffd031a87f2433e2b9f8dae154539",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "22881183c1030b4b24d78ec9e254b8c5cab6289b016ef1157bb2a311ce4fc2cf",
+      "native_bytes": 3802318,
+      "path": "Textures/Environment/Trees/Textures/T_BirchBarkMisc_R.png",
+      "bytes": 3802318,
+      "sha256": "22881183c1030b4b24d78ec9e254b8c5cab6289b016ef1157bb2a311ce4fc2cf",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BirchBarkMisc_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBark_BC",
+      "source": {
+        "name": "T_BirchBark_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBark_BC.T_BirchBark_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBark_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7d9d7b18328fe48aa595419c7592e3767f77fa59025af3afc2bc072c265029b2",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "c1de8717e9488851b1ef112b49739339c0350e1da2fc876f1b21d16f6a0d690d",
+      "native_bytes": 8883693,
+      "path": "Textures/Environment/Trees/Textures/T_BirchBark_BC.png",
+      "bytes": 8883693,
+      "sha256": "c1de8717e9488851b1ef112b49739339c0350e1da2fc876f1b21d16f6a0d690d",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BirchBark_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBark_N",
+      "source": {
+        "name": "T_BirchBark_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBark_N.T_BirchBark_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBark_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b1b68d4760926e9f7632fdb2b5515ecbc253966854a883038d3e85d0b4cf90c9",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "019b9e99c3fc0f788cc33989e1750618f446e95f65cc578efcb3e26606c95f66",
+      "native_bytes": 12107777,
+      "path": "Textures/Environment/Trees/Textures/T_BirchBark_N.png",
+      "bytes": 12107777,
+      "sha256": "019b9e99c3fc0f788cc33989e1750618f446e95f65cc578efcb3e26606c95f66",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BirchBark_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBark_R",
+      "source": {
+        "name": "T_BirchBark_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBark_R.T_BirchBark_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BirchBark_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "cb4e512f9507e94d48907110b26a870dd808f314feb2e4113e92105c0f67a47d",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "e6b4575c48b7483243a50b9c07e348e23327f513181e69b8671f271638679df7",
+      "native_bytes": 3111464,
+      "path": "Textures/Environment/Trees/Textures/T_BirchBark_R.png",
+      "bytes": 3111464,
+      "sha256": "e6b4575c48b7483243a50b9c07e348e23327f513181e69b8671f271638679df7",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BirchBark_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_ChinaPina_BC",
+      "source": {
+        "name": "T_ChinaPina_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_ChinaPina_BC.T_ChinaPina_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_ChinaPina_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ebb4fa51ec78831fe2bc7ff0a601e681fb43ca9b7e79b0e8728ece5e5bd330a4",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "d743300f3c8f1ff4660aae9867fcd9a8dd5958033c571f46d88dcf558ac7e0df",
+      "native_bytes": 16943199,
+      "path": "Textures/Environment/Trees/Textures/T_ChinaPina_BC.png",
+      "bytes": 16943199,
+      "sha256": "d743300f3c8f1ff4660aae9867fcd9a8dd5958033c571f46d88dcf558ac7e0df",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_ChinaPina_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalmLeaves_BC",
+      "source": {
+        "name": "T_CoconutPalmLeaves_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalmLeaves_BC.T_CoconutPalmLeaves_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalmLeaves_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e676f3d59956991792d3a9b58eee67427ea0a514c7c97737b823f636e2e80ff5",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "dea4501e6e415d32c86e5f63960b5ec3f3276b888e41b91e7442dec6be3e31d9",
+      "native_bytes": 640308,
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalmLeaves_BC.png",
+      "bytes": 640308,
+      "sha256": "dea4501e6e415d32c86e5f63960b5ec3f3276b888e41b91e7442dec6be3e31d9",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_CoconutPalmLeaves_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalmMisc_BC",
+      "source": {
+        "name": "T_CoconutPalmMisc_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalmMisc_BC.T_CoconutPalmMisc_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalmMisc_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "278c4cfc06493ba8fe5e7dcf6a4d64f51771430994b2751c4b91baf935298bbe",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "8c92d55794633841076172b651017537c05aaeb27f3565e65336d63f1ccc4d9b",
+      "native_bytes": 7480356,
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalmMisc_BC.png",
+      "bytes": 7480356,
+      "sha256": "8c92d55794633841076172b651017537c05aaeb27f3565e65336d63f1ccc4d9b",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_CoconutPalmMisc_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalmMisc_N",
+      "source": {
+        "name": "T_CoconutPalmMisc_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalmMisc_N.T_CoconutPalmMisc_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalmMisc_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5c049ce25e82b0f1b907353057aa82c90f8f45c15c60a2532780577e31b08758",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "549214be65a68ac98945221d449b0f76ac94a00db204078d02e780863262998a",
+      "native_bytes": 11315298,
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalmMisc_N.png",
+      "bytes": 11315298,
+      "sha256": "549214be65a68ac98945221d449b0f76ac94a00db204078d02e780863262998a",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_CoconutPalmMisc_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalmMisc_R",
+      "source": {
+        "name": "T_CoconutPalmMisc_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalmMisc_R.T_CoconutPalmMisc_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalmMisc_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "39f3cdfce855c8971eb0cd0296cf619e2b8372222bc20f26e05c1ab3782e4900",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "82e21350423e01e3a31af06cb59110e1eac17e3e1a9a547f095c778c7ff676b0",
+      "native_bytes": 3105214,
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalmMisc_R.png",
+      "bytes": 3105214,
+      "sha256": "82e21350423e01e3a31af06cb59110e1eac17e3e1a9a547f095c778c7ff676b0",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_CoconutPalmMisc_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalm_BC",
+      "source": {
+        "name": "T_CoconutPalm_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalm_BC.T_CoconutPalm_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalm_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ce6c5d08a48d549aa2a84b64df04c8985153e502fb3ddf07bd05516d46339e45",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "3e6259f07f14fee6272d6cb0fd97254bd316e5df4a86cb31325c258643a57541",
+      "native_bytes": 2574346,
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalm_BC.png",
+      "bytes": 2574346,
+      "sha256": "3e6259f07f14fee6272d6cb0fd97254bd316e5df4a86cb31325c258643a57541",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_CoconutPalm_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalm_N",
+      "source": {
+        "name": "T_CoconutPalm_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalm_N.T_CoconutPalm_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalm_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e25048be88781e7fed7cb439a813e537ade18aa9dcffab425da7bb55fe5fdcbd",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "60f6c53808261e7542e59188407da40f6be23c08bad4d17ee701941527ef0743",
+      "native_bytes": 5226764,
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalm_N.png",
+      "bytes": 5226764,
+      "sha256": "60f6c53808261e7542e59188407da40f6be23c08bad4d17ee701941527ef0743",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_CoconutPalm_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalm_R",
+      "source": {
+        "name": "T_CoconutPalm_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalm_R.T_CoconutPalm_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_CoconutPalm_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "95340cd36ff9b3212cc67fa0d11d6ee559d787aa1ccaf05fd78d86bab40b4f68",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "4dc7ff219060afea61735c5059b24b7bb2f01062ddfafc2ccf904a6faa42ea6e",
+      "native_bytes": 1048236,
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalm_R.png",
+      "bytes": 1048236,
+      "sha256": "4dc7ff219060afea61735c5059b24b7bb2f01062ddfafc2ccf904a6faa42ea6e",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_CoconutPalm_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertCoconutPalm_BC",
+      "source": {
+        "name": "T_DesertCoconutPalm_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_DesertCoconutPalm_BC.T_DesertCoconutPalm_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_DesertCoconutPalm_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "eb26b20641cbf9cac01a7481756eb0c31d8ffcc7b975ad7979fdc0d94723eb45",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "86a513abf78758eb345e998a0acd3a45609c0a0f8eb323df11a38c63bc66cf89",
+      "native_bytes": 1768493,
+      "path": "Textures/Environment/Trees/Textures/T_DesertCoconutPalm_BC.png",
+      "bytes": 1768493,
+      "sha256": "86a513abf78758eb345e998a0acd3a45609c0a0f8eb323df11a38c63bc66cf89",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_DesertCoconutPalm_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertPalm_BC",
+      "source": {
+        "name": "T_DesertPalm_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_DesertPalm_BC.T_DesertPalm_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_DesertPalm_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "cd71f9ba5328cd9a4f62ac315b9f988de57eed2661607cf7175a61eda1d92f38",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "148976682fe1a48f3b1e3f4a60c8dd5e1de0bdf5f37d80d21d7830a0bc7c509a",
+      "native_bytes": 1948549,
+      "path": "Textures/Environment/Trees/Textures/T_DesertPalm_BC.png",
+      "bytes": 1948549,
+      "sha256": "148976682fe1a48f3b1e3f4a60c8dd5e1de0bdf5f37d80d21d7830a0bc7c509a",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_DesertPalm_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertPalm_N",
+      "source": {
+        "name": "T_DesertPalm_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_DesertPalm_N.T_DesertPalm_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_DesertPalm_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7ea40725edf6dd63be285f828c3eac6b17a62fb8466d531e0955382c38d43e83",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "328b58ac5a26354b2104e7bd49bfac1d267103d4b8c8ae91c55e4c18f4e0195e",
+      "native_bytes": 3003982,
+      "path": "Textures/Environment/Trees/Textures/T_DesertPalm_N.png",
+      "bytes": 3003982,
+      "sha256": "328b58ac5a26354b2104e7bd49bfac1d267103d4b8c8ae91c55e4c18f4e0195e",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_DesertPalm_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

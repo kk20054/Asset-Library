@@ -1,0 +1,1868 @@
+{
+  "schema_version": 1,
+  "category": "Foliage",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_Cactus06",
+      "source": {
+        "name": "SM_Cactus06",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_Cactus06.SM_Cactus06",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_Cactus06",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9620118eb86618fdb9607b537783d5e2f34c065f82b86b133b91614c435fe41e",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_CactusFlower, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Cactus",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Cactus.MI_Cactus"
+        },
+        {
+          "slot": "MI_CactusFlower",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_CactusFlower.MI_CactusFlower"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2d23419bdb2afef91f1cb3541fb37f58a08df1e2a4d76b67cf62d70be2f17d92",
+      "native_bytes": 2372760,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Cactus_SM_Cactus06",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_CactusFlower_SM_Cactus06",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3489,
+      "scene_triangles": 3489,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.4884312152862549,
+          -0.9240869879722595,
+          -1.306993842124939
+        ],
+        "max": [
+          1.3766403198242188,
+          10.170151710510254,
+          1.3958827257156372
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_Cactus06.glb",
+      "bytes": 2372708,
+      "sha256": "244b76532d018f83af8ca3d3fe63a9fa171f6dde77ea1127a31bcc5f424ec6d9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Cactus06.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus07",
+      "source": {
+        "name": "SM_Cactus07",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_Cactus07.SM_Cactus07",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_Cactus07",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9f797ba6843b19b4327b597b88fbf8e2318ba553cf3fe18066a695e61d853343",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_CactusFlower, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Cactus",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Cactus.MI_Cactus"
+        },
+        {
+          "slot": "MI_CactusFlower",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_CactusFlower.MI_CactusFlower"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f47db44d0e47cfb2520fce2c97a4831cfdabb67ad36f8023b96a3b3f5485f232",
+      "native_bytes": 2392884,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Cactus_SM_Cactus07",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_CactusFlower_SM_Cactus07",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3585,
+      "scene_triangles": 3585,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.7720694541931152,
+          -0.98688143491745,
+          -1.1499650478363037
+        ],
+        "max": [
+          1.51069176197052,
+          7.736049652099609,
+          1.8837008476257324
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_Cactus07.glb",
+      "bytes": 2392828,
+      "sha256": "f695c155664cdf64c463949cd8aff3430bf1ff4a790fce0e1c8deac6588bc842",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Cactus07.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus08",
+      "source": {
+        "name": "SM_Cactus08",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_Cactus08.SM_Cactus08",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_Cactus08",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ffbb974019c4fdd2c32531d6104260c44de8954b5b7a7f1684da5b1e954c27d2",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_CactusFlower, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Cactus",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Cactus.MI_Cactus"
+        },
+        {
+          "slot": "MI_CactusFlower",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_CactusFlower.MI_CactusFlower"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b8d0161f3ae0ebaa860647125eb149326ead966ead124d22c0eb337010774e5a",
+      "native_bytes": 2492988,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Cactus_SM_Cactus08",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_CactusFlower_SM_Cactus08",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3490,
+      "scene_triangles": 3490,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -2.4668703079223633,
+          -0.9723867774009705,
+          -2.033637285232544
+        ],
+        "max": [
+          1.2661380767822266,
+          8.726001739501953,
+          1.1558371782302856
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_Cactus08.glb",
+      "bytes": 2492932,
+      "sha256": "b41c82634d54c960e141293ae3eb61bcc33379ba3e96fc43f0f76ec4acbaf198",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Cactus08.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusBulb01",
+      "source": {
+        "name": "SM_CactusBulb01",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_CactusBulb01.SM_CactusBulb01",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_CactusBulb01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "859058fb9178cfe11d0e41b2ffca3e61c8ed0fb355d3a2da70dfacf67aeaff8f",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Cactus",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Cactus.MI_Cactus"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b744505d6ecf302cc52cf34ff072c6e8733926b835b0b538150c2fb8f486cd2c",
+      "native_bytes": 1125860,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Cactus_SM_CactusBulb01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 70,
+      "scene_triangles": 70,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -0.32872164249420166,
+          -0.04891025274991989,
+          -0.3371753990650177
+        ],
+        "max": [
+          0.32872164249420166,
+          0.5872173309326172,
+          0.30378445982933044
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_CactusBulb01.glb",
+      "bytes": 1125832,
+      "sha256": "3aa60fe036dcbaa7050620f74656a4443a13068b62c41e69065e0fca85a41017",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_CactusBulb01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusBulb02",
+      "source": {
+        "name": "SM_CactusBulb02",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_CactusBulb02.SM_CactusBulb02",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_CactusBulb02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "df9469b716a512af351b02e6453c14288f9bdc707d4a4ace5568921714678c18",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Cactus",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Cactus.MI_Cactus"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5f3329890b37a404d2e2bba4d2d489f21bfdda362998f05c80408c367bf7adf8",
+      "native_bytes": 876236,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Cactus_SM_CactusBulb02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 252,
+      "scene_triangles": 252,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -0.5016160607337952,
+          -0.07205913215875626,
+          -0.5477712750434875
+        ],
+        "max": [
+          0.5335716605186462,
+          0.8818732500076294,
+          0.49481168389320374
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_CactusBulb02.glb",
+      "bytes": 876208,
+      "sha256": "3c7938157427c00455f5a3a27a99b6e6804f6d238e7dc931d36c9499b80d3678",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_CactusBulb02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusPricklyPear01",
+      "source": {
+        "name": "SM_CactusPricklyPear01",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_CactusPricklyPear01.SM_CactusPricklyPear01",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_CactusPricklyPear01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "32646433e5ded3b799c5c3897421b8847e0e03879a99ebe882e82483f3eb8025",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_CactusPricklyPear",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_CactusPricklyPear.MI_CactusPricklyPear"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0c1f92e5c2bc76deb63d131d5c65c92f3a814ed33df3e9a0a5638c4d26b3ce21",
+      "native_bytes": 1684060,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_CactusPricklyPear_SM_CactusPricklyPear01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 654,
+      "scene_triangles": 654,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.46727868914604187,
+          -0.04966934025287628,
+          -0.30913788080215454
+        ],
+        "max": [
+          0.5121715664863586,
+          0.7400078177452087,
+          0.3033285140991211
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_CactusPricklyPear01.glb",
+      "bytes": 1684032,
+      "sha256": "00e62461474e50cf6b482055a4f43417ed4ec385b255fcf5a8af952fff4dac49",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_CactusPricklyPear01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusPricklyPear02",
+      "source": {
+        "name": "SM_CactusPricklyPear02",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_CactusPricklyPear02.SM_CactusPricklyPear02",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_CactusPricklyPear02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e69689c48b4e1b5c5f67261139bba35ee26c71aef6c8edbf719d6b0b37eac2fd",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_CactusPricklyPear",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_CactusPricklyPear.MI_CactusPricklyPear"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1aa6d1f0ddf69f3c6551bd365743b9aa751023c2419ef5226c12f5157570668d",
+      "native_bytes": 2065988,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_CactusPricklyPear_SM_CactusPricklyPear02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1719,
+      "scene_triangles": 1719,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.5916168689727783,
+          -0.05171471834182739,
+          -0.5172503590583801
+        ],
+        "max": [
+          0.6847316026687622,
+          1.053499460220337,
+          0.48268216848373413
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_CactusPricklyPear02.glb",
+      "bytes": 2065964,
+      "sha256": "6b7ca902d4b16d32723d682fef2ca44187d6305c74bb7d44926df6a7cae70c88",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_CactusPricklyPear02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusPricklyPear03",
+      "source": {
+        "name": "SM_CactusPricklyPear03",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_CactusPricklyPear03.SM_CactusPricklyPear03",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_CactusPricklyPear03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8951e3265d1474abdd224ff6705cdee261052d9f552e95bf129040d289577103",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_CactusPricklyPear",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_CactusPricklyPear.MI_CactusPricklyPear"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "3e844d22e123d3be9863982ed2c2e0d83f3df5e3ec37ab16f63518d738eeee6a",
+      "native_bytes": 2123660,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_CactusPricklyPear_SM_CactusPricklyPear03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1812,
+      "scene_triangles": 1812,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.8378697633743286,
+          -0.09562185406684875,
+          -0.4804500937461853
+        ],
+        "max": [
+          0.5618422031402588,
+          1.6131216287612915,
+          0.28148186206817627
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_CactusPricklyPear03.glb",
+      "bytes": 2123636,
+      "sha256": "bd71d0df39f4193a27c0eb2dc15258fa0239c0448ac9d700f406f0e7835bb81a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_CactusPricklyPear03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusPricklyPear04",
+      "source": {
+        "name": "SM_CactusPricklyPear04",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_CactusPricklyPear04.SM_CactusPricklyPear04",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_CactusPricklyPear04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "496c226cdacdf1a143b2e1410902cdc3e54f930225b07a47908d9f6930d5abda",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_CactusPricklyPear",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_CactusPricklyPear.MI_CactusPricklyPear"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6494b85444174b1cdeb2d14b97aaf92ae281b572f6d052709be4f37b4c0a8b02",
+      "native_bytes": 2179652,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_CactusPricklyPear_SM_CactusPricklyPear04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3120,
+      "scene_triangles": 3120,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.6012206673622131,
+          -0.06482382863759995,
+          -0.5354360938072205
+        ],
+        "max": [
+          0.8217818140983582,
+          1.6957191228866577,
+          0.38636714220046997
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_CactusPricklyPear04.glb",
+      "bytes": 2179624,
+      "sha256": "ef12be772b0d02b4e1e760497ed1b5766ff905c63dca17c6a0f9ba5061068a89",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_CactusPricklyPear04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBush01",
+      "source": {
+        "name": "SM_DesertBush01",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_DesertBush01.SM_DesertBush01",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_DesertBush01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d2e26c6f265e9383f59f381278740b29ea2d428bc168022c0b4fabfdf07cd13e",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertBush01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BushDesert, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BushDesert",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_BushDesert.MI_BushDesert"
+        },
+        {
+          "slot": "MI_BushDesert_LOD1",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/LODs/MI_BushDesert_LOD1.MI_BushDesert_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "dda01d62e663a9761c43db6271919257c0cd65bb37d40e6f20fa36969f820060",
+      "native_bytes": 1743152,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BushDesert_SM_DesertBush01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 22,
+      "scene_triangles": 22,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.3458648920059204,
+          -0.5746579766273499,
+          -1.2667887210845947
+        ],
+        "max": [
+          1.1399188041687012,
+          2.0571768283843994,
+          1.5588842630386353
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_DesertBush01.glb",
+      "bytes": 1743124,
+      "sha256": "57a9303d6462f8cbe2fbd75b68ee231114ca41e4fb97d4086e5f055ac234172a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_DesertBush01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBush02",
+      "source": {
+        "name": "SM_DesertBush02",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_DesertBush02.SM_DesertBush02",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_DesertBush02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6a738261c53402cea285ea8b265bd5a5f699173105c01ea8968519d1098c0399",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertBush02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BushDesert, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BushDesert",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_BushDesert.MI_BushDesert"
+        },
+        {
+          "slot": "MI_BushDesert_LOD1",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/LODs/MI_BushDesert_LOD1.MI_BushDesert_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6d8bc4eb1a05cab0257a8d001f3cc05491a7a41e8c30dc9cd6ef390b55f66ffb",
+      "native_bytes": 1810836,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BushDesert_SM_DesertBush02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 30,
+      "scene_triangles": 30,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -2.1783032417297363,
+          -0.7226772904396057,
+          -1.3228727579116821
+        ],
+        "max": [
+          1.4460101127624512,
+          2.110189914703369,
+          1.6601219177246094
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_DesertBush02.glb",
+      "bytes": 1810812,
+      "sha256": "d05c832bce42e11eae8a02cc0d9c19857524215189830c3c6ad9a965e43ca3f6",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_DesertBush02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBush03",
+      "source": {
+        "name": "SM_DesertBush03",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_DesertBush03.SM_DesertBush03",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_DesertBush03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "953598f025b64d3bd4caadc62cbdec5d0fc925b4e14b3e82caf790ee8d407f45",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertBush03 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BushDesert, will export as Default Lit",
+        "Material MI_BushDesert is baked using mesh data from SM_DesertBush03 but the lightmap UV (channel 1) are overlapping by 2.79% (in mesh section 0) and may produce incorrect results"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BushDesert",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_BushDesert.MI_BushDesert"
+        },
+        {
+          "slot": "MI_BushDesert_LOD1",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/LODs/MI_BushDesert_LOD1.MI_BushDesert_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "91ed0cd46b6cb0830dcbf90fe4d49b6dba14838ef6665dcdcedf9479c87d496c",
+      "native_bytes": 1914332,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BushDesert_SM_DesertBush03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 272,
+      "scene_triangles": 272,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -2.0788426399230957,
+          -0.7857595086097717,
+          -1.7042663097381592
+        ],
+        "max": [
+          2.1731200218200684,
+          3.0047764778137207,
+          2.4519999027252197
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_DesertBush03.glb",
+      "bytes": 1914304,
+      "sha256": "bfa93a08af930947e550a76ec197698b69149599115e58180ff125eaa0b74cbb",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_DesertBush03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBush04",
+      "source": {
+        "name": "SM_DesertBush04",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_DesertBush04.SM_DesertBush04",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_DesertBush04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0f3728a5751577c1ae0e51703fecec5bbae91ee77c3f8f99ee93bd0887706c02",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertBush04 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BushDesert, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BushDesert",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_BushDesert.MI_BushDesert"
+        },
+        {
+          "slot": "MI_BushDesert_LOD1",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/LODs/MI_BushDesert_LOD1.MI_BushDesert_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "eca471b89ca66808ebc96c37dc83d86b78d7aa907be8cd46e24d95604adf91b8",
+      "native_bytes": 1905724,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BushDesert_SM_DesertBush04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 76,
+      "scene_triangles": 76,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -3.4313127994537354,
+          -1.3384650945663452,
+          -2.3360681533813477
+        ],
+        "max": [
+          3.136244773864746,
+          3.323956251144409,
+          3.378666877746582
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_DesertBush04.glb",
+      "bytes": 1905696,
+      "sha256": "ce1a71a1f33124a1634e0e9ebd509ef8064d7413c11123080b2b54f090f24995",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_DesertBush04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBushB01",
+      "source": {
+        "name": "SM_DesertBushB01",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_DesertBushB01.SM_DesertBushB01",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_DesertBushB01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3392216a48c03fd8cf1d381c88a83c38e57af60ed8905378b826a80324be2156",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_BushDesertB, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BushBadlands",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_BushDesertB.MI_BushDesertB"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "13c49084ad4a32ed864be83d7a9821843c1908cf1c12afda8651d6c042394d9d",
+      "native_bytes": 1200268,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BushDesertB_SM_DesertBushB01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 32,
+      "scene_triangles": 32,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -1.357641577720642,
+          -0.4265556335449219,
+          -1.3736556768417358
+        ],
+        "max": [
+          1.614748239517212,
+          2.3135292530059814,
+          1.2684727907180786
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_DesertBushB01.glb",
+      "bytes": 1200244,
+      "sha256": "ab875330097358beb117fbc43e31db471cda4ad0bd48c5cadf424898c46c3e3d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_DesertBushB01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBushB02",
+      "source": {
+        "name": "SM_DesertBushB02",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_DesertBushB02.SM_DesertBushB02",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_DesertBushB02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5d777cd47cc9a895d27956ec15e8894a537c195fb65105268ee0f4ba5ebf7911",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_BushDesertB, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BushBadlands",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_BushDesertB.MI_BushDesertB"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "966352b2120240dda9661525c10e77d34e900eed1d2aeaa63f0173094eebda2a",
+      "native_bytes": 1321736,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BushDesertB_SM_DesertBushB02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 48,
+      "scene_triangles": 48,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -1.9056437015533447,
+          -0.49794599413871765,
+          -1.6792545318603516
+        ],
+        "max": [
+          1.8209072351455688,
+          2.933443546295166,
+          1.9721522331237793
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_DesertBushB02.glb",
+      "bytes": 1321708,
+      "sha256": "ad5d8a1d8cc966643d05bafb2aa5a33d4659d1c14b5198e28f42aee37c330f88",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_DesertBushB02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertTwigRoots01",
+      "source": {
+        "name": "SM_DesertTwigRoots01",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_DesertTwigRoots01.SM_DesertTwigRoots01",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_DesertTwigRoots01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "205d637763e32f7bd9c0cb111336694726bbcd017ee8282d4d41cdae3be1bfd9",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertTwigRoots",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_DesertTwigRoots.MI_DesertTwigRoots"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6a6e3b6f5c9da599c89c75b76e6764eb6344bada80a8cfe4f6045a2b236e33c2",
+      "native_bytes": 2148352,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertTwigRoots_SM_DesertTwigRoots01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 588,
+      "scene_triangles": 588,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.8001313805580139,
+          -0.20280197262763977,
+          -0.7456653714179993
+        ],
+        "max": [
+          1.0285139083862305,
+          1.2165254354476929,
+          0.6437956690788269
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_DesertTwigRoots01.glb",
+      "bytes": 2148324,
+      "sha256": "3e4b52f56c465e96ac3d39ce1c4a5deab3fff2d1059204dbec5cc9fae96b1fac",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_DesertTwigRoots01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertTwigRoots02",
+      "source": {
+        "name": "SM_DesertTwigRoots02",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_DesertTwigRoots02.SM_DesertTwigRoots02",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_DesertTwigRoots02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e309511e7dcf8b144b19625870f7bb225387047e7c04223381b92f0ee1e30244",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertTwigRoots",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_DesertTwigRoots.MI_DesertTwigRoots"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "56086a0353827be87cfe6ea829870be74ab429c98fac4546f69da613b642a61c",
+      "native_bytes": 2193380,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertTwigRoots_SM_DesertTwigRoots02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 832,
+      "scene_triangles": 832,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.6873010396957397,
+          -0.23728473484516144,
+          -0.5701440572738647
+        ],
+        "max": [
+          2.015108585357666,
+          0.9359586834907532,
+          0.83033287525177
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_DesertTwigRoots02.glb",
+      "bytes": 2193356,
+      "sha256": "e9fae253550bcea5d8a26e19a9f456a94c0b1f842a76ff304e57cf60cc21d7f4",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_DesertTwigRoots02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertTwigRoots03",
+      "source": {
+        "name": "SM_DesertTwigRoots03",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_DesertTwigRoots03.SM_DesertTwigRoots03",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_DesertTwigRoots03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d4e5e80ac71b7a0a403c94a26a3d7e199a7300370438d5dd31cd67287b86fba2",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertTwigRoots",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_DesertTwigRoots.MI_DesertTwigRoots"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2563ff9caa98355997f432b87990d6e33d8b5c3cea9065e7792a6483fc4af6d3",
+      "native_bytes": 2168336,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertTwigRoots_SM_DesertTwigRoots03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 512,
+      "scene_triangles": 512,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.1075916290283203,
+          -0.1749928742647171,
+          -1.1265908479690552
+        ],
+        "max": [
+          1.5582025051116943,
+          0.5124893188476562,
+          1.1298855543136597
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_DesertTwigRoots03.glb",
+      "bytes": 2168308,
+      "sha256": "560cc9e45ce78e7eb61baf1ee22f247d30f63b53a24b6c1078a85eb5fd0c172d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_DesertTwigRoots03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertWeed01",
+      "source": {
+        "name": "SM_DesertWeed01",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_DesertWeed01.SM_DesertWeed01",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_DesertWeed01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "aa6434bcc778d7c88d46956bddbc8297be553e317f75a7bcf58fbd573408eb2b",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_DesertWeed, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertWeed",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_DesertWeed.MI_DesertWeed"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "7035ebe8b288480aec369fc4632dd0cf824f8096e6130945bf836f362337e171",
+      "native_bytes": 942568,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertWeed_SM_DesertWeed01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 88,
+      "scene_triangles": 88,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -0.8337040543556213,
+          -0.33488455414772034,
+          -0.7072308659553528
+        ],
+        "max": [
+          0.6372429132461548,
+          0.8576961159706116,
+          0.6739173531532288
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_DesertWeed01.glb",
+      "bytes": 942540,
+      "sha256": "bc572848cfba564d80ccbf2cbefb0c316c84ca6575f2d9b4f94bb59e36a8e06b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_DesertWeed01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertWeed02",
+      "source": {
+        "name": "SM_DesertWeed02",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_DesertWeed02.SM_DesertWeed02",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_DesertWeed02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e9d6ff57cfc91ea0f93f97d23bee269ab4f3dc44a8e20fde21775276195e8152",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_DesertWeed, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertWeed",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_DesertWeed.MI_DesertWeed"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a1bc2fedbb083b3aa0a5a213996bb89bff909483b359e35f34312946b87b7fa0",
+      "native_bytes": 897420,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertWeed_SM_DesertWeed02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 52,
+      "scene_triangles": 52,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -0.8621821999549866,
+          -0.3754638731479645,
+          -0.7453915476799011
+        ],
+        "max": [
+          0.7547746300697327,
+          1.528565764427185,
+          0.6433002948760986
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_DesertWeed02.glb",
+      "bytes": 897392,
+      "sha256": "a5872ad38e2f273e63a53c1bb5e7bb07941aeed15072c056d82ff2367e10cc7d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_DesertWeed02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

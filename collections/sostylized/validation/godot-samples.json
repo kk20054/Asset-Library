@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "scope": "Six packaged pilot GLBs only; structural import and instantiation, no rendering or visual validation",
+  "godot": "4.7.2-stable (official)",
+  "mode": "headless gl_compatibility; no rendered image",
+  "import_exit": 0,
+  "instantiation_exit": 0,
+  "errors_and_warnings": [],
+  "checks": [
+    {
+      "id": "SOSTYLIZED_SM_Bush1",
+      "sha256_copy_match": true,
+      "mesh_instances": 1,
+      "materials": 1,
+      "triangles": 156,
+      "triangle_match": true,
+      "bounds_max_absolute_delta_metres": 1.192092913271381e-7,
+      "bounds_match_within_0_0001m": true,
+      "all_materials_present": true,
+      "all_albedo_textures_present": true,
+      "portable_path": "Models/Environment/Foliage/SM_Bush1.glb",
+      "portable_sha256": "62dfad63a7863403fe2a66247293351bea5d463858e12828b6b5b7c090e91739"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CliffClassic1",
+      "sha256_copy_match": true,
+      "mesh_instances": 1,
+      "materials": 1,
+      "triangles": 428,
+      "triangle_match": true,
+      "bounds_max_absolute_delta_metres": 0.0000019073486292597863,
+      "bounds_match_within_0_0001m": true,
+      "all_materials_present": true,
+      "all_albedo_textures_present": true,
+      "portable_path": "Models/Environment/Rocks/Classic/SM_CliffClassic1.glb",
+      "portable_sha256": "6aaeef2c30b36b104eb179e6a0bd16040003354fc8f415cccbe4ae45feb9d8d9"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IndividualCloudPlane",
+      "sha256_copy_match": true,
+      "mesh_instances": 1,
+      "materials": 1,
+      "triangles": 2,
+      "triangle_match": true,
+      "bounds_max_absolute_delta_metres": 4.0657581468206416e-20,
+      "bounds_match_within_0_0001m": true,
+      "all_materials_present": true,
+      "all_albedo_textures_present": true,
+      "portable_path": "Models/Environment/Sky/Meshes/SM_IndividualCloudPlane.glb",
+      "portable_sha256": "1c4ce33d23e4024ad8e86db0a9edbd8633e8903f08632d9dde02f5b622896821"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Bamboo1",
+      "sha256_copy_match": true,
+      "mesh_instances": 1,
+      "materials": 2,
+      "triangles": 1554,
+      "triangle_match": true,
+      "bounds_max_absolute_delta_metres": 2.3841858043383013e-7,
+      "bounds_match_within_0_0001m": true,
+      "all_materials_present": true,
+      "all_albedo_textures_present": true,
+      "portable_path": "Models/Environment/Trees/Bamboo/SM_Bamboo1.glb",
+      "portable_sha256": "ecd0efce96b12bfb569bf80be04fa002a57144967e1fd53335681403a04e104c"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Pine01",
+      "sha256_copy_match": true,
+      "mesh_instances": 1,
+      "materials": 2,
+      "triangles": 2324,
+      "triangle_match": true,
+      "bounds_max_absolute_delta_metres": 4.768371546504113e-7,
+      "bounds_match_within_0_0001m": true,
+      "all_materials_present": true,
+      "all_albedo_textures_present": true,
+      "portable_path": "Models/Environment/Trees/Pine/SM_Pine01.glb",
+      "portable_sha256": "becef1a0267eb0a29cb03ce2b73d9d731325cba18d3792e76011d3a4079e53bd"
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterRiver04",
+      "sha256_copy_match": true,
+      "mesh_instances": 1,
+      "materials": 1,
+      "triangles": 32,
+      "triangle_match": true,
+      "bounds_max_absolute_delta_metres": 0.000008370792897949286,
+      "bounds_match_within_0_0001m": true,
+      "all_materials_present": true,
+      "all_albedo_textures_present": true,
+      "portable_path": "Models/Environment/Water/Meshes/SM_WaterRiver04.glb",
+      "portable_sha256": "fb7d3d083c22f642addabbefed9f3a9f8496052ada1fa3fc25d0f000f0298824"
+    }
+  ],
+  "total_mesh_instances": 6,
+  "total_material_slots": 8,
+  "total_triangles": 4496,
+  "limits": [
+    "Six samples only; not all-787 engine import or visual acceptance.",
+    "Cloud alpha=0 remains a known source material bake issue.",
+    "No game, save, UI or EXE validation is claimed."
+  ]
+}

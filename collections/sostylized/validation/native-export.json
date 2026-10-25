@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "source_archive_sha256": "59425c4db32a6f4c164829cb5c6cbe7e8e2714eb6da517eb52f4bdfa9ba32333",
+  "source_registry_objects": 2396,
+  "target_count": 1090,
+  "packaged": 1090,
+  "failed": 0,
+  "classes": {
+    "StaticMesh": 787,
+    "Texture2D": 286,
+    "SoundWave": 17
+  },
+  "textures": {
+    "PNG": 285,
+    "EXR": 1
+  },
+  "static_mesh_lods": [
+    0
+  ],
+  "portable_bytes": 2837175413,
+  "assets_with_native_gltf_log_warnings": 301,
+  "uv_status_counts": {
+    "normalized_uv0": 649,
+    "already_uv0": 138
+  },
+  "recovery": "One source Texture2D has HDR compression settings but non-HDR source pixels. Automatic native FindExporter selected PNG; completed assets were reused after the first forced-EXR run asserted.",
+  "scope": "Static assets only; source runtime classes and 42 Worlds are inventoried, not ported."
+}

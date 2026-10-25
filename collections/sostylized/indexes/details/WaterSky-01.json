@@ -1,0 +1,1815 @@
+{
+  "schema_version": 1,
+  "category": "WaterSky",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_IndividualCloudPlane",
+      "source": {
+        "name": "SM_IndividualCloudPlane",
+        "path": "/Game/SoStylized/Environment/Sky/Meshes/SM_IndividualCloudPlane.SM_IndividualCloudPlane",
+        "package": "/Game/SoStylized/Environment/Sky/Meshes/SM_IndividualCloudPlane",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Sky/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "cfa67c6a4bea6e0d7540ce41829014576e36c1356b8e34ee975c7b2b489cb498",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Sky/Materials/MI_IndividualCloud_Classic.MI_IndividualCloud_Classic"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2cb6cafefb75756d86db1d25e6053b61cf1fcbba55b720fd55e0bcd4cb3f94fb",
+      "native_bytes": 337580,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IndividualCloud_Classic_SM_IndividualCloudPlane",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2,
+      "scene_triangles": 2,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -200.0,
+          -100.0,
+          -9.457375563215464e-05
+        ],
+        "max": [
+          200.0,
+          100.0,
+          9.457375563215464e-05
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Sky/Meshes/SM_IndividualCloudPlane.glb",
+      "bytes": 337552,
+      "sha256": "1c4ce33d23e4024ad8e86db0a9edbd8633e8903f08632d9dde02f5b622896821",
+      "material_readiness": {
+        "status": "custom_shader_required",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Invisible bake: alpha=0 throughout; source uses CameraDepthFade, MPC and Blueprint opacity/fade parameters."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Sky/Meshes/SM_IndividualCloudPlane.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PlanetRing",
+      "source": {
+        "name": "SM_PlanetRing",
+        "path": "/Game/SoStylized/Environment/Sky/Meshes/SM_PlanetRing.SM_PlanetRing",
+        "package": "/Game/SoStylized/Environment/Sky/Meshes/SM_PlanetRing",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Sky/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e3284308d7b3efcbd538af07a95f03c9914e468bf998711559a0cecf63fa7ddd",
+      "engine_log_warnings": [
+        "Unsupported blend mode (Additive) in material MI_PlanetRing_Inst, will export as Translucent",
+        "Opacity for material MI_PlanetRing_Inst uses multiple texture coordinates (0, 2), baked texture will be sampled using only the first (0)"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_PlanetRing",
+          "path": "/Game/SoStylized/Environment/Sky/Materials/MI_PlanetRing_Inst.MI_PlanetRing_Inst"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e0d6ba816c59918dfc9f934250219c505b8e7e4e047625f20e3b78a12fbeeaef",
+      "native_bytes": 459792,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PlanetRing_Inst",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1024,
+      "scene_triangles": 1024,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -1.986391305923462,
+          0.0,
+          -1.986391305923462
+        ],
+        "max": [
+          1.986391305923462,
+          0.0,
+          1.986391305923462
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_ior",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Sky/Meshes/SM_PlanetRing.glb",
+      "bytes": 459792,
+      "sha256": "e0d6ba816c59918dfc9f934250219c505b8e7e4e047625f20e3b78a12fbeeaef",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Sky/Meshes/SM_PlanetRing.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_StylizedSkyDome",
+      "source": {
+        "name": "SM_StylizedSkyDome",
+        "path": "/Game/SoStylized/Environment/Sky/Meshes/SM_StylizedSkyDome.SM_StylizedSkyDome",
+        "package": "/Game/SoStylized/Environment/Sky/Meshes/SM_StylizedSkyDome",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Sky/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d7646c3520c6c8cf1096c1846d6155114657244ad39eea2f210e89b700dcf3b6",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_StylizedSky",
+          "path": "/Game/SoStylized/Environment/Sky/Materials/MI_StylizedSky_Lite.MI_StylizedSky_Lite"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a961fdea5a9c5ad9d46c00d273b478ea54bab3778d0097789ece9e1bd8290165",
+      "native_bytes": 295432,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_StylizedSky_Lite",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3072,
+      "scene_triangles": 3072,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -987230.375,
+          -942929.8125,
+          -987231.0
+        ],
+        "max": [
+          987230.75,
+          997576.75,
+          987230.5625
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Sky/Meshes/SM_StylizedSkyDome.glb",
+      "bytes": 295432,
+      "sha256": "a961fdea5a9c5ad9d46c00d273b478ea54bab3778d0097789ece9e1bd8290165",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Sky/Meshes/SM_StylizedSkyDome.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_StylizedSkyDome_Clouds",
+      "source": {
+        "name": "SM_StylizedSkyDome_Clouds",
+        "path": "/Game/SoStylized/Environment/Sky/Meshes/SM_StylizedSkyDome_Clouds.SM_StylizedSkyDome_Clouds",
+        "package": "/Game/SoStylized/Environment/Sky/Meshes/SM_StylizedSkyDome_Clouds",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Sky/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c5188f6c9251ad9f25501fa178cd0cb6bd02e534f81bab75cd4dd55863fa6fe2",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_StylizedSky",
+          "path": "/Game/SoStylized/Environment/Sky/Materials/MI_StylizedClouds_Lite.MI_StylizedClouds_Lite"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "067908b432ebe88c72dea12c9fc12c2a89ea3893b5ad0c126290df9e01b1a100",
+      "native_bytes": 816284,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_StylizedClouds_Lite",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2496,
+      "scene_triangles": 2496,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -24680.76171875,
+          -9567.091796875,
+          -24680.77734375
+        ],
+        "max": [
+          24680.771484375,
+          24939.421875,
+          24680.763671875
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Sky/Meshes/SM_StylizedSkyDome_Clouds.glb",
+      "bytes": 816284,
+      "sha256": "067908b432ebe88c72dea12c9fc12c2a89ea3893b5ad0c126290df9e01b1a100",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Sky/Meshes/SM_StylizedSkyDome_Clouds.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_SunAndMoonPlane",
+      "source": {
+        "name": "SM_SunAndMoonPlane",
+        "path": "/Game/SoStylized/Environment/Sky/Meshes/SM_SunAndMoonPlane.SM_SunAndMoonPlane",
+        "package": "/Game/SoStylized/Environment/Sky/Meshes/SM_SunAndMoonPlane",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Sky/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1e0e45dedf7ae8ae78bd99a23a2fbe273f3990f910337f0f37054016ae7d8a0c",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": null
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ee7ef7770a67e8a209cc7525dd8519d9e11b765cd8af8d8852d13ecc2b7ff430",
+      "native_bytes": 533772,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2,
+      "scene_triangles": 2,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -183271.359375,
+          -31336.572265625,
+          -31336.56640625
+        ],
+        "max": [
+          -183271.359375,
+          31336.57421875,
+          31336.58203125
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Sky/Meshes/SM_SunAndMoonPlane.glb",
+      "bytes": 533772,
+      "sha256": "ee7ef7770a67e8a209cc7525dd8519d9e11b765cd8af8d8852d13ecc2b7ff430",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Sky/Meshes/SM_SunAndMoonPlane.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Ocean270",
+      "source": {
+        "name": "SM_Ocean270",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_Ocean270.SM_Ocean270",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_Ocean270",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c3e1117e7e22b14b9c82874f1ead9498abec5e18dbfbf9a613f73277eb40e6fd",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic_Ocean_Extension, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Ocean_Extension.MI_Water_Classic_Ocean_Extension"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "9ecba871e68a0a16d632871cd3071417a83be24385587ef85b320c3767ade28f",
+      "native_bytes": 1215636,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Ocean_Extension_SM_Ocean270",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 45,
+      "scene_triangles": 45,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -792.6995239257812,
+          -0.01755017600953579,
+          -561.5234375
+        ],
+        "max": [
+          792.6995239257812,
+          0.00012898421846330166,
+          791.6995239257812
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_Ocean270.glb",
+      "bytes": 1215608,
+      "sha256": "72de56af9fa357a7f6e19e169cf5387a6e04efe99f8c388ad968004a8a1fb870",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_Ocean270.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OceanCone",
+      "source": {
+        "name": "SM_OceanCone",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_OceanCone.SM_OceanCone",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_OceanCone",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8d61f554e2fcf8c69751eff16fee05905f731560930bd7ddc42ba440ab0b56ca",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic_Ocean_Extension, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Ocean_Extension.MI_Water_Classic_Ocean_Extension"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c0b14192b7c83135a02a6679dad99daa1304f0c72067deae36c05bf470d7e3cd",
+      "native_bytes": 961900,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Ocean_Extension_SM_OceanCone",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 39,
+      "scene_triangles": 39,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -800.896728515625,
+          -0.032923679798841476,
+          -0.04289986565709114
+        ],
+        "max": [
+          800.8972778320312,
+          0.00019224401330575347,
+          1179.2486572265625
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_OceanCone.glb",
+      "bytes": 961876,
+      "sha256": "e6e9aa46b9ae6126b9dd5af8d6f165f283af0ab37f87f619a81eddfaaf6581af",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_OceanCone.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OceanFullCircle",
+      "source": {
+        "name": "SM_OceanFullCircle",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_OceanFullCircle.SM_OceanFullCircle",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_OceanFullCircle",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "75cb8a7865b24fc7eba714b2de0ce6e35140a7c421cff509bc7292bb1ca0c4fe",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic_Ocean_Extension, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Ocean_Extension.MI_Water_Classic_Ocean_Extension"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "cf87018ecb382da69a19973e98c44326386671fe0e4e073e1fd8c0f8e16331f1",
+      "native_bytes": 1357804,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Ocean_Extension_SM_OceanFullCircle",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 60,
+      "scene_triangles": 60,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -795.4127807617188,
+          -0.027428006753325462,
+          -795.4127807617188
+        ],
+        "max": [
+          795.4127807617188,
+          0.00022440978500526398,
+          795.4127807617188
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_OceanFullCircle.glb",
+      "bytes": 1357776,
+      "sha256": "8f348b1dd505a3f51affd8e3ed786c94dd838f946e96e987ad073d6c020ed77e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_OceanFullCircle.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OceanSemicircle",
+      "source": {
+        "name": "SM_OceanSemicircle",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_OceanSemicircle.SM_OceanSemicircle",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_OceanSemicircle",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "212c75c071e9ae7edc2a439493c6b4bdeee82a5a6e2ec225996d058396eb0bfc",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic_Ocean_Extension, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Ocean_Extension.MI_Water_Classic_Ocean_Extension"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "212eb0af6fc0f8a6f758ba29ff7e7992ba5f4ce3d91b00f983c0df0c15988554",
+      "native_bytes": 1480172,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Ocean_Extension_SM_OceanSemicircle",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 24,
+      "scene_triangles": 24,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -795.5614013671875,
+          -0.517536461353302,
+          -1.8218023777008057
+        ],
+        "max": [
+          795.5614013671875,
+          0.0001295792026212439,
+          795.3515625
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_OceanSemicircle.glb",
+      "bytes": 1480144,
+      "sha256": "c548b8643b6914d8eb5a28b837ac1dc822bd9dc55e3835cd49859297ba422bf5",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_OceanSemicircle.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterHat01",
+      "source": {
+        "name": "SM_UnderwaterHat01",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat01.SM_UnderwaterHat01",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "64b24e6b44dceb85612a7225125b2285db42d76770231e47021fef7dbf4bb5b9",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "03af9af66dd1986dfdeac253c9119f7afd4940ca2d328ee77d7747feb361c1b6",
+      "native_bytes": 40340,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterHat01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 36,
+      "scene_triangles": 36,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -2.0,
+          -10.0,
+          -2.0
+        ],
+        "max": [
+          4.0,
+          6.516826829283673e-07,
+          4.000001430511475
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterHat01.glb",
+      "bytes": 40312,
+      "sha256": "25331cb56b5a86721e32a2685118f1ddc7b67f2af02d816925d06860a1b65f7b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterHat01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterHat02",
+      "source": {
+        "name": "SM_UnderwaterHat02",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat02.SM_UnderwaterHat02",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e2119207efe9811d22d9acb14f29d0b5bf5000c3ff43a25aa04c0ca5e8d41cd0",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b4d3d50b9531db28a83581055756165cedd11d7334322758657a741fa3a91267",
+      "native_bytes": 41676,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterHat02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 54,
+      "scene_triangles": 54,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -10.0,
+          -1.0
+        ],
+        "max": [
+          3.0,
+          4.887620548288396e-07,
+          3.0000014305114746
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterHat02.glb",
+      "bytes": 41648,
+      "sha256": "56c79784ea3851f731452e542b6f67ba2da60f4bf4df3c271ae4b07d3efb9a5d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterHat02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterHat04",
+      "source": {
+        "name": "SM_UnderwaterHat04",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat04.SM_UnderwaterHat04",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "db8e15f0ed6daca9e81334d760bd71e4934ec9fe6f7a188f9ef0b240fee11c9b",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "95a00dab9cccf45391d75153f334a6f3c22c803344a4d63bfb32fe62e6683415",
+      "native_bytes": 41112,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterHat04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 54,
+      "scene_triangles": 54,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -10.0,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          1.6292067073209182e-07,
+          1.0000015497207642
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterHat04.glb",
+      "bytes": 41084,
+      "sha256": "78605bbbc4c866c6608792797b9c424cc50d4506f641a3adfe2137193d9e669c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterHat04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterHat08",
+      "source": {
+        "name": "SM_UnderwaterHat08",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat08.SM_UnderwaterHat08",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat08",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0090b5a14f976edee695863082fed969300eb74686f1afeb65f542137dff1fa3",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "11fecfe44cdee4ac5f98a88951702cf636f4f79fcbe97209e50e8b3986405cd0",
+      "native_bytes": 47088,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterHat08",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 166,
+      "scene_triangles": 166,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -10.0,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          1.6292067073209182e-07,
+          1.0000015497207642
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterHat08.glb",
+      "bytes": 47064,
+      "sha256": "0d9e49551d80e63d4bddd474de634f7b711ddfb748e7af10639d94bceffc7539",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterHat08.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterHat16",
+      "source": {
+        "name": "SM_UnderwaterHat16",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat16.SM_UnderwaterHat16",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat16",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9899fc65c0dd95a049dbec917c45df442197f6456db731614b171fbbe68cee63",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "79a1ab23613df5aa732b99125de3e8016549534236ce19297eb46dba6400279e",
+      "native_bytes": 61908,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterHat16",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 582,
+      "scene_triangles": 582,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -10.0,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          1.6292067073209182e-07,
+          1.0000015497207642
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterHat16.glb",
+      "bytes": 61880,
+      "sha256": "e828f1bf579c95cd28ba9b76ab2641b2fd765ca95b2898a82f07186beabc8d4d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterHat16.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterHat32",
+      "source": {
+        "name": "SM_UnderwaterHat32",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat32.SM_UnderwaterHat32",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterHat32",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "75222e3dbece26b2d30b51ac466f0166430b72193d4b962514ee1271ae6dce1f",
+      "engine_log_warnings": [
+        "Material MI_Water_Classic_Stencil is baked using mesh data from SM_UnderwaterHat32 but the lightmap UV (channel 1) are overlapping by 100.00% (in mesh section 0) and may produce incorrect results"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f9acccd45bbfd238ebf50d4282fad26adaf9e1514b9152217752f50a261a8148",
+      "native_bytes": 112940,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterHat32",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2182,
+      "scene_triangles": 2182,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -10.0,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          1.6292067073209182e-07,
+          1.0000015497207642
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterHat32.glb",
+      "bytes": 112912,
+      "sha256": "1277954a5de034310bd88b4f21984786fe1875d0ad508fc1ec7d8ab21d00dd1d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterHat32.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterSurface01",
+      "source": {
+        "name": "SM_UnderwaterSurface01",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface01.SM_UnderwaterSurface01",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e19ec003e9146a873608a1d15a52c80590898e3f404b4ecc6e86fc3d574c1a48",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6e4018c3566e2c8e8050bd08455d2dd30e422e0dc7ef50c1e2d3ff36a5f8868b",
+      "native_bytes": 33680,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterSurface01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 34,
+      "scene_triangles": 34,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -2.000002861022949,
+          -6.278328896769381e-07,
+          -2.0000016689300537
+        ],
+        "max": [
+          4.0,
+          10.0,
+          4.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterSurface01.glb",
+      "bytes": 33652,
+      "sha256": "ac514da33f79aa89177160005c6bad9ea576aa2b4270a9d482a117ab0d072798",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterSurface01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterSurface02",
+      "source": {
+        "name": "SM_UnderwaterSurface02",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface02.SM_UnderwaterSurface02",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2cf19e31e973886473f3f6c59a061f0985cfba353b625ed963af7a2843732968",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6a7f47ab3bfc74a0a2de77daf7f382120551ce5f67482f7fbeb0632d1c32782a",
+      "native_bytes": 38968,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterSurface02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 52,
+      "scene_triangles": 52,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0000014305114746,
+          -4.649122615774104e-07,
+          -1.0000015497207642
+        ],
+        "max": [
+          3.0,
+          10.0,
+          3.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterSurface02.glb",
+      "bytes": 38944,
+      "sha256": "16583cd1bdb15ad490008a4189793770216f93410eda45468105fd5d564f72e0",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterSurface02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterSurface04",
+      "source": {
+        "name": "SM_UnderwaterSurface04",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface04.SM_UnderwaterSurface04",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3551152df3dd363b624876bff2294e549f6fd10d7b9fb5da8a9225227bd1c3d6",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e2fa50af65091808b670af26ded146475d6f69bd0f9e2fa758da2abe32e6fa4d",
+      "native_bytes": 39312,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterSurface04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 52,
+      "scene_triangles": 52,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0000015497207642,
+          -3.1391644483846903e-07,
+          -1.0000015497207642
+        ],
+        "max": [
+          1.0,
+          10.0,
+          1.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterSurface04.glb",
+      "bytes": 39284,
+      "sha256": "4306ca4c952f5597b0e047563f5b048909cec92f4cfd8917e44a7159aa36e5cd",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterSurface04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterSurface08",
+      "source": {
+        "name": "SM_UnderwaterSurface08",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface08.SM_UnderwaterSurface08",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface08",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "67232ef5b491924344df81b28c48f4bd96d00b1bc83c8f86605dc777e17efa82",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0886df15cc0d7f504f7e25bb56853bdd2178c170e9a7e7b15cf5588c3582449a",
+      "native_bytes": 44804,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterSurface08",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 164,
+      "scene_triangles": 164,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0000015497207642,
+          -3.1391644483846903e-07,
+          -1.0000015497207642
+        ],
+        "max": [
+          1.0,
+          10.0,
+          1.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterSurface08.glb",
+      "bytes": 44776,
+      "sha256": "faa071ca63335afc5c330a4de2d41fc471c5d90587f9508339a8b14ad0772b6a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterSurface08.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterSurface16",
+      "source": {
+        "name": "SM_UnderwaterSurface16",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface16.SM_UnderwaterSurface16",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface16",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "54a6c53c1eaba521f124664eaa0a9eef450518daf711842fee32c9c56933524a",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c747210be7c30d08ea39f2ec0660389d72ed159373aa844b16f57ec0d62495a6",
+      "native_bytes": 59592,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterSurface16",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 580,
+      "scene_triangles": 580,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -1.6292067073209182e-07,
+          -1.0000015497207642
+        ],
+        "max": [
+          1.0,
+          10.0,
+          1.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterSurface16.glb",
+      "bytes": 59564,
+      "sha256": "f4c510d38058db9017b197aa432d7d0c09ac3b63cfa5f7fe3783ed9621a2f984",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterSurface16.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

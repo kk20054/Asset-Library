@@ -1,0 +1,959 @@
+{
+  "schema_version": 1,
+  "category": "Textures",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_T_Stars01_BC",
+      "source": {
+        "name": "T_Stars01_BC",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Stars01_BC.T_Stars01_BC",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Stars01_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/Space",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2c9f06747db7346a3d3b536e55233f0629e513a7a8aec0bab34ac366ab1fbff0",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "361b98da767ee750df95f54a0bff3d3f9056e21966881926b487bf8397e4b509",
+      "native_bytes": 89729,
+      "path": "Textures/Environment/Sky/Textures/Space/T_Stars01_BC.png",
+      "bytes": 89729,
+      "sha256": "361b98da767ee750df95f54a0bff3d3f9056e21966881926b487bf8397e4b509",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/Space/T_Stars01_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Stars02_BC",
+      "source": {
+        "name": "T_Stars02_BC",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Stars02_BC.T_Stars02_BC",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Stars02_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/Space",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "dbd06a66c9b6db11e961646013ae1a89cae5cfdc49bc51559ad0a0ae42d87929",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "0fe8f0a3639b1d9f53f44f99fdde31ca0baa639aa7ae89e2c06a1a269b6baf68",
+      "native_bytes": 545541,
+      "path": "Textures/Environment/Sky/Textures/Space/T_Stars02_BC.png",
+      "bytes": 545541,
+      "sha256": "0fe8f0a3639b1d9f53f44f99fdde31ca0baa639aa7ae89e2c06a1a269b6baf68",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/Space/T_Stars02_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Stars03_BC",
+      "source": {
+        "name": "T_Stars03_BC",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Stars03_BC.T_Stars03_BC",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Stars03_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/Space",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "91c0d263d4ca3cc0da2946a249fef62d7dc2f7515af1352544412995325cb928",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "1aee2c80457c3e779f7b843a3fa15d8497a29c37f20e8b36fdf7e419d12ed8da",
+      "native_bytes": 157450,
+      "path": "Textures/Environment/Sky/Textures/Space/T_Stars03_BC.png",
+      "bytes": 157450,
+      "sha256": "1aee2c80457c3e779f7b843a3fa15d8497a29c37f20e8b36fdf7e419d12ed8da",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/Space/T_Stars03_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Stars04_BC",
+      "source": {
+        "name": "T_Stars04_BC",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Stars04_BC.T_Stars04_BC",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Stars04_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/Space",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "28af352844dd610d43abea7884f7856ba2c4fb11e66e203a8d73e4e3e6dc0068",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "cb2c8856e18386a2606aa28e2aa89048e9e5321e12c00306c41b9574a5ddcd52",
+      "native_bytes": 1231109,
+      "path": "Textures/Environment/Sky/Textures/Space/T_Stars04_BC.png",
+      "bytes": 1231109,
+      "sha256": "cb2c8856e18386a2606aa28e2aa89048e9e5321e12c00306c41b9574a5ddcd52",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/Space/T_Stars04_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Stars05_BC",
+      "source": {
+        "name": "T_Stars05_BC",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Stars05_BC.T_Stars05_BC",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Stars05_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/Space",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0bf8d0a18effffba0304a5eec5f554f35b07eeba20fc460fd28ff1e0efbefc87",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "ada97acdc09f473b67ec8e74e513dca3d729e24fe22438f4c7327719cdc82936",
+      "native_bytes": 283237,
+      "path": "Textures/Environment/Sky/Textures/Space/T_Stars05_BC.png",
+      "bytes": 283237,
+      "sha256": "ada97acdc09f473b67ec8e74e513dca3d729e24fe22438f4c7327719cdc82936",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/Space/T_Stars05_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Sun01_BC",
+      "source": {
+        "name": "T_Sun01_BC",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Sun01_BC.T_Sun01_BC",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Sun01_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/Space",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3d5955015f91b9585ccf72fc7828e1d5b2895f9e20c5dbd318e0196a3647b808",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "68acc14e8ff9df49542ec0aead16515482bb802f24608417444eb72b262a183a",
+      "native_bytes": 3245,
+      "path": "Textures/Environment/Sky/Textures/Space/T_Sun01_BC.png",
+      "bytes": 3245,
+      "sha256": "68acc14e8ff9df49542ec0aead16515482bb802f24608417444eb72b262a183a",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/Space/T_Sun01_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Sun02_BC",
+      "source": {
+        "name": "T_Sun02_BC",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Sun02_BC.T_Sun02_BC",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Sun02_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/Space",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "36360b7bb41e7d18a0f7cce098668ae99045edd6219d653f508a48e6b9337fdc",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "f1a7051a49b05bf1d4c9e64df2317b2c1e21f96d01f06059826b712786648759",
+      "native_bytes": 16181,
+      "path": "Textures/Environment/Sky/Textures/Space/T_Sun02_BC.png",
+      "bytes": 16181,
+      "sha256": "f1a7051a49b05bf1d4c9e64df2317b2c1e21f96d01f06059826b712786648759",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/Space/T_Sun02_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Sun03_BC",
+      "source": {
+        "name": "T_Sun03_BC",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Sun03_BC.T_Sun03_BC",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Sun03_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/Space",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6b9b2adb6be458798c2c321fa394f9d9673f8702110cb82d687c79f9e99e9a78",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "d99686df019bbf0372f00c1f78c1c0fbed9a37c748192479d67214c8a4e14bfa",
+      "native_bytes": 875903,
+      "path": "Textures/Environment/Sky/Textures/Space/T_Sun03_BC.png",
+      "bytes": 875903,
+      "sha256": "d99686df019bbf0372f00c1f78c1c0fbed9a37c748192479d67214c8a4e14bfa",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/Space/T_Sun03_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Sun04_BC",
+      "source": {
+        "name": "T_Sun04_BC",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Sun04_BC.T_Sun04_BC",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/Space/T_Sun04_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/Space",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "97c946746797db7899da4d139545a98d75792a606ce06976f37acfc2a9495639",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "494d07b24f9d6f70ab4084578c6fc2dbfd6b6c1e35cccce4eefe0960191fc369",
+      "native_bytes": 3831,
+      "path": "Textures/Environment/Sky/Textures/Space/T_Sun04_BC.png",
+      "bytes": 3831,
+      "sha256": "494d07b24f9d6f70ab4084578c6fc2dbfd6b6c1e35cccce4eefe0960191fc369",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/Space/T_Sun04_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyCurve_Gradient",
+      "source": {
+        "name": "T_SkyCurve_Gradient",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/T_SkyCurve_Gradient.T_SkyCurve_Gradient",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/T_SkyCurve_Gradient",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "dd6bb1a6b5f64fc75c71140f8a72dda90eaf0a2c2fa819842a9aacc220a408bb",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "f5eb44d1b08d406f877803a314a3685519cc3ed368b3a94d4abb0d32102749c5",
+      "native_bytes": 135575,
+      "path": "Textures/Environment/Sky/Textures/T_SkyCurve_Gradient.png",
+      "bytes": 135575,
+      "sha256": "f5eb44d1b08d406f877803a314a3685519cc3ed368b3a94d4abb0d32102749c5",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/T_SkyCurve_Gradient.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterRipples",
+      "source": {
+        "name": "T_WaterRipples",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/T_WaterRipples.T_WaterRipples",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/T_WaterRipples",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2edeaa2d0360fd92ad5023a2d46cc3fc1b2fcba2ff59cb65caa50962759b47e9",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "8ea1b6bcad5ea23231c196de868dcb6620d27961527bfe8e8736e395d1f78dc7",
+      "native_bytes": 131708,
+      "path": "Textures/Environment/Sky/Textures/T_WaterRipples.png",
+      "bytes": 131708,
+      "sha256": "8ea1b6bcad5ea23231c196de868dcb6620d27961527bfe8e8736e395d1f78dc7",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/T_WaterRipples.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBarkMisc_BC",
+      "source": {
+        "name": "T_BambooBarkMisc_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBarkMisc_BC.T_BambooBarkMisc_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBarkMisc_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "28fa6f7a0ba00a83b777336d09c91aae43ed28928a2bd2638b9bc30ff3b82e81",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "1a5b7487992c34c21a9dc9a5a7900fba0256a1b1e56f8f6d32545bf8a99c4f32",
+      "native_bytes": 5430177,
+      "path": "Textures/Environment/Trees/Textures/T_BambooBarkMisc_BC.png",
+      "bytes": 5430177,
+      "sha256": "1a5b7487992c34c21a9dc9a5a7900fba0256a1b1e56f8f6d32545bf8a99c4f32",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BambooBarkMisc_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBarkMisc_N",
+      "source": {
+        "name": "T_BambooBarkMisc_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBarkMisc_N.T_BambooBarkMisc_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBarkMisc_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5082a5a487bf47ee11601c3e9b454a61d71f68b8266c4a7974c53eab88470e20",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "265d3563c4263d96661dc0d40318359ba2129185d086f8143414e156d0db0a76",
+      "native_bytes": 8443989,
+      "path": "Textures/Environment/Trees/Textures/T_BambooBarkMisc_N.png",
+      "bytes": 8443989,
+      "sha256": "265d3563c4263d96661dc0d40318359ba2129185d086f8143414e156d0db0a76",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BambooBarkMisc_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBarkMisc_R",
+      "source": {
+        "name": "T_BambooBarkMisc_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBarkMisc_R.T_BambooBarkMisc_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBarkMisc_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a5ed01ff82013d6d06929accbd625418784352fa40d7b86cf9ce0e739d286722",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "00739c11c54e7328ca4a5623070e06133d344ef861d06d1d717d7218d02fcc97",
+      "native_bytes": 2013665,
+      "path": "Textures/Environment/Trees/Textures/T_BambooBarkMisc_R.png",
+      "bytes": 2013665,
+      "sha256": "00739c11c54e7328ca4a5623070e06133d344ef861d06d1d717d7218d02fcc97",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BambooBarkMisc_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBark_BC",
+      "source": {
+        "name": "T_BambooBark_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBark_BC.T_BambooBark_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBark_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "731df87fb304a1b6761ac4b6b271183ed003d7a13bff447e6fab3628fc28f37d",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "6ddc838690ab78be2ca32f1399b3a4a9b30fe86ad6903d4fe7d6b0b3d180b5ac",
+      "native_bytes": 2133186,
+      "path": "Textures/Environment/Trees/Textures/T_BambooBark_BC.png",
+      "bytes": 2133186,
+      "sha256": "6ddc838690ab78be2ca32f1399b3a4a9b30fe86ad6903d4fe7d6b0b3d180b5ac",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BambooBark_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBark_N",
+      "source": {
+        "name": "T_BambooBark_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBark_N.T_BambooBark_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBark_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c13249ed3555ce147fcdc84c6ee25405c1f88c1beff1000731fcf590f087e980",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "1f3ca8485ad637ee036c1cb04c431206bc4df4a796367da3d4e6467ad2f84c0d",
+      "native_bytes": 2132930,
+      "path": "Textures/Environment/Trees/Textures/T_BambooBark_N.png",
+      "bytes": 2132930,
+      "sha256": "1f3ca8485ad637ee036c1cb04c431206bc4df4a796367da3d4e6467ad2f84c0d",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BambooBark_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBark_R",
+      "source": {
+        "name": "T_BambooBark_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBark_R.T_BambooBark_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BambooBark_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b5363f19c88a496c196efb559bd45136a19573d7f9e25fd5092d2a46e01e742f",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "b37e3f88e58efb0ae8612d4ce838e4d43bddb8a1ece32293b7cc41b5d979a749",
+      "native_bytes": 604678,
+      "path": "Textures/Environment/Trees/Textures/T_BambooBark_R.png",
+      "bytes": 604678,
+      "sha256": "b37e3f88e58efb0ae8612d4ce838e4d43bddb8a1ece32293b7cc41b5d979a749",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BambooBark_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BananaBark_BC",
+      "source": {
+        "name": "T_BananaBark_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BananaBark_BC.T_BananaBark_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BananaBark_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2501de5633d9cf977718c58097bd895bb5f9696f9fb452e81290358dba3375c4",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "9e15ad6b7f12e4866539389026b436e3e50d335903f2bd1053455341f6919097",
+      "native_bytes": 560034,
+      "path": "Textures/Environment/Trees/Textures/T_BananaBark_BC.png",
+      "bytes": 560034,
+      "sha256": "9e15ad6b7f12e4866539389026b436e3e50d335903f2bd1053455341f6919097",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BananaBark_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BananaBark_N",
+      "source": {
+        "name": "T_BananaBark_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BananaBark_N.T_BananaBark_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BananaBark_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c0a223706e0c94cab9ede28424aa519f530db5c9ec1108136b5ed3dfa1f44d55",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "77b9b812afc5696f13d071f153f49b793f6cd915bc3c5c9769f43f40ca02b954",
+      "native_bytes": 843223,
+      "path": "Textures/Environment/Trees/Textures/T_BananaBark_N.png",
+      "bytes": 843223,
+      "sha256": "77b9b812afc5696f13d071f153f49b793f6cd915bc3c5c9769f43f40ca02b954",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BananaBark_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_BananaBark_R",
+      "source": {
+        "name": "T_BananaBark_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_BananaBark_R.T_BananaBark_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_BananaBark_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e8c4860b1162ec519a2723217d790d11e0fa5b0ed892b2b23f1f9430dd0d3be1",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "128bd46c68147ccc2bb8a9f5e8754a3369ab4c0c0530c1101752def4b3064123",
+      "native_bytes": 137631,
+      "path": "Textures/Environment/Trees/Textures/T_BananaBark_R.png",
+      "bytes": 137631,
+      "sha256": "128bd46c68147ccc2bb8a9f5e8754a3369ab4c0c0530c1101752def4b3064123",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_BananaBark_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

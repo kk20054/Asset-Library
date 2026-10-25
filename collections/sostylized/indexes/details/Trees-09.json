@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "category": "Trees",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_PineStump1_SnowCover",
+      "source": {
+        "name": "SM_PineStump1_SnowCover",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_PineStump1_SnowCover.SM_PineStump1_SnowCover",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_PineStump1_SnowCover",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b6b710662608990b8f4ca8d3e8a76ab5be47b3ca3e8dfc0228059048a42249de",
+      "engine_log_warnings": [
+        "Material MI_Snow uses mesh data from SM_PineStump1_SnowCover but the lightmap UVs (channel 1) are nearly 100% degenerate (in mesh section 1). Simple baking will be used as fallback"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBarkMisc_Snow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBarkMisc_Snow.MI_PineBarkMisc_Snow"
+        },
+        {
+          "slot": "MI_Snow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Snow.MI_Snow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2f431f939f4b20ed567d6cf281e4789e2aa0036a617b38732a2382389f5c839c",
+      "native_bytes": 1711944,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBarkMisc_Snow_SM_PineStump1_SnowCover",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_Snow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 870,
+      "scene_triangles": 870,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 8,
+      "bounds": {
+        "min": [
+          -0.7393590211868286,
+          -0.4898530840873718,
+          -0.739277720451355
+        ],
+        "max": [
+          1.3233895301818848,
+          1.277694582939148,
+          0.9139326214790344
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_PineStump1_SnowCover.glb",
+      "bytes": 1711916,
+      "sha256": "2e96435d43c1c31724342d9aa3e113bededa9bfa03c02b7590658e9449e474f9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineStump1_SnowCover.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

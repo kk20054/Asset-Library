@@ -1,0 +1,12 @@
+{
+  "scope": "Format and bounded import evidence; not full visual acceptance.",
+  "reports": [
+    "native-export.json",
+    "glb-format.json",
+    "godot-samples.json"
+  ],
+  "previews": [
+    "../previews/preview-receipt.json",
+    "../previews/oak-review.json"
+  ]
+}

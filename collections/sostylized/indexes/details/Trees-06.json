@@ -1,0 +1,2214 @@
+{
+  "schema_version": 1,
+  "category": "Trees",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree02",
+      "source": {
+        "name": "SM_DesertPalmTree02",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmTree02.SM_DesertPalmTree02",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmTree02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "58239c835a3f7c4f4e1c1cd28ddf322aecfb91d05cbb4515ed0dfcef085bcc41",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertPalmTree02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_DesertPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmBark.MI_DesertPalmBark"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmLeaves.MI_DesertPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmBark_LOD1.MI_DesertPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmLeaves_LOD1.MI_DesertPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmTree_SingleMat.MI_DesertPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "dab1429af07b57a3e5d30c4d8b3005fadcaf2c95c5b2e96651833a87a3e2f78e",
+      "native_bytes": 4667648,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertPalmBark_SM_DesertPalmTree02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertPalmLeaves_SM_DesertPalmTree02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1382,
+      "scene_triangles": 1382,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.5456066131591797,
+          -0.790858268737793,
+          -4.274896621704102
+        ],
+        "max": [
+          3.596937417984009,
+          10.385154724121094,
+          3.251919746398926
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmTree02.glb",
+      "bytes": 4667528,
+      "sha256": "ba5cf1edb6ec668f871f349bd3b611e8cc89427e701dd01a0e40ef2e7ac48b2c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertPalmTree02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree03",
+      "source": {
+        "name": "SM_DesertPalmTree03",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmTree03.SM_DesertPalmTree03",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmTree03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "71e623af7c4e634dd9d872a61874083a56a26e39f8490ab36205d58e1b3b4580",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertPalmTree03 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_DesertPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmBark.MI_DesertPalmBark"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmLeaves.MI_DesertPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmBark_LOD1.MI_DesertPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmLeaves_LOD1.MI_DesertPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmTree_SingleMat.MI_DesertPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2b26bc7b0d981f0d96803c10976704c6ab2db02ca78fc74e1006c7847e7391f9",
+      "native_bytes": 4724264,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertPalmBark_SM_DesertPalmTree03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertPalmLeaves_SM_DesertPalmTree03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1558,
+      "scene_triangles": 1558,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -3.6820788383483887,
+          -0.8810567259788513,
+          -3.30291485786438
+        ],
+        "max": [
+          2.709415912628174,
+          11.335481643676758,
+          3.0411789417266846
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmTree03.glb",
+      "bytes": 4724148,
+      "sha256": "1b26862004940bfee63d03f233607c0ba3e2a99368fd3d08cf10dad56b335469",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertPalmTree03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree04",
+      "source": {
+        "name": "SM_DesertPalmTree04",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmTree04.SM_DesertPalmTree04",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmTree04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3678a451e9ef71aa31592295c5bf845ebb273993b3ea1292d580eec99e410c40",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertPalmTree04 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_DesertPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmBark.MI_DesertPalmBark"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmLeaves.MI_DesertPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmBark_LOD1.MI_DesertPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmLeaves_LOD1.MI_DesertPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmTree_SingleMat.MI_DesertPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e1095a1074753535a0809108fbae7a0926153c1158e33e1b74022feb41853529",
+      "native_bytes": 4687700,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertPalmBark_SM_DesertPalmTree04",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertPalmLeaves_SM_DesertPalmTree04",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1522,
+      "scene_triangles": 1522,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -3.400895357131958,
+          -1.1228827238082886,
+          -2.3843672275543213
+        ],
+        "max": [
+          3.9390406608581543,
+          13.716367721557617,
+          5.125043869018555
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmTree04.glb",
+      "bytes": 4687580,
+      "sha256": "ff15c73a1c8a5ad4d4ca82de85893b6eba0bc7d42542d37c5a8c207e3a60f0ac",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertPalmTree04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree05",
+      "source": {
+        "name": "SM_DesertPalmTree05",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmTree05.SM_DesertPalmTree05",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmTree05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5f1880b145782b4f899ca8224d97e1bf84fbbf41ae8d884275556ec4bd5d183f",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertPalmTree05 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_DesertPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmBark.MI_DesertPalmBark"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmLeaves.MI_DesertPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmBark_LOD1.MI_DesertPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmLeaves_LOD1.MI_DesertPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmTree_SingleMat.MI_DesertPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5650598e9b4e879388ef35cfa4ffc6193d95ea9086a282a1622bf95a648d594f",
+      "native_bytes": 5030916,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertPalmBark_SM_DesertPalmTree05",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertPalmLeaves_SM_DesertPalmTree05",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2006,
+      "scene_triangles": 2006,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -3.7193703651428223,
+          -0.950332522392273,
+          -2.990446090698242
+        ],
+        "max": [
+          4.147486686706543,
+          14.280059814453125,
+          4.832144260406494
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmTree05.glb",
+      "bytes": 5030800,
+      "sha256": "349525a81ea6cf107a8b497f62b9a366483547143f2644633a4360bc497b035f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertPalmTree05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindswept01",
+      "source": {
+        "name": "SM_TreeWindswept01",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindswept01.SM_TreeWindswept01",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindswept01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f891b684cedc976cff3d8d56a803544d378f6d48c0ee2de2be76e702845b8f27",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindswept01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "08efa1b9d97f56524931461213b41d65a1614ebb577e1afadfa148e7190f23d5",
+      "native_bytes": 3140276,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindswept01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindswept01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 676,
+      "scene_triangles": 676,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -2.9339513778686523,
+          -1.4850181341171265,
+          -1.9254746437072754
+        ],
+        "max": [
+          7.8316802978515625,
+          6.787933349609375,
+          2.6676535606384277
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindswept01.glb",
+      "bytes": 3140156,
+      "sha256": "e4829c401013229eacbe0068cdf3943f8065e0a7bdf5aee6773c6bafd459f24e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindswept01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindswept02",
+      "source": {
+        "name": "SM_TreeWindswept02",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindswept02.SM_TreeWindswept02",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindswept02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "df27eaa300858381758394e0d5e2585ba609d47c1b9df16e9b5c1b92915a09bb",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindswept02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5f7b9bb8a12eb4fc7d822d55ec2c8519b007a22f788ebad3604ba27f6d4f1916",
+      "native_bytes": 2932592,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindswept02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindswept02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1140,
+      "scene_triangles": 1140,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -1.2613716125488281,
+          -1.975253701210022,
+          -3.3260672092437744
+        ],
+        "max": [
+          9.031225204467773,
+          9.810046195983887,
+          4.274477481842041
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindswept02.glb",
+      "bytes": 2932472,
+      "sha256": "c968fbf3557606ec5019ef657abb25e27ec8be2d0fa5c3081bcc246c4b76467d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindswept02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindswept03",
+      "source": {
+        "name": "SM_TreeWindswept03",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindswept03.SM_TreeWindswept03",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindswept03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3b759ea38ed5d75178b5fcd963eb809ac75eb630e7598c733db14a47efff10c0",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindswept03 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "3dad458837b7a889e1d1da58435946300eb88e358e6f350a8692041d2584391d",
+      "native_bytes": 3434780,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindswept03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindswept03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1634,
+      "scene_triangles": 1634,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -3.036085844039917,
+          -1.6870678663253784,
+          -4.257724761962891
+        ],
+        "max": [
+          15.708338737487793,
+          10.189443588256836,
+          3.984734058380127
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindswept03.glb",
+      "bytes": 3434664,
+      "sha256": "4bcd934d93434fe06607dd1c3e59107bc8aa8e679c4fe68dc24c3f20aca48417",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindswept03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindswept04",
+      "source": {
+        "name": "SM_TreeWindswept04",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindswept04.SM_TreeWindswept04",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindswept04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c5047644c7dabffe34088fea4b6c4c34c6860c7d67ca8214e25502869ea74832",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindswept04 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "84ed1bd78d6e1a8ae9a88aadfe2cd07e98ab2a3ea6005f8471c466404a8ccb7e",
+      "native_bytes": 3047636,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindswept04",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindswept04",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1236,
+      "scene_triangles": 1236,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -1.4457741975784302,
+          -1.7823255062103271,
+          -6.2143144607543945
+        ],
+        "max": [
+          16.566020965576172,
+          6.40593957901001,
+          3.352796792984009
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindswept04.glb",
+      "bytes": 3047520,
+      "sha256": "97c89998ac9f2d98658859f1736340d564961f144aa2d8c4caa7e60b077d7286",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindswept04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptB01",
+      "source": {
+        "name": "SM_TreeWindsweptB01",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptB01.SM_TreeWindsweptB01",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptB01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "70e7c2dcb1005f45d652547228dbda54cb47393b79ce918e56b99f9db4abff13",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindsweptB01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "546a28fee6d9c93825e63d27885dd25d3cd43ac08c46bd55f7a6b1616f0362a7",
+      "native_bytes": 3602844,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindsweptB01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindsweptB01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 646,
+      "scene_triangles": 646,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -2.9339513778686523,
+          -1.485018253326416,
+          -1.9599498510360718
+        ],
+        "max": [
+          7.327513694763184,
+          6.787933349609375,
+          2.2647202014923096
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptB01.glb",
+      "bytes": 3602728,
+      "sha256": "e4cd312b38f999afea4122b4438771182354b598200c41d9b5aa161b89c2847a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindsweptB01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptB02",
+      "source": {
+        "name": "SM_TreeWindsweptB02",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptB02.SM_TreeWindsweptB02",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptB02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2c6a4f2d4042e46936634c5aec2ead0fade84c2dcde2d3377065e93d0d2f8469",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindsweptB02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "7b4b466317b925ee5041f249469621728e077d90605206d88bb515c276024cba",
+      "native_bytes": 4022220,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindsweptB02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindsweptB02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1058,
+      "scene_triangles": 1058,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -0.8670421242713928,
+          -1.975253701210022,
+          -3.34708309173584
+        ],
+        "max": [
+          8.375707626342773,
+          9.464064598083496,
+          3.719449281692505
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptB02.glb",
+      "bytes": 4022100,
+      "sha256": "5595958cc214f719602e0973ce5c755164c82d43b4eb78527e8efeb184c9fc9a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindsweptB02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptB03",
+      "source": {
+        "name": "SM_TreeWindsweptB03",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptB03.SM_TreeWindsweptB03",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptB03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8409f112178dc7099f4be6ee689ec62f07c857cfd6be7277a9d0a0e757723f89",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindsweptB03 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ed3f26e17ec3f7c3bd2eef6f46c2f7c641246e7364a2e2da20f6c437e69c9475",
+      "native_bytes": 4336660,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindsweptB03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindsweptB03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1480,
+      "scene_triangles": 1480,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -3.036085844039917,
+          -1.6870678663253784,
+          -3.9221746921539307
+        ],
+        "max": [
+          15.127001762390137,
+          9.975873947143555,
+          3.984734058380127
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptB03.glb",
+      "bytes": 4336544,
+      "sha256": "b216b512fc4bf5f8f991980a4572966b344690e76487fa0d42028810251a7c1c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindsweptB03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptB04",
+      "source": {
+        "name": "SM_TreeWindsweptB04",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptB04.SM_TreeWindsweptB04",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptB04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "55b3e60a27cf717d324b30e92f1ef2b3efa449f9dd0eb228a71503646b680e3b",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindsweptB04 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ba7ce125e06870540f8c1bcee1f3fb339b3703e09eb235b625a989fea282bf1b",
+      "native_bytes": 3849116,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindsweptB04",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindsweptB04",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1140,
+      "scene_triangles": 1140,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -1.4457741975784302,
+          -1.7823255062103271,
+          -6.165895938873291
+        ],
+        "max": [
+          16.50062370300293,
+          6.320093154907227,
+          3.352796792984009
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptB04.glb",
+      "bytes": 3848996,
+      "sha256": "993872e92db408deace0d0306c5cf7a62fcaac9915673e4d93db9163893b5450",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindsweptB04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptSapling01",
+      "source": {
+        "name": "SM_TreeWindsweptSapling01",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptSapling01.SM_TreeWindsweptSapling01",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptSapling01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "246993dd727b8fe4e1eed0a61d87610c0367ab7c81e1517f6a872857542696c7",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindsweptSapling01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f5c0227fd91db42132d305a3681d828d88ad360f43050d3929db09ab87556f55",
+      "native_bytes": 3802380,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindsweptSapling01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindsweptSapling01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 418,
+      "scene_triangles": 418,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -0.5413756966590881,
+          -0.853747546672821,
+          -0.9288001656532288
+        ],
+        "max": [
+          1.924990177154541,
+          3.8718056678771973,
+          1.0285589694976807
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptSapling01.glb",
+      "bytes": 3802260,
+      "sha256": "eb792f7e353c09261401883f99d84198aedc6a913e993678f10f99f9ff92db11",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindsweptSapling01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptSapling02",
+      "source": {
+        "name": "SM_TreeWindsweptSapling02",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptSapling02.SM_TreeWindsweptSapling02",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptSapling02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5761ffff54215ed53f4550068f61c1a23bdfdb685d1116a65f89ee6ddfe7ff02",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindsweptSapling02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "594b1ab6062d96bf81ca45dd75ee51ad6c15f039fb84cb9bca722b466ea72486",
+      "native_bytes": 3710820,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindsweptSapling02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindsweptSapling02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 990,
+      "scene_triangles": 990,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -1.5863572359085083,
+          -1.525886058807373,
+          -1.7940940856933594
+        ],
+        "max": [
+          6.079306602478027,
+          5.681697368621826,
+          1.5360392332077026
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptSapling02.glb",
+      "bytes": 3710704,
+      "sha256": "44617ba0c892623c79757f27801213e25289079a3d310b7a5e8bcb0ff9e8bd21",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindsweptSapling02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptSaplingB01",
+      "source": {
+        "name": "SM_TreeWindsweptSaplingB01",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptSaplingB01.SM_TreeWindsweptSaplingB01",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptSaplingB01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e0df5aba64404d4b01eadb1e8728b275b8e057e4025087be6661784b036c6cb6",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindsweptSaplingB01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5ed22d7fbe0017fc23aa7743a358cae85d5702330523e9c5cf0d3e9ccab2a680",
+      "native_bytes": 3548592,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindsweptSaplingB01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindsweptSaplingB01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 384,
+      "scene_triangles": 384,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -0.5413756966590881,
+          -0.853747546672821,
+          -0.7099229097366333
+        ],
+        "max": [
+          1.4482437372207642,
+          3.481017589569092,
+          0.9570850729942322
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptSaplingB01.glb",
+      "bytes": 3548476,
+      "sha256": "9eb50d18dd666220f5be18e09e0773a9eefe09d6282776a502d1b14011c609d8",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindsweptSaplingB01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptSaplingB02",
+      "source": {
+        "name": "SM_TreeWindsweptSaplingB02",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptSaplingB02.SM_TreeWindsweptSaplingB02",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_TreeWindsweptSaplingB02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "73b78a5822fa5b78ecf35a9730eab8500a79aeb766f23507f0893d9a5f8fbd67",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TreeWindsweptSaplingB02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_WindsweptLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_WindsweptBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptBark.MI_WindsweptBark"
+        },
+        {
+          "slot": "MI_WindsweptLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_WindsweptLeaves.MI_WindsweptLeaves"
+        },
+        {
+          "slot": "MI_WindsweptBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptBark_LOD1.MI_WindsweptBark_LOD1"
+        },
+        {
+          "slot": "MI_WindsweptLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_WindsweptLeaves_LOD1.MI_WindsweptLeaves_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f581a6340284f3d84d4b4de466aa8406210b81c41e8ad2ab64ea93361dac4f97",
+      "native_bytes": 4052196,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindsweptBark_SM_TreeWindsweptSaplingB02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WindsweptLeaves_SM_TreeWindsweptSaplingB02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 966,
+      "scene_triangles": 966,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -1.5863571166992188,
+          -1.525886058807373,
+          -1.1630839109420776
+        ],
+        "max": [
+          6.019008636474609,
+          5.653277397155762,
+          1.311248779296875
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptSaplingB02.glb",
+      "bytes": 4052076,
+      "sha256": "720f1b753709c44d300d03aa25827d6ac50006406bb75f78d8b10c8f892d870c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_TreeWindsweptSaplingB02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirBranch1",
+      "source": {
+        "name": "SM_FirBranch1",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirBranch1.SM_FirBranch1",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirBranch1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3c49aae60459c2d49531c49c8f0143ce81b4b40de7e18e672b162ac93d906a20",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_FirLeaves_Dry, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBarkMisc.MI_FirBarkMisc"
+        },
+        {
+          "slot": "M_FirLeaves_Dry",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirLeaves_Dry.MI_FirLeaves_Dry"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0d864e68506c17a225db8d65a70caca80b4c49c485849c5e0e5e28611ded19d9",
+      "native_bytes": 1897388,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBarkMisc_SM_FirBranch1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_FirLeaves_Dry_SM_FirBranch1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 172,
+      "scene_triangles": 172,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -0.9836293458938599,
+          -0.6292442679405212,
+          -1.616097331047058
+        ],
+        "max": [
+          1.068660020828247,
+          0.8847289085388184,
+          1.3635790348052979
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirBranch1.glb",
+      "bytes": 1897268,
+      "sha256": "4dacd0b4284dd91d4f4dfaf2933464e565ec385a0b1cf10b6be1480042cf7d6f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirBranch1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirBranch2",
+      "source": {
+        "name": "SM_FirBranch2",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirBranch2.SM_FirBranch2",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirBranch2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "90846b724fdbae6e0c3da811761f3af5314027c20fbdfeb11902e898683487e5",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_FirLeaves_Dry, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBarkMisc.MI_FirBarkMisc"
+        },
+        {
+          "slot": "M_FirLeaves_Dry",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirLeaves_Dry.MI_FirLeaves_Dry"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "cbc85faab94e340d150288937c7218f69a60068293d776ed7b12c7b7497a4d2c",
+      "native_bytes": 2584832,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBarkMisc_SM_FirBranch2",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_FirLeaves_Dry_SM_FirBranch2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 122,
+      "scene_triangles": 122,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -0.6533941626548767,
+          -0.1408531665802002,
+          -1.450217843055725
+        ],
+        "max": [
+          0.9917101860046387,
+          0.39321666955947876,
+          1.2701960802078247
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirBranch2.glb",
+      "bytes": 2584716,
+      "sha256": "a5bdb09000befc3b4e5e746a2f1040927562038cebb78ceefb4c631a9daa1c6a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirBranch2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirFallen1",
+      "source": {
+        "name": "SM_FirFallen1",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirFallen1.SM_FirFallen1",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirFallen1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0e6db1a4f579a19b3718089f95bd40e5890500e1e9721328c7e2b4d321430945",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBarkMisc.MI_FirBarkMisc"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "684acbd8be0bc9514cbac0f93b794d82680e3963ea4cfe14c199e60a5fa453bc",
+      "native_bytes": 2715708,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBarkMisc_SM_FirFallen1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 705,
+      "scene_triangles": 705,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.9087689518928528,
+          -0.07340541481971741,
+          -4.67423152923584
+        ],
+        "max": [
+          0.9472773671150208,
+          1.213620662689209,
+          5.243182182312012
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirFallen1.glb",
+      "bytes": 2715652,
+      "sha256": "9f27ea1cfd3139cdee113b703c04ee6e52e1bd842c73303ce7e196a954f41bb9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirFallen1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirFallen2",
+      "source": {
+        "name": "SM_FirFallen2",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirFallen2.SM_FirFallen2",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirFallen2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d09848223f2daf651f5030c7181a1d7cf6c1b176cd61f579c8aeb394eb779e87",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBarkMisc.MI_FirBarkMisc"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b7c276dacc673e4c8b3211131bb35dc18a2b6681a781bf09c80afc4b1c06e1ac",
+      "native_bytes": 3406904,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBarkMisc_SM_FirFallen2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1249,
+      "scene_triangles": 1249,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.0949273109436035,
+          -0.7108335494995117,
+          -0.6552972197532654
+        ],
+        "max": [
+          0.8509927988052368,
+          4.54721212387085,
+          9.27876091003418
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirFallen2.glb",
+      "bytes": 3406848,
+      "sha256": "69047167b8e61f7afd4ef3411b6dd47e83c58974de5176b9b118320c636cc32d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirFallen2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2338 @@
+{
+  "schema_version": 1,
+  "category": "Trees",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_OakStump1_SnowCover",
+      "source": {
+        "name": "SM_OakStump1_SnowCover",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakStump1_SnowCover.SM_OakStump1_SnowCover",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakStump1_SnowCover",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0c11297fb8951edd9382ba5e401cec839a702dc8561b3c0246fd710922d816a3",
+      "engine_log_warnings": [
+        "Material MI_Snow uses mesh data from SM_OakStump1_SnowCover but the lightmap UVs (channel 1) are nearly 100% degenerate (in mesh section 1). Simple baking will be used as fallback"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_OakBarkMisc_Snow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBarkMisc_Snow.MI_OakBarkMisc_Snow"
+        },
+        {
+          "slot": "MI_Snow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Snow.MI_Snow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "3a15121424db11f9bff87a34826e9db82e97224474f6cc8c85c297bd1af1fe71",
+      "native_bytes": 2724252,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBarkMisc_Snow_SM_OakStump1_SnowCover",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_Snow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1832,
+      "scene_triangles": 1832,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 8,
+      "bounds": {
+        "min": [
+          -2.1937947273254395,
+          -1.0036369562149048,
+          -1.2534708976745605
+        ],
+        "max": [
+          1.256190538406372,
+          2.705493688583374,
+          1.4350630044937134
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakStump1_SnowCover.glb",
+      "bytes": 2724228,
+      "sha256": "fd7299470f6e93955208daaccc79373dee7b4f3d9b9a0393e2d5aa94d213d384",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakStump1_SnowCover.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTree1",
+      "source": {
+        "name": "SM_OakTree1",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTree1.SM_OakTree1",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTree1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6b6bac7c7a4f96f4a5850fbabf6769ae7ed2271ea5912f62bd17bd764e53a62e",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_OakTree1 (section ), this may not be supported on some glTF viewers",
+        "Material MI_OakBark is baked using mesh data from SM_OakTree1 but the lightmap UV (channel 2) are overlapping by 98.25% (in mesh section 1) and may produce incorrect results",
+        "Unsupported shading model (Subsurface) in material MI_OakLeaves, will export as Default Lit",
+        "Material MI_OakLeaves is baked using mesh data from SM_OakTree1 but the lightmap UV (channel 2) are overlapping by 90.98% (in mesh section 0) and may produce incorrect results"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        },
+        {
+          "slot": "MI_OakLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakLeaves.MI_OakLeaves"
+        },
+        {
+          "slot": "MI_OakBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakBark_LOD1.MI_OakBark_LOD1"
+        },
+        {
+          "slot": "MI_OakLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakLeaves_LOD1.MI_OakLeaves_LOD1"
+        },
+        {
+          "slot": "MI_OakTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakTree_SingleMat.MI_OakTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6be6ff022d22990caabb7a2eb572a8ac3600be98e9c943bf47c6df0e659c6775",
+      "native_bytes": 2176644,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark_SM_OakTree1",
+            "source_uvs": [
+              2
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_OakLeaves_SM_OakTree1",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 4083,
+      "scene_triangles": 4083,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -5.794405937194824,
+          -0.21307894587516785,
+          -9.223878860473633
+        ],
+        "max": [
+          7.427351474761963,
+          14.666276931762695,
+          4.71845006942749
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakTree1.glb",
+      "bytes": 2176528,
+      "sha256": "0144d4f7841a6c20c05bb946f9adac2b334f3eebea6e8705d99e01fa44235c1e",
+      "material_readiness": {
+        "status": "requires_material_repair",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Additional Blender CPU view shows large near-black canopy/card regions; cause not isolated. See previews/oak-contact-sheet.png.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTree1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTree2",
+      "source": {
+        "name": "SM_OakTree2",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTree2.SM_OakTree2",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTree2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "79c0d851974c5bc2e83c5cf2c70266c5d656ff22fdc4361817e1a790bd135105",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_OakTree2 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_OakLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        },
+        {
+          "slot": "MI_OakLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakLeaves.MI_OakLeaves"
+        },
+        {
+          "slot": "MI_OakLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakLeaves_LOD1.MI_OakLeaves_LOD1"
+        },
+        {
+          "slot": "MI_OakBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakBark_LOD1.MI_OakBark_LOD1"
+        },
+        {
+          "slot": "MI_OakTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakTree_SingleMat.MI_OakTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "670937038084b34c73f46116ceeb0daa8b1458f423a58f129e599333ee200325",
+      "native_bytes": 1018760,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark_SM_OakTree2",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_OakLeaves_SM_OakTree2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3258,
+      "scene_triangles": 3258,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -4.6387224197387695,
+          -0.5766707062721252,
+          -4.2740302085876465
+        ],
+        "max": [
+          5.340550899505615,
+          14.03260326385498,
+          4.257532119750977
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakTree2.glb",
+      "bytes": 1018640,
+      "sha256": "6a128169c27d97782f34f28f445e2dc12fd7b4b63d3c2837a5ecd05d951fc0de",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTree2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTree3",
+      "source": {
+        "name": "SM_OakTree3",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTree3.SM_OakTree3",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTree3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f515567556de3cbb44f95a25a4eda1d4b296499e38854bfc4d01c407e38cdd95",
+      "engine_log_warnings": [
+        "Material MI_OakBark uses mesh data from SM_OakTree3 but the lightmap UVs (channel 2) are nearly 100% degenerate (in mesh section 1). Simple baking will be used as fallback",
+        "Maximum value (-1) used in indices accessor for mesh SM_OakTree3 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_OakLeaves, will export as Default Lit",
+        "Material MI_OakLeaves is baked using mesh data from SM_OakTree3 but the lightmap UV (channel 2) are overlapping by 87.28% (in mesh section 0) and may produce incorrect results"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        },
+        {
+          "slot": "MI_OakLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakLeaves.MI_OakLeaves"
+        },
+        {
+          "slot": "MI_OakBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakBark_LOD1.MI_OakBark_LOD1"
+        },
+        {
+          "slot": "MI_OakLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakLeaves_LOD1.MI_OakLeaves_LOD1"
+        },
+        {
+          "slot": "MI_OakTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakTree_SingleMat.MI_OakTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0799df52174ba08c1b7448865a1b6ee347870c628577fa896c68ab38f48ef02d",
+      "native_bytes": 3530084,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark",
+            "source_uvs": [
+              0
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_OakLeaves_SM_OakTree3",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 4430,
+      "scene_triangles": 4430,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -5.678059101104736,
+          -0.8819047212600708,
+          -7.655237674713135
+        ],
+        "max": [
+          6.850908279418945,
+          17.05953025817871,
+          6.709977149963379
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakTree3.glb",
+      "bytes": 3530024,
+      "sha256": "da672a436a7cee58045b1b49c27109bf3eb1bd9550633c5149845d68508b8d09",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTree3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTree4",
+      "source": {
+        "name": "SM_OakTree4",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTree4.SM_OakTree4",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTree4",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1e0faf0f7ee65c11ab2b599264fb379aadf671a658e38edbd5f6473e80624715",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_OakTree4 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_OakLeaves, will export as Default Lit",
+        "Material MI_OakLeaves is baked using mesh data from SM_OakTree4 but the lightmap UV (channel 2) are overlapping by 89.96% (in mesh section 1) and may produce incorrect results"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        },
+        {
+          "slot": "MI_OakLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakLeaves.MI_OakLeaves"
+        },
+        {
+          "slot": "MI_OakBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakBark_LOD1.MI_OakBark_LOD1"
+        },
+        {
+          "slot": "MI_OakLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakLeaves_LOD1.MI_OakLeaves_LOD1"
+        },
+        {
+          "slot": "MI_OakTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakTree_SingleMat.MI_OakTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "628d16e7ea678ae3052b48114c5e531a8455a461260275bb5fe631a87670fec1",
+      "native_bytes": 1403432,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark_SM_OakTree4",
+            "source_uvs": [
+              2
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_OakLeaves_SM_OakTree4",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2852,
+      "scene_triangles": 2852,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -6.288315296173096,
+          -0.4822756350040436,
+          -6.371353626251221
+        ],
+        "max": [
+          7.0208420753479,
+          14.148637771606445,
+          6.781291484832764
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakTree4.glb",
+      "bytes": 1403312,
+      "sha256": "3a915403c03892e758adc420c765f295d5e4c07ecadc2043324e6640ff5cf590",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTree4.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTreeLarge1",
+      "source": {
+        "name": "SM_OakTreeLarge1",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTreeLarge1.SM_OakTreeLarge1",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTreeLarge1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9fbc628e109045c60714cb0da3bfd77ad9d7b567f9531b1bef9e29ddbc0abc6d",
+      "engine_log_warnings": [
+        "Material MI_OakBark uses mesh data from SM_OakTreeLarge1 but the lightmap UVs (channel 2) are nearly 100% degenerate (in mesh section 0). Simple baking will be used as fallback",
+        "Maximum value (-1) used in indices accessor for mesh SM_OakTreeLarge1 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_OakLeaves, will export as Default Lit",
+        "Material MI_OakLeaves is baked using mesh data from SM_OakTreeLarge1 but the lightmap UV (channel 2) are overlapping by 92.37% (in mesh section 1) and may produce incorrect results"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        },
+        {
+          "slot": "MI_OakLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakLeaves.MI_OakLeaves"
+        },
+        {
+          "slot": "MI_OakBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakBark_LOD1.MI_OakBark_LOD1"
+        },
+        {
+          "slot": "MI_OakLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakLeaves_LOD1.MI_OakLeaves_LOD1"
+        },
+        {
+          "slot": "MI_OakTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakTree_SingleMat.MI_OakTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "52b6aff5501d3aaabaf0fcf9ee97b7186ca2eeb0cf522f0afe8d518c9d940e47",
+      "native_bytes": 3995560,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark",
+            "source_uvs": [
+              0
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_OakLeaves_SM_OakTreeLarge1",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 9719,
+      "scene_triangles": 9719,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -13.52337646484375,
+          -1.4518754482269287,
+          -12.622453689575195
+        ],
+        "max": [
+          15.867083549499512,
+          31.514328002929688,
+          14.246027946472168
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakTreeLarge1.glb",
+      "bytes": 3995496,
+      "sha256": "7a5c9c0bee3e5a17fc3aa03af1132c1238be59c11d07bafeb0d3c5efda069baf",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTreeLarge1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTreeLarge2",
+      "source": {
+        "name": "SM_OakTreeLarge2",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTreeLarge2.SM_OakTreeLarge2",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTreeLarge2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "dc7a0f37a1d5993e3c3e56e3a80dba67ce3d26c54b8c34c41c2ee1b49f84b912",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_OakTreeLarge2 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_OakLeaves, will export as Default Lit",
+        "Material MI_OakLeaves is baked using mesh data from SM_OakTreeLarge2 but the lightmap UV (channel 2) are overlapping by 90.22% (in mesh section 1) and may produce incorrect results"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        },
+        {
+          "slot": "MI_OakLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakLeaves.MI_OakLeaves"
+        },
+        {
+          "slot": "MI_OakBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakBark_LOD1.MI_OakBark_LOD1"
+        },
+        {
+          "slot": "MI_OakLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakLeaves_LOD1.MI_OakLeaves_LOD1"
+        },
+        {
+          "slot": "MI_OakTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakTree_SingleMat.MI_OakTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "920e56949abbc794cfd879b3e88628230bbfcf338d993c0e1a06883be0572006",
+      "native_bytes": 2507900,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark_SM_OakTreeLarge2",
+            "source_uvs": [
+              2
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_OakLeaves_SM_OakTreeLarge2",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 4138,
+      "scene_triangles": 4138,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -10.84028434753418,
+          -0.9610112309455872,
+          -8.046164512634277
+        ],
+        "max": [
+          13.057680130004883,
+          27.781965255737305,
+          11.501973152160645
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakTreeLarge2.glb",
+      "bytes": 2507780,
+      "sha256": "c42deeb40b350d6ef2e2962dfce0e3315892bd7fbcc036ffff94dd524a3c8010",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTreeLarge2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTreeLarge3",
+      "source": {
+        "name": "SM_OakTreeLarge3",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTreeLarge3.SM_OakTreeLarge3",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakTreeLarge3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b5f7f6907320d899d6bb3ab5097ce48d09b7b6c6a0cb7462391af4f13a195d7e",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_OakTreeLarge3 (section ), this may not be supported on some glTF viewers",
+        "Material MI_OakBark is baked using mesh data from SM_OakTreeLarge3 but the lightmap UV (channel 2) are overlapping by 27.01% (in mesh section 0) and may produce incorrect results",
+        "Unsupported shading model (Subsurface) in material MI_OakLeaves, will export as Default Lit",
+        "Material MI_OakLeaves is baked using mesh data from SM_OakTreeLarge3 but the lightmap UV (channel 2) are overlapping by 91.03% (in mesh section 1) and may produce incorrect results"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        },
+        {
+          "slot": "MI_OakLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakLeaves.MI_OakLeaves"
+        },
+        {
+          "slot": "MI_OakBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakBark_LOD1.MI_OakBark_LOD1"
+        },
+        {
+          "slot": "MI_OakLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakLeaves_LOD1.MI_OakLeaves_LOD1"
+        },
+        {
+          "slot": "MI_OakTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakTree_SingleMat.MI_OakTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "761b52fb928097ddaf746f67d391b35b8085e23cb469101f2cf05d619ffdcc50",
+      "native_bytes": 2692296,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark_SM_OakTreeLarge3",
+            "source_uvs": [
+              2
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_OakLeaves_SM_OakTreeLarge3",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 5130,
+      "scene_triangles": 5130,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -16.004268646240234,
+          -1.0967830419540405,
+          -13.12639045715332
+        ],
+        "max": [
+          17.04176139831543,
+          33.4665641784668,
+          13.979616165161133
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakTreeLarge3.glb",
+      "bytes": 2692180,
+      "sha256": "1f7ed80997679a1ed0b74beed3d128507c0b153bc45ad64720fbe938b57d38ca",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakTreeLarge3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Pine01",
+      "source": {
+        "name": "SM_Pine01",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_Pine01.SM_Pine01",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_Pine01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "390f89d655a4c9bbdc83a64b914e7de891b54276b1b19176606907630b0e8c1c",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Pine01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_PineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBark.MI_PineBark"
+        },
+        {
+          "slot": "MI_PineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineLeaves.MI_PineLeaves"
+        },
+        {
+          "slot": "MI_PineBark_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineBark_LOD.MI_PineBark_LOD"
+        },
+        {
+          "slot": "MI_PineLeaves_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineLeaves_LOD.MI_PineLeaves_LOD"
+        },
+        {
+          "slot": "MI_PineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineTree_SingleMat.MI_PineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1eddffa70f7cdf23479cbf037bb387b6ef605f0dd3f497c86b631c10326ff1ff",
+      "native_bytes": 1879240,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBark_SM_Pine01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PineLeaves_SM_Pine01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2324,
+      "scene_triangles": 2324,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -4.326697826385498,
+          -0.5579452514648438,
+          -4.057811260223389
+        ],
+        "max": [
+          3.8944151401519775,
+          15.290205955505371,
+          4.376651763916016
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_Pine01.glb",
+      "bytes": 1879120,
+      "sha256": "becef1a0267eb0a29cb03ce2b73d9d731325cba18d3792e76011d3a4079e53bd",
+      "material_readiness": {
+        "status": "representative_static_pbr_preview",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "preview_scope": "Selected native GLB in Blender CPU; not runtime or whole-family acceptance."
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_Pine01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      },
+      "direct_sample_url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/samples/SM_Pine01.glb",
+      "direct_sample": {
+        "path": "samples/SM_Pine01.glb",
+        "bytes": 1879120,
+        "sha256": "becef1a0267eb0a29cb03ce2b73d9d731325cba18d3792e76011d3a4079e53bd",
+        "url_status": "planned_repository_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Pine02",
+      "source": {
+        "name": "SM_Pine02",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_Pine02.SM_Pine02",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_Pine02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9565b56d557204c02cbfd646e05b51e46cf1d53287c9492d1135636f171ae01e",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Pine02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_PineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBark.MI_PineBark"
+        },
+        {
+          "slot": "MI_PineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineLeaves.MI_PineLeaves"
+        },
+        {
+          "slot": "MI_PineBark_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineBark_LOD.MI_PineBark_LOD"
+        },
+        {
+          "slot": "MI_PineLeaves_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineLeaves_LOD.MI_PineLeaves_LOD"
+        },
+        {
+          "slot": "MI_PineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineTree_SingleMat.MI_PineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "200b4e38202446980dd6c42108ebc0e6a6673d1dfaff0a1afabe29b432e835e4",
+      "native_bytes": 2085596,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBark_SM_Pine02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PineLeaves_SM_Pine02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2970,
+      "scene_triangles": 2970,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -4.997069358825684,
+          -1.1405229568481445,
+          -4.731878757476807
+        ],
+        "max": [
+          4.730237007141113,
+          17.146329879760742,
+          4.2333221435546875
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_Pine02.glb",
+      "bytes": 2085480,
+      "sha256": "d8b6563bd85a02662c9434d4adc31d5a27b951ee43fedbe4d6561a0cf25ac95e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_Pine02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Pine03",
+      "source": {
+        "name": "SM_Pine03",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_Pine03.SM_Pine03",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_Pine03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c329cbb39c638cb16a16444d610ac0fa5a637109abee172410b5d8197c90b416",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Pine03 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_PineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBark.MI_PineBark"
+        },
+        {
+          "slot": "MI_PineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineLeaves.MI_PineLeaves"
+        },
+        {
+          "slot": "MI_PineBark_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineBark_LOD.MI_PineBark_LOD"
+        },
+        {
+          "slot": "MI_PineLeaves_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineLeaves_LOD.MI_PineLeaves_LOD"
+        },
+        {
+          "slot": "MI_PineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineTree_SingleMat.MI_PineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "531f9fc3cbe4aacf6ce7b336369ef5f5b2530e90e5f109ebcab5590815cefa6b",
+      "native_bytes": 2094556,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBark_SM_Pine03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PineLeaves_SM_Pine03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3591,
+      "scene_triangles": 3591,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -4.8427228927612305,
+          -0.6397389769554138,
+          -4.922099590301514
+        ],
+        "max": [
+          5.138571739196777,
+          18.881616592407227,
+          6.107853412628174
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_Pine03.glb",
+      "bytes": 2094440,
+      "sha256": "80481c9398cfe84fb14127d459c61580929f1939614d59fa524c99b99e3a4434",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_Pine03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineDead01",
+      "source": {
+        "name": "SM_PineDead01",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_PineDead01.SM_PineDead01",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_PineDead01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "132bdb071cc5f1616f35eb6f9d4fca1cf464f254fdaddc8d6b972a0934bd8062",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_PineDead01 (section ), this may not be supported on some glTF viewers"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBark.MI_PineBark"
+        },
+        {
+          "slot": "MI_PineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineTree_SingleMat.MI_PineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f9a1c47780b876007320314d588da0a2c7cc223061736d758feafa7a0330af14",
+      "native_bytes": 3470720,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBark_SM_PineDead01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2472,
+      "scene_triangles": 2472,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -4.234708309173584,
+          -0.5579453706741333,
+          -3.9168858528137207
+        ],
+        "max": [
+          4.1701340675354,
+          15.472492218017578,
+          3.2426397800445557
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_PineDead01.glb",
+      "bytes": 3470696,
+      "sha256": "b3ac867553956443a218ad828f1efdc8e9c0fdf4043b3d66404f8ee2522d5b68",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineDead01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineDead02",
+      "source": {
+        "name": "SM_PineDead02",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_PineDead02.SM_PineDead02",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_PineDead02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "86883673533e016088af80c8f9a5ecb53292475c2f8b61bb8a150d295a15c3f8",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_PineDead02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_PineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBark.MI_PineBark"
+        },
+        {
+          "slot": "MI_PineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineLeaves.MI_PineLeaves"
+        },
+        {
+          "slot": "MI_PineBark_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineBark_LOD.MI_PineBark_LOD"
+        },
+        {
+          "slot": "MI_PineLeaves_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineLeaves_LOD.MI_PineLeaves_LOD"
+        },
+        {
+          "slot": "MI_PineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineTree_SingleMat.MI_PineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "95b5afae09c545dbdb4ca416748ff3fe07359fc2f8da010886baca27c82e0c9d",
+      "native_bytes": 2260468,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBark_SM_PineDead02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PineLeaves_SM_PineDead02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2280,
+      "scene_triangles": 2280,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -3.9447829723358154,
+          -0.6405229568481445,
+          -3.7448794841766357
+        ],
+        "max": [
+          3.6578643321990967,
+          11.630552291870117,
+          2.966118335723877
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_PineDead02.glb",
+      "bytes": 2260348,
+      "sha256": "3492246a5495c0a148300a59dcbf85689f7e37bbc2d312252f7792508b5752f1",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineDead02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineDead03",
+      "source": {
+        "name": "SM_PineDead03",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_PineDead03.SM_PineDead03",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_PineDead03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "18798532433432554a7e03c3eee6b7af47a04136db089f39de17d3a178b282b8",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_PineDead03 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_PineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBark.MI_PineBark"
+        },
+        {
+          "slot": "MI_PineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineLeaves.MI_PineLeaves"
+        },
+        {
+          "slot": "MI_PineBark_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineBark_LOD.MI_PineBark_LOD"
+        },
+        {
+          "slot": "MI_PineLeaves_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineLeaves_LOD.MI_PineLeaves_LOD"
+        },
+        {
+          "slot": "MI_PineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineTree_SingleMat.MI_PineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "3b868f5089dc3fb3b2444991d8f4c9c958a80dcf1077a724e4322a8db6c50d30",
+      "native_bytes": 3389096,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBark_SM_PineDead03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PineLeaves_SM_PineDead03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2925,
+      "scene_triangles": 2925,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -4.1034698486328125,
+          -0.6936367154121399,
+          -4.0423126220703125
+        ],
+        "max": [
+          3.2406883239746094,
+          18.41807746887207,
+          4.8255815505981445
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_PineDead03.glb",
+      "bytes": 3388980,
+      "sha256": "ed33348979a0fd7ee5015961dc7a1d6bba5221695f72dae3bb2e0b5eae48f965",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineDead03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineFallen1_SnowCover",
+      "source": {
+        "name": "SM_PineFallen1_SnowCover",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_PineFallen1_SnowCover.SM_PineFallen1_SnowCover",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_PineFallen1_SnowCover",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "635eec1432b79150285e50f243ea16629927edc14aa70fc50aeee27bd49b2c40",
+      "engine_log_warnings": [
+        "Material MI_Snow uses mesh data from SM_PineFallen1_SnowCover but the lightmap UVs (channel 3) are nearly 100% degenerate (in mesh section 1). Simple baking will be used as fallback"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBarkMisc_Snow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBarkMisc_Snow.MI_PineBarkMisc_Snow"
+        },
+        {
+          "slot": "MI_Snow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Snow.MI_Snow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "31995987c0418d5601e66cd1d8e8eaa86f25675ece96ebde7283ef357b6cd364",
+      "native_bytes": 2570684,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBarkMisc_Snow_SM_PineFallen1_SnowCover",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_Snow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1733,
+      "scene_triangles": 1733,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 8,
+      "bounds": {
+        "min": [
+          -0.9978446960449219,
+          -0.48101237416267395,
+          -4.700952529907227
+        ],
+        "max": [
+          1.086774468421936,
+          1.3804113864898682,
+          5.282264709472656
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_PineFallen1_SnowCover.glb",
+      "bytes": 2570628,
+      "sha256": "d2e3c1f6225160ec08376dd79f4e620daf1c6287d4bf1ee6ae094f85267abcae",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineFallen1_SnowCover.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineFallen2_SnowCover",
+      "source": {
+        "name": "SM_PineFallen2_SnowCover",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_PineFallen2_SnowCover.SM_PineFallen2_SnowCover",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_PineFallen2_SnowCover",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "93750e633cceae6adbcb0cee09d6277728fafaea11212f2444ff56b46a848e36",
+      "engine_log_warnings": [
+        "Material MI_Snow uses mesh data from SM_PineFallen2_SnowCover but the lightmap UVs (channel 3) are nearly 100% degenerate (in mesh section 1). Simple baking will be used as fallback"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBarkMisc_Snow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBarkMisc_Snow.MI_PineBarkMisc_Snow"
+        },
+        {
+          "slot": "MI_Snow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Snow.MI_Snow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "8bd37bba7f2aa95dd9c9675b45c76b71d9cb525abbc362d7ade2e9bb43a9ef46",
+      "native_bytes": 3039844,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBarkMisc_Snow_SM_PineFallen2_SnowCover",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_Snow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1829,
+      "scene_triangles": 1829,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 8,
+      "bounds": {
+        "min": [
+          -1.0949287414550781,
+          -0.7822188138961792,
+          -0.9854344725608826
+        ],
+        "max": [
+          1.1073737144470215,
+          4.54721212387085,
+          9.368457794189453
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_PineFallen2_SnowCover.glb",
+      "bytes": 3039788,
+      "sha256": "3f93c09a1cacad12e1513ab626fd3db7c3dd1d153a9dde9d04b9e7b701a70864",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineFallen2_SnowCover.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineLeafySnow01",
+      "source": {
+        "name": "SM_PineLeafySnow01",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_PineLeafySnow01.SM_PineLeafySnow01",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_PineLeafySnow01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "dee0a4fb2bd9bddf7f6e906c02ad1e5fbe05b2272f624b9a9803c8384298fd23",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_PineLeafySnow01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_PineLeafyLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBark_Snow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBark_Snow.MI_PineBark_Snow"
+        },
+        {
+          "slot": "MI_PineLeafyLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineLeafyLeaves.MI_PineLeafyLeaves"
+        },
+        {
+          "slot": "MI_PineLeafyLeaves_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineLeafyLeaves_LOD.MI_PineLeafyLeaves_LOD"
+        },
+        {
+          "slot": "MI_PineBark_Snow_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineBark_Snow_LOD.MI_PineBark_Snow_LOD"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "fc3066089e09939defc1d5399f45f86411c5a09e159579151af54bc1dcccf4e9",
+      "native_bytes": 3463536,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBark_Snow_SM_PineLeafySnow01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PineLeafyLeaves_SM_PineLeafySnow01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 4200,
+      "scene_triangles": 4200,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 8,
+      "bounds": {
+        "min": [
+          -3.673980712890625,
+          -0.7213528752326965,
+          -3.2448906898498535
+        ],
+        "max": [
+          3.0407791137695312,
+          13.657710075378418,
+          2.9810824394226074
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_PineLeafySnow01.glb",
+      "bytes": 3463416,
+      "sha256": "2862d023b1a69067b0048fdac0729999c12f99f244ebc6babd4aed5f8c32061e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineLeafySnow01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineLeafySnow02",
+      "source": {
+        "name": "SM_PineLeafySnow02",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_PineLeafySnow02.SM_PineLeafySnow02",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_PineLeafySnow02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "36ed4f32a32f7e81294d9e147ee97d592c1afc814ec6740f45a1697811f2caba",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_PineLeafySnow02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_PineLeafyLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBark_Snow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBark_Snow.MI_PineBark_Snow"
+        },
+        {
+          "slot": "MI_PineLeafyLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineLeafyLeaves.MI_PineLeafyLeaves"
+        },
+        {
+          "slot": "MI_PineLeafyLeaves_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineLeafyLeaves_LOD.MI_PineLeafyLeaves_LOD"
+        },
+        {
+          "slot": "MI_PineBark_Snow_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineBark_Snow_LOD.MI_PineBark_Snow_LOD"
+        },
+        {
+          "slot": "MI_PineTreeLeafySnow_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineTreeLeafySnow_SingleMat.MI_PineTreeLeafySnow_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "de334ee00d5cf4c22cbaa609ae160e01178b8d5dc73f373b876f996a85cb325a",
+      "native_bytes": 3034772,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBark_Snow_SM_PineLeafySnow02",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PineLeafyLeaves_SM_PineLeafySnow02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3928,
+      "scene_triangles": 3928,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -3.7320938110351562,
+          -1.0515875816345215,
+          -4.038184642791748
+        ],
+        "max": [
+          3.383265256881714,
+          15.498833656311035,
+          3.2011773586273193
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_PineLeafySnow02.glb",
+      "bytes": 3034716,
+      "sha256": "ed0b58d7a588d21e5403fb53781998521deff86472a11f7e249b529431f14579",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineLeafySnow02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineSnowCover01",
+      "source": {
+        "name": "SM_PineSnowCover01",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_PineSnowCover01.SM_PineSnowCover01",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_PineSnowCover01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "826ba4b8b0ee1c10c72afdf298d32f2601b60a52d047bfc495c40b2988c550dc",
+      "engine_log_warnings": [
+        "Material MI_PineSnow uses mesh data from SM_PineSnowCover01 but the lightmap UVs (channel 3) are nearly 100% degenerate (in mesh section 2). Simple baking will be used as fallback",
+        "Maximum value (-1) used in indices accessor for mesh SM_PineSnowCover01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_PineLeaves_Snow, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBark_Snow.MI_PineBark_Snow"
+        },
+        {
+          "slot": "MI_PineLeaves_Snow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineLeaves_Snow.MI_PineLeaves_Snow"
+        },
+        {
+          "slot": "MI_PineSnow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineSnow.MI_PineSnow"
+        },
+        {
+          "slot": "MI_PineBark_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineBark_Snow_LOD.MI_PineBark_Snow_LOD"
+        },
+        {
+          "slot": "MI_PineLeaves_Snow_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineLeaves_Snow_LOD.MI_PineLeaves_Snow_LOD"
+        },
+        {
+          "slot": "MI_PineSnow_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineSnow_LOD.MI_PineSnow_LOD"
+        },
+        {
+          "slot": "MI_PineTree_Snow_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineTree_Snow_SingleMat.MI_PineTree_Snow_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5e9530cca6c3b173c5bb534ba90d09125a1ccbbd8e5f1db1a84d7a4f26fb95c1",
+      "native_bytes": 3851952,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBark_Snow_SM_PineSnowCover01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PineLeaves_Snow_SM_PineSnowCover01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 2,
+            "name": "MI_PineSnow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 5288,
+      "scene_triangles": 5288,
+      "mesh_count": 1,
+      "material_count": 3,
+      "image_count": 12,
+      "bounds": {
+        "min": [
+          -4.326697826385498,
+          -0.5579452514648438,
+          -4.057811260223389
+        ],
+        "max": [
+          3.8944151401519775,
+          15.290205955505371,
+          4.376651763916016
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_PineSnowCover01.glb",
+      "bytes": 3851836,
+      "sha256": "57f6aac57d7a0731a453ff78223a3e4b66aaea9b8ac6b6c4b4b1a9fc01d8bc00",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineSnowCover01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineSnowCover02",
+      "source": {
+        "name": "SM_PineSnowCover02",
+        "path": "/Game/SoStylized/Environment/Trees/Pine/SM_PineSnowCover02.SM_PineSnowCover02",
+        "package": "/Game/SoStylized/Environment/Trees/Pine/SM_PineSnowCover02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Pine",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "12888fdf4174ed565174810a632d8192d347596e039e748f12a0db025a0ab0a2",
+      "engine_log_warnings": [
+        "Material MI_PineSnow uses mesh data from SM_PineSnowCover02 but the lightmap UVs (channel 3) are nearly 100% degenerate (in mesh section 2). Simple baking will be used as fallback",
+        "Maximum value (-1) used in indices accessor for mesh SM_PineSnowCover02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_PineLeaves_Snow, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineBark_Snow.MI_PineBark_Snow"
+        },
+        {
+          "slot": "MI_PineLeaves_Snow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineLeaves_Snow.MI_PineLeaves_Snow"
+        },
+        {
+          "slot": "MI_PineSnow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PineSnow.MI_PineSnow"
+        },
+        {
+          "slot": "MI_PineBark_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineBark_Snow_LOD.MI_PineBark_Snow_LOD"
+        },
+        {
+          "slot": "MI_PineLeaves_Snow_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineLeaves_Snow_LOD.MI_PineLeaves_Snow_LOD"
+        },
+        {
+          "slot": "MI_PineSnow_LOD",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineSnow_LOD.MI_PineSnow_LOD"
+        },
+        {
+          "slot": "MI_PineTree_Snow_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_PineTree_Snow_SingleMat.MI_PineTree_Snow_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "360e44a995783efd92b16499e5162c08d9b85fea8f0351cac6d2e856490f1ed4",
+      "native_bytes": 3793876,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBark_Snow_SM_PineSnowCover02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PineLeaves_Snow_SM_PineSnowCover02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 2,
+            "name": "MI_PineSnow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3642,
+      "scene_triangles": 3642,
+      "mesh_count": 1,
+      "material_count": 3,
+      "image_count": 12,
+      "bounds": {
+        "min": [
+          -3.9447829723358154,
+          -0.6405229568481445,
+          -3.7448794841766357
+        ],
+        "max": [
+          3.6578643321990967,
+          11.630552291870117,
+          2.966118335723877
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Pine/SM_PineSnowCover02.glb",
+      "bytes": 3793760,
+      "sha256": "92eee775ba67fa906234897dd658498b07ee7ed5f3b677f43d6afcdf46738451",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineSnowCover02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

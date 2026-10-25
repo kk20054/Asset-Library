@@ -1,0 +1,2090 @@
+{
+  "schema_version": 1,
+  "category": "Trees",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_FirFallen3",
+      "source": {
+        "name": "SM_FirFallen3",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirFallen3.SM_FirFallen3",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirFallen3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ac44e709dc617f76faa37583d41608b29b86a284ee68f1b95eab0f27891d54ed",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_FirLeaves_Dry, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBarkMisc.MI_FirBarkMisc"
+        },
+        {
+          "slot": "M_FirLeaves_Dry",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirLeaves_Dry.MI_FirLeaves_Dry"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "faafb9f31c86cc8f40e7af79bddebc3ed08d02b652eddd0b9e35ff760ee08b36",
+      "native_bytes": 2537060,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBarkMisc_SM_FirFallen3",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_FirLeaves_Dry_SM_FirFallen3",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1345,
+      "scene_triangles": 1345,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -6.417254447937012,
+          -2.0859391689300537,
+          -9.991933822631836
+        ],
+        "max": [
+          5.684006214141846,
+          3.253267526626587,
+          6.193671226501465
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirFallen3.glb",
+      "bytes": 2536944,
+      "sha256": "c2ff63568a198c1909cfc75eb1a3f260bb01d64f9f6422790d6c76a567c36b92",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirFallen3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirSapling1",
+      "source": {
+        "name": "SM_FirSapling1",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirSapling1.SM_FirSapling1",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirSapling1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "80dc41a54c9e447c502afac9f5d568d701d4b387d0ab9d14899731161d3c2111",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_FirSapling1 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_FirLeaves_Sapling, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBark.MI_FirBark"
+        },
+        {
+          "slot": "M_FirLeaves_Sapling",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirLeaves_Sapling.MI_FirLeaves_Sapling"
+        },
+        {
+          "slot": "M_FirBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirBark_LOD1.MI_FirBark_LOD1"
+        },
+        {
+          "slot": "M_FirLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirLeaves_Sapling_LOD1.MI_FirLeaves_Sapling_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a3028316c887a5f2b88213e5ac37e24e49888006f4408383bc8583b8f3848f63",
+      "native_bytes": 1849844,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBark_SM_FirSapling1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_FirLeaves_Sapling_SM_FirSapling1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 600,
+      "scene_triangles": 600,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.020289182662964,
+          -0.3679924011230469,
+          -2.5016214847564697
+        ],
+        "max": [
+          2.219137191772461,
+          8.12814712524414,
+          2.089986801147461
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirSapling1.glb",
+      "bytes": 1849728,
+      "sha256": "9d2248fd4c8a6112ca000297480a75b35582fb471573e2eea2f803ee31e6c87d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirSapling1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirSapling2",
+      "source": {
+        "name": "SM_FirSapling2",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirSapling2.SM_FirSapling2",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirSapling2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1155bafb3addc9a05499f935ca2dbb9a8fe7611bfacbc6e593a51b0cd8bfc25b",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_FirSapling2 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_FirLeaves_Sapling, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBark.MI_FirBark"
+        },
+        {
+          "slot": "M_FirLeaves_Sapling",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirLeaves_Sapling.MI_FirLeaves_Sapling"
+        },
+        {
+          "slot": "M_FirBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirBark_LOD1.MI_FirBark_LOD1"
+        },
+        {
+          "slot": "M_FirLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirLeaves_Sapling_LOD1.MI_FirLeaves_Sapling_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "46c186af9066a42ce4269f18c17daa2365864af8c8ee521daac8d9ca8699d8fd",
+      "native_bytes": 1801004,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBark_SM_FirSapling2",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_FirLeaves_Sapling_SM_FirSapling2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 432,
+      "scene_triangles": 432,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.6205531358718872,
+          -0.3679924011230469,
+          -1.712594985961914
+        ],
+        "max": [
+          1.4938793182373047,
+          5.378628253936768,
+          1.2691059112548828
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirSapling2.glb",
+      "bytes": 1800888,
+      "sha256": "d37ecd20185a30f2ab6b453a373f3923fd8c2974684e19472c5f3cb8e76949bb",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirSapling2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirStump1",
+      "source": {
+        "name": "SM_FirStump1",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirStump1.SM_FirStump1",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirStump1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ed76a1e909ba9973c8b86145df0b1373ed31dfcc8f5f6ae6b7a09580b6a427ba",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBarkMisc.MI_FirBarkMisc"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2a09bfbc1baa3bcf0b7cbc55a72cc64f37d7816f9a60a7ce2f5fc5709902348d",
+      "native_bytes": 2380332,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBarkMisc_SM_FirStump1",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 260,
+      "scene_triangles": 260,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.6098257899284363,
+          -0.4393921196460724,
+          -0.6188748478889465
+        ],
+        "max": [
+          0.6424417495727539,
+          1.2776944637298584,
+          0.6129860281944275
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirStump1.glb",
+      "bytes": 2380304,
+      "sha256": "ae1219e2490fdc02cd0fbc46de405f25bb783b68e731dc2c154aedda760ab089",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirStump1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirTree1",
+      "source": {
+        "name": "SM_FirTree1",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirTree1.SM_FirTree1",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirTree1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "df5ccd2d7070a55e5084d31dc01f5f58103e2c50c6f0a7f6a60dd6d37b329164",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_FirTree1 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_FirLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBark.MI_FirBark"
+        },
+        {
+          "slot": "M_FirLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirLeaves.MI_FirLeaves"
+        },
+        {
+          "slot": "M_FirBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirBark_LOD1.MI_FirBark_LOD1"
+        },
+        {
+          "slot": "M_FirLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirLeaves_LOD1.MI_FirLeaves_LOD1"
+        },
+        {
+          "slot": "M_FirTree_LODFinal",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirTree_SingleMat.MI_FirTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0ac459096f26d873b072c3cfc3304e8d0ebb56b73d614ac270bbcd54e9bad6c8",
+      "native_bytes": 3762344,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBark_SM_FirTree1",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_FirLeaves_SM_FirTree1",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 10675,
+      "scene_triangles": 10675,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -5.339622497558594,
+          -1.315459966659546,
+          -5.644283294677734
+        ],
+        "max": [
+          5.377662181854248,
+          19.36763572692871,
+          5.244708061218262
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirTree1.glb",
+      "bytes": 3762256,
+      "sha256": "59383557f200de0dec887b9e43bab28d7ef370be83017dd163121eb08450467d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirTree1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirTree2",
+      "source": {
+        "name": "SM_FirTree2",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirTree2.SM_FirTree2",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirTree2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7abb9bf2f01712d449534746a124b2e4b49962be1a095599485010d89cc78863",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_FirTree2 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_FirLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBark.MI_FirBark"
+        },
+        {
+          "slot": "M_FirLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirLeaves.MI_FirLeaves"
+        },
+        {
+          "slot": "M_FirBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirBark_LOD1.MI_FirBark_LOD1"
+        },
+        {
+          "slot": "M_FirLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirLeaves_LOD1.MI_FirLeaves_LOD1"
+        },
+        {
+          "slot": "M_FirTree_LODFinal",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirTree_SingleMat.MI_FirTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6a25ab4935df92638a7b942f02707a05a89dac790d33622859313f91f239b87f",
+      "native_bytes": 3977160,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBark_SM_FirTree2",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_FirLeaves_SM_FirTree2",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 7329,
+      "scene_triangles": 7329,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -4.267107963562012,
+          -0.7987308502197266,
+          -4.713643550872803
+        ],
+        "max": [
+          4.527390956878662,
+          16.67530632019043,
+          4.290713787078857
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirTree2.glb",
+      "bytes": 3977076,
+      "sha256": "9334593b50f119381662fa19962e625d9a81ff33f1498fedbb0e45a41a0227b0",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirTree2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirTree3",
+      "source": {
+        "name": "SM_FirTree3",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirTree3.SM_FirTree3",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirTree3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4c435c7810c1ed9ffd13d06b820bd8866f2bac544d85f26199cbb4e1687dd071",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_FirTree3 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_FirLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBark.MI_FirBark"
+        },
+        {
+          "slot": "M_FirLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirLeaves.MI_FirLeaves"
+        },
+        {
+          "slot": "M_FirBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirBark_LOD1.MI_FirBark_LOD1"
+        },
+        {
+          "slot": "M_FirLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirLeaves_LOD1.MI_FirLeaves_LOD1"
+        },
+        {
+          "slot": "M_FirTree_LODFinal",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirTree_SingleMat.MI_FirTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a16b9927523bf25d9ec3e96634164a09536dc76b82d6ff18b5a64a501bca33ad",
+      "native_bytes": 2375224,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBark_SM_FirTree3",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_FirLeaves_SM_FirTree3",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3042,
+      "scene_triangles": 3042,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -3.262565851211548,
+          -0.5946376919746399,
+          -3.3198912143707275
+        ],
+        "max": [
+          3.355564832687378,
+          11.0166597366333,
+          3.368834972381592
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirTree3.glb",
+      "bytes": 2375104,
+      "sha256": "1d1ccaa288a7d1c8d99ffd810419ff49f1c9cc42c2dd1028dc2071637aa1acd9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirTree3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirTree4",
+      "source": {
+        "name": "SM_FirTree4",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirTree4.SM_FirTree4",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirTree4",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "887b56476f7b14aa6b91f48919deb013d517f030049b57e7c975ac1a467de32a",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_FirTree4 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_FirLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBark.MI_FirBark"
+        },
+        {
+          "slot": "M_FirLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirLeaves.MI_FirLeaves"
+        },
+        {
+          "slot": "M_FirBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirBark_LOD1.MI_FirBark_LOD1"
+        },
+        {
+          "slot": "M_FirLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirLeaves_LOD1.MI_FirLeaves_LOD1"
+        },
+        {
+          "slot": "M_FirTree_LODFinal",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirTree_SingleMat.MI_FirTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "12f22635ceb40c89171fdbb7f2a7b9c162854838b1f3947b75f2a62dd1bdb237",
+      "native_bytes": 4042956,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBark_SM_FirTree4",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_FirLeaves_SM_FirTree4",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 18821,
+      "scene_triangles": 18821,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -10.56246566772461,
+          -1.1771644353866577,
+          -9.591002464294434
+        ],
+        "max": [
+          10.34572696685791,
+          32.755027770996094,
+          8.912382125854492
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirTree4.glb",
+      "bytes": 4042872,
+      "sha256": "4011dd2f4d250d1126df7f4cb1d04ded4a6e1972c056e2afeb37d66cf648655f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirTree4.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirTree5",
+      "source": {
+        "name": "SM_FirTree5",
+        "path": "/Game/SoStylized/Environment/Trees/Fir/SM_FirTree5.SM_FirTree5",
+        "package": "/Game/SoStylized/Environment/Trees/Fir/SM_FirTree5",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Fir",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e1e140dbd20f38049148c23f24b9b149568fd8edc99d39c60c245b05deb9fe9e",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_FirTree5 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_FirLeaves_Dry, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_FirBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirBark.MI_FirBark"
+        },
+        {
+          "slot": "M_FirLeaves_Dry",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_FirLeaves_Dry.MI_FirLeaves_Dry"
+        },
+        {
+          "slot": "M_FirBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirBark_LOD1.MI_FirBark_LOD1"
+        },
+        {
+          "slot": "M_FirLeaves_Dry_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirLeaves_Dry_LOD1.MI_FirLeaves_Dry_LOD1"
+        },
+        {
+          "slot": "M_FirTreeDry_LODFinal",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_FirTreeDry_SingleMat.MI_FirTreeDry_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5f09c994c25e8ab61fc89870e800f293b08d0748ca4d818e1065aeb597fcd282",
+      "native_bytes": 2342184,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_FirBark_SM_FirTree5",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_FirLeaves_Dry_SM_FirTree5",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2389,
+      "scene_triangles": 2389,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -6.882535934448242,
+          -1.7550820112228394,
+          -5.48128080368042
+        ],
+        "max": [
+          6.630625247955322,
+          21.21879768371582,
+          6.645870685577393
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Fir/SM_FirTree5.glb",
+      "bytes": 2342096,
+      "sha256": "ca471b185644c1bf31cc23cc99a55000ef152ca0d9ffc7db5a145ce7117e64b5",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Fir/SM_FirTree5.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakBranch1",
+      "source": {
+        "name": "SM_OakBranch1",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakBranch1.SM_OakBranch1",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakBranch1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2f0e71dc24b7d0d78193313f8f2e02835c9167a2685e2faa949240f5ab91c9b5",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_OakLeaves_Dry, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        },
+        {
+          "slot": "M_OakLeavesDry",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakLeaves_Dry.MI_OakLeaves_Dry"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6e0ba8640833abc72e50794e77880aecf91a54612e932070c04c7a96b7c6d50d",
+      "native_bytes": 1223344,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark_SM_OakBranch1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_OakLeaves_Dry_SM_OakBranch1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 168,
+      "scene_triangles": 168,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -0.9584828615188599,
+          -0.0627942755818367,
+          -1.825008749961853
+        ],
+        "max": [
+          1.1805402040481567,
+          0.34999799728393555,
+          1.0945192575454712
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakBranch1.glb",
+      "bytes": 1223228,
+      "sha256": "fc712f1a9d109c56a21975cb6b1dddec221e2bc34985b318509f7483c6139ea5",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakBranch1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakBranch2",
+      "source": {
+        "name": "SM_OakBranch2",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakBranch2.SM_OakBranch2",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakBranch2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "841bfe9f5e595799710b74e5f58dc9ffd00ee4cab2407cd6d49adbee1ac7eee6",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_OakLeaves_Dry, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_OakBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBarkMisc.MI_OakBarkMisc"
+        },
+        {
+          "slot": "M_OakLeavesDry",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakLeaves_Dry.MI_OakLeaves_Dry"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0c9cd2b2b4e5fe68f6f7228878a3e1e7163a76da828ed1d0b5c7190caf12c24e",
+      "native_bytes": 1641412,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBarkMisc_SM_OakBranch2",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_OakLeaves_Dry_SM_OakBranch2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 274,
+      "scene_triangles": 274,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.0223796367645264,
+          -0.023372961208224297,
+          -1.0042781829833984
+        ],
+        "max": [
+          1.276296615600586,
+          0.41294702887535095,
+          0.898610532283783
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakBranch2.glb",
+      "bytes": 1641296,
+      "sha256": "e23227058bdad18f2096fbb3dc25d9b0b6688b8f14eeffde5955f3237743d906",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakBranch2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakFallen1",
+      "source": {
+        "name": "SM_OakFallen1",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakFallen1.SM_OakFallen1",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakFallen1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "83f9c2855a280e527e79b2f4005ec20ea7f6c0b110ab36bfc4266e5bf010bde0",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_OakBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBarkMisc.MI_OakBarkMisc"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c8025894a364378c1709e2bee8870f112816c4d3692a360166c3d84f3c8af863",
+      "native_bytes": 2792972,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBarkMisc_SM_OakFallen1",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2624,
+      "scene_triangles": 2624,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -2.2802209854125977,
+          -0.0904914066195488,
+          -4.423332214355469
+        ],
+        "max": [
+          2.009798765182495,
+          1.7835674285888672,
+          4.29235315322876
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakFallen1.glb",
+      "bytes": 2792944,
+      "sha256": "b22a166c0082b30ff7cf9cfd7422239040a7490fa80f69f64669957116cb7589",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakFallen1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakFallen1_SnowCover",
+      "source": {
+        "name": "SM_OakFallen1_SnowCover",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakFallen1_SnowCover.SM_OakFallen1_SnowCover",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakFallen1_SnowCover",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6806c5fb7edc2ff4f461a8b62abdc34d17f0db4ac2eac5ff54112db3f2dc207d",
+      "engine_log_warnings": [
+        "Material MI_Snow uses mesh data from SM_OakFallen1_SnowCover but the lightmap UVs (channel 1) are nearly 100% degenerate (in mesh section 1). Simple baking will be used as fallback"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_OakBarkMisc_Snow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBarkMisc_Snow.MI_OakBarkMisc_Snow"
+        },
+        {
+          "slot": "MI_Snow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Snow.MI_Snow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a0d3c0980c59e6c7ad621789e508ae1ae51b1776f50baabe485f3ea2f57c34b1",
+      "native_bytes": 2658144,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBarkMisc_Snow_SM_OakFallen1_SnowCover",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_Snow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3758,
+      "scene_triangles": 3758,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 8,
+      "bounds": {
+        "min": [
+          -2.339351177215576,
+          -0.6118967533111572,
+          -4.5131731033325195
+        ],
+        "max": [
+          2.009798526763916,
+          1.8751592636108398,
+          4.29235315322876
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakFallen1_SnowCover.glb",
+      "bytes": 2658116,
+      "sha256": "703e7c73beecd12ad90575ae0a6f10d9f7f855e15e73d96dad3e79e25912fdc7",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Additional single Blender CPU view shows visible wood and snow geometry without the observed OakTree1 canopy defect; not whole-family acceptance.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakFallen1_SnowCover.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakFallen2",
+      "source": {
+        "name": "SM_OakFallen2",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakFallen2.SM_OakFallen2",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakFallen2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7f956790ec4abb445cfb027c257015ad7da6dcbeee14cbde922913bb00c18a97",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_OakBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBarkMisc.MI_OakBarkMisc"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "de58009ac1d661d58596c39636a99980df8487420154f285140038b660c1f83c",
+      "native_bytes": 2999000,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBarkMisc_SM_OakFallen2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 262,
+      "scene_triangles": 262,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.85959792137146,
+          -0.05931955203413963,
+          -3.3189899921417236
+        ],
+        "max": [
+          0.9592451453208923,
+          1.4586412906646729,
+          3.777477979660034
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakFallen2.glb",
+      "bytes": 2998944,
+      "sha256": "48fe3c2b3e6b90d34049d1dcb12029f1f4f951ab27483a42864dfda5530c6036",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakFallen2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakFallen2_SnowCover",
+      "source": {
+        "name": "SM_OakFallen2_SnowCover",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakFallen2_SnowCover.SM_OakFallen2_SnowCover",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakFallen2_SnowCover",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "aa20bc01e716ae6a406aac6b68c28233080e15b36434aee78353aa2e45bd5894",
+      "engine_log_warnings": [
+        "Material MI_Snow uses mesh data from SM_OakFallen2_SnowCover but the lightmap UVs (channel 3) are nearly 100% degenerate (in mesh section 1). Simple baking will be used as fallback"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_OakBarkMisc_Snow",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBarkMisc_Snow.MI_OakBarkMisc_Snow"
+        },
+        {
+          "slot": "MI_Snow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Snow.MI_Snow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1a8042fb946ff330fafd7bccf3428f90de79b3096039907efb2d6806b97ba271",
+      "native_bytes": 2677916,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBarkMisc_Snow_SM_OakFallen2_SnowCover",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_Snow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1292,
+      "scene_triangles": 1292,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 8,
+      "bounds": {
+        "min": [
+          -1.1498260498046875,
+          -0.5368247628211975,
+          -3.5883450508117676
+        ],
+        "max": [
+          1.1599807739257812,
+          1.5830854177474976,
+          3.777477741241455
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakFallen2_SnowCover.glb",
+      "bytes": 2677860,
+      "sha256": "3435d12290b5abdab24571b8d57264fb795035e926bf3bae9334aecbb6cef7cd",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakFallen2_SnowCover.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakRoots1",
+      "source": {
+        "name": "SM_OakRoots1",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakRoots1.SM_OakRoots1",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakRoots1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6a233c59f852b79232da60b411d2b2d0153fd4995c64cdbbd01ac5fda9dc94fe",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "95cc791ccaa57c5016ff96b1ded75dc624bbfc8cdfcabf2854eef42b797c6660",
+      "native_bytes": 2035880,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark_SM_OakRoots1",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 502,
+      "scene_triangles": 502,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -3.251621723175049,
+          -0.6995313763618469,
+          -0.6223134994506836
+        ],
+        "max": [
+          4.048998832702637,
+          0.8506132364273071,
+          9.02114200592041
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakRoots1.glb",
+      "bytes": 2035852,
+      "sha256": "47837050ee7358ce6b0335c0bd87799085e406f1dcee053a4d63a9d9a95d43f5",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakRoots1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakRoots2",
+      "source": {
+        "name": "SM_OakRoots2",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakRoots2.SM_OakRoots2",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakRoots2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f7a15b7b783e4f19e3ca154632644235a380fc6d5ed188fbd7e14b6c051ec2a8",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "051ac015fcb4b0922f275596d785deaacba2b9e917affaddab662164168ebd0e",
+      "native_bytes": 2225008,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark_SM_OakRoots2",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 354,
+      "scene_triangles": 354,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -2.0960593223571777,
+          -0.4512852728366852,
+          -0.4167339503765106
+        ],
+        "max": [
+          2.8700435161590576,
+          0.9170071482658386,
+          4.644673824310303
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakRoots2.glb",
+      "bytes": 2224980,
+      "sha256": "87c921aec941cad4b884f25ef86bc90e3972a4bab78667acb477ebcacf92b22e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakRoots2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakSapling1",
+      "source": {
+        "name": "SM_OakSapling1",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakSapling1.SM_OakSapling1",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakSapling1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "88220d9f463f1e5dbdc0ad041949f7bc31b837d4b0584875024d37ac1e34fe8b",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_OakSapling1 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_OakLeaves_Sapling, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        },
+        {
+          "slot": "M_OakSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakLeaves_Sapling.MI_OakLeaves_Sapling"
+        },
+        {
+          "slot": "MI_OakBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakBark_LOD1.MI_OakBark_LOD1"
+        },
+        {
+          "slot": "MI_OakLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakLeaves_Sapling_LOD1.MI_OakLeaves_Sapling_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "8ddb02ace04cc283c3b001873e340a7926b43bc0c3679889e5702837152b6f6f",
+      "native_bytes": 1575008,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark_SM_OakSapling1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_OakLeaves_Sapling_SM_OakSapling1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1512,
+      "scene_triangles": 1512,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -3.1278915405273438,
+          -0.596519947052002,
+          -2.704022169113159
+        ],
+        "max": [
+          2.2410125732421875,
+          7.824618339538574,
+          2.540208339691162
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakSapling1.glb",
+      "bytes": 1574892,
+      "sha256": "a2b999119f8f01052e7f1ff4c53ed6671a52d746707edd0cc6f28ad61511b591",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakSapling1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakSapling2",
+      "source": {
+        "name": "SM_OakSapling2",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakSapling2.SM_OakSapling2",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakSapling2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5a736d82bd5fe73c8aabdddd06f77aa684880a850eef2e321955c4d365ba60ba",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_OakSapling2 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_OakLeaves_Sapling, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_OakBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBark.MI_OakBark"
+        },
+        {
+          "slot": "M_OakSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakLeaves_Sapling.MI_OakLeaves_Sapling"
+        },
+        {
+          "slot": "M_OakBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakBark_LOD1.MI_OakBark_LOD1"
+        },
+        {
+          "slot": "M_OakLeaves_Sapling_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_OakLeaves_Sapling_LOD1.MI_OakLeaves_Sapling_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c1118e510b0fcb0fa7aade532330d108d1edd3cfc2a41cd7e88d9e9b8cf87eb0",
+      "native_bytes": 1359536,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBark_SM_OakSapling2",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_OakLeaves_Sapling_SM_OakSapling2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 384,
+      "scene_triangles": 384,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -1.4293276071548462,
+          -0.5972285270690918,
+          -1.3140541315078735
+        ],
+        "max": [
+          1.353493571281433,
+          5.565262794494629,
+          1.4871833324432373
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakSapling2.glb",
+      "bytes": 1359420,
+      "sha256": "041b18e850027eeb8bd9a3e7c3fa41e0320f2051a263e7d9ca4ba4798f40f344",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakSapling2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakStump1",
+      "source": {
+        "name": "SM_OakStump1",
+        "path": "/Game/SoStylized/Environment/Trees/Oak/SM_OakStump1.SM_OakStump1",
+        "package": "/Game/SoStylized/Environment/Trees/Oak/SM_OakStump1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Oak",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "80591d17f6cfaec7d3e9477713e7343a20583cc13ebb6788c72e5b27770e808d",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_OakBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_OakBarkMisc_MossVertex.MI_OakBarkMisc_MossVertex"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e848402615a0390ddb7a9e4fb956424550bde955a2a26c4b800d45975ac0da2a",
+      "native_bytes": 3169316,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_OakBarkMisc_MossVertex_SM_OakStump1",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1058,
+      "scene_triangles": 1058,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -1.3370039463043213,
+          -0.6513429880142212,
+          -1.253470778465271
+        ],
+        "max": [
+          1.2561904191970825,
+          2.705493688583374,
+          1.062690258026123
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Oak/SM_OakStump1.glb",
+      "bytes": 3169292,
+      "sha256": "a9b608b0be5dc73867b7f6acbc65f9486627db1ed0b80c3ee7dbe015847e9db1",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Oak/SM_OakStump1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

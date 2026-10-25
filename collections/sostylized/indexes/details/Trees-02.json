@@ -1,0 +1,2289 @@
+{
+  "schema_version": 1,
+  "category": "Trees",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_BirchTree2",
+      "source": {
+        "name": "SM_BirchTree2",
+        "path": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTree2.SM_BirchTree2",
+        "package": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTree2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Birch",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ca804b36461c708aba4b53f79c49dffcae60fd8ff3290e3a55cca28221ee7f45",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BirchTree2 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BirchLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BirchBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchBark.MI_BirchBark"
+        },
+        {
+          "slot": "M_BirchLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchLeaves.MI_BirchLeaves"
+        },
+        {
+          "slot": "M_BirchBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchBark_LOD1.MI_BirchBark_LOD1"
+        },
+        {
+          "slot": "M_BirchLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchLeaves_LOD1.MI_BirchLeaves_LOD1"
+        },
+        {
+          "slot": "M_BirchTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchTree_SingleMat.MI_BirchTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "dbd1c88b70134d9128c2b3e10bb1ed13f7d6f065af14490c0ada021077705cd9",
+      "native_bytes": 2622260,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BirchBark_SM_BirchTree2",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BirchLeaves_SM_BirchTree2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 6984,
+      "scene_triangles": 6984,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -4.748111248016357,
+          -0.9680048823356628,
+          -4.605876922607422
+        ],
+        "max": [
+          4.350555419921875,
+          19.426151275634766,
+          4.523932933807373
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Birch/SM_BirchTree2.glb",
+      "bytes": 2622140,
+      "sha256": "5ac55a384e293feeadffe081e620291ab95102eb39ecb0399b91cb46afec292d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Birch/SM_BirchTree2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchTree3",
+      "source": {
+        "name": "SM_BirchTree3",
+        "path": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTree3.SM_BirchTree3",
+        "package": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTree3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Birch",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5f11a2e4de27a8414c02457d447ffe1ca9a5bdc9bcff83a3550d5729f0c3625d",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BirchTree3 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BirchLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BirchBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchBark.MI_BirchBark"
+        },
+        {
+          "slot": "M_BirchLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchLeaves.MI_BirchLeaves"
+        },
+        {
+          "slot": "M_BirchBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchBark_LOD1.MI_BirchBark_LOD1"
+        },
+        {
+          "slot": "M_BirchLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchLeaves_LOD1.MI_BirchLeaves_LOD1"
+        },
+        {
+          "slot": "M_BirchTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchTree_SingleMat.MI_BirchTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5a89917845ca887076c231fd1d1c6b532762dd4baa4c12ccfcb0819fc8f8e0bd",
+      "native_bytes": 1997480,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BirchBark_SM_BirchTree3",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BirchLeaves_SM_BirchTree3",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3816,
+      "scene_triangles": 3816,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -6.285480976104736,
+          -1.183552622795105,
+          -5.840935707092285
+        ],
+        "max": [
+          5.780674457550049,
+          23.412269592285156,
+          5.87125301361084
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Birch/SM_BirchTree3.glb",
+      "bytes": 1997364,
+      "sha256": "ad1d576ef6845ce47b0a08b0b0b00cb27d94f85f14ed91946eb65a9ca37d0f2b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Birch/SM_BirchTree3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchTreeB1",
+      "source": {
+        "name": "SM_BirchTreeB1",
+        "path": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTreeB1.SM_BirchTreeB1",
+        "package": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTreeB1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Birch",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5b8ee373e4e6cbe18d866d369896f99412f004c5f0f93d972e3c7a7653c7133d",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BirchTreeB1 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BirchLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BirchBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchBark.MI_BirchBark"
+        },
+        {
+          "slot": "M_BirchLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchLeaves.MI_BirchLeaves"
+        },
+        {
+          "slot": "M_BirchBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchBark_LOD1.MI_BirchBark_LOD1"
+        },
+        {
+          "slot": "M_BirchLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchLeaves_LOD1.MI_BirchLeaves_LOD1"
+        },
+        {
+          "slot": "M_BirchTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchTree_SingleMat.MI_BirchTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "89a4f508a222ec028ab95178425014b161d4c4aeadbe7e1597f01f668a078b84",
+      "native_bytes": 1727372,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BirchBark_SM_BirchTreeB1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BirchLeaves_SM_BirchTreeB1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3906,
+      "scene_triangles": 3906,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -6.918102264404297,
+          -0.5399751663208008,
+          -7.68685245513916
+        ],
+        "max": [
+          7.3597564697265625,
+          19.804733276367188,
+          8.053043365478516
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Birch/SM_BirchTreeB1.glb",
+      "bytes": 1727252,
+      "sha256": "f42728d8ff2b8489ba33b6789bd86c5856cd38f4b4e337e8a41a003b996c2c25",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Birch/SM_BirchTreeB1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchTreeB2",
+      "source": {
+        "name": "SM_BirchTreeB2",
+        "path": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTreeB2.SM_BirchTreeB2",
+        "package": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTreeB2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Birch",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a044c7cc1e6044f6fffcfae92b204bf1568928a2ad324b184e9d516c42b9b4af",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BirchTreeB2 (section ), this may not be supported on some glTF viewers",
+        "Material MI_BirchBark is baked using mesh data from SM_BirchTreeB2 but the lightmap UV (channel 3) are overlapping by 1.58% (in mesh section 0) and may produce incorrect results",
+        "Unsupported shading model (Subsurface) in material MI_BirchLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BirchBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchBark.MI_BirchBark"
+        },
+        {
+          "slot": "M_BirchLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchLeaves.MI_BirchLeaves"
+        },
+        {
+          "slot": "M_BirchBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchBark_LOD1.MI_BirchBark_LOD1"
+        },
+        {
+          "slot": "M_BirchLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchLeaves_LOD1.MI_BirchLeaves_LOD1"
+        },
+        {
+          "slot": "M_BirchTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchTree_SingleMat.MI_BirchTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ecebba328f194afa32c8332c2eb49476847d24b8509029c0bd9a49eb0c4a32c7",
+      "native_bytes": 1805424,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BirchBark_SM_BirchTreeB2",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BirchLeaves_SM_BirchTreeB2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 5052,
+      "scene_triangles": 5052,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -8.458793640136719,
+          -0.5403293967247009,
+          -6.367353439331055
+        ],
+        "max": [
+          8.264596939086914,
+          20.852176666259766,
+          6.8943047523498535
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Birch/SM_BirchTreeB2.glb",
+      "bytes": 1805308,
+      "sha256": "65edda48f41728e5c14bd0a82421c8a8cfa80c00c400d7af1e720aee498c654a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Birch/SM_BirchTreeB2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchTreeB3",
+      "source": {
+        "name": "SM_BirchTreeB3",
+        "path": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTreeB3.SM_BirchTreeB3",
+        "package": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTreeB3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Birch",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "406ed20cf16fb5cf8f4283f7fcb565108e43a9da241a3f0b890c43bd3572335e",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BirchTreeB3 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BirchLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BirchBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchBark.MI_BirchBark"
+        },
+        {
+          "slot": "M_BirchLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchLeaves.MI_BirchLeaves"
+        },
+        {
+          "slot": "M_BirchBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchBark_LOD1.MI_BirchBark_LOD1"
+        },
+        {
+          "slot": "M_BirchLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchLeaves_LOD1.MI_BirchLeaves_LOD1"
+        },
+        {
+          "slot": "M_BirchTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchTree_SingleMat.MI_BirchTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b9906b21a11a7d096c650fc279a1ed5754ff6a4f13e28e55abd6ba15974b153c",
+      "native_bytes": 2143840,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BirchBark_SM_BirchTreeB3",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BirchLeaves_SM_BirchTreeB3",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 5680,
+      "scene_triangles": 5680,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -8.59847640991211,
+          -0.47029757499694824,
+          -9.576638221740723
+        ],
+        "max": [
+          9.951997756958008,
+          23.813907623291016,
+          7.738525867462158
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Birch/SM_BirchTreeB3.glb",
+      "bytes": 2143720,
+      "sha256": "8ef42b1ad43c51e90a5766c5e522719ca36bfe1f965ec6726acd6c6f9a25b881",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Birch/SM_BirchTreeB3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPine01",
+      "source": {
+        "name": "SM_ChinaPine01",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPine01.SM_ChinaPine01",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPine01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6269ebf8bb0159ea91c21d53018195b90039dd3c9f79c75a5e4ccafc6a04564d",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_ChinaPine01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_ChinaPineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_ChinaPineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineBark.MI_ChinaPineBark"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineLeaves.MI_ChinaPineLeaves"
+        },
+        {
+          "slot": "MI_ChinaPineBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineBark_LOD1.MI_ChinaPineBark_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineLeaves_LOD1.MI_ChinaPineLeaves_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineTree_SingleMat.MI_ChinaPineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "490d170c0e7b167f2639f771d929d62713f1d208158b73afc130f2f181564f89",
+      "native_bytes": 1284176,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_ChinaPineBark_SM_ChinaPine01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_ChinaPineLeaves_SM_ChinaPine01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1968,
+      "scene_triangles": 1968,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -6.229579448699951,
+          -0.4168729782104492,
+          -4.725698947906494
+        ],
+        "max": [
+          4.351308345794678,
+          14.83741283416748,
+          5.508720397949219
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_ChinaPine01.glb",
+      "bytes": 1284056,
+      "sha256": "bd2bb1f04128d164b8fcb96d9acc9800c23bb91e8c2e5347f26cc081bb8a0d00",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_ChinaPine01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPine02",
+      "source": {
+        "name": "SM_ChinaPine02",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPine02.SM_ChinaPine02",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPine02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "61f7e0baa1e57181990a5e1c4425b3e149bd1304d0b8117a049a185947f15a7a",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_ChinaPine02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_ChinaPineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_ChinaPineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineBark.MI_ChinaPineBark"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineLeaves.MI_ChinaPineLeaves"
+        },
+        {
+          "slot": "MI_ChinaPineBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineBark_LOD1.MI_ChinaPineBark_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineLeaves_LOD1.MI_ChinaPineLeaves_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineTree_SingleMat.MI_ChinaPineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "113e132a4f76ebaa5b1dde59b29df7631e8ef5eb2c1744aec47b2b7017937b46",
+      "native_bytes": 1392760,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_ChinaPineBark_SM_ChinaPine02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_ChinaPineLeaves_SM_ChinaPine02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2019,
+      "scene_triangles": 2019,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -6.365568161010742,
+          -0.8874660134315491,
+          -6.1254472732543945
+        ],
+        "max": [
+          5.643160343170166,
+          16.246105194091797,
+          5.715629577636719
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_ChinaPine02.glb",
+      "bytes": 1392644,
+      "sha256": "f2733d8232091e4fdc930e73021381a48b8546ab384b01b0ead55a4a48cdad42",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_ChinaPine02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPine03",
+      "source": {
+        "name": "SM_ChinaPine03",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPine03.SM_ChinaPine03",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPine03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d77f234abe92c577fd4b5912d80a603f380000c448f1ceae90cd8254afd3a0aa",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_ChinaPine03 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_ChinaPineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_ChinaPineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineBark.MI_ChinaPineBark"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineLeaves.MI_ChinaPineLeaves"
+        },
+        {
+          "slot": "MI_ChinaPineBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineBark_LOD1.MI_ChinaPineBark_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineLeaves_LOD1.MI_ChinaPineLeaves_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineTree_SingleMat.MI_ChinaPineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "58eb1a843326cdc36dce4970e7e5674ed95c4853148355bd258db2f91f0adc15",
+      "native_bytes": 713032,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_ChinaPineBark_SM_ChinaPine03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_ChinaPineLeaves_SM_ChinaPine03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3072,
+      "scene_triangles": 3072,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -6.9236297607421875,
+          -0.9281854033470154,
+          -5.899569511413574
+        ],
+        "max": [
+          8.523873329162598,
+          20.631942749023438,
+          6.914607524871826
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_ChinaPine03.glb",
+      "bytes": 712912,
+      "sha256": "44c1b5eab619db95cea74fb40841fd3fec14d621b07ab14bf935ab4173d4f690",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_ChinaPine03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPineB01",
+      "source": {
+        "name": "SM_ChinaPineB01",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPineB01.SM_ChinaPineB01",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPineB01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b24325cf259be205f19320a0aaa2a41cdaf1f1a9f1bc00d502b4fadbd17c19af",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_ChinaPineB01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_ChinaPineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_ChinaPineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineBark.MI_ChinaPineBark"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineLeaves.MI_ChinaPineLeaves"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineLeaves_LOD1.MI_ChinaPineLeaves_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineBark_LOD1.MI_ChinaPineBark_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineTree_SingleMat.MI_ChinaPineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6c581c00494f3c36fc4882c523770fb7f63bf8c067525b965335089464372a1b",
+      "native_bytes": 1508872,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_ChinaPineBark_SM_ChinaPineB01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_ChinaPineLeaves_SM_ChinaPineB01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1716,
+      "scene_triangles": 1716,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -4.88405179977417,
+          -1.0824984312057495,
+          -4.793031692504883
+        ],
+        "max": [
+          10.366186141967773,
+          10.16417121887207,
+          5.739767551422119
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_ChinaPineB01.glb",
+      "bytes": 1508752,
+      "sha256": "8c13c6ea3f400313fe57e5a1236c83d7a6aa204fb1efcc6d7ed1c8ae7e66848d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_ChinaPineB01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPineB02",
+      "source": {
+        "name": "SM_ChinaPineB02",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPineB02.SM_ChinaPineB02",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPineB02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b1b3129776b90f8eaa0a171c22b94f3dd6884115248f17ce29deaee1986a8036",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_ChinaPineB02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_ChinaPineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_ChinaPineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineBark.MI_ChinaPineBark"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineLeaves.MI_ChinaPineLeaves"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineLeaves_LOD1.MI_ChinaPineLeaves_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineBark_LOD1.MI_ChinaPineBark_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineTree_SingleMat.MI_ChinaPineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ab16767bb1f4a9767f8b90130f59f51b0f9d372be8150baecc000b8d9ee40544",
+      "native_bytes": 697784,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_ChinaPineBark_SM_ChinaPineB02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_ChinaPineLeaves_SM_ChinaPineB02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2610,
+      "scene_triangles": 2610,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -7.951639175415039,
+          -1.1500368118286133,
+          -7.7458415031433105
+        ],
+        "max": [
+          10.415010452270508,
+          14.679004669189453,
+          6.718475818634033
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_ChinaPineB02.glb",
+      "bytes": 697664,
+      "sha256": "611025178a4b26da218af03be3a867345cba2bc0407bcfaf1f93f71b076797b2",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_ChinaPineB02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPineB03",
+      "source": {
+        "name": "SM_ChinaPineB03",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPineB03.SM_ChinaPineB03",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPineB03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "30af5bfb0a399e5525961046c69c182b2cadcfb94dc8dc308dd6918b73632668",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_ChinaPineB03 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_ChinaPineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_ChinaPineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineBark.MI_ChinaPineBark"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineLeaves.MI_ChinaPineLeaves"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineLeaves_LOD1.MI_ChinaPineLeaves_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineBark_LOD1.MI_ChinaPineBark_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineTree_SingleMat.MI_ChinaPineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "042bbbb2323542db4f47ffc3dd0649bf56c505576cfdc58313a576d223f26436",
+      "native_bytes": 1326344,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_ChinaPineBark_SM_ChinaPineB03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_ChinaPineLeaves_SM_ChinaPineB03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2448,
+      "scene_triangles": 2448,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -6.05383825302124,
+          -1.295607566833496,
+          -7.471043586730957
+        ],
+        "max": [
+          6.060218334197998,
+          17.160764694213867,
+          5.411787986755371
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_ChinaPineB03.glb",
+      "bytes": 1326224,
+      "sha256": "b1642d1b776d38c69c5106b6471e7a651458be59e1a6326951aea3f32579705f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_ChinaPineB03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPineC01",
+      "source": {
+        "name": "SM_ChinaPineC01",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPineC01.SM_ChinaPineC01",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPineC01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6cd9b8ed23d1111f5c4722637fb89e86d3f691cbad7eb8c705454cea4a6540f1",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_ChinaPineC01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_ChinaPineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_ChinaPineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineBark.MI_ChinaPineBark"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineLeaves.MI_ChinaPineLeaves"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineLeaves_LOD1.MI_ChinaPineLeaves_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineBark_LOD1.MI_ChinaPineBark_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineTree_SingleMat.MI_ChinaPineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "946ebf1b24eccd064760a10ad2cb3704f2617b5869bbcd97469a9cf4cb13e8f9",
+      "native_bytes": 1177728,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_ChinaPineBark_SM_ChinaPineC01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_ChinaPineLeaves_SM_ChinaPineC01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1652,
+      "scene_triangles": 1652,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -1.3977810144424438,
+          -2.164691209793091,
+          -5.205130577087402
+        ],
+        "max": [
+          14.328229904174805,
+          6.487687110900879,
+          4.670597076416016
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_ChinaPineC01.glb",
+      "bytes": 1177608,
+      "sha256": "e9e2988e0a8ac724685b304602d47d4528ec45bba9b49cfb2848fddb4ea96d31",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_ChinaPineC01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPineC02",
+      "source": {
+        "name": "SM_ChinaPineC02",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPineC02.SM_ChinaPineC02",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_ChinaPineC02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "aeeb1ae942407f4da4e6fe4c7f5f668586f9f90eeb92a89a217a4516c6b31ec3",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_ChinaPineC02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_ChinaPineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_ChinaPineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineBark.MI_ChinaPineBark"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineLeaves.MI_ChinaPineLeaves"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineLeaves_LOD1.MI_ChinaPineLeaves_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineBark_LOD1.MI_ChinaPineBark_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineTree_SingleMat.MI_ChinaPineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6df0ddc1b89f46067cbd4f790cdfad3361ddd7184d7f4322beb33c68eaf4000c",
+      "native_bytes": 1593852,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_ChinaPineBark_SM_ChinaPineC02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_ChinaPineLeaves_SM_ChinaPineC02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1438,
+      "scene_triangles": 1438,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -1.2560009956359863,
+          -1.2798144817352295,
+          -4.814813137054443
+        ],
+        "max": [
+          10.950227737426758,
+          7.355663299560547,
+          6.356788158416748
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_ChinaPineC02.glb",
+      "bytes": 1593732,
+      "sha256": "49c915db19cff38f28445291fb1b6d77df2288b202b8765cb557f9f76e1b0ae9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_ChinaPineC02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodDead01",
+      "source": {
+        "name": "SM_KnotwoodDead01",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodDead01.SM_KnotwoodDead01",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodDead01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "699bb3c0f3cd61b5af6fb478710dc1c303c67308e31fd95f92782c6347624471",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_KnotwoodBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodBark.MI_KnotwoodBark"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e5fabda1488e9fe5a6838368acbfb9e9fd9608ea17f9df065c27044edee3c23e",
+      "native_bytes": 3372856,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_KnotwoodBark_SM_KnotwoodDead01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 730,
+      "scene_triangles": 730,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -5.569513320922852,
+          -1.0457439422607422,
+          -6.11275577545166
+        ],
+        "max": [
+          5.085132122039795,
+          11.785618782043457,
+          4.7353515625
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_KnotwoodDead01.glb",
+      "bytes": 3372828,
+      "sha256": "acd02ab7cc503b0705805776f96c47cb769b9ff408fb73daaf3a543ab295726a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_KnotwoodDead01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodDead02",
+      "source": {
+        "name": "SM_KnotwoodDead02",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodDead02.SM_KnotwoodDead02",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodDead02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a9d2e4c32262b9a37b0504a69301458fd597d21ff3803420c47894828f1f2e52",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_KnotwoodBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodBark.MI_KnotwoodBark"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2fcd97a535a6e90d6dfb5c21229cba597c4328cd053788bde31a0d93db4c0f77",
+      "native_bytes": 3645300,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_KnotwoodBark_SM_KnotwoodDead02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 874,
+      "scene_triangles": 874,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -5.52972412109375,
+          -1.4965026378631592,
+          -3.6951606273651123
+        ],
+        "max": [
+          4.939677715301514,
+          9.826969146728516,
+          4.687220573425293
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_KnotwoodDead02.glb",
+      "bytes": 3645272,
+      "sha256": "c0eacf7d8aed6ce7bdbd0b398c10e8d1e8c9fd95e60addf6d2137077304a48e8",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_KnotwoodDead02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodTree01",
+      "source": {
+        "name": "SM_KnotwoodTree01",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodTree01.SM_KnotwoodTree01",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodTree01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e249199bfa606be7e9b34c80ea81e6e332aaa8d704baa7fe9592e607f2cfcef8",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_KnotwoodTree01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_KnotwoodLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_KnotwoodBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodBark.MI_KnotwoodBark"
+        },
+        {
+          "slot": "MI_KnotwoodLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodLeaves.MI_KnotwoodLeaves"
+        },
+        {
+          "slot": "MI_KnotwoodBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodBark_LOD1.MI_KnotwoodBark_LOD1"
+        },
+        {
+          "slot": "MI_KnotwoodLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodLeaves_LOD1.MI_KnotwoodLeaves_LOD1"
+        },
+        {
+          "slot": "MI_KnotwoodTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodTree_SingleMat.MI_KnotwoodTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5a5db84c413d7006b2a757201b63059f5a978acf155f13e3963ec859ca1194f3",
+      "native_bytes": 1602572,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_KnotwoodBark_SM_KnotwoodTree01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_KnotwoodLeaves_SM_KnotwoodTree01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1422,
+      "scene_triangles": 1422,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -7.58275842666626,
+          -1.3975329399108887,
+          -8.992419242858887
+        ],
+        "max": [
+          7.1256279945373535,
+          15.660052299499512,
+          7.402628421783447
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_KnotwoodTree01.glb",
+      "bytes": 1602456,
+      "sha256": "5abe0721a2901b2d965ac19663fa7b4202f45c6f0c2493f38eff9764175df82c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_KnotwoodTree01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodTree02",
+      "source": {
+        "name": "SM_KnotwoodTree02",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodTree02.SM_KnotwoodTree02",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodTree02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7e601589875fe3566b5d3eb71a00661f2f119acf6792120f80031ce43b8acf7b",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_KnotwoodTree02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_KnotwoodLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_KnotwoodBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodBark.MI_KnotwoodBark"
+        },
+        {
+          "slot": "MI_KnotwoodLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodLeaves.MI_KnotwoodLeaves"
+        },
+        {
+          "slot": "MI_KnotwoodBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodBark_LOD1.MI_KnotwoodBark_LOD1"
+        },
+        {
+          "slot": "MI_KnotwoodLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodLeaves_LOD1.MI_KnotwoodLeaves_LOD1"
+        },
+        {
+          "slot": "MI_KnotwoodTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodTree_SingleMat.MI_KnotwoodTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a05727a9b62252fb843dd2653c329f6d1e36fdb6243aac1d77f09cf0bed63750",
+      "native_bytes": 1502552,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_KnotwoodBark_SM_KnotwoodTree02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_KnotwoodLeaves_SM_KnotwoodTree02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1310,
+      "scene_triangles": 1310,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -7.20878267288208,
+          -1.2744426727294922,
+          -6.907515525817871
+        ],
+        "max": [
+          9.426851272583008,
+          17.489587783813477,
+          4.855315685272217
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_KnotwoodTree02.glb",
+      "bytes": 1502432,
+      "sha256": "96a48f9ffe1cf2cabc8b864c3c18e0faad3b89182db1d02039e7b5c39041793c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_KnotwoodTree02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodTree03",
+      "source": {
+        "name": "SM_KnotwoodTree03",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodTree03.SM_KnotwoodTree03",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodTree03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c535c3888f72d0b8946f95253ded98292891a894cf1ff961527751c69a8a4280",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_KnotwoodTree03 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_KnotwoodLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_KnotwoodBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodBark.MI_KnotwoodBark"
+        },
+        {
+          "slot": "MI_KnotwoodLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodLeaves.MI_KnotwoodLeaves"
+        },
+        {
+          "slot": "MI_KnotwoodBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodBark_LOD1.MI_KnotwoodBark_LOD1"
+        },
+        {
+          "slot": "MI_KnotwoodLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodLeaves_LOD1.MI_KnotwoodLeaves_LOD1"
+        },
+        {
+          "slot": "MI_KnotwoodTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodTree_SingleMat.MI_KnotwoodTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f556d5d3e18c3ac5ed71301309046e0ff81bce6c3215de80f9a7ea0daaea3489",
+      "native_bytes": 1851956,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_KnotwoodBark_SM_KnotwoodTree03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_KnotwoodLeaves_SM_KnotwoodTree03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1696,
+      "scene_triangles": 1696,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -12.972270011901855,
+          -2.0193257331848145,
+          -9.905620574951172
+        ],
+        "max": [
+          10.900702476501465,
+          20.737306594848633,
+          10.727628707885742
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_KnotwoodTree03.glb",
+      "bytes": 1851836,
+      "sha256": "c05f571aae86798da8e2c6829417a66427eaede15997e2fa42a6640763b1ca75",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_KnotwoodTree03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodTree04",
+      "source": {
+        "name": "SM_KnotwoodTree04",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodTree04.SM_KnotwoodTree04",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodTree04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b1593d57c6336b2bf9cab88a19fd904571967c41f6d35cd8e9d4e6cc3491aee5",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_KnotwoodTree04 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_KnotwoodLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_KnotwoodBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodBark.MI_KnotwoodBark"
+        },
+        {
+          "slot": "MI_KnotwoodLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodLeaves.MI_KnotwoodLeaves"
+        },
+        {
+          "slot": "MI_KnotwoodBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodBark_LOD1.MI_KnotwoodBark_LOD1"
+        },
+        {
+          "slot": "MI_KnotwoodLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodLeaves_LOD1.MI_KnotwoodLeaves_LOD1"
+        },
+        {
+          "slot": "MI_KnotwoodTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodTree_SingleMat.MI_KnotwoodTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1f6f78d56551e68b707d94fa6eb2dd0626b6235bbd56842cfce01bbb2e7607b7",
+      "native_bytes": 1480816,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_KnotwoodBark_SM_KnotwoodTree04",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_KnotwoodLeaves_SM_KnotwoodTree04",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1270,
+      "scene_triangles": 1270,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -8.594097137451172,
+          -1.9567898511886597,
+          -11.067362785339355
+        ],
+        "max": [
+          9.922866821289062,
+          14.50364875793457,
+          6.850271224975586
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_KnotwoodTree04.glb",
+      "bytes": 1480696,
+      "sha256": "607f1dce88436c3bafcdc1d7ffbd2b9710daf604e4ef2d5c098716437d5b7a1a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_KnotwoodTree04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodTreeB01",
+      "source": {
+        "name": "SM_KnotwoodTreeB01",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodTreeB01.SM_KnotwoodTreeB01",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_KnotwoodTreeB01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "49e61834551d311f199bc4062c327d06de4a1ddce25487623c103bdbd8e64371",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_KnotwoodTreeB01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_KnotwoodLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_KnotwoodBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodBark.MI_KnotwoodBark"
+        },
+        {
+          "slot": "MI_KnotwoodLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_KnotwoodLeaves.MI_KnotwoodLeaves"
+        },
+        {
+          "slot": "MI_KnotwoodBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodBark_LOD1.MI_KnotwoodBark_LOD1"
+        },
+        {
+          "slot": "MI_KnotwoodLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodLeaves_LOD1.MI_KnotwoodLeaves_LOD1"
+        },
+        {
+          "slot": "MI_KnotwoodTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_KnotwoodTree_SingleMat.MI_KnotwoodTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "28d6ef94bdd6502623af56bc379279a4a5a950e24e4d20ac6ebec782fd61b07f",
+      "native_bytes": 1648256,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_KnotwoodBark_SM_KnotwoodTreeB01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_KnotwoodLeaves_SM_KnotwoodTreeB01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1694,
+      "scene_triangles": 1694,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -2.4340708255767822,
+          -1.4166064262390137,
+          -6.819143295288086
+        ],
+        "max": [
+          24.318946838378906,
+          15.51596736907959,
+          9.481688499450684
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_KnotwoodTreeB01.glb",
+      "bytes": 1648136,
+      "sha256": "0a4396073971f1e52f36041424abfb71254dcced20bbac83dd2ebf301c2bd3cc",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_KnotwoodTreeB01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

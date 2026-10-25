@@ -1,0 +1,1788 @@
+{
+  "schema_version": 1,
+  "category": "Rocks",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted04",
+      "source": {
+        "name": "SM_RockHexic_RockSlanted04",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted04.SM_RockHexic_RockSlanted04",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c4b39b1e0cf1263e5889691a415047d96dcc7d7b83e2350e756745b06feb4b80",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_RocksSlanted",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_RocksSlanted.MI_RockHexic_RocksSlanted"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b63241c421697890f5296d8324eb2ec91571a795542aa23e27f78ccee7d765e6",
+      "native_bytes": 2944572,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_RocksSlanted_SM_RockHexic_RockSlanted04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 264,
+      "scene_triangles": 264,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -5.38953971862793,
+          -8.229755401611328,
+          -3.734130859375
+        ],
+        "max": [
+          5.0804524421691895,
+          9.207576751708984,
+          4.031116008758545
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted04.glb",
+      "bytes": 2944544,
+      "sha256": "6c8c205992448661e0421cb11e4ac5f866f31cdb1bb4aaec7966ef7a653054c9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted05",
+      "source": {
+        "name": "SM_RockHexic_RockSlanted05",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted05.SM_RockHexic_RockSlanted05",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e6f64e8d9d4350e67a587c677e2d986f312850d50f2c3399a6c9b2915431ab0a",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_RocksSlanted",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_RocksSlanted.MI_RockHexic_RocksSlanted"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c54744194d222dc166d6b885a321edb4a4b57e37c24d6f2ea262a57711645588",
+      "native_bytes": 3179964,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_RocksSlanted_SM_RockHexic_RockSlanted05",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 396,
+      "scene_triangles": 396,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -5.832271099090576,
+          -9.311360359191895,
+          -4.561404228210449
+        ],
+        "max": [
+          6.839204788208008,
+          9.166489601135254,
+          3.9600791931152344
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted05.glb",
+      "bytes": 3179936,
+      "sha256": "aaa84cb97df4a54299263621882c9cf422a738e048014185063af3ddf8fe0e88",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted06",
+      "source": {
+        "name": "SM_RockHexic_RockSlanted06",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted06.SM_RockHexic_RockSlanted06",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted06",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b833bbab261a4c337369a392ed727c623823afd00bf7b603765a75a5c35fd59b",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_RocksSlanted",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_RocksSlanted.MI_RockHexic_RocksSlanted"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "36f38d5449e5bfc780d2a200d58ce78aa5a86f8a5f71d95e63d4a32ee159ef28",
+      "native_bytes": 3174340,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_RocksSlanted_SM_RockHexic_RockSlanted06",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 424,
+      "scene_triangles": 424,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -6.192864418029785,
+          -7.385745048522949,
+          -5.196661949157715
+        ],
+        "max": [
+          5.2394022941589355,
+          8.688879013061523,
+          5.159522533416748
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted06.glb",
+      "bytes": 3174312,
+      "sha256": "11db1869f92f183656de22186eb8caf69b16bd4b348ba434d89a2a318cbe45b6",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted06.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted07",
+      "source": {
+        "name": "SM_RockHexic_RockSlanted07",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted07.SM_RockHexic_RockSlanted07",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted07",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c75a81b2530c5d9c92dd226558a03b135123f33eda250ca5c7cf1b3517a91158",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_RocksSlanted",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_RocksSlanted.MI_RockHexic_RocksSlanted"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0a0afcdd97ad77e20335c31db5ab1859484fdc3dc6609e88b20ad34fa8f6d7b6",
+      "native_bytes": 3290776,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_RocksSlanted_SM_RockHexic_RockSlanted07",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 412,
+      "scene_triangles": 412,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -7.193763256072998,
+          -7.491091728210449,
+          -4.713212966918945
+        ],
+        "max": [
+          5.9783453941345215,
+          7.420140743255615,
+          4.307384967803955
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted07.glb",
+      "bytes": 3290748,
+      "sha256": "09cffe5730a157d5295c2c1256487081ad7993c5c463386932e71ffc0de45811",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted07.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted08",
+      "source": {
+        "name": "SM_RockHexic_RockSlanted08",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted08.SM_RockHexic_RockSlanted08",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted08",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "583e90a1100e50c091a176bfa70bee58f4ec7a05a7deafb57bc88a568846cc90",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_RocksSlanted",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_RocksSlanted.MI_RockHexic_RocksSlanted"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e0085cc44c496423b1ccda9bb46f4cee4d82e201ff6001f44d6974af6d3dd81a",
+      "native_bytes": 3402652,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_RocksSlanted_SM_RockHexic_RockSlanted08",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 690,
+      "scene_triangles": 690,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -7.484557151794434,
+          -6.074368000030518,
+          -5.425106525421143
+        ],
+        "max": [
+          8.003411293029785,
+          7.058097839355469,
+          6.366476535797119
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted08.glb",
+      "bytes": 3402624,
+      "sha256": "3982092fc296a34521799d546c656d4c2cdd0e70a18c90e6acb4bb111e28cd84",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted08.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted09",
+      "source": {
+        "name": "SM_RockHexic_RockSlanted09",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted09.SM_RockHexic_RockSlanted09",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted09",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2933dd29a113fd0fd5dfa4a6be2634187df36277d93e04e487885c5275f74c21",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_RocksSlanted",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_RocksSlanted.MI_RockHexic_RocksSlanted"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "428f3bf42bc5650fdf675b1b3b37c165f43dbfe11cb68466a1c20e417accc7e7",
+      "native_bytes": 3393384,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_RocksSlanted_SM_RockHexic_RockSlanted09",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 520,
+      "scene_triangles": 520,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -6.490413188934326,
+          -11.50566577911377,
+          -5.591033935546875
+        ],
+        "max": [
+          6.517764568328857,
+          10.481002807617188,
+          5.062923431396484
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted09.glb",
+      "bytes": 3393356,
+      "sha256": "e16853f19a9a420c7e86bfb4a2dd2ef0eb6373b72859d22be96fc43c804583c1",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted09.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted10",
+      "source": {
+        "name": "SM_RockHexic_RockSlanted10",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted10.SM_RockHexic_RockSlanted10",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted10",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d198c786af80d55403df9ad3790575ac34209c43a586612994472faf940ea2b9",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_RocksSlanted",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_RocksSlanted.MI_RockHexic_RocksSlanted"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c858398a0ec797d2d68f1682bd94dde52df65e1308c942c440a2ad106b5c65c6",
+      "native_bytes": 3518628,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_RocksSlanted_SM_RockHexic_RockSlanted10",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 664,
+      "scene_triangles": 664,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -6.367079734802246,
+          -12.882773399353027,
+          -6.914815902709961
+        ],
+        "max": [
+          5.6635332107543945,
+          10.475345611572266,
+          6.8548407554626465
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted10.glb",
+      "bytes": 3518600,
+      "sha256": "bd483560367b185260cda3d4591cc253192ed8d707061c0aa0d00ac86727f9da",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted10.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks01",
+      "source": {
+        "name": "SM_RockHexic_Rocks01",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks01.SM_RockHexic_Rocks01",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "734b6666169b627131296e11dfbd1ac345c15f0291bc478a64ba659c2f73c678",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Rocks.MI_RockHexic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "569855ab92b3017f6b288fbb4e2b72e1d9e4eec6503a538a0a257af03fb21e9c",
+      "native_bytes": 2765604,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Rocks_SM_RockHexic_Rocks01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 160,
+      "scene_triangles": 160,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -3.5139412879943848,
+          -4.752784729003906,
+          -3.6902666091918945
+        ],
+        "max": [
+          4.5324788093566895,
+          5.728860855102539,
+          3.049403667449951
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks01.glb",
+      "bytes": 2765576,
+      "sha256": "1ae953919be24238898651c298b255cc2fe167dc04d8ef62c9caaf4460fc2780",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks02",
+      "source": {
+        "name": "SM_RockHexic_Rocks02",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks02.SM_RockHexic_Rocks02",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9a416e4622fcaab022647d0177aa154eebb4c0ea6e2c4459271d3cef536c48f8",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Rocks.MI_RockHexic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c6162f0072fc172b24138e749aaf96d02474cb7021c4e27889d9883e599b447f",
+      "native_bytes": 2877180,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Rocks_SM_RockHexic_Rocks02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 184,
+      "scene_triangles": 184,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -3.6325979232788086,
+          -7.310691833496094,
+          -3.2525150775909424
+        ],
+        "max": [
+          3.3155479431152344,
+          6.379419326782227,
+          3.5161590576171875
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks02.glb",
+      "bytes": 2877156,
+      "sha256": "7c22c59389e906b1d546ba383b7723963c32707559019c3d24843e8f1b37fae3",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks03",
+      "source": {
+        "name": "SM_RockHexic_Rocks03",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks03.SM_RockHexic_Rocks03",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b1a43a975142e898b859fd80d967bfba3a063740ddbfe30c42a3077d63a9ed0a",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Rocks.MI_RockHexic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "88fccb4ace63c451e392b12c77224d60821176dea8697a0f9d385c4a794d1867",
+      "native_bytes": 3024788,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Rocks_SM_RockHexic_Rocks03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 234,
+      "scene_triangles": 234,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -5.036567687988281,
+          -8.769845962524414,
+          -3.3798205852508545
+        ],
+        "max": [
+          4.790550231933594,
+          7.339992046356201,
+          3.443312883377075
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks03.glb",
+      "bytes": 3024764,
+      "sha256": "d65a54fa065b34dbbd87ccb02f3f65610707a3be70ef5b19e65441112d6ce8e2",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks04",
+      "source": {
+        "name": "SM_RockHexic_Rocks04",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks04.SM_RockHexic_Rocks04",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5460e1658740d52792987d4ca05c390f6ae7225af0a72f803ecb9040715d30e7",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Rocks.MI_RockHexic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "4084a12a734571400caf928ed4529c9f60afaf87a5362d3970a2cfd94c261fad",
+      "native_bytes": 3116348,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Rocks_SM_RockHexic_Rocks04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 300,
+      "scene_triangles": 300,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -5.5673065185546875,
+          -8.187044143676758,
+          -3.8062808513641357
+        ],
+        "max": [
+          5.1867828369140625,
+          7.600106239318848,
+          4.226171970367432
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks04.glb",
+      "bytes": 3116320,
+      "sha256": "6f73b09d7e60d02e9a7475e859d170600f424e45888d19d2263382ccb748bbdd",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks05",
+      "source": {
+        "name": "SM_RockHexic_Rocks05",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks05.SM_RockHexic_Rocks05",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c092378003e68507412c136b78536636867b6373df9dd204276cf363ba027308",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Rocks.MI_RockHexic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "67daa2d4d3aa028bd28f499faafbb434851ec50a9b52311e81cbe9658b50f082",
+      "native_bytes": 3301440,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Rocks_SM_RockHexic_Rocks05",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 410,
+      "scene_triangles": 410,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -6.163143157958984,
+          -8.786660194396973,
+          -4.501989841461182
+        ],
+        "max": [
+          6.826271057128906,
+          7.706242561340332,
+          3.9689226150512695
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks05.glb",
+      "bytes": 3301412,
+      "sha256": "4413e651272aacd777dd1b9e4d1ae4da070b58227c660d43223d3801c4507ee2",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks06",
+      "source": {
+        "name": "SM_RockHexic_Rocks06",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks06.SM_RockHexic_Rocks06",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks06",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c79c4d8ebc28592bba335f6a4052e8f03a393ae51b43edf229f09e6b5f54b40e",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Rocks.MI_RockHexic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "7645553f5cbda928cc64bd4453707c2b73c84f17ada6da6b789b0df44c1989c3",
+      "native_bytes": 3240084,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Rocks_SM_RockHexic_Rocks06",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 430,
+      "scene_triangles": 430,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -6.247108459472656,
+          -7.395926475524902,
+          -5.082747459411621
+        ],
+        "max": [
+          5.2068705558776855,
+          9.192529678344727,
+          5.2732696533203125
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks06.glb",
+      "bytes": 3240056,
+      "sha256": "747f996a22c57935c2639ae2632835e9eb065739a8a86bb2cfc3c65a2c8f0887",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks06.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks07",
+      "source": {
+        "name": "SM_RockHexic_Rocks07",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks07.SM_RockHexic_Rocks07",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks07",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ebd16cb2a06b58a6e66d4c181576268d6d884d980429d48a7764723ca3e9d8e3",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Rocks.MI_RockHexic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "54b6ab5887ebf984626e001f22b365790bbc0ab6b2629fb2a7dd5f218eff5cfa",
+      "native_bytes": 3335064,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Rocks_SM_RockHexic_Rocks07",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 442,
+      "scene_triangles": 442,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -7.263007640838623,
+          -6.425668716430664,
+          -4.75818395614624
+        ],
+        "max": [
+          5.4423370361328125,
+          6.606987953186035,
+          4.196832180023193
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks07.glb",
+      "bytes": 3335036,
+      "sha256": "781a0521b6a60c2dfb071f35258077c11e7112749383a1909d8ebb770e61cf90",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks07.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks08",
+      "source": {
+        "name": "SM_RockHexic_Rocks08",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks08.SM_RockHexic_Rocks08",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks08",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ec382f76871c1b45b6d7bf865da0e9569f083f5645bdd1aafd3362e7f5d90437",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Rocks.MI_RockHexic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1b866780f7f7f761035edad4c6e6705b89a11baa7dd5edd2c40ceabadf77e691",
+      "native_bytes": 3399260,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Rocks_SM_RockHexic_Rocks08",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 628,
+      "scene_triangles": 628,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -7.487251281738281,
+          -5.489306449890137,
+          -5.475844383239746
+        ],
+        "max": [
+          8.000717163085938,
+          7.274998188018799,
+          6.315738201141357
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks08.glb",
+      "bytes": 3399232,
+      "sha256": "9dcee41487e32319d747b1a39a00c4299059df5901fb54491a992be843236bd9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks08.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks09",
+      "source": {
+        "name": "SM_RockHexic_Rocks09",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks09.SM_RockHexic_Rocks09",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks09",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "22a22db55596be4ad656488f971e11fc417767c5782a86745bd4dd29deb77835",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Rocks.MI_RockHexic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "94db69f25431d26a9134332bc4246d1f2848eb8d2b77c4d78667afdf33eab61d",
+      "native_bytes": 3397652,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Rocks_SM_RockHexic_Rocks09",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 610,
+      "scene_triangles": 610,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -6.457648754119873,
+          -9.578949928283691,
+          -5.5051188468933105
+        ],
+        "max": [
+          6.550270080566406,
+          9.6536226272583,
+          5.14884090423584
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks09.glb",
+      "bytes": 3397624,
+      "sha256": "3a0a83c7d5c8c2c03f2ece54564f7d036675cc118cd5d67a918779c948f76374",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks09.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks10",
+      "source": {
+        "name": "SM_RockHexic_Rocks10",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks10.SM_RockHexic_Rocks10",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Rocks10",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5773f187fec40ffdfdb87504eecfa3fb01ce06465ce27f4fd1f88db68a6ac2f9",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Rocks.MI_RockHexic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "4cf8fed359363b53d3af21096e2a7e833c20b05ed209125b90202ff514b59c32",
+      "native_bytes": 3450852,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Rocks_SM_RockHexic_Rocks10",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 664,
+      "scene_triangles": 664,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -6.4499053955078125,
+          -10.880127906799316,
+          -6.854394435882568
+        ],
+        "max": [
+          5.582183837890625,
+          9.730196952819824,
+          6.915628433227539
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks10.glb",
+      "bytes": 3450824,
+      "sha256": "fa9daa00149140e3af72589c2b20dbfc303ff27f55a93a223f6f407207418457",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks10.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Spire01",
+      "source": {
+        "name": "SM_RockHexic_Spire01",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Spire01.SM_RockHexic_Spire01",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Spire01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "dab10a104f6e31274e5e8be3dbb0d604066a96b50cb46807601bd424b154bac7",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Spire",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Spire.MI_RockHexic_Spire"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "042a5b2e3af3fbcde9408403326eeb21d3da2f995e9ea65b6a16504cfb9d4be4",
+      "native_bytes": 3345420,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Spire_SM_RockHexic_Spire01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 396,
+      "scene_triangles": 396,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -5.9225687980651855,
+          -17.420394897460938,
+          -4.824769496917725
+        ],
+        "max": [
+          6.167038440704346,
+          19.666542053222656,
+          5.615197658538818
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Spire01.glb",
+      "bytes": 3345396,
+      "sha256": "9a27c4efb53522d7f06f593087afa0c8a74a2d063b23dc63342d3813aa9fcc5e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Spire01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Spire02",
+      "source": {
+        "name": "SM_RockHexic_Spire02",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Spire02.SM_RockHexic_Spire02",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Spire02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2d32bcdb34faf675dc4aad28678b0a01bcb8189d379112b613348fe76e4ec9ed",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Spire",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Spire.MI_RockHexic_Spire"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a0172b81add852c89a2cb668f9c87abeb97a18aa809608fb758ddf86e1aaa66f",
+      "native_bytes": 3515056,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Spire_SM_RockHexic_Spire02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 748,
+      "scene_triangles": 748,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -6.8632988929748535,
+          -13.599373817443848,
+          -5.541286945343018
+        ],
+        "max": [
+          5.976480007171631,
+          21.340335845947266,
+          5.570459365844727
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Spire02.glb",
+      "bytes": 3515032,
+      "sha256": "e2f466937167a5250e0b591a2e7840be3c21c4d07aece8d7c0c3813001aa1f59",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Spire02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Spire03",
+      "source": {
+        "name": "SM_RockHexic_Spire03",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Spire03.SM_RockHexic_Spire03",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Spire03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2d9c5c57bb80271cb08a0c92a0830f39dc71adbea60d042a51767a7e9e09d95d",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Spire",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Spire.MI_RockHexic_Spire"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a304d62a1385132f8674f8bd03899a219d2de67c03fb45cd68acea5818c57975",
+      "native_bytes": 3089948,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Spire_SM_RockHexic_Spire03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1056,
+      "scene_triangles": 1056,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -8.84412670135498,
+          -13.129191398620605,
+          -9.707805633544922
+        ],
+        "max": [
+          9.60159969329834,
+          22.33614158630371,
+          9.115551948547363
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Spire03.glb",
+      "bytes": 3089920,
+      "sha256": "658ff892f7ac1df79b7bc929e1e3c8770919f445ab9d226d9ecbdc4fbecea6bf",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Spire03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

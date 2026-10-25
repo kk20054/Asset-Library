@@ -1,0 +1,1993 @@
+{
+  "schema_version": 1,
+  "category": "WaterSky",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_UnderwaterSurface32",
+      "source": {
+        "name": "SM_UnderwaterSurface32",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface32.SM_UnderwaterSurface32",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_UnderwaterSurface32",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "fd0a048fbef0026941c8211949934373becfb7bccce7c0d61c3e239a9fcd91a2",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_Stencil.MI_Water_Classic_Stencil"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f6bc5308a0aa03c0a8359bececd979a246459aae0eac1acedcc0009779956288",
+      "native_bytes": 120152,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_Stencil_SM_UnderwaterSurface32",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2180,
+      "scene_triangles": 2180,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -1.6292067073209182e-07,
+          -1.0000015497207642
+        ],
+        "max": [
+          1.0,
+          10.0,
+          1.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_UnderwaterSurface32.glb",
+      "bytes": 120124,
+      "sha256": "1b623cc0140c51c400ef38a3d3c02153337852ef56b02a557a461108e08abe3a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterSurface32.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterPlane",
+      "source": {
+        "name": "SM_WaterPlane",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane.SM_WaterPlane",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b9c740acb853a5b620e4bd7011bfa1615c74fcda23a0173367ca5bfda2b9bbcc",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Legacy/MI_Water.MI_Water"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "40828bece3fb1617e33525740b6be30b104acff09590ae1caf7e5345e95aa0fb",
+      "native_bytes": 304084,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_SM_WaterPlane",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2,
+      "scene_triangles": 2,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -8.0,
+          0.0,
+          -8.0
+        ],
+        "max": [
+          8.0,
+          0.0,
+          8.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterPlane.glb",
+      "bytes": 304056,
+      "sha256": "2182621714f710259c2840fc89f2bce6343f11815bf2318993771a544deaec85",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterPlane_01",
+      "source": {
+        "name": "SM_WaterPlane_01",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_01.SM_WaterPlane_01",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a407a4d8a17ac85e47482449d27558c5dbed2c8ef49a51e6f950240564071df2",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic.MI_Water_Classic"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "734c56a33d95e0fcbf7b1dc774d8e2004295d56db169242d44745cab62b7c53e",
+      "native_bytes": 352208,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_SM_WaterPlane_01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2,
+      "scene_triangles": 2,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -1.6292067073209182e-07,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          1.6292067073209182e-07,
+          1.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterPlane_01.glb",
+      "bytes": 352184,
+      "sha256": "37535ebba2ee1db5a85907610e4829aff0de30852ace06456f3d160327ee7626",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterPlane_02",
+      "source": {
+        "name": "SM_WaterPlane_02",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_02.SM_WaterPlane_02",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5b676c974ae53436c405c16e05873f9d2ba773203e00b34db0f3c600a00c24b5",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic.MI_Water_Classic"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "33be023f7e4ebc9707810f47bbbd543141660fb505b002ac522bb605ca58e20d",
+      "native_bytes": 352728,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_SM_WaterPlane_02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 8,
+      "scene_triangles": 8,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -1.6292067073209182e-07,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          1.6292067073209182e-07,
+          1.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterPlane_02.glb",
+      "bytes": 352700,
+      "sha256": "288f2f0234264c4cc199faf6b91d928b32fb145b4c664ebeb490edd17a06e7b0",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterPlane_04",
+      "source": {
+        "name": "SM_WaterPlane_04",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_04.SM_WaterPlane_04",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "bcbe8712d3d998f231d844f3a3436b7b1a3bb80a7cfd6386701925bb8f404be5",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic.MI_Water_Classic"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b682d20b0fb2977bf66b2c92928b06e8bde8c3ad18b2d818cd6c647c0362ebe0",
+      "native_bytes": 353760,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_SM_WaterPlane_04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 32,
+      "scene_triangles": 32,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -1.6292067073209182e-07,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          1.6292067073209182e-07,
+          1.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterPlane_04.glb",
+      "bytes": 353732,
+      "sha256": "ec20bf35de42b5b59e669107780a20dd7fda3852ea026236991b3226b1ce9d68",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterPlane_08",
+      "source": {
+        "name": "SM_WaterPlane_08",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_08.SM_WaterPlane_08",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_08",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "eebd79d64f0c27a1d2e4123fa3d946101893c94c47ecedec5e17f36fa4f55c60",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic.MI_Water_Classic"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b61aad38d52d91d47c23a5bfb3ec32a73802b5b9eb4e5f51e30f4063c6a562c4",
+      "native_bytes": 357300,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_SM_WaterPlane_08",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 128,
+      "scene_triangles": 128,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -1.6292067073209182e-07,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          1.6292067073209182e-07,
+          1.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterPlane_08.glb",
+      "bytes": 357272,
+      "sha256": "42f5a4635e3fb0ca90e954cc23daa1468c25279a9b72e2b0b559f097a7f9629d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_08.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterPlane_16",
+      "source": {
+        "name": "SM_WaterPlane_16",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_16.SM_WaterPlane_16",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_16",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a25d4f84fd2327ca9d85384097c81cda66fc33258f648f08d3eaba0a9e3f9e88",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic.MI_Water_Classic"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "67d70562716793c8e01f45bf02374e7e53baa239cd0b6cd56ce0db0cdaaf6be7",
+      "native_bytes": 371524,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_SM_WaterPlane_16",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 512,
+      "scene_triangles": 512,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -1.6292067073209182e-07,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          1.6292067073209182e-07,
+          1.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterPlane_16.glb",
+      "bytes": 371496,
+      "sha256": "c4ed855a1b24661dc1d4a3558d5758f1b80a7e01c1ec2709ba572b17ad43c71b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_16.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterPlane_32",
+      "source": {
+        "name": "SM_WaterPlane_32",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_32.SM_WaterPlane_32",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterPlane_32",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3ce1db6da44252a8e14a11c164e7c816d5b6ba4758564d87f5901ff9ea1cb7ae",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 5,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic.MI_Water_Classic"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "30859f0cfccfd570e514ac048ea201c37b7b5b1a50d90a559247f469ece98875",
+      "native_bytes": 425572,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_SM_WaterPlane_32",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2048,
+      "scene_triangles": 2048,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.0,
+          -1.6292067073209182e-07,
+          -1.0
+        ],
+        "max": [
+          1.0,
+          1.6292067073209182e-07,
+          1.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterPlane_32.glb",
+      "bytes": 425544,
+      "sha256": "3e98e940da8ebf7218b00655a83df8a94bc323bd31a428098f6331538dc2e2ea",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_32.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterRiver01",
+      "source": {
+        "name": "SM_WaterRiver01",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver01.SM_WaterRiver01",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8a6b876ed3c56e8b59044a0f3220f434ebba6627309706ed0ea86d44e8b3eb38",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic_River, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_River.MI_Water_Classic_River"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "abda24d4c57398e4e097fb14c6959a1a4949cca922d22fcfabb54a42a58d466b",
+      "native_bytes": 827332,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_River_SM_WaterRiver01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2,
+      "scene_triangles": 2,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          0.0,
+          -8.146033678713138e-07,
+          -5.0
+        ],
+        "max": [
+          10.0,
+          8.146033678713138e-07,
+          5.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterRiver01.glb",
+      "bytes": 827304,
+      "sha256": "401c48b8a999455542d94004da9de0f3aff466ec35c9f988fda74c6228fc371c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterRiver02",
+      "source": {
+        "name": "SM_WaterRiver02",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver02.SM_WaterRiver02",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "402d2df8038a58cf8899d4c8d308573b677e8feacbcd7ea7732007cc2b8419a2",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic_River, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_River.MI_Water_Classic_River"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "4e67d3b2cef2e342d0e2c7c36b056f62a1055dcbe315aa84a2da3db0f5e826b6",
+      "native_bytes": 827192,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_River_SM_WaterRiver02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 8,
+      "scene_triangles": 8,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          0.0,
+          -8.146033678713138e-07,
+          -5.0
+        ],
+        "max": [
+          10.0,
+          8.146033678713138e-07,
+          5.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterRiver02.glb",
+      "bytes": 827168,
+      "sha256": "aa1b0ff110eaa82cb5f8697709bb20f8b6eff8adfc9c05a92cfa46c98fefbda2",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterRiver04",
+      "source": {
+        "name": "SM_WaterRiver04",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver04.SM_WaterRiver04",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9a43c16e6cc14d31e49c697e0849d0461426c2742c89ee682c4f340ca016ddb5",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic_River, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_River.MI_Water_Classic_River"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c0d2d2a06bb0898efaaaf32b543a22c17040b273ea09d94a3d7cf59e55e5d72a",
+      "native_bytes": 828032,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_River_SM_WaterRiver04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 32,
+      "scene_triangles": 32,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          0.0,
+          -8.146033678713138e-07,
+          -5.0
+        ],
+        "max": [
+          10.0,
+          8.146033678713138e-07,
+          5.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterRiver04.glb",
+      "bytes": 828004,
+      "sha256": "fb7d3d083c22f642addabbefed9f3a9f8496052ada1fa3fc25d0f000f0298824",
+      "material_readiness": {
+        "status": "static_water_mesh_only",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Pale static approximation only; animated water and depth behavior need a custom material.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      },
+      "direct_sample_url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/samples/SM_WaterRiver04.glb",
+      "direct_sample": {
+        "path": "samples/SM_WaterRiver04.glb",
+        "bytes": 828004,
+        "sha256": "fb7d3d083c22f642addabbefed9f3a9f8496052ada1fa3fc25d0f000f0298824",
+        "url_status": "planned_repository_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterRiver08",
+      "source": {
+        "name": "SM_WaterRiver08",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver08.SM_WaterRiver08",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver08",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5ded7d389351f0d6124d0ee157cb996ee400092e9da59bbfa463a70568ef5309",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic_River, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_River.MI_Water_Classic_River"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "244bc15c5c6eab53116bb01c9192c8a34bbf1ede81e316f5a6d9a7ac849d85db",
+      "native_bytes": 831904,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_River_SM_WaterRiver08",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 128,
+      "scene_triangles": 128,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          0.0,
+          -8.146033678713138e-07,
+          -5.0
+        ],
+        "max": [
+          10.0,
+          8.146033678713138e-07,
+          5.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterRiver08.glb",
+      "bytes": 831880,
+      "sha256": "cd3b68a011d151a888fea4a761482aec18158371930e8c3dbddc17ae839ebc5c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver08.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterRiver16",
+      "source": {
+        "name": "SM_WaterRiver16",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver16.SM_WaterRiver16",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver16",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3b38d0abd7eb3b4f3debf6f88d7a2da761d40a4893ab43b1aa6ac80a0f34fc74",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic_River, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_River.MI_Water_Classic_River"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "9496b7a709323055f057e64b5de193d98148f67f77fe84accace20c6c1656cd1",
+      "native_bytes": 846148,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_River_SM_WaterRiver16",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 512,
+      "scene_triangles": 512,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          0.0,
+          -8.146033678713138e-07,
+          -5.0
+        ],
+        "max": [
+          10.0,
+          8.146033678713138e-07,
+          5.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterRiver16.glb",
+      "bytes": 846124,
+      "sha256": "39104a9a09faaebe9a0c7e5e0dea3f0607fc971dfae135ca8d2043060cc1d6ec",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver16.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterRiver32",
+      "source": {
+        "name": "SM_WaterRiver32",
+        "path": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver32.SM_WaterRiver32",
+        "package": "/Game/SoStylized/Environment/Water/Meshes/SM_WaterRiver32",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e630adf9fa40a18d74c2c5048dd25ad9e56f9679046c98953e35bb82752ce3b3",
+      "engine_log_warnings": [
+        "Unsupported shading model (SingleLayerWater) in material MI_Water_Classic_River, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Water_Classic_River.MI_Water_Classic_River"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e438cc2fa45f45590f54edbc401aee5a48dc52b156b146ba30a361ccb55b73ef",
+      "native_bytes": 899972,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_River_SM_WaterRiver32",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2048,
+      "scene_triangles": 2048,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          0.0,
+          -8.146033678713138e-07,
+          -5.0
+        ],
+        "max": [
+          10.0,
+          8.146033678713138e-07,
+          5.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Meshes/SM_WaterRiver32.glb",
+      "bytes": 899944,
+      "sha256": "c3164604a0746aee97fa51cc92981b4e4c18db5fd355ba7419c7b74bd46159ef",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver32.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Waterfall1",
+      "source": {
+        "name": "SM_Waterfall1",
+        "path": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall1.SM_Waterfall1",
+        "package": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Waterfalls",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b5c072ea6e989e88a8907b6a1255c7bd6d4647acc8072328bfdb32289b67654f",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Waterfall1 (section ), this may not be supported on some glTF viewers",
+        "In material MI_Waterfall_Classic : The Refraction property is using non const value. Avarage const value approximation is used as the glTF 2.0 standard only supports const value for said property (via khr_materials_ior)."
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Waterfall",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic.MI_Waterfall_Classic"
+        },
+        {
+          "slot": "M_WaterWaves",
+          "path": "/Game/SoStylized/Environment/Water/Materials/MI_WaterWaves.MI_WaterWaves"
+        },
+        {
+          "slot": "MI_Waterfall_Classic_Masked",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic_Masked.MI_Waterfall_Classic_Masked"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "104da307729ff2ca820f227b3af7ed7100eee564f0f302cc7a94385c0039671c",
+      "native_bytes": 224340,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Waterfall_Classic_SM_Waterfall1",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WaterWaves",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 122,
+      "scene_triangles": 122,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -4.281857967376709,
+          -4.4359035200614017e-07,
+          -3.02213716506958
+        ],
+        "max": [
+          4.281857967376709,
+          3.8204596042633057,
+          3.4053425788879395
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Waterfalls/SM_Waterfall1.glb",
+      "bytes": 224316,
+      "sha256": "e008742765f31af1ca96bae49154fcd0a20312e33d6a48a5c458f817f9031993",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Waterfall2",
+      "source": {
+        "name": "SM_Waterfall2",
+        "path": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall2.SM_Waterfall2",
+        "package": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Waterfalls",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "71bf0a3dbdfd1b40a90953383234dac1f45ea9dba081d9c588b25ef86dc3e870",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Waterfall2 (section ), this may not be supported on some glTF viewers",
+        "In material MI_Waterfall_Classic : The Refraction property is using non const value. Avarage const value approximation is used as the glTF 2.0 standard only supports const value for said property (via khr_materials_ior)."
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Waterfall",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic.MI_Waterfall_Classic"
+        },
+        {
+          "slot": "M_WaterWaves",
+          "path": "/Game/SoStylized/Environment/Water/Materials/MI_WaterWaves.MI_WaterWaves"
+        },
+        {
+          "slot": "MI_Waterfall_Classic_Masked",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic_Masked.MI_Waterfall_Classic_Masked"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "930ec659dced78b488123c7f398a9bc88fb9ca077e680f3038e2aaca7f283fba",
+      "native_bytes": 207900,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Waterfall_Classic_SM_Waterfall2",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WaterWaves",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 172,
+      "scene_triangles": 172,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -8.814702033996582,
+          -1.2399510751492926e-06,
+          -4.05127477645874
+        ],
+        "max": [
+          8.814703941345215,
+          3.796542167663574,
+          5.163502216339111
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Waterfalls/SM_Waterfall2.glb",
+      "bytes": 207872,
+      "sha256": "6f85dd49440beb454f2f64c4c01fad99cb7a3b16fca0f0475341c7bfee11056b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Waterfall3",
+      "source": {
+        "name": "SM_Waterfall3",
+        "path": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall3.SM_Waterfall3",
+        "package": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Waterfalls",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9d09d61bac3a7f47de1c1440ec25e9c93d92f2fbd90706641671597fdc1db8a0",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Waterfall3 (section ), this may not be supported on some glTF viewers",
+        "In material MI_Waterfall_Classic : The Refraction property is using non const value. Avarage const value approximation is used as the glTF 2.0 standard only supports const value for said property (via khr_materials_ior)."
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Waterfall",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic.MI_Waterfall_Classic"
+        },
+        {
+          "slot": "M_WaterWaves",
+          "path": "/Game/SoStylized/Environment/Water/Materials/MI_WaterWaves.MI_WaterWaves"
+        },
+        {
+          "slot": "MI_Waterfall_Classic_Masked",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic_Masked.MI_Waterfall_Classic_Masked"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0b527e1e5b5ae463eb36dab1b9c4a6ffa29384160ba77f8106f539c41fb85d90",
+      "native_bytes": 220376,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Waterfall_Classic_SM_Waterfall3",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WaterWaves",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 224,
+      "scene_triangles": 224,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -11.96835708618164,
+          -0.10639638453722,
+          -4.960822582244873
+        ],
+        "max": [
+          11.968341827392578,
+          3.756859302520752,
+          7.447366714477539
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Waterfalls/SM_Waterfall3.glb",
+      "bytes": 220348,
+      "sha256": "ea4d9ea60136fb5e902c332ffff96e600cf741a612fd4721937125bd973dd74f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Waterfall4",
+      "source": {
+        "name": "SM_Waterfall4",
+        "path": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall4.SM_Waterfall4",
+        "package": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall4",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Waterfalls",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "22cfcce3690ddb57d99c354a370ce5a7aff55c2b7c40376cb378e7e247c37fc9",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Waterfall4 (section ), this may not be supported on some glTF viewers",
+        "In material MI_Waterfall_Classic : The Refraction property is using non const value. Avarage const value approximation is used as the glTF 2.0 standard only supports const value for said property (via khr_materials_ior)."
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Waterfall",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic.MI_Waterfall_Classic"
+        },
+        {
+          "slot": "M_WaterWaves",
+          "path": "/Game/SoStylized/Environment/Water/Materials/MI_WaterWaves.MI_WaterWaves"
+        },
+        {
+          "slot": "MI_Waterfall_Classic_Masked",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic_Masked.MI_Waterfall_Classic_Masked"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "af579a663164aa6e835f8ef91858ce637c143445e46ddf6fbede6c878a662846",
+      "native_bytes": 223008,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Waterfall_Classic_SM_Waterfall4",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WaterWaves",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 240,
+      "scene_triangles": 240,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -6.403069496154785,
+          -0.05541243404150009,
+          -5.0
+        ],
+        "max": [
+          6.403069972991943,
+          6.734458923339844,
+          5.078192234039307
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Waterfalls/SM_Waterfall4.glb",
+      "bytes": 222980,
+      "sha256": "7a0692e77cfd77809b7dd87ee4a26f0ddbafbbbcc66fcb0486d47ac9cc06707a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall4.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Waterfall5",
+      "source": {
+        "name": "SM_Waterfall5",
+        "path": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall5.SM_Waterfall5",
+        "package": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall5",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Waterfalls",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a6ffe1b4e2907d993b3f9d49e11fa56d347e95a15958998dbd31063baf897578",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Waterfall5 (section ), this may not be supported on some glTF viewers",
+        "In material MI_Waterfall_Classic : The Refraction property is using non const value. Avarage const value approximation is used as the glTF 2.0 standard only supports const value for said property (via khr_materials_ior)."
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Waterfall",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic.MI_Waterfall_Classic"
+        },
+        {
+          "slot": "M_WaterWaves",
+          "path": "/Game/SoStylized/Environment/Water/Materials/MI_WaterWaves.MI_WaterWaves"
+        },
+        {
+          "slot": "MI_Waterfall_Classic_Masked",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic_Masked.MI_Waterfall_Classic_Masked"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5df4eded5982240371e15d3830430b07d2402869083767191c3c7408df9b5b54",
+      "native_bytes": 197252,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Waterfall_Classic_SM_Waterfall5",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WaterWaves",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 118,
+      "scene_triangles": 118,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -5.352245807647705,
+          -0.08716392517089844,
+          -3.7380306720733643
+        ],
+        "max": [
+          4.949585914611816,
+          17.9822998046875,
+          4.450196266174316
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Waterfalls/SM_Waterfall5.glb",
+      "bytes": 197224,
+      "sha256": "79ac43508c1533c5beb2e0affebadb73ce9454a012f39f532d5885fd3f5858d1",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall5.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Waterfall6",
+      "source": {
+        "name": "SM_Waterfall6",
+        "path": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall6.SM_Waterfall6",
+        "package": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall6",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Waterfalls",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "690ddbadfa26b933f425c2aacd94a3afe0d21f6e4b670608b4bb3d65c4598472",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Waterfall6 (section ), this may not be supported on some glTF viewers",
+        "In material MI_Waterfall_Classic : The Refraction property is using non const value. Avarage const value approximation is used as the glTF 2.0 standard only supports const value for said property (via khr_materials_ior)."
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Waterfall",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic.MI_Waterfall_Classic"
+        },
+        {
+          "slot": "M_WaterWaves",
+          "path": "/Game/SoStylized/Environment/Water/Materials/MI_WaterWaves.MI_WaterWaves"
+        },
+        {
+          "slot": "MI_Waterfall_Classic_Masked",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic_Masked.MI_Waterfall_Classic_Masked"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "7bc226f84301a250edf7f29ee2fd4ad190bbc08731fa60151db674ceb90e1840",
+      "native_bytes": 228928,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Waterfall_Classic_SM_Waterfall6",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WaterWaves",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 154,
+      "scene_triangles": 154,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -13.678539276123047,
+          -0.08886559307575226,
+          -6.292070388793945
+        ],
+        "max": [
+          13.678547859191895,
+          18.07443618774414,
+          9.120340347290039
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Waterfalls/SM_Waterfall6.glb",
+      "bytes": 228900,
+      "sha256": "5ed14e7aafc69e8ea8f5821b052f0c4d9033be935a499056e7b0387af4a6ea25",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall6.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

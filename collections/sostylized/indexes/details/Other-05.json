@@ -1,0 +1,1728 @@
+{
+  "schema_version": 1,
+  "category": "Other",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodDead01",
+      "source": {
+        "name": "SM_Collision_KnotwoodDead01",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodDead01.SM_Collision_KnotwoodDead01",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodDead01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b4ed1b1631b0863078d9f53b20616033d5e8af415b6448c1fa2c7b66bead776f",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "10a209a28c199466c1581b997401b73bc1d3b5859a5ec4626b7ec7ced77175bd",
+      "native_bytes": 589340,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 415,
+      "scene_triangles": 415,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -5.030621528625488,
+          -1.0457439422607422,
+          -6.11275577545166
+        ],
+        "max": [
+          4.564492225646973,
+          10.398261070251465,
+          3.3918449878692627
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodDead01.glb",
+      "bytes": 589340,
+      "sha256": "10a209a28c199466c1581b997401b73bc1d3b5859a5ec4626b7ec7ced77175bd",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_KnotwoodDead01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodDead02",
+      "source": {
+        "name": "SM_Collision_KnotwoodDead02",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodDead02.SM_Collision_KnotwoodDead02",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodDead02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "fe69cbafd231a93883bdc43649bd09b8b28b4d4e15b95f6e722600c16e205bd0",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "959caa4c74e371cfba1baab2b7b986f65e55f17e64dd1c9ac476aa636b3ed8dd",
+      "native_bytes": 586080,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 386,
+      "scene_triangles": 386,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -5.475088596343994,
+          -1.4965026378631592,
+          -3.2628679275512695
+        ],
+        "max": [
+          4.912489891052246,
+          8.538897514343262,
+          4.697251319885254
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodDead02.glb",
+      "bytes": 586080,
+      "sha256": "959caa4c74e371cfba1baab2b7b986f65e55f17e64dd1c9ac476aa636b3ed8dd",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_KnotwoodDead02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodTree01",
+      "source": {
+        "name": "SM_Collision_KnotwoodTree01",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodTree01.SM_Collision_KnotwoodTree01",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodTree01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b69cde4da67bb011f03ab43c9ca0ba807c1177234163dc11148bd509c81ed086",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "bb6b8b57d80c3a32aa5dfc30d6bd174b292494ddfd394183cbcf86c92bec3e73",
+      "native_bytes": 594640,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 347,
+      "scene_triangles": 347,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -6.04981803894043,
+          -1.3975329399108887,
+          -7.018500804901123
+        ],
+        "max": [
+          4.979400634765625,
+          13.921100616455078,
+          4.563262462615967
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree01.glb",
+      "bytes": 594640,
+      "sha256": "bb6b8b57d80c3a32aa5dfc30d6bd174b292494ddfd394183cbcf86c92bec3e73",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodTree02",
+      "source": {
+        "name": "SM_Collision_KnotwoodTree02",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodTree02.SM_Collision_KnotwoodTree02",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodTree02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f773574dfb52c65082cd41dc912960b15c406ddaf6e0401b5ac1c8e768e2de78",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "40f63a743bec2a0f4a932a15ede97422a88dba4573712053b460f8859c4c0f9f",
+      "native_bytes": 579264,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 257,
+      "scene_triangles": 257,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -4.31313419342041,
+          -1.2744426727294922,
+          -4.950183391571045
+        ],
+        "max": [
+          6.314822196960449,
+          15.55920124053955,
+          3.0747201442718506
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree02.glb",
+      "bytes": 579264,
+      "sha256": "40f63a743bec2a0f4a932a15ede97422a88dba4573712053b460f8859c4c0f9f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodTree03",
+      "source": {
+        "name": "SM_Collision_KnotwoodTree03",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodTree03.SM_Collision_KnotwoodTree03",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodTree03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ccd4c246a76811449897bd04f1ef86c94a08c9a5e0649b4d24a16964ef78a093",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "89ee121c996e2acfea5cda6af8a411f5bef5b2728ccfd5c53be369335c728f4e",
+      "native_bytes": 588604,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 325,
+      "scene_triangles": 325,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -7.503464698791504,
+          -2.0193257331848145,
+          -7.017690181732178
+        ],
+        "max": [
+          6.277584552764893,
+          18.14132308959961,
+          5.912109851837158
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree03.glb",
+      "bytes": 588604,
+      "sha256": "89ee121c996e2acfea5cda6af8a411f5bef5b2728ccfd5c53be369335c728f4e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodTree04",
+      "source": {
+        "name": "SM_Collision_KnotwoodTree04",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodTree04.SM_Collision_KnotwoodTree04",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodTree04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a346f9d4ed5876853e9bc3b8905110cbf647825a025432125b30aa80aab62895",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c0a7410dda045634dde9e255036b585cf8b996fb47cacef99352fd415bcd64c7",
+      "native_bytes": 566392,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 199,
+      "scene_triangles": 199,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -5.402891635894775,
+          -1.9567898511886597,
+          -9.053394317626953
+        ],
+        "max": [
+          5.524747848510742,
+          11.095799446105957,
+          1.1047710180282593
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree04.glb",
+      "bytes": 566392,
+      "sha256": "c0a7410dda045634dde9e255036b585cf8b996fb47cacef99352fd415bcd64c7",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodTreeB01",
+      "source": {
+        "name": "SM_Collision_KnotwoodTreeB01",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodTreeB01.SM_Collision_KnotwoodTreeB01",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_KnotwoodTreeB01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f6ece84d34e8690c954b7258bdd97663e3be74bbaad58ac7a45c51267d0239dc",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "fd84d04bf25ef6151a79e3bdabd8973a7cd5fd848240ba84e41117a092de7fce",
+      "native_bytes": 573772,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 229,
+      "scene_triangles": 229,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -2.4340708255767822,
+          -1.4166064262390137,
+          -2.598536252975464
+        ],
+        "max": [
+          18.200740814208984,
+          12.415242195129395,
+          2.766428232192993
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodTreeB01.glb",
+      "bytes": 573772,
+      "sha256": "fd84d04bf25ef6151a79e3bdabd8973a7cd5fd848240ba84e41117a092de7fce",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_KnotwoodTreeB01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakFallen1",
+      "source": {
+        "name": "SM_Collision_OakFallen1",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakFallen1.SM_Collision_OakFallen1",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakFallen1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ac796b97ee35e152e3e2924e7e7f090178fafd4eea6bc8e44304c3463fb93c7f",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "d78e108e828d30f695cb373104014f81867696853610b1b35740c3061f8fe0db",
+      "native_bytes": 607428,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 452,
+      "scene_triangles": 452,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -2.264052152633667,
+          -0.10950398445129395,
+          -4.424928665161133
+        ],
+        "max": [
+          2.011575937271118,
+          1.7789109945297241,
+          4.289936542510986
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakFallen1.glb",
+      "bytes": 607428,
+      "sha256": "d78e108e828d30f695cb373104014f81867696853610b1b35740c3061f8fe0db",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_OakFallen1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakFallen2",
+      "source": {
+        "name": "SM_Collision_OakFallen2",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakFallen2.SM_Collision_OakFallen2",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakFallen2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9d1644ea2e2930f92236381610bb49b6f77bb615afb27dbe3eae12ed02c03e6a",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "35ae04b2e8cd067d0e11640eb85846bb1585e0c24f186b30a73815515be5c6f7",
+      "native_bytes": 549104,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 104,
+      "scene_triangles": 104,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.8960661888122559,
+          -0.010808861814439297,
+          -3.3189899921417236
+        ],
+        "max": [
+          0.9592451453208923,
+          1.4545365571975708,
+          3.763540506362915
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakFallen2.glb",
+      "bytes": 549104,
+      "sha256": "35ae04b2e8cd067d0e11640eb85846bb1585e0c24f186b30a73815515be5c6f7",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_OakFallen2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakStump1",
+      "source": {
+        "name": "SM_Collision_OakStump1",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakStump1.SM_Collision_OakStump1",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakStump1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "329a40073b2363f31b15afc9b5b69d1c859d1c948aa8adad74e190776caad816",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "d7e7e32954116249be44fc2d4f90ccfb788dfa6618784511f13ed0205b2c4b33",
+      "native_bytes": 577760,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 288,
+      "scene_triangles": 288,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.324812650680542,
+          -0.6523190140724182,
+          -1.2494089603424072
+        ],
+        "max": [
+          1.2433923482894897,
+          2.7016658782958984,
+          1.0582994222640991
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakStump1.glb",
+      "bytes": 577760,
+      "sha256": "d7e7e32954116249be44fc2d4f90ccfb788dfa6618784511f13ed0205b2c4b33",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_OakStump1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakStump1_SnowCover",
+      "source": {
+        "name": "SM_Collision_OakStump1_SnowCover",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakStump1_SnowCover.SM_Collision_OakStump1_SnowCover",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakStump1_SnowCover",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f53164017398c176503635ec78f6a8e18129d61f0f9304829ab853bf7cd9c53d",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "cf88a8fe91c0c079d06e6b68481afa021ba2e8cf2406a8964779ae595aaa1838",
+      "native_bytes": 598676,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 374,
+      "scene_triangles": 374,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -2.0659008026123047,
+          -0.9895249009132385,
+          -1.2494089603424072
+        ],
+        "max": [
+          1.2433924674987793,
+          2.7016658782958984,
+          1.3687388896942139
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakStump1_SnowCover.glb",
+      "bytes": 598676,
+      "sha256": "cf88a8fe91c0c079d06e6b68481afa021ba2e8cf2406a8964779ae595aaa1838",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_OakStump1_SnowCover.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTree1",
+      "source": {
+        "name": "SM_Collision_OakTree1",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTree1.SM_Collision_OakTree1",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTree1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "32aa4c689047648d4d48624bea1ec96e2f7af9bbe6797af9a97c5f986dc87188",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "14b21e8ffbd125166a91608c6998a97c3a064d77ad0daa446f6abe3b1597885e",
+      "native_bytes": 580272,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 361,
+      "scene_triangles": 361,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.0996543169021606,
+          -0.22108618915081024,
+          -6.356155872344971
+        ],
+        "max": [
+          4.575081825256348,
+          11.863274574279785,
+          3.616281270980835
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTree1.glb",
+      "bytes": 580272,
+      "sha256": "14b21e8ffbd125166a91608c6998a97c3a064d77ad0daa446f6abe3b1597885e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_OakTree1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTree2",
+      "source": {
+        "name": "SM_Collision_OakTree2",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTree2.SM_Collision_OakTree2",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTree2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3316d1e286c69f5ffe46473a9b757101ee299bcb9158a7117d9143c9ab67818d",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2543b75a562177b401012953c0cc4b9f9c3bb87ed92b92f707627083442f63b1",
+      "native_bytes": 565132,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 209,
+      "scene_triangles": 209,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -2.316798448562622,
+          -0.577149510383606,
+          -1.4324843883514404
+        ],
+        "max": [
+          3.0598134994506836,
+          11.118270874023438,
+          1.7322890758514404
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTree2.glb",
+      "bytes": 565132,
+      "sha256": "2543b75a562177b401012953c0cc4b9f9c3bb87ed92b92f707627083442f63b1",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_OakTree2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTree3",
+      "source": {
+        "name": "SM_Collision_OakTree3",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTree3.SM_Collision_OakTree3",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTree3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7cfe411b1f142e23f78a17c1bc248993fddee77a7a2a7df68ab62e2a848b9cbf",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "efd44215e0a93258733baff9b1cf66b12d3269e1063a5c7aea5825ab232481dc",
+      "native_bytes": 589040,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 432,
+      "scene_triangles": 432,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -3.2564916610717773,
+          -0.8945496082305908,
+          -4.469981670379639
+        ],
+        "max": [
+          4.5210490226745605,
+          13.5751314163208,
+          4.238157272338867
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTree3.glb",
+      "bytes": 589040,
+      "sha256": "efd44215e0a93258733baff9b1cf66b12d3269e1063a5c7aea5825ab232481dc",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_OakTree3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTree4",
+      "source": {
+        "name": "SM_Collision_OakTree4",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTree4.SM_Collision_OakTree4",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTree4",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "19d5ad906e1cb9743f3e679f130d6f4721d51da14ccf1ecbd488cffb5290b30d",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "51c65d69a30655b68461058697b6eebbcb2f5cd3862649c51acff0ded810c179",
+      "native_bytes": 581292,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 354,
+      "scene_triangles": 354,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -2.881913900375366,
+          -0.4822755753993988,
+          -4.451467037200928
+        ],
+        "max": [
+          4.162609577178955,
+          11.057499885559082,
+          3.7383618354797363
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTree4.glb",
+      "bytes": 581292,
+      "sha256": "51c65d69a30655b68461058697b6eebbcb2f5cd3862649c51acff0ded810c179",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_OakTree4.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTreeLarge1",
+      "source": {
+        "name": "SM_Collision_OakTreeLarge1",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTreeLarge1.SM_Collision_OakTreeLarge1",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTreeLarge1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "092a11535bceda389f858013b576eb19f402cbb8a3ea86e81013e35b554c6d43",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "812fae450cf47132a88beade8fa18d5dadf38ae8ed54092fda5dd596ccc4c0bd",
+      "native_bytes": 661580,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 928,
+      "scene_triangles": 928,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -8.379639625549316,
+          -1.45187509059906,
+          -8.908122062683105
+        ],
+        "max": [
+          11.056984901428223,
+          25.399085998535156,
+          10.222326278686523
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTreeLarge1.glb",
+      "bytes": 661580,
+      "sha256": "812fae450cf47132a88beade8fa18d5dadf38ae8ed54092fda5dd596ccc4c0bd",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_OakTreeLarge1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTreeLarge2",
+      "source": {
+        "name": "SM_Collision_OakTreeLarge2",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTreeLarge2.SM_Collision_OakTreeLarge2",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTreeLarge2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7bd32d68f72c065f5a8df229cafd25ceffd1313c1f23941208d6f0377e39e30c",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "52757b81c9fbcaa7927876b465213d88233a58483578f817b44aa2b0350988f1",
+      "native_bytes": 602548,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 469,
+      "scene_triangles": 469,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -7.5394768714904785,
+          -0.9583109617233276,
+          -1.5489498376846313
+        ],
+        "max": [
+          6.331292152404785,
+          24.1359806060791,
+          6.425583362579346
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTreeLarge2.glb",
+      "bytes": 602548,
+      "sha256": "52757b81c9fbcaa7927876b465213d88233a58483578f817b44aa2b0350988f1",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_OakTreeLarge2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTreeLarge3",
+      "source": {
+        "name": "SM_Collision_OakTreeLarge3",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTreeLarge3.SM_Collision_OakTreeLarge3",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_OakTreeLarge3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "79ccfba3be37c2edfed073b549d7469cbdae6e349ef16a29e382bdc4548616db",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "82fa4001db5d7f43e46d7fafc5d2a45be190de104442e164390a5099c652a8b1",
+      "native_bytes": 654000,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 990,
+      "scene_triangles": 990,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -11.16200065612793,
+          -1.096782922744751,
+          -8.130053520202637
+        ],
+        "max": [
+          12.518702507019043,
+          27.598073959350586,
+          9.767812728881836
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTreeLarge3.glb",
+      "bytes": 654000,
+      "sha256": "82fa4001db5d7f43e46d7fafc5d2a45be190de104442e164390a5099c652a8b1",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_OakTreeLarge3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmFallen01",
+      "source": {
+        "name": "SM_Collision_PalmFallen01",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_PalmFallen01.SM_Collision_PalmFallen01",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_PalmFallen01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "bc86328f9be8218029b42f681863a992e76c66675f16bcb516777a036da10ea8",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f6f8bb78db8b96f1cd89a6d21d2bd7c2a5984359c7fb0c9c99798d5f432f1eeb",
+      "native_bytes": 538184,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 44,
+      "scene_triangles": 44,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.44997888803482056,
+          -0.03507508337497711,
+          -2.3689634799957275
+        ],
+        "max": [
+          0.4442603886127472,
+          0.8591641783714294,
+          2.781505584716797
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmFallen01.glb",
+      "bytes": 538184,
+      "sha256": "f6f8bb78db8b96f1cd89a6d21d2bd7c2a5984359c7fb0c9c99798d5f432f1eeb",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_PalmFallen01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmFallen02",
+      "source": {
+        "name": "SM_Collision_PalmFallen02",
+        "path": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_PalmFallen02.SM_Collision_PalmFallen02",
+        "package": "/Game/SoStylized/Environment/Trees/Collision/SM_Collision_PalmFallen02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6c205b6cfcb9d8c2731bfdab2d3481b1bae4feeb6f53ef737fad865a4dbbf9c1",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "4e0ef7fdd66e997f1901f19ea12902985024b6a6dbf489a3d33f827731349500",
+      "native_bytes": 538184,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 44,
+      "scene_triangles": 44,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.5329903364181519,
+          -0.03719870746135712,
+          -4.019448757171631
+        ],
+        "max": [
+          0.444231241941452,
+          0.7585872411727905,
+          3.98185658454895
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmFallen02.glb",
+      "bytes": 538184,
+      "sha256": "4e0ef7fdd66e997f1901f19ea12902985024b6a6dbf489a3d33f827731349500",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Collision/SM_Collision_PalmFallen02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "category": "Audio",
+  "asset_count": 17,
+  "full_catalog": "../catalog.json",
+  "downloads": "../downloads.json",
+  "path_scope": "Asset path is inside the extracted ZIP root, not a direct repository model path. Use download.zip_member or direct_sample_url.",
+  "detail_pages": [
+    "details/Audio-01.json"
+  ],
+  "assets": [
+    {
+      "id": "SOSTYLIZED_S_TimeSkip",
+      "name": "S_TimeSkip",
+      "path": "Audio/Sounds/Misc/S_TimeSkip.wav",
+      "bytes": 1765860,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Step_Dirt01",
+      "name": "S_Step_Dirt01",
+      "path": "Audio/Sounds/Step/S_Step_Dirt01.wav",
+      "bytes": 82496,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Step_Dirt02",
+      "name": "S_Step_Dirt02",
+      "path": "Audio/Sounds/Step/S_Step_Dirt02.wav",
+      "bytes": 76612,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Step_Dirt03",
+      "name": "S_Step_Dirt03",
+      "path": "Audio/Sounds/Step/S_Step_Dirt03.wav",
+      "bytes": 58952,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Ambience_Lightning_Distant",
+      "name": "S_Ambience_Lightning_Distant",
+      "path": "Audio/Sounds/Weather/S_Ambience_Lightning_Distant.wav",
+      "bytes": 18528844,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Ambience_Nature",
+      "name": "S_Ambience_Nature",
+      "path": "Audio/Sounds/Weather/S_Ambience_Nature.wav",
+      "bytes": 2648736,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Ambience_Nature_Night",
+      "name": "S_Ambience_Nature_Night",
+      "path": "Audio/Sounds/Weather/S_Ambience_Nature_Night.wav",
+      "bytes": 3531624,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Ambience_Wind",
+      "name": "S_Ambience_Wind",
+      "path": "Audio/Sounds/Weather/S_Ambience_Wind.wav",
+      "bytes": 3531620,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Charge",
+      "name": "S_Lightning_Charge",
+      "path": "Audio/Sounds/Weather/S_Lightning_Charge.wav",
+      "bytes": 547484,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Close01",
+      "name": "S_Lightning_Close01",
+      "path": "Audio/Sounds/Weather/S_Lightning_Close01.wav",
+      "bytes": 1294988,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Close02",
+      "name": "S_Lightning_Close02",
+      "path": "Audio/Sounds/Weather/S_Lightning_Close02.wav",
+      "bytes": 1294988,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Close03",
+      "name": "S_Lightning_Close03",
+      "path": "Audio/Sounds/Weather/S_Lightning_Close03.wav",
+      "bytes": 1294988,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Far01",
+      "name": "S_Lightning_Far01",
+      "path": "Audio/Sounds/Weather/S_Lightning_Far01.wav",
+      "bytes": 1153728,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Far02",
+      "name": "S_Lightning_Far02",
+      "path": "Audio/Sounds/Weather/S_Lightning_Far02.wav",
+      "bytes": 1294988,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Far03",
+      "name": "S_Lightning_Far03",
+      "path": "Audio/Sounds/Weather/S_Lightning_Far03.wav",
+      "bytes": 1289104,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Rain_Gentle",
+      "name": "S_Rain_Gentle",
+      "path": "Audio/Sounds/Weather/S_Rain_Gentle.wav",
+      "bytes": 3531620,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_S_Rain_Medium",
+      "name": "S_Rain_Medium",
+      "path": "Audio/Sounds/Weather/S_Rain_Medium.wav",
+      "bytes": 2648740,
+      "triangles": null,
+      "material_status": "native_wav_source",
+      "download_zip": "SoStylized_Godot_Blender_Audio_part01.zip",
+      "details": "details/Audio-01.json"
+    }
+  ]
+}

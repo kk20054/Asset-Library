@@ -1,0 +1,1631 @@
+{
+  "schema_version": 1,
+  "category": "Trees",
+  "asset_count": 161,
+  "full_catalog": "../catalog.json",
+  "downloads": "../downloads.json",
+  "path_scope": "Asset path is inside the extracted ZIP root, not a direct repository model path. Use download.zip_member or direct_sample_url.",
+  "detail_pages": [
+    "details/Trees-01.json",
+    "details/Trees-02.json",
+    "details/Trees-03.json",
+    "details/Trees-04.json",
+    "details/Trees-05.json",
+    "details/Trees-06.json",
+    "details/Trees-07.json",
+    "details/Trees-08.json",
+    "details/Trees-09.json"
+  ],
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_Bamboo1",
+      "name": "SM_Bamboo1",
+      "path": "Models/Environment/Trees/Bamboo/SM_Bamboo1.glb",
+      "bytes": 3234400,
+      "triangles": 1554,
+      "material_status": "representative_static_pbr_preview",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Bamboo2",
+      "name": "SM_Bamboo2",
+      "path": "Models/Environment/Trees/Bamboo/SM_Bamboo2.glb",
+      "bytes": 2198852,
+      "triangles": 931,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Bamboo3",
+      "name": "SM_Bamboo3",
+      "path": "Models/Environment/Trees/Bamboo/SM_Bamboo3.glb",
+      "bytes": 1807732,
+      "triangles": 1192,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Bamboo4",
+      "name": "SM_Bamboo4",
+      "path": "Models/Environment/Trees/Bamboo/SM_Bamboo4.glb",
+      "bytes": 2067736,
+      "triangles": 1862,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooFallen1",
+      "name": "SM_BambooFallen1",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooFallen1.glb",
+      "bytes": 2653524,
+      "triangles": 682,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSapling1",
+      "name": "SM_BambooSapling1",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSapling1.glb",
+      "bytes": 3118880,
+      "triangles": 218,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSapling2",
+      "name": "SM_BambooSapling2",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSapling2.glb",
+      "bytes": 3189344,
+      "triangles": 250,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSapling3",
+      "name": "SM_BambooSapling3",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSapling3.glb",
+      "bytes": 2877760,
+      "triangles": 186,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSapling4",
+      "name": "SM_BambooSapling4",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSapling4.glb",
+      "bytes": 3106396,
+      "triangles": 314,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSapling5",
+      "name": "SM_BambooSapling5",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSapling5.glb",
+      "bytes": 3171728,
+      "triangles": 338,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSaplingClump1",
+      "name": "SM_BambooSaplingClump1",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSaplingClump1.glb",
+      "bytes": 3499532,
+      "triangles": 830,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSaplingClump2",
+      "name": "SM_BambooSaplingClump2",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSaplingClump2.glb",
+      "bytes": 2733832,
+      "triangles": 554,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSaplingClump3",
+      "name": "SM_BambooSaplingClump3",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSaplingClump3.glb",
+      "bytes": 2761180,
+      "triangles": 1043,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSprout1",
+      "name": "SM_BambooSprout1",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSprout1.glb",
+      "bytes": 3317416,
+      "triangles": 1034,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooStump1",
+      "name": "SM_BambooStump1",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooStump1.glb",
+      "bytes": 2646248,
+      "triangles": 234,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooStump2",
+      "name": "SM_BambooStump2",
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooStump2.glb",
+      "bytes": 2155064,
+      "triangles": 130,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchSapling1",
+      "name": "SM_BirchSapling1",
+      "path": "Models/Environment/Trees/Birch/SM_BirchSapling1.glb",
+      "bytes": 1631572,
+      "triangles": 600,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchSapling2",
+      "name": "SM_BirchSapling2",
+      "path": "Models/Environment/Trees/Birch/SM_BirchSapling2.glb",
+      "bytes": 1742304,
+      "triangles": 774,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchStump1",
+      "name": "SM_BirchStump1",
+      "path": "Models/Environment/Trees/Birch/SM_BirchStump1.glb",
+      "bytes": 2157632,
+      "triangles": 245,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchTree1",
+      "name": "SM_BirchTree1",
+      "path": "Models/Environment/Trees/Birch/SM_BirchTree1.glb",
+      "bytes": 2947192,
+      "triangles": 9634,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchTree2",
+      "name": "SM_BirchTree2",
+      "path": "Models/Environment/Trees/Birch/SM_BirchTree2.glb",
+      "bytes": 2622140,
+      "triangles": 6984,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchTree3",
+      "name": "SM_BirchTree3",
+      "path": "Models/Environment/Trees/Birch/SM_BirchTree3.glb",
+      "bytes": 1997364,
+      "triangles": 3816,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchTreeB1",
+      "name": "SM_BirchTreeB1",
+      "path": "Models/Environment/Trees/Birch/SM_BirchTreeB1.glb",
+      "bytes": 1727252,
+      "triangles": 3906,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchTreeB2",
+      "name": "SM_BirchTreeB2",
+      "path": "Models/Environment/Trees/Birch/SM_BirchTreeB2.glb",
+      "bytes": 1805308,
+      "triangles": 5052,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchTreeB3",
+      "name": "SM_BirchTreeB3",
+      "path": "Models/Environment/Trees/Birch/SM_BirchTreeB3.glb",
+      "bytes": 2143720,
+      "triangles": 5680,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPine01",
+      "name": "SM_ChinaPine01",
+      "path": "Models/Environment/Trees/China/SM_ChinaPine01.glb",
+      "bytes": 1284056,
+      "triangles": 1968,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPine02",
+      "name": "SM_ChinaPine02",
+      "path": "Models/Environment/Trees/China/SM_ChinaPine02.glb",
+      "bytes": 1392644,
+      "triangles": 2019,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPine03",
+      "name": "SM_ChinaPine03",
+      "path": "Models/Environment/Trees/China/SM_ChinaPine03.glb",
+      "bytes": 712912,
+      "triangles": 3072,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPineB01",
+      "name": "SM_ChinaPineB01",
+      "path": "Models/Environment/Trees/China/SM_ChinaPineB01.glb",
+      "bytes": 1508752,
+      "triangles": 1716,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPineB02",
+      "name": "SM_ChinaPineB02",
+      "path": "Models/Environment/Trees/China/SM_ChinaPineB02.glb",
+      "bytes": 697664,
+      "triangles": 2610,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPineB03",
+      "name": "SM_ChinaPineB03",
+      "path": "Models/Environment/Trees/China/SM_ChinaPineB03.glb",
+      "bytes": 1326224,
+      "triangles": 2448,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPineC01",
+      "name": "SM_ChinaPineC01",
+      "path": "Models/Environment/Trees/China/SM_ChinaPineC01.glb",
+      "bytes": 1177608,
+      "triangles": 1652,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ChinaPineC02",
+      "name": "SM_ChinaPineC02",
+      "path": "Models/Environment/Trees/China/SM_ChinaPineC02.glb",
+      "bytes": 1593732,
+      "triangles": 1438,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodDead01",
+      "name": "SM_KnotwoodDead01",
+      "path": "Models/Environment/Trees/China/SM_KnotwoodDead01.glb",
+      "bytes": 3372828,
+      "triangles": 730,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodDead02",
+      "name": "SM_KnotwoodDead02",
+      "path": "Models/Environment/Trees/China/SM_KnotwoodDead02.glb",
+      "bytes": 3645272,
+      "triangles": 874,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodTree01",
+      "name": "SM_KnotwoodTree01",
+      "path": "Models/Environment/Trees/China/SM_KnotwoodTree01.glb",
+      "bytes": 1602456,
+      "triangles": 1422,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodTree02",
+      "name": "SM_KnotwoodTree02",
+      "path": "Models/Environment/Trees/China/SM_KnotwoodTree02.glb",
+      "bytes": 1502432,
+      "triangles": 1310,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodTree03",
+      "name": "SM_KnotwoodTree03",
+      "path": "Models/Environment/Trees/China/SM_KnotwoodTree03.glb",
+      "bytes": 1851836,
+      "triangles": 1696,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodTree04",
+      "name": "SM_KnotwoodTree04",
+      "path": "Models/Environment/Trees/China/SM_KnotwoodTree04.glb",
+      "bytes": 1480696,
+      "triangles": 1270,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_KnotwoodTreeB01",
+      "name": "SM_KnotwoodTreeB01",
+      "path": "Models/Environment/Trees/China/SM_KnotwoodTreeB01.glb",
+      "bytes": 1648136,
+      "triangles": 1694,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMaple01",
+      "name": "SM_RedMaple01",
+      "path": "Models/Environment/Trees/China/SM_RedMaple01.glb",
+      "bytes": 2131836,
+      "triangles": 1242,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMaple02",
+      "name": "SM_RedMaple02",
+      "path": "Models/Environment/Trees/China/SM_RedMaple02.glb",
+      "bytes": 1845580,
+      "triangles": 1807,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMaple03",
+      "name": "SM_RedMaple03",
+      "path": "Models/Environment/Trees/China/SM_RedMaple03.glb",
+      "bytes": 1733072,
+      "triangles": 1742,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMaple04",
+      "name": "SM_RedMaple04",
+      "path": "Models/Environment/Trees/China/SM_RedMaple04.glb",
+      "bytes": 2026820,
+      "triangles": 3260,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMapleRoots01",
+      "name": "SM_RedMapleRoots01",
+      "path": "Models/Environment/Trees/China/SM_RedMapleRoots01.glb",
+      "bytes": 3099364,
+      "triangles": 180,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMapleRoots02",
+      "name": "SM_RedMapleRoots02",
+      "path": "Models/Environment/Trees/China/SM_RedMapleRoots02.glb",
+      "bytes": 3017508,
+      "triangles": 168,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMapleRoots03",
+      "name": "SM_RedMapleRoots03",
+      "path": "Models/Environment/Trees/China/SM_RedMapleRoots03.glb",
+      "bytes": 2584388,
+      "triangles": 378,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMapleSapling01",
+      "name": "SM_RedMapleSapling01",
+      "path": "Models/Environment/Trees/China/SM_RedMapleSapling01.glb",
+      "bytes": 1326180,
+      "triangles": 138,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMapleSapling02",
+      "name": "SM_RedMapleSapling02",
+      "path": "Models/Environment/Trees/China/SM_RedMapleSapling02.glb",
+      "bytes": 1406580,
+      "triangles": 220,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TheGreetingPine",
+      "name": "SM_TheGreetingPine",
+      "path": "Models/Environment/Trees/China/SM_TheGreetingPine.glb",
+      "bytes": 1266972,
+      "triangles": 2062,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BananaTree01",
+      "name": "SM_BananaTree01",
+      "path": "Models/Environment/Trees/Coastal/SM_BananaTree01.glb",
+      "bytes": 3202380,
+      "triangles": 236,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BananaTree02",
+      "name": "SM_BananaTree02",
+      "path": "Models/Environment/Trees/Coastal/SM_BananaTree02.glb",
+      "bytes": 2899660,
+      "triangles": 326,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BananaTree03",
+      "name": "SM_BananaTree03",
+      "path": "Models/Environment/Trees/Coastal/SM_BananaTree03.glb",
+      "bytes": 3680308,
+      "triangles": 557,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BananaTree04",
+      "name": "SM_BananaTree04",
+      "path": "Models/Environment/Trees/Coastal/SM_BananaTree04.glb",
+      "bytes": 3207916,
+      "triangles": 629,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BananaTree05",
+      "name": "SM_BananaTree05",
+      "path": "Models/Environment/Trees/Coastal/SM_BananaTree05.glb",
+      "bytes": 3004964,
+      "triangles": 663,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalm01",
+      "name": "SM_CoconutPalm01",
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalm01.glb",
+      "bytes": 2344732,
+      "triangles": 1042,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalm02",
+      "name": "SM_CoconutPalm02",
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalm02.glb",
+      "bytes": 2537116,
+      "triangles": 1692,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalm03",
+      "name": "SM_CoconutPalm03",
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalm03.glb",
+      "bytes": 2501420,
+      "triangles": 994,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalm04",
+      "name": "SM_CoconutPalm04",
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalm04.glb",
+      "bytes": 2606188,
+      "triangles": 962,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalm05",
+      "name": "SM_CoconutPalm05",
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalm05.glb",
+      "bytes": 2532036,
+      "triangles": 994,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalmB01",
+      "name": "SM_CoconutPalmB01",
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalmB01.glb",
+      "bytes": 2434664,
+      "triangles": 1058,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalmB02",
+      "name": "SM_CoconutPalmB02",
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalmB02.glb",
+      "bytes": 2542548,
+      "triangles": 1804,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalmB03",
+      "name": "SM_CoconutPalmB03",
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalmB03.glb",
+      "bytes": 2704464,
+      "triangles": 1122,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalmC01",
+      "name": "SM_CoconutPalmC01",
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalmC01.glb",
+      "bytes": 2390296,
+      "triangles": 1106,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalmC02",
+      "name": "SM_CoconutPalmC02",
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalmC02.glb",
+      "bytes": 2699628,
+      "triangles": 1580,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalmC03",
+      "name": "SM_CoconutPalmC03",
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalmC03.glb",
+      "bytes": 2589032,
+      "triangles": 1516,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmFallen01",
+      "name": "SM_PalmFallen01",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmFallen01.glb",
+      "bytes": 1600940,
+      "triangles": 344,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmFallen02",
+      "name": "SM_PalmFallen02",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmFallen02.glb",
+      "bytes": 1447740,
+      "triangles": 468,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmFallen03",
+      "name": "SM_PalmFallen03",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmFallen03.glb",
+      "bytes": 1657100,
+      "triangles": 1132,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmStump01",
+      "name": "SM_PalmStump01",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmStump01.glb",
+      "bytes": 1732820,
+      "triangles": 260,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree01",
+      "name": "SM_PalmTree01",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree01.glb",
+      "bytes": 3920672,
+      "triangles": 968,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree02",
+      "name": "SM_PalmTree02",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree02.glb",
+      "bytes": 4046368,
+      "triangles": 1096,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree03",
+      "name": "SM_PalmTree03",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree03.glb",
+      "bytes": 4118552,
+      "triangles": 1304,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree04",
+      "name": "SM_PalmTree04",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree04.glb",
+      "bytes": 4030960,
+      "triangles": 1174,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree05",
+      "name": "SM_PalmTree05",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree05.glb",
+      "bytes": 4198848,
+      "triangles": 1544,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree06",
+      "name": "SM_PalmTree06",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree06.glb",
+      "bytes": 4002236,
+      "triangles": 1104,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree07",
+      "name": "SM_PalmTree07",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree07.glb",
+      "bytes": 3983972,
+      "triangles": 1096,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree08",
+      "name": "SM_PalmTree08",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree08.glb",
+      "bytes": 4159048,
+      "triangles": 1208,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree09",
+      "name": "SM_PalmTree09",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree09.glb",
+      "bytes": 4216688,
+      "triangles": 1496,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree10",
+      "name": "SM_PalmTree10",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree10.glb",
+      "bytes": 4208352,
+      "triangles": 1640,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree11",
+      "name": "SM_PalmTree11",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree11.glb",
+      "bytes": 3908188,
+      "triangles": 1080,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree12",
+      "name": "SM_PalmTree12",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree12.glb",
+      "bytes": 4068208,
+      "triangles": 1222,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree13",
+      "name": "SM_PalmTree13",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree13.glb",
+      "bytes": 4089024,
+      "triangles": 1304,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree14",
+      "name": "SM_PalmTree14",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree14.glb",
+      "bytes": 4115204,
+      "triangles": 1512,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree15",
+      "name": "SM_PalmTree15",
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree15.glb",
+      "bytes": 4235500,
+      "triangles": 1768,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_YuccaTree01",
+      "name": "SM_YuccaTree01",
+      "path": "Models/Environment/Trees/Coastal/SM_YuccaTree01.glb",
+      "bytes": 2690376,
+      "triangles": 182,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_YuccaTree02",
+      "name": "SM_YuccaTree02",
+      "path": "Models/Environment/Trees/Coastal/SM_YuccaTree02.glb",
+      "bytes": 3656756,
+      "triangles": 226,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_YuccaTree03",
+      "name": "SM_YuccaTree03",
+      "path": "Models/Environment/Trees/Coastal/SM_YuccaTree03.glb",
+      "bytes": 3942744,
+      "triangles": 798,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_YuccaTree04",
+      "name": "SM_YuccaTree04",
+      "path": "Models/Environment/Trees/Coastal/SM_YuccaTree04.glb",
+      "bytes": 2788392,
+      "triangles": 2296,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_YuccaTree05",
+      "name": "SM_YuccaTree05",
+      "path": "Models/Environment/Trees/Coastal/SM_YuccaTree05.glb",
+      "bytes": 3071696,
+      "triangles": 1852,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm01",
+      "name": "SM_DesertCoconutPalm01",
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm01.glb",
+      "bytes": 2916576,
+      "triangles": 1784,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm02",
+      "name": "SM_DesertCoconutPalm02",
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm02.glb",
+      "bytes": 2767288,
+      "triangles": 1158,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm03",
+      "name": "SM_DesertCoconutPalm03",
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm03.glb",
+      "bytes": 2964880,
+      "triangles": 1836,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm04",
+      "name": "SM_DesertCoconutPalm04",
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm04.glb",
+      "bytes": 2873452,
+      "triangles": 1462,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm05",
+      "name": "SM_DesertCoconutPalm05",
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm05.glb",
+      "bytes": 2830040,
+      "triangles": 1218,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm06",
+      "name": "SM_DesertCoconutPalm06",
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm06.glb",
+      "bytes": 3011800,
+      "triangles": 2124,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmSapling01",
+      "name": "SM_DesertPalmSapling01",
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmSapling01.glb",
+      "bytes": 3969132,
+      "triangles": 632,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmSapling02",
+      "name": "SM_DesertPalmSapling02",
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmSapling02.glb",
+      "bytes": 4284272,
+      "triangles": 856,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmSapling03",
+      "name": "SM_DesertPalmSapling03",
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmSapling03.glb",
+      "bytes": 4428780,
+      "triangles": 1032,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree01",
+      "name": "SM_DesertPalmTree01",
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmTree01.glb",
+      "bytes": 4620924,
+      "triangles": 1224,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree02",
+      "name": "SM_DesertPalmTree02",
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmTree02.glb",
+      "bytes": 4667528,
+      "triangles": 1382,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree03",
+      "name": "SM_DesertPalmTree03",
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmTree03.glb",
+      "bytes": 4724148,
+      "triangles": 1558,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree04",
+      "name": "SM_DesertPalmTree04",
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmTree04.glb",
+      "bytes": 4687580,
+      "triangles": 1522,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree05",
+      "name": "SM_DesertPalmTree05",
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmTree05.glb",
+      "bytes": 5030800,
+      "triangles": 2006,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindswept01",
+      "name": "SM_TreeWindswept01",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindswept01.glb",
+      "bytes": 3140156,
+      "triangles": 676,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindswept02",
+      "name": "SM_TreeWindswept02",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindswept02.glb",
+      "bytes": 2932472,
+      "triangles": 1140,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindswept03",
+      "name": "SM_TreeWindswept03",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindswept03.glb",
+      "bytes": 3434664,
+      "triangles": 1634,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindswept04",
+      "name": "SM_TreeWindswept04",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindswept04.glb",
+      "bytes": 3047520,
+      "triangles": 1236,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptB01",
+      "name": "SM_TreeWindsweptB01",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptB01.glb",
+      "bytes": 3602728,
+      "triangles": 646,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptB02",
+      "name": "SM_TreeWindsweptB02",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptB02.glb",
+      "bytes": 4022100,
+      "triangles": 1058,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptB03",
+      "name": "SM_TreeWindsweptB03",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptB03.glb",
+      "bytes": 4336544,
+      "triangles": 1480,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptB04",
+      "name": "SM_TreeWindsweptB04",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptB04.glb",
+      "bytes": 3848996,
+      "triangles": 1140,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptSapling01",
+      "name": "SM_TreeWindsweptSapling01",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptSapling01.glb",
+      "bytes": 3802260,
+      "triangles": 418,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptSapling02",
+      "name": "SM_TreeWindsweptSapling02",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptSapling02.glb",
+      "bytes": 3710704,
+      "triangles": 990,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptSaplingB01",
+      "name": "SM_TreeWindsweptSaplingB01",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptSaplingB01.glb",
+      "bytes": 3548476,
+      "triangles": 384,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_TreeWindsweptSaplingB02",
+      "name": "SM_TreeWindsweptSaplingB02",
+      "path": "Models/Environment/Trees/Desert/SM_TreeWindsweptSaplingB02.glb",
+      "bytes": 4052076,
+      "triangles": 966,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirBranch1",
+      "name": "SM_FirBranch1",
+      "path": "Models/Environment/Trees/Fir/SM_FirBranch1.glb",
+      "bytes": 1897268,
+      "triangles": 172,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirBranch2",
+      "name": "SM_FirBranch2",
+      "path": "Models/Environment/Trees/Fir/SM_FirBranch2.glb",
+      "bytes": 2584716,
+      "triangles": 122,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirFallen1",
+      "name": "SM_FirFallen1",
+      "path": "Models/Environment/Trees/Fir/SM_FirFallen1.glb",
+      "bytes": 2715652,
+      "triangles": 705,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirFallen2",
+      "name": "SM_FirFallen2",
+      "path": "Models/Environment/Trees/Fir/SM_FirFallen2.glb",
+      "bytes": 3406848,
+      "triangles": 1249,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirFallen3",
+      "name": "SM_FirFallen3",
+      "path": "Models/Environment/Trees/Fir/SM_FirFallen3.glb",
+      "bytes": 2536944,
+      "triangles": 1345,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirSapling1",
+      "name": "SM_FirSapling1",
+      "path": "Models/Environment/Trees/Fir/SM_FirSapling1.glb",
+      "bytes": 1849728,
+      "triangles": 600,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirSapling2",
+      "name": "SM_FirSapling2",
+      "path": "Models/Environment/Trees/Fir/SM_FirSapling2.glb",
+      "bytes": 1800888,
+      "triangles": 432,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirStump1",
+      "name": "SM_FirStump1",
+      "path": "Models/Environment/Trees/Fir/SM_FirStump1.glb",
+      "bytes": 2380304,
+      "triangles": 260,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirTree1",
+      "name": "SM_FirTree1",
+      "path": "Models/Environment/Trees/Fir/SM_FirTree1.glb",
+      "bytes": 3762256,
+      "triangles": 10675,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirTree2",
+      "name": "SM_FirTree2",
+      "path": "Models/Environment/Trees/Fir/SM_FirTree2.glb",
+      "bytes": 3977076,
+      "triangles": 7329,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirTree3",
+      "name": "SM_FirTree3",
+      "path": "Models/Environment/Trees/Fir/SM_FirTree3.glb",
+      "bytes": 2375104,
+      "triangles": 3042,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirTree4",
+      "name": "SM_FirTree4",
+      "path": "Models/Environment/Trees/Fir/SM_FirTree4.glb",
+      "bytes": 4042872,
+      "triangles": 18821,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FirTree5",
+      "name": "SM_FirTree5",
+      "path": "Models/Environment/Trees/Fir/SM_FirTree5.glb",
+      "bytes": 2342096,
+      "triangles": 2389,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakBranch1",
+      "name": "SM_OakBranch1",
+      "path": "Models/Environment/Trees/Oak/SM_OakBranch1.glb",
+      "bytes": 1223228,
+      "triangles": 168,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakBranch2",
+      "name": "SM_OakBranch2",
+      "path": "Models/Environment/Trees/Oak/SM_OakBranch2.glb",
+      "bytes": 1641296,
+      "triangles": 274,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakFallen1",
+      "name": "SM_OakFallen1",
+      "path": "Models/Environment/Trees/Oak/SM_OakFallen1.glb",
+      "bytes": 2792944,
+      "triangles": 2624,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakFallen1_SnowCover",
+      "name": "SM_OakFallen1_SnowCover",
+      "path": "Models/Environment/Trees/Oak/SM_OakFallen1_SnowCover.glb",
+      "bytes": 2658116,
+      "triangles": 3758,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakFallen2",
+      "name": "SM_OakFallen2",
+      "path": "Models/Environment/Trees/Oak/SM_OakFallen2.glb",
+      "bytes": 2998944,
+      "triangles": 262,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakFallen2_SnowCover",
+      "name": "SM_OakFallen2_SnowCover",
+      "path": "Models/Environment/Trees/Oak/SM_OakFallen2_SnowCover.glb",
+      "bytes": 2677860,
+      "triangles": 1292,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakRoots1",
+      "name": "SM_OakRoots1",
+      "path": "Models/Environment/Trees/Oak/SM_OakRoots1.glb",
+      "bytes": 2035852,
+      "triangles": 502,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakRoots2",
+      "name": "SM_OakRoots2",
+      "path": "Models/Environment/Trees/Oak/SM_OakRoots2.glb",
+      "bytes": 2224980,
+      "triangles": 354,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakSapling1",
+      "name": "SM_OakSapling1",
+      "path": "Models/Environment/Trees/Oak/SM_OakSapling1.glb",
+      "bytes": 1574892,
+      "triangles": 1512,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakSapling2",
+      "name": "SM_OakSapling2",
+      "path": "Models/Environment/Trees/Oak/SM_OakSapling2.glb",
+      "bytes": 1359420,
+      "triangles": 384,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakStump1",
+      "name": "SM_OakStump1",
+      "path": "Models/Environment/Trees/Oak/SM_OakStump1.glb",
+      "bytes": 3169292,
+      "triangles": 1058,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakStump1_SnowCover",
+      "name": "SM_OakStump1_SnowCover",
+      "path": "Models/Environment/Trees/Oak/SM_OakStump1_SnowCover.glb",
+      "bytes": 2724228,
+      "triangles": 1832,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTree1",
+      "name": "SM_OakTree1",
+      "path": "Models/Environment/Trees/Oak/SM_OakTree1.glb",
+      "bytes": 2176528,
+      "triangles": 4083,
+      "material_status": "requires_material_repair",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTree2",
+      "name": "SM_OakTree2",
+      "path": "Models/Environment/Trees/Oak/SM_OakTree2.glb",
+      "bytes": 1018640,
+      "triangles": 3258,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTree3",
+      "name": "SM_OakTree3",
+      "path": "Models/Environment/Trees/Oak/SM_OakTree3.glb",
+      "bytes": 3530024,
+      "triangles": 4430,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTree4",
+      "name": "SM_OakTree4",
+      "path": "Models/Environment/Trees/Oak/SM_OakTree4.glb",
+      "bytes": 1403312,
+      "triangles": 2852,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTreeLarge1",
+      "name": "SM_OakTreeLarge1",
+      "path": "Models/Environment/Trees/Oak/SM_OakTreeLarge1.glb",
+      "bytes": 3995496,
+      "triangles": 9719,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTreeLarge2",
+      "name": "SM_OakTreeLarge2",
+      "path": "Models/Environment/Trees/Oak/SM_OakTreeLarge2.glb",
+      "bytes": 2507780,
+      "triangles": 4138,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_OakTreeLarge3",
+      "name": "SM_OakTreeLarge3",
+      "path": "Models/Environment/Trees/Oak/SM_OakTreeLarge3.glb",
+      "bytes": 2692180,
+      "triangles": 5130,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Pine01",
+      "name": "SM_Pine01",
+      "path": "Models/Environment/Trees/Pine/SM_Pine01.glb",
+      "bytes": 1879120,
+      "triangles": 2324,
+      "material_status": "representative_static_pbr_preview",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Pine02",
+      "name": "SM_Pine02",
+      "path": "Models/Environment/Trees/Pine/SM_Pine02.glb",
+      "bytes": 2085480,
+      "triangles": 2970,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Pine03",
+      "name": "SM_Pine03",
+      "path": "Models/Environment/Trees/Pine/SM_Pine03.glb",
+      "bytes": 2094440,
+      "triangles": 3591,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineDead01",
+      "name": "SM_PineDead01",
+      "path": "Models/Environment/Trees/Pine/SM_PineDead01.glb",
+      "bytes": 3470696,
+      "triangles": 2472,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineDead02",
+      "name": "SM_PineDead02",
+      "path": "Models/Environment/Trees/Pine/SM_PineDead02.glb",
+      "bytes": 2260348,
+      "triangles": 2280,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineDead03",
+      "name": "SM_PineDead03",
+      "path": "Models/Environment/Trees/Pine/SM_PineDead03.glb",
+      "bytes": 3388980,
+      "triangles": 2925,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineFallen1_SnowCover",
+      "name": "SM_PineFallen1_SnowCover",
+      "path": "Models/Environment/Trees/Pine/SM_PineFallen1_SnowCover.glb",
+      "bytes": 2570628,
+      "triangles": 1733,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineFallen2_SnowCover",
+      "name": "SM_PineFallen2_SnowCover",
+      "path": "Models/Environment/Trees/Pine/SM_PineFallen2_SnowCover.glb",
+      "bytes": 3039788,
+      "triangles": 1829,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineLeafySnow01",
+      "name": "SM_PineLeafySnow01",
+      "path": "Models/Environment/Trees/Pine/SM_PineLeafySnow01.glb",
+      "bytes": 3463416,
+      "triangles": 4200,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineLeafySnow02",
+      "name": "SM_PineLeafySnow02",
+      "path": "Models/Environment/Trees/Pine/SM_PineLeafySnow02.glb",
+      "bytes": 3034716,
+      "triangles": 3928,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineSnowCover01",
+      "name": "SM_PineSnowCover01",
+      "path": "Models/Environment/Trees/Pine/SM_PineSnowCover01.glb",
+      "bytes": 3851836,
+      "triangles": 5288,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineSnowCover02",
+      "name": "SM_PineSnowCover02",
+      "path": "Models/Environment/Trees/Pine/SM_PineSnowCover02.glb",
+      "bytes": 3793760,
+      "triangles": 3642,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PineStump1_SnowCover",
+      "name": "SM_PineStump1_SnowCover",
+      "path": "Models/Environment/Trees/Pine/SM_PineStump1_SnowCover.glb",
+      "bytes": 1711916,
+      "triangles": 870,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Trees_part01.zip",
+      "details": "details/Trees-09.json"
+    }
+  ]
+}

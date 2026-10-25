@@ -1,0 +1,1788 @@
+{
+  "schema_version": 1,
+  "category": "Rocks",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_RockClassic12",
+      "source": {
+        "name": "SM_RockClassic12",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic12.SM_RockClassic12",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic12",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1eba3e410aee13b16e7f96c6092de422a6fb64d75ea4c5a9f06dc39d529c9059",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ceea1f7e7ceca16434c4ec5257717256ac233e575aa8900038a3cbb704e8e029",
+      "native_bytes": 2527624,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic12",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 206,
+      "scene_triangles": 206,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.3205299377441406,
+          -1.1233819723129272,
+          -1.2738158702850342
+        ],
+        "max": [
+          1.4634493589401245,
+          1.73965322971344,
+          1.4662081003189087
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic12.glb",
+      "bytes": 2527600,
+      "sha256": "4f1f0ff25a6eba5485da819348d7d1bbe4acc8ae62b20a71c691d4e1c04189e5",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic12.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic13",
+      "source": {
+        "name": "SM_RockClassic13",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic13.SM_RockClassic13",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic13",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4e23c8b24c53a4fb5b7adddfd5de4a142201e7959c15e8b66682fb5f8d4bb482",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "9215d884bb8bcefed0900fa72a95132ce785b0073036a02979a22c44d00b6040",
+      "native_bytes": 2884392,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic13",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 284,
+      "scene_triangles": 284,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.508605718612671,
+          -0.9933633208274841,
+          -2.1201422214508057
+        ],
+        "max": [
+          1.4465484619140625,
+          1.0807034969329834,
+          2.0455849170684814
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic13.glb",
+      "bytes": 2884364,
+      "sha256": "db8b21b0a3c1f4c054882258ecd21a8915b7c1f79f19aa445a29a572802bd430",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic13.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic14",
+      "source": {
+        "name": "SM_RockClassic14",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic14.SM_RockClassic14",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic14",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9b21ef683d999ffbdfb399fca390859f231c0c77de893ff4030f2c454badd6b7",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "44e0ab2d8b6970424c2e9a26d03c5e7596215b636acc8947f8d6c98607cbfdd5",
+      "native_bytes": 2859352,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic14",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 180,
+      "scene_triangles": 180,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.42041015625,
+          -1.2357349395751953,
+          -1.65664803981781
+        ],
+        "max": [
+          1.448211669921875,
+          0.6914693117141724,
+          1.8229961395263672
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic14.glb",
+      "bytes": 2859324,
+      "sha256": "502ca40346eb0f203ea9dec093f8d3829cc537f6317a9082074ba32bc1238c50",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic14.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic15",
+      "source": {
+        "name": "SM_RockClassic15",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic15.SM_RockClassic15",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic15",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "482dffcc73072783c5d7d88a8b5494f9a0520d67a37b5ddeacd83aaf3a88e516",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1bddddbd9182e4388948417488467a3268090a78637b5c10489f861286747669",
+      "native_bytes": 2460012,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic15",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 172,
+      "scene_triangles": 172,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.0746879577636719,
+          -2.010765790939331,
+          -1.1634787321090698
+        ],
+        "max": [
+          1.1325035095214844,
+          1.8083497285842896,
+          1.056439757347107
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic15.glb",
+      "bytes": 2459988,
+      "sha256": "ca03c67b32f6c7912d30e572f074e86743785fe352e26f369898b8062891b751",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic15.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic16",
+      "source": {
+        "name": "SM_RockClassic16",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic16.SM_RockClassic16",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic16",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "45fe4f1a5bf5cd0b4a9496e0625e5f6defec979e6dd9b3840fe392595650fdf9",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "64ade58dfb3b3616f17b6e72617dcbcea0ad5488f38d3684626e1fadae5eb46c",
+      "native_bytes": 2767276,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic16",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 174,
+      "scene_triangles": 174,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.4169769287109375,
+          -1.8131046295166016,
+          -1.1083805561065674
+        ],
+        "max": [
+          1.4026870727539062,
+          2.4657740592956543,
+          1.2093782424926758
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic16.glb",
+      "bytes": 2767252,
+      "sha256": "b7a8108234234eff2156b842978e272fe9d2c0823ec26856b03cf89c5fa033b2",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic16.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic2",
+      "source": {
+        "name": "SM_RockClassic2",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic2.SM_RockClassic2",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a9eccfd3dab340adbbfde7187139ef84e53bb60cee08a357033c6573ca395eed",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "83d623a748a08736983e27df3787ef7ae9bfae158f1e0f10f98608c46da8d8e7",
+      "native_bytes": 2338208,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic2",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 56,
+      "scene_triangles": 56,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.46518468856811523,
+          -0.2762843370437622,
+          -0.4896838963031769
+        ],
+        "max": [
+          0.4237031936645508,
+          0.35249245166778564,
+          0.4697543978691101
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic2.glb",
+      "bytes": 2338180,
+      "sha256": "af235c9334e06dd9fe7fd00d10fe664f979fa4550c7cf28674a59c6db58b2d1d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic3",
+      "source": {
+        "name": "SM_RockClassic3",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic3.SM_RockClassic3",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "46b46e59f626b1554b55c6caea730b74bc2f1d5a3d72c5c19bfebe192e9449dd",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a4fd5f1692171b2c4415886e69ac3600fd2849125a9bd63835d77feee74f4fd7",
+      "native_bytes": 2461996,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic3",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 82,
+      "scene_triangles": 82,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.4855676293373108,
+          -0.3051667809486389,
+          -0.678879976272583
+        ],
+        "max": [
+          0.568913996219635,
+          0.33233797550201416,
+          0.7210803627967834
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic3.glb",
+      "bytes": 2461968,
+      "sha256": "bc64892246be3e6f79665852e9a4cb931d84b9511fbed3d815601f92febaf4e9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic4",
+      "source": {
+        "name": "SM_RockClassic4",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic4.SM_RockClassic4",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic4",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "517e343778747d85ca59a655f2a3515789aacca59858efb798b46763a9b04d22",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1dfdb3fda00173b0f86fb10a788bd463c3a1d7f7c2b48b744fecb038ddcd0c15",
+      "native_bytes": 2377928,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic4",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 82,
+      "scene_triangles": 82,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.8731131553649902,
+          -0.5028200745582581,
+          -0.6742937564849854
+        ],
+        "max": [
+          0.8082718253135681,
+          0.47162607312202454,
+          0.8668150901794434
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic4.glb",
+      "bytes": 2377904,
+      "sha256": "b2f0ecdd98d8a9fa935bea778a56f26402703fd9ed3e6834489a3d957a9f6d52",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic4.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic5",
+      "source": {
+        "name": "SM_RockClassic5",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic5.SM_RockClassic5",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic5",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "bc159247fce78b198342c2a4643d9f73ec08deaf1535d4530d4f059171a50388",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "eeb69b207aa686cca7bd36e97ace4de1c36c88c998f447449e6e45dfe06b3a86",
+      "native_bytes": 2265456,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic5",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 104,
+      "scene_triangles": 104,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.9361600279808044,
+          -0.6038314700126648,
+          -0.8412878513336182
+        ],
+        "max": [
+          0.9043159484863281,
+          0.556910514831543,
+          0.933506965637207
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic5.glb",
+      "bytes": 2265432,
+      "sha256": "1cc2c5d37493ef380d8287422c7d86a7a5ecee0b4d109a4cc4852bf612d82f95",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic5.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic6",
+      "source": {
+        "name": "SM_RockClassic6",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic6.SM_RockClassic6",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic6",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1aa8f105fe575dd9f2157b51b284cc5c3337a7b783170044198c47a9d886b20d",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "d191729164c7f11f98577c737bb5415f6e272d5642e7cd9eb465d2e8b2174663",
+      "native_bytes": 2549464,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic6",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 128,
+      "scene_triangles": 128,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.9411746263504028,
+          -0.6418853402137756,
+          -1.1977487802505493
+        ],
+        "max": [
+          0.9292688369750977,
+          0.5469640493392944,
+          1.2218523025512695
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic6.glb",
+      "bytes": 2549440,
+      "sha256": "fcd2716f9d390082aa36fd60641b99d5ac4aef39dc38f57fe5f7b8956312bfa5",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic6.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic7",
+      "source": {
+        "name": "SM_RockClassic7",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic7.SM_RockClassic7",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic7",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ee912328de66036f155fa64835af78f43796197274afcefbf1f85362253828da",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ad9e65edc9e95c09c2239e42a750ea722e7e7b4e9272c7705309fb940b54a317",
+      "native_bytes": 2643608,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic7",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 166,
+      "scene_triangles": 166,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.1272152662277222,
+          -0.8250324130058289,
+          -1.0586726665496826
+        ],
+        "max": [
+          1.03662109375,
+          0.6966320872306824,
+          1.1238240003585815
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic7.glb",
+      "bytes": 2643580,
+      "sha256": "64d19ce87837da73f925861761111a1131de929905925a77d96aeab7799adf1f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic7.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic8",
+      "source": {
+        "name": "SM_RockClassic8",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic8.SM_RockClassic8",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic8",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "34bfd9dcebf9ece16b6c85a78b61076476ea1b1fe3337692e3ef9f1498f52a8e",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "7e6eff44e8f0dd3aee152c5028b761a3862112995e4c6e25b3538947cff1fab6",
+      "native_bytes": 2724376,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic8",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 138,
+      "scene_triangles": 138,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.9024754166603088,
+          -0.45849886536598206,
+          -1.3230913877487183
+        ],
+        "max": [
+          0.8780078887939453,
+          0.622950553894043,
+          1.4483178853988647
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic8.glb",
+      "bytes": 2724348,
+      "sha256": "11fec21cc06633e94d5527d74be2baf415a7c64b71c6155a40df3423f69913e1",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic8.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic9",
+      "source": {
+        "name": "SM_RockClassic9",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic9.SM_RockClassic9",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClassic9",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "09fd6e944bb909074d6f2295b1b199aebea513d9a210c4cf7b161d1019d0a8f6",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "39b00b175eace79bcba825c224f328357b543c45bb7e9ae5df0cc94b85a52ebf",
+      "native_bytes": 2544276,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClassic9",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 120,
+      "scene_triangles": 120,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.198419451713562,
+          -0.917222797870636,
+          -1.1572227478027344
+        ],
+        "max": [
+          1.0890426635742188,
+          0.9937447905540466,
+          1.2681565284729004
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic9.glb",
+      "bytes": 2544248,
+      "sha256": "94443d3d94ac4be44b41dbbd03923608115b9c7a1467af03edc31e4233991de1",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClassic9.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic1",
+      "source": {
+        "name": "SM_RockClumpClassic1",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic1.SM_RockClumpClassic1",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a2d7dad795ec40942f3696dfda4f304c8404484f0117f4720a8ee27e6c293463",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "58c0f05be040caecd51c552e685134e8506a6bee3262d8bfde1e098a89681de1",
+      "native_bytes": 2345224,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClumpClassic1",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 270,
+      "scene_triangles": 270,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.5940200090408325,
+          -0.46597155928611755,
+          -0.41424131393432617
+        ],
+        "max": [
+          0.5995198488235474,
+          0.12575510144233704,
+          0.39057040214538574
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic1.glb",
+      "bytes": 2345200,
+      "sha256": "12f1130b6d624f58db0ab580c7b4db77642d0146f2bac3d6ec5c9459d6c24b6e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClumpClassic1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic10",
+      "source": {
+        "name": "SM_RockClumpClassic10",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic10.SM_RockClumpClassic10",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic10",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "dee18ca7449f85eaee4da94459e428d48e2e4b5b86f1944a1893e528e5c87afb",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "9725d92e9480ce56fdbbefbda17a09c6011343da90f352545a763dd091c03d9e",
+      "native_bytes": 3428356,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClumpClassic10",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1100,
+      "scene_triangles": 1100,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -3.451878309249878,
+          -1.9327853918075562,
+          -2.215406656265259
+        ],
+        "max": [
+          3.8378820419311523,
+          2.071535348892212,
+          2.5837080478668213
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic10.glb",
+      "bytes": 3428328,
+      "sha256": "c6e9b169b90ae32630085f2223587856f3a95b186e0201f6796860be34b206ef",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClumpClassic10.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic2",
+      "source": {
+        "name": "SM_RockClumpClassic2",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic2.SM_RockClumpClassic2",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b7047500b81925746f7c1215936f3af3c43ff8abfe88e1e4086268d51f9bdbd3",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "d306113353869576640866ef79ea45265f3db92c5397791bac0089f7c1b46064",
+      "native_bytes": 2802840,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClumpClassic2",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 270,
+      "scene_triangles": 270,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.6898788213729858,
+          -0.3862968981266022,
+          -0.7981769442558289
+        ],
+        "max": [
+          0.7526945471763611,
+          0.3711625933647156,
+          0.6733312606811523
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic2.glb",
+      "bytes": 2802812,
+      "sha256": "e97d36e228f989f7050a84e4a154d4058b9afac77efc65e3aa1efa276abf99a9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClumpClassic2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic3",
+      "source": {
+        "name": "SM_RockClumpClassic3",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic3.SM_RockClumpClassic3",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0545035ecaef5a97ef92d5079eadfab9d6c4db470e1fa306ec5c8a8dbf16fca0",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "cb9f498b0ab6f3d686e9ee6ac7029af63f5a5d10a0a1fb3f8c6a26e4d8d824e2",
+      "native_bytes": 2994960,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClumpClassic3",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 534,
+      "scene_triangles": 534,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.8459584712982178,
+          -0.4725641906261444,
+          -0.7530033588409424
+        ],
+        "max": [
+          0.8011362552642822,
+          0.5401908159255981,
+          0.7328384518623352
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic3.glb",
+      "bytes": 2994932,
+      "sha256": "0d4786047dc52e0b8d6362a9412863eecd6d2d167997c6ed657033783c5bbb73",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClumpClassic3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic4",
+      "source": {
+        "name": "SM_RockClumpClassic4",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic4.SM_RockClumpClassic4",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic4",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8f52702955ef772f81c222ca611a9fbe8c01467880ed83fb94941da4bbab7cb1",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "dbb88a01a7dd2b0ec86e755335f92434a60cfd8d7cadac3c578531863f2ca5d6",
+      "native_bytes": 2781144,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClumpClassic4",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 324,
+      "scene_triangles": 324,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.8813344240188599,
+          -0.4817766845226288,
+          -1.0779154300689697
+        ],
+        "max": [
+          0.8094704747200012,
+          0.37921103835105896,
+          1.0877022743225098
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic4.glb",
+      "bytes": 2781116,
+      "sha256": "33409a5f8d9c3ae524f9b307e5e426f1d9de48a4aa005726d82bedf58b5db727",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClumpClassic4.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic5",
+      "source": {
+        "name": "SM_RockClumpClassic5",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic5.SM_RockClumpClassic5",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic5",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5cf8b59596a42c30287b55636bec2479a1a7400acf54fb775f9cebc5fa601b81",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "101b7ff6f2c029e60646d3db6b0f40e5363b8836f5df3d0c52ed6313f63c2931",
+      "native_bytes": 3059344,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClumpClassic5",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 330,
+      "scene_triangles": 330,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.1830757856369019,
+          -0.5603598356246948,
+          -0.8659374713897705
+        ],
+        "max": [
+          1.2050631046295166,
+          0.8250653743743896,
+          0.8261664509773254
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic5.glb",
+      "bytes": 3059320,
+      "sha256": "9ae098791d1744a80a62918406593166a427667434a35d7a4756412bf4f5481f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClumpClassic5.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic6",
+      "source": {
+        "name": "SM_RockClumpClassic6",
+        "path": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic6.SM_RockClumpClassic6",
+        "package": "/Game/SoStylized/Environment/Rocks/Classic/SM_RockClumpClassic6",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9ba7600308eff517574e50da0c5dc9ca209d04df1f78a6513b4fbed6800b8a9a",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_RockClassic_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Classic/MI_RockClassic_Rocks.MI_RockClassic_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "d91045ed026c9cf1c49f1520be8e6912f9a9255205c02d6ccb748d6403e72271",
+      "native_bytes": 3365720,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Rocks_SM_RockClumpClassic6",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 612,
+      "scene_triangles": 612,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.6283392906188965,
+          -0.5568023920059204,
+          -1.4886775016784668
+        ],
+        "max": [
+          1.5216575860977173,
+          0.7942997813224792,
+          1.4471498727798462
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic6.glb",
+      "bytes": 3365692,
+      "sha256": "d3d906876a5b03e7ae694b1d85bfbe4ab783e3d57c5bfda4897db986fa11b603",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Classic/SM_RockClumpClassic6.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

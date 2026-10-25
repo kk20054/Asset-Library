@@ -1,0 +1,3269 @@
+{
+  "schema_version": 1,
+  "category": "Rocks",
+  "asset_count": 324,
+  "full_catalog": "../catalog.json",
+  "downloads": "../downloads.json",
+  "path_scope": "Asset path is inside the extracted ZIP root, not a direct repository model path. Use download.zip_member or direct_sample_url.",
+  "detail_pages": [
+    "details/Rocks-01.json",
+    "details/Rocks-02.json",
+    "details/Rocks-03.json",
+    "details/Rocks-04.json",
+    "details/Rocks-05.json",
+    "details/Rocks-06.json",
+    "details/Rocks-07.json",
+    "details/Rocks-08.json",
+    "details/Rocks-09.json",
+    "details/Rocks-10.json",
+    "details/Rocks-11.json",
+    "details/Rocks-12.json",
+    "details/Rocks-13.json",
+    "details/Rocks-14.json",
+    "details/Rocks-15.json",
+    "details/Rocks-16.json",
+    "details/Rocks-17.json"
+  ],
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_BoulderClassic1",
+      "name": "SM_BoulderClassic1",
+      "path": "Models/Environment/Rocks/Classic/SM_BoulderClassic1.glb",
+      "bytes": 2598252,
+      "triangles": 192,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BoulderClassic2",
+      "name": "SM_BoulderClassic2",
+      "path": "Models/Environment/Rocks/Classic/SM_BoulderClassic2.glb",
+      "bytes": 2541932,
+      "triangles": 140,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BoulderClassic3",
+      "name": "SM_BoulderClassic3",
+      "path": "Models/Environment/Rocks/Classic/SM_BoulderClassic3.glb",
+      "bytes": 2493400,
+      "triangles": 230,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BoulderClassic4",
+      "name": "SM_BoulderClassic4",
+      "path": "Models/Environment/Rocks/Classic/SM_BoulderClassic4.glb",
+      "bytes": 2672380,
+      "triangles": 214,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BoulderClassic5",
+      "name": "SM_BoulderClassic5",
+      "path": "Models/Environment/Rocks/Classic/SM_BoulderClassic5.glb",
+      "bytes": 2836192,
+      "triangles": 290,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BoulderClumpClassic1",
+      "name": "SM_BoulderClumpClassic1",
+      "path": "Models/Environment/Rocks/Classic/SM_BoulderClumpClassic1.glb",
+      "bytes": 3119560,
+      "triangles": 854,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BoulderClumpClassic2",
+      "name": "SM_BoulderClumpClassic2",
+      "path": "Models/Environment/Rocks/Classic/SM_BoulderClumpClassic2.glb",
+      "bytes": 3105172,
+      "triangles": 630,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CliffClassic1",
+      "name": "SM_CliffClassic1",
+      "path": "Models/Environment/Rocks/Classic/SM_CliffClassic1.glb",
+      "bytes": 2939288,
+      "triangles": 428,
+      "material_status": "requires_landscape_material_adaptation",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CliffClassic2",
+      "name": "SM_CliffClassic2",
+      "path": "Models/Environment/Rocks/Classic/SM_CliffClassic2.glb",
+      "bytes": 3161080,
+      "triangles": 486,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CliffClassic3",
+      "name": "SM_CliffClassic3",
+      "path": "Models/Environment/Rocks/Classic/SM_CliffClassic3.glb",
+      "bytes": 3314920,
+      "triangles": 360,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CliffClassic4",
+      "name": "SM_CliffClassic4",
+      "path": "Models/Environment/Rocks/Classic/SM_CliffClassic4.glb",
+      "bytes": 3347696,
+      "triangles": 464,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CliffClassic5",
+      "name": "SM_CliffClassic5",
+      "path": "Models/Environment/Rocks/Classic/SM_CliffClassic5.glb",
+      "bytes": 3421732,
+      "triangles": 486,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CliffClassic6",
+      "name": "SM_CliffClassic6",
+      "path": "Models/Environment/Rocks/Classic/SM_CliffClassic6.glb",
+      "bytes": 3115288,
+      "triangles": 794,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PlatformClassic1",
+      "name": "SM_PlatformClassic1",
+      "path": "Models/Environment/Rocks/Classic/SM_PlatformClassic1.glb",
+      "bytes": 2894408,
+      "triangles": 314,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PlatformClassic2",
+      "name": "SM_PlatformClassic2",
+      "path": "Models/Environment/Rocks/Classic/SM_PlatformClassic2.glb",
+      "bytes": 2893656,
+      "triangles": 288,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PlatformClassic3",
+      "name": "SM_PlatformClassic3",
+      "path": "Models/Environment/Rocks/Classic/SM_PlatformClassic3.glb",
+      "bytes": 2654896,
+      "triangles": 381,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_PlatformClassic4",
+      "name": "SM_PlatformClassic4",
+      "path": "Models/Environment/Rocks/Classic/SM_PlatformClassic4.glb",
+      "bytes": 2889760,
+      "triangles": 300,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic1",
+      "name": "SM_RockClassic1",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic1.glb",
+      "bytes": 2162624,
+      "triangles": 66,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic10",
+      "name": "SM_RockClassic10",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic10.glb",
+      "bytes": 2400420,
+      "triangles": 182,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic11",
+      "name": "SM_RockClassic11",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic11.glb",
+      "bytes": 2438756,
+      "triangles": 164,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic12",
+      "name": "SM_RockClassic12",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic12.glb",
+      "bytes": 2527600,
+      "triangles": 206,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic13",
+      "name": "SM_RockClassic13",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic13.glb",
+      "bytes": 2884364,
+      "triangles": 284,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic14",
+      "name": "SM_RockClassic14",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic14.glb",
+      "bytes": 2859324,
+      "triangles": 180,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic15",
+      "name": "SM_RockClassic15",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic15.glb",
+      "bytes": 2459988,
+      "triangles": 172,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic16",
+      "name": "SM_RockClassic16",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic16.glb",
+      "bytes": 2767252,
+      "triangles": 174,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic2",
+      "name": "SM_RockClassic2",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic2.glb",
+      "bytes": 2338180,
+      "triangles": 56,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic3",
+      "name": "SM_RockClassic3",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic3.glb",
+      "bytes": 2461968,
+      "triangles": 82,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic4",
+      "name": "SM_RockClassic4",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic4.glb",
+      "bytes": 2377904,
+      "triangles": 82,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic5",
+      "name": "SM_RockClassic5",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic5.glb",
+      "bytes": 2265432,
+      "triangles": 104,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic6",
+      "name": "SM_RockClassic6",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic6.glb",
+      "bytes": 2549440,
+      "triangles": 128,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic7",
+      "name": "SM_RockClassic7",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic7.glb",
+      "bytes": 2643580,
+      "triangles": 166,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic8",
+      "name": "SM_RockClassic8",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic8.glb",
+      "bytes": 2724348,
+      "triangles": 138,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClassic9",
+      "name": "SM_RockClassic9",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClassic9.glb",
+      "bytes": 2544248,
+      "triangles": 120,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic1",
+      "name": "SM_RockClumpClassic1",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic1.glb",
+      "bytes": 2345200,
+      "triangles": 270,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic10",
+      "name": "SM_RockClumpClassic10",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic10.glb",
+      "bytes": 3428328,
+      "triangles": 1100,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic2",
+      "name": "SM_RockClumpClassic2",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic2.glb",
+      "bytes": 2802812,
+      "triangles": 270,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic3",
+      "name": "SM_RockClumpClassic3",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic3.glb",
+      "bytes": 2994932,
+      "triangles": 534,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic4",
+      "name": "SM_RockClumpClassic4",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic4.glb",
+      "bytes": 2781116,
+      "triangles": 324,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic5",
+      "name": "SM_RockClumpClassic5",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic5.glb",
+      "bytes": 3059320,
+      "triangles": 330,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic6",
+      "name": "SM_RockClumpClassic6",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic6.glb",
+      "bytes": 3365692,
+      "triangles": 612,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic7",
+      "name": "SM_RockClumpClassic7",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic7.glb",
+      "bytes": 3272888,
+      "triangles": 690,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic8",
+      "name": "SM_RockClumpClassic8",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic8.glb",
+      "bytes": 3004776,
+      "triangles": 418,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockClumpClassic9",
+      "name": "SM_RockClumpClassic9",
+      "path": "Models/Environment/Rocks/Classic/SM_RockClumpClassic9.glb",
+      "bytes": 3204440,
+      "triangles": 520,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ShelfClassic1",
+      "name": "SM_ShelfClassic1",
+      "path": "Models/Environment/Rocks/Classic/SM_ShelfClassic1.glb",
+      "bytes": 2921744,
+      "triangles": 348,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ShelfClassic2",
+      "name": "SM_ShelfClassic2",
+      "path": "Models/Environment/Rocks/Classic/SM_ShelfClassic2.glb",
+      "bytes": 2609916,
+      "triangles": 386,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ShelfClassic3",
+      "name": "SM_ShelfClassic3",
+      "path": "Models/Environment/Rocks/Classic/SM_ShelfClassic3.glb",
+      "bytes": 2310652,
+      "triangles": 310,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ShelfClassic4",
+      "name": "SM_ShelfClassic4",
+      "path": "Models/Environment/Rocks/Classic/SM_ShelfClassic4.glb",
+      "bytes": 2658452,
+      "triangles": 282,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ShelfClassic5",
+      "name": "SM_ShelfClassic5",
+      "path": "Models/Environment/Rocks/Classic/SM_ShelfClassic5.glb",
+      "bytes": 2638304,
+      "triangles": 372,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ShelfClassic6",
+      "name": "SM_ShelfClassic6",
+      "path": "Models/Environment/Rocks/Classic/SM_ShelfClassic6.glb",
+      "bytes": 3003096,
+      "triangles": 462,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ShelfClassic7",
+      "name": "SM_ShelfClassic7",
+      "path": "Models/Environment/Rocks/Classic/SM_ShelfClassic7.glb",
+      "bytes": 2901108,
+      "triangles": 374,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BoulderCubic01",
+      "name": "SM_BoulderCubic01",
+      "path": "Models/Environment/Rocks/Cubic/SM_BoulderCubic01.glb",
+      "bytes": 2316068,
+      "triangles": 212,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BoulderCubic02",
+      "name": "SM_BoulderCubic02",
+      "path": "Models/Environment/Rocks/Cubic/SM_BoulderCubic02.glb",
+      "bytes": 2959132,
+      "triangles": 586,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BoulderCubic03",
+      "name": "SM_BoulderCubic03",
+      "path": "Models/Environment/Rocks/Cubic/SM_BoulderCubic03.glb",
+      "bytes": 2430548,
+      "triangles": 226,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BoulderCubic04",
+      "name": "SM_BoulderCubic04",
+      "path": "Models/Environment/Rocks/Cubic/SM_BoulderCubic04.glb",
+      "bytes": 2948952,
+      "triangles": 376,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BoulderCubic05",
+      "name": "SM_BoulderCubic05",
+      "path": "Models/Environment/Rocks/Cubic/SM_BoulderCubic05.glb",
+      "bytes": 2531780,
+      "triangles": 288,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff01",
+      "name": "SM_CubicCliff01",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff01.glb",
+      "bytes": 3247060,
+      "triangles": 970,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff02",
+      "name": "SM_CubicCliff02",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff02.glb",
+      "bytes": 3100424,
+      "triangles": 686,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff03",
+      "name": "SM_CubicCliff03",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff03.glb",
+      "bytes": 3401408,
+      "triangles": 1930,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff04",
+      "name": "SM_CubicCliff04",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff04.glb",
+      "bytes": 3294976,
+      "triangles": 1222,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff05",
+      "name": "SM_CubicCliff05",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff05.glb",
+      "bytes": 3136188,
+      "triangles": 1354,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff06",
+      "name": "SM_CubicCliff06",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff06.glb",
+      "bytes": 3336148,
+      "triangles": 2012,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff07",
+      "name": "SM_CubicCliff07",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff07.glb",
+      "bytes": 3363884,
+      "triangles": 1710,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff08",
+      "name": "SM_CubicCliff08",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff08.glb",
+      "bytes": 3372108,
+      "triangles": 1432,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff09",
+      "name": "SM_CubicCliff09",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff09.glb",
+      "bytes": 3488300,
+      "triangles": 2238,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff10",
+      "name": "SM_CubicCliff10",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff10.glb",
+      "bytes": 3548516,
+      "triangles": 2238,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff11",
+      "name": "SM_CubicCliff11",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff11.glb",
+      "bytes": 3453820,
+      "triangles": 962,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff12",
+      "name": "SM_CubicCliff12",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff12.glb",
+      "bytes": 3375432,
+      "triangles": 654,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff13",
+      "name": "SM_CubicCliff13",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff13.glb",
+      "bytes": 3451376,
+      "triangles": 1570,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff14",
+      "name": "SM_CubicCliff14",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff14.glb",
+      "bytes": 3569016,
+      "triangles": 1586,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff15",
+      "name": "SM_CubicCliff15",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff15.glb",
+      "bytes": 3540944,
+      "triangles": 3292,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliff16",
+      "name": "SM_CubicCliff16",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliff16.glb",
+      "bytes": 3642140,
+      "triangles": 4006,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces01",
+      "name": "SM_CubicCliffPieces01",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces01.glb",
+      "bytes": 2081412,
+      "triangles": 126,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces02",
+      "name": "SM_CubicCliffPieces02",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces02.glb",
+      "bytes": 2270996,
+      "triangles": 248,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces03",
+      "name": "SM_CubicCliffPieces03",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces03.glb",
+      "bytes": 2275140,
+      "triangles": 250,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces04",
+      "name": "SM_CubicCliffPieces04",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces04.glb",
+      "bytes": 2056824,
+      "triangles": 96,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces05",
+      "name": "SM_CubicCliffPieces05",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces05.glb",
+      "bytes": 2367640,
+      "triangles": 146,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces06",
+      "name": "SM_CubicCliffPieces06",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces06.glb",
+      "bytes": 2405124,
+      "triangles": 130,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces07",
+      "name": "SM_CubicCliffPieces07",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces07.glb",
+      "bytes": 2376812,
+      "triangles": 112,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces08",
+      "name": "SM_CubicCliffPieces08",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces08.glb",
+      "bytes": 2601088,
+      "triangles": 252,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces09",
+      "name": "SM_CubicCliffPieces09",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces09.glb",
+      "bytes": 2303316,
+      "triangles": 138,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces10",
+      "name": "SM_CubicCliffPieces10",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces10.glb",
+      "bytes": 2693184,
+      "triangles": 266,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces11",
+      "name": "SM_CubicCliffPieces11",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces11.glb",
+      "bytes": 2510896,
+      "triangles": 262,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces12",
+      "name": "SM_CubicCliffPieces12",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces12.glb",
+      "bytes": 2583728,
+      "triangles": 212,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces13",
+      "name": "SM_CubicCliffPieces13",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces13.glb",
+      "bytes": 2555400,
+      "triangles": 122,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces14",
+      "name": "SM_CubicCliffPieces14",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces14.glb",
+      "bytes": 2766432,
+      "triangles": 148,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces15",
+      "name": "SM_CubicCliffPieces15",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces15.glb",
+      "bytes": 2788012,
+      "triangles": 178,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces16",
+      "name": "SM_CubicCliffPieces16",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces16.glb",
+      "bytes": 3078816,
+      "triangles": 328,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces17",
+      "name": "SM_CubicCliffPieces17",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces17.glb",
+      "bytes": 2967508,
+      "triangles": 490,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces18",
+      "name": "SM_CubicCliffPieces18",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces18.glb",
+      "bytes": 2925592,
+      "triangles": 346,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CubicCliffPieces19",
+      "name": "SM_CubicCliffPieces19",
+      "path": "Models/Environment/Rocks/Cubic/SM_CubicCliffPieces19.glb",
+      "bytes": 2979704,
+      "triangles": 396,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic01",
+      "name": "SM_RockCubic01",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic01.glb",
+      "bytes": 1593368,
+      "triangles": 42,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic02",
+      "name": "SM_RockCubic02",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic02.glb",
+      "bytes": 1840572,
+      "triangles": 80,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic03",
+      "name": "SM_RockCubic03",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic03.glb",
+      "bytes": 1599740,
+      "triangles": 74,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic04",
+      "name": "SM_RockCubic04",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic04.glb",
+      "bytes": 1690136,
+      "triangles": 72,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic05",
+      "name": "SM_RockCubic05",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic05.glb",
+      "bytes": 1832860,
+      "triangles": 104,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic06",
+      "name": "SM_RockCubic06",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic06.glb",
+      "bytes": 2049384,
+      "triangles": 128,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic07",
+      "name": "SM_RockCubic07",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic07.glb",
+      "bytes": 2270420,
+      "triangles": 114,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic08",
+      "name": "SM_RockCubic08",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic08.glb",
+      "bytes": 2351944,
+      "triangles": 112,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic09",
+      "name": "SM_RockCubic09",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic09.glb",
+      "bytes": 2446444,
+      "triangles": 152,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic10",
+      "name": "SM_RockCubic10",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic10.glb",
+      "bytes": 2129108,
+      "triangles": 174,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic11",
+      "name": "SM_RockCubic11",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic11.glb",
+      "bytes": 2410632,
+      "triangles": 198,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic12",
+      "name": "SM_RockCubic12",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic12.glb",
+      "bytes": 2040416,
+      "triangles": 114,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic13",
+      "name": "SM_RockCubic13",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic13.glb",
+      "bytes": 2329668,
+      "triangles": 204,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic_Metric_1x1",
+      "name": "SM_RockCubic_Metric_1x1",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic_Metric_1x1.glb",
+      "bytes": 1502784,
+      "triangles": 56,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic_Metric_1x1x2",
+      "name": "SM_RockCubic_Metric_1x1x2",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic_Metric_1x1x2.glb",
+      "bytes": 1615596,
+      "triangles": 100,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic_Metric_2x2",
+      "name": "SM_RockCubic_Metric_2x2",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic_Metric_2x2.glb",
+      "bytes": 1801592,
+      "triangles": 80,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic_Metric_2x2x1",
+      "name": "SM_RockCubic_Metric_2x2x1",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic_Metric_2x2x1.glb",
+      "bytes": 2079340,
+      "triangles": 92,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic_Metric_2x2x4",
+      "name": "SM_RockCubic_Metric_2x2x4",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic_Metric_2x2x4.glb",
+      "bytes": 2104484,
+      "triangles": 148,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic_Metric_4x4x2",
+      "name": "SM_RockCubic_Metric_4x4x2",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic_Metric_4x4x2.glb",
+      "bytes": 2404368,
+      "triangles": 236,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic_Metric_8x8x2",
+      "name": "SM_RockCubic_Metric_8x8x2",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic_Metric_8x8x2.glb",
+      "bytes": 3056812,
+      "triangles": 1610,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockCubic_Metric_8x8x3",
+      "name": "SM_RockCubic_Metric_8x8x3",
+      "path": "Models/Environment/Rocks/Cubic/SM_RockCubic_Metric_8x8x3.glb",
+      "bytes": 2950856,
+      "triangles": 1071,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffA01",
+      "name": "SM_RockDesert_CliffA01",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffA01.glb",
+      "bytes": 4738260,
+      "triangles": 940,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffA02",
+      "name": "SM_RockDesert_CliffA02",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffA02.glb",
+      "bytes": 4692640,
+      "triangles": 930,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffA03",
+      "name": "SM_RockDesert_CliffA03",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffA03.glb",
+      "bytes": 4910500,
+      "triangles": 1090,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffA04",
+      "name": "SM_RockDesert_CliffA04",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffA04.glb",
+      "bytes": 4839840,
+      "triangles": 952,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffA05",
+      "name": "SM_RockDesert_CliffA05",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffA05.glb",
+      "bytes": 5147984,
+      "triangles": 1410,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffA06",
+      "name": "SM_RockDesert_CliffA06",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffA06.glb",
+      "bytes": 5417292,
+      "triangles": 1654,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffA07",
+      "name": "SM_RockDesert_CliffA07",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffA07.glb",
+      "bytes": 5246688,
+      "triangles": 1562,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffA08",
+      "name": "SM_RockDesert_CliffA08",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffA08.glb",
+      "bytes": 5198428,
+      "triangles": 1768,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffB01",
+      "name": "SM_RockDesert_CliffB01",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffB01.glb",
+      "bytes": 4569420,
+      "triangles": 952,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffB02",
+      "name": "SM_RockDesert_CliffB02",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffB02.glb",
+      "bytes": 4996148,
+      "triangles": 930,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffB03",
+      "name": "SM_RockDesert_CliffB03",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffB03.glb",
+      "bytes": 4668204,
+      "triangles": 1042,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffB04",
+      "name": "SM_RockDesert_CliffB04",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffB04.glb",
+      "bytes": 4896220,
+      "triangles": 946,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffB05",
+      "name": "SM_RockDesert_CliffB05",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffB05.glb",
+      "bytes": 5475080,
+      "triangles": 1352,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffB06",
+      "name": "SM_RockDesert_CliffB06",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffB06.glb",
+      "bytes": 4818108,
+      "triangles": 1654,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffB07",
+      "name": "SM_RockDesert_CliffB07",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffB07.glb",
+      "bytes": 5396268,
+      "triangles": 1562,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffB08",
+      "name": "SM_RockDesert_CliffB08",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffB08.glb",
+      "bytes": 5182436,
+      "triangles": 1744,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffC01",
+      "name": "SM_RockDesert_CliffC01",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffC01.glb",
+      "bytes": 4448784,
+      "triangles": 962,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffC02",
+      "name": "SM_RockDesert_CliffC02",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffC02.glb",
+      "bytes": 5237316,
+      "triangles": 936,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffC03",
+      "name": "SM_RockDesert_CliffC03",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffC03.glb",
+      "bytes": 5128716,
+      "triangles": 1090,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffC04",
+      "name": "SM_RockDesert_CliffC04",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffC04.glb",
+      "bytes": 5144784,
+      "triangles": 950,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffC05",
+      "name": "SM_RockDesert_CliffC05",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffC05.glb",
+      "bytes": 5599380,
+      "triangles": 1352,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffC06",
+      "name": "SM_RockDesert_CliffC06",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffC06.glb",
+      "bytes": 5399072,
+      "triangles": 1650,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffC07",
+      "name": "SM_RockDesert_CliffC07",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffC07.glb",
+      "bytes": 5637188,
+      "triangles": 1562,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffC08",
+      "name": "SM_RockDesert_CliffC08",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffC08.glb",
+      "bytes": 4993628,
+      "triangles": 1696,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffHalf01",
+      "name": "SM_RockDesert_CliffHalf01",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffHalf01.glb",
+      "bytes": 4302164,
+      "triangles": 682,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffHalf02",
+      "name": "SM_RockDesert_CliffHalf02",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffHalf02.glb",
+      "bytes": 4585728,
+      "triangles": 574,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffHalf03",
+      "name": "SM_RockDesert_CliffHalf03",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffHalf03.glb",
+      "bytes": 4989548,
+      "triangles": 936,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffHalf04",
+      "name": "SM_RockDesert_CliffHalf04",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffHalf04.glb",
+      "bytes": 4323988,
+      "triangles": 650,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffHalf05",
+      "name": "SM_RockDesert_CliffHalf05",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffHalf05.glb",
+      "bytes": 5197348,
+      "triangles": 620,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffHalf06",
+      "name": "SM_RockDesert_CliffHalf06",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffHalf06.glb",
+      "bytes": 4678316,
+      "triangles": 478,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffHalf07",
+      "name": "SM_RockDesert_CliffHalf07",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffHalf07.glb",
+      "bytes": 4912480,
+      "triangles": 672,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_CliffHalf08",
+      "name": "SM_RockDesert_CliffHalf08",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_CliffHalf08.glb",
+      "bytes": 5200132,
+      "triangles": 796,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Clump01",
+      "name": "SM_RockDesert_Clump01",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Clump01.glb",
+      "bytes": 2574672,
+      "triangles": 346,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Clump02",
+      "name": "SM_RockDesert_Clump02",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Clump02.glb",
+      "bytes": 2462492,
+      "triangles": 544,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Clump03",
+      "name": "SM_RockDesert_Clump03",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Clump03.glb",
+      "bytes": 2666784,
+      "triangles": 652,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Clump04",
+      "name": "SM_RockDesert_Clump04",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Clump04.glb",
+      "bytes": 2883100,
+      "triangles": 982,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Clump05",
+      "name": "SM_RockDesert_Clump05",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Clump05.glb",
+      "bytes": 2798752,
+      "triangles": 940,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Clump06",
+      "name": "SM_RockDesert_Clump06",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Clump06.glb",
+      "bytes": 3064640,
+      "triangles": 1350,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Clump07",
+      "name": "SM_RockDesert_Clump07",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Clump07.glb",
+      "bytes": 3444116,
+      "triangles": 1776,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Clump08",
+      "name": "SM_RockDesert_Clump08",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Clump08.glb",
+      "bytes": 4182544,
+      "triangles": 3878,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Clump09",
+      "name": "SM_RockDesert_Clump09",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Clump09.glb",
+      "bytes": 4349448,
+      "triangles": 3510,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Clump10",
+      "name": "SM_RockDesert_Clump10",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Clump10.glb",
+      "bytes": 4305796,
+      "triangles": 3620,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo01",
+      "name": "SM_RockDesert_Hoodoo01",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo01.glb",
+      "bytes": 2569144,
+      "triangles": 462,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo02",
+      "name": "SM_RockDesert_Hoodoo02",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo02.glb",
+      "bytes": 3063272,
+      "triangles": 1035,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo03",
+      "name": "SM_RockDesert_Hoodoo03",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo03.glb",
+      "bytes": 3525472,
+      "triangles": 1242,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo04",
+      "name": "SM_RockDesert_Hoodoo04",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo04.glb",
+      "bytes": 3443008,
+      "triangles": 1266,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo05",
+      "name": "SM_RockDesert_Hoodoo05",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo05.glb",
+      "bytes": 3333128,
+      "triangles": 662,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo06",
+      "name": "SM_RockDesert_Hoodoo06",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo06.glb",
+      "bytes": 3604220,
+      "triangles": 726,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo07",
+      "name": "SM_RockDesert_Hoodoo07",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo07.glb",
+      "bytes": 3198048,
+      "triangles": 458,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo08",
+      "name": "SM_RockDesert_Hoodoo08",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo08.glb",
+      "bytes": 3169544,
+      "triangles": 594,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo09",
+      "name": "SM_RockDesert_Hoodoo09",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo09.glb",
+      "bytes": 3354064,
+      "triangles": 1018,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo10",
+      "name": "SM_RockDesert_Hoodoo10",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo10.glb",
+      "bytes": 3837228,
+      "triangles": 1010,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo11",
+      "name": "SM_RockDesert_Hoodoo11",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo11.glb",
+      "bytes": 4097916,
+      "triangles": 586,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo12",
+      "name": "SM_RockDesert_Hoodoo12",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo12.glb",
+      "bytes": 3386252,
+      "triangles": 644,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo13",
+      "name": "SM_RockDesert_Hoodoo13",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo13.glb",
+      "bytes": 3403420,
+      "triangles": 848,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo14",
+      "name": "SM_RockDesert_Hoodoo14",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo14.glb",
+      "bytes": 3589552,
+      "triangles": 584,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Hoodoo15",
+      "name": "SM_RockDesert_Hoodoo15",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Hoodoo15.glb",
+      "bytes": 4157948,
+      "triangles": 594,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_HoodooCliff01",
+      "name": "SM_RockDesert_HoodooCliff01",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_HoodooCliff01.glb",
+      "bytes": 3242192,
+      "triangles": 440,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_HoodooCliff02",
+      "name": "SM_RockDesert_HoodooCliff02",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_HoodooCliff02.glb",
+      "bytes": 2864800,
+      "triangles": 542,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_HoodooCliff03",
+      "name": "SM_RockDesert_HoodooCliff03",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_HoodooCliff03.glb",
+      "bytes": 3392268,
+      "triangles": 576,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_HoodooCliff04",
+      "name": "SM_RockDesert_HoodooCliff04",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_HoodooCliff04.glb",
+      "bytes": 3311328,
+      "triangles": 716,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_HoodooCliff05",
+      "name": "SM_RockDesert_HoodooCliff05",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_HoodooCliff05.glb",
+      "bytes": 3272016,
+      "triangles": 830,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_HoodooCliff06",
+      "name": "SM_RockDesert_HoodooCliff06",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_HoodooCliff06.glb",
+      "bytes": 3612380,
+      "triangles": 814,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_HoodooCliff07",
+      "name": "SM_RockDesert_HoodooCliff07",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_HoodooCliff07.glb",
+      "bytes": 3369928,
+      "triangles": 876,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_HoodooCliff08",
+      "name": "SM_RockDesert_HoodooCliff08",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_HoodooCliff08.glb",
+      "bytes": 3440204,
+      "triangles": 584,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_HoodooCliff09",
+      "name": "SM_RockDesert_HoodooCliff09",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_HoodooCliff09.glb",
+      "bytes": 2899812,
+      "triangles": 888,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Layered01",
+      "name": "SM_RockDesert_Layered01",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Layered01.glb",
+      "bytes": 3630380,
+      "triangles": 910,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Layered02",
+      "name": "SM_RockDesert_Layered02",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Layered02.glb",
+      "bytes": 2826244,
+      "triangles": 966,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Layered03",
+      "name": "SM_RockDesert_Layered03",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Layered03.glb",
+      "bytes": 1728636,
+      "triangles": 1060,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Layered04",
+      "name": "SM_RockDesert_Layered04",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Layered04.glb",
+      "bytes": 4413032,
+      "triangles": 956,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Layered05",
+      "name": "SM_RockDesert_Layered05",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Layered05.glb",
+      "bytes": 4793624,
+      "triangles": 972,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Layered06",
+      "name": "SM_RockDesert_Layered06",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Layered06.glb",
+      "bytes": 5004092,
+      "triangles": 1292,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Layered07",
+      "name": "SM_RockDesert_Layered07",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Layered07.glb",
+      "bytes": 4272800,
+      "triangles": 1594,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Layered08",
+      "name": "SM_RockDesert_Layered08",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Layered08.glb",
+      "bytes": 2498720,
+      "triangles": 1784,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Platform01",
+      "name": "SM_RockDesert_Platform01",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Platform01.glb",
+      "bytes": 4276968,
+      "triangles": 1246,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Platform02",
+      "name": "SM_RockDesert_Platform02",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Platform02.glb",
+      "bytes": 2219280,
+      "triangles": 1048,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Platform03",
+      "name": "SM_RockDesert_Platform03",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Platform03.glb",
+      "bytes": 3642384,
+      "triangles": 1188,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Platform04",
+      "name": "SM_RockDesert_Platform04",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Platform04.glb",
+      "bytes": 3416640,
+      "triangles": 1364,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock01",
+      "name": "SM_RockDesert_Rock01",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock01.glb",
+      "bytes": 2077096,
+      "triangles": 116,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock02",
+      "name": "SM_RockDesert_Rock02",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock02.glb",
+      "bytes": 2178568,
+      "triangles": 58,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock03",
+      "name": "SM_RockDesert_Rock03",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock03.glb",
+      "bytes": 1969928,
+      "triangles": 88,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock04",
+      "name": "SM_RockDesert_Rock04",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock04.glb",
+      "bytes": 2194296,
+      "triangles": 82,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock05",
+      "name": "SM_RockDesert_Rock05",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock05.glb",
+      "bytes": 1783588,
+      "triangles": 60,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock06",
+      "name": "SM_RockDesert_Rock06",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock06.glb",
+      "bytes": 2133048,
+      "triangles": 96,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock07",
+      "name": "SM_RockDesert_Rock07",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock07.glb",
+      "bytes": 2121140,
+      "triangles": 146,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock08",
+      "name": "SM_RockDesert_Rock08",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock08.glb",
+      "bytes": 1872200,
+      "triangles": 292,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock09",
+      "name": "SM_RockDesert_Rock09",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock09.glb",
+      "bytes": 2175264,
+      "triangles": 182,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock10",
+      "name": "SM_RockDesert_Rock10",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock10.glb",
+      "bytes": 2106164,
+      "triangles": 234,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock11",
+      "name": "SM_RockDesert_Rock11",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock11.glb",
+      "bytes": 2309840,
+      "triangles": 226,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock12",
+      "name": "SM_RockDesert_Rock12",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock12.glb",
+      "bytes": 2770152,
+      "triangles": 406,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock13",
+      "name": "SM_RockDesert_Rock13",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock13.glb",
+      "bytes": 2231756,
+      "triangles": 234,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock14",
+      "name": "SM_RockDesert_Rock14",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock14.glb",
+      "bytes": 2620968,
+      "triangles": 486,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock15",
+      "name": "SM_RockDesert_Rock15",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock15.glb",
+      "bytes": 2819860,
+      "triangles": 530,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock16",
+      "name": "SM_RockDesert_Rock16",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock16.glb",
+      "bytes": 3090148,
+      "triangles": 534,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf01",
+      "name": "SM_RockDesert_Shelf01",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf01.glb",
+      "bytes": 4310016,
+      "triangles": 856,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf02",
+      "name": "SM_RockDesert_Shelf02",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf02.glb",
+      "bytes": 4465516,
+      "triangles": 684,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf03",
+      "name": "SM_RockDesert_Shelf03",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf03.glb",
+      "bytes": 4149324,
+      "triangles": 820,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf04",
+      "name": "SM_RockDesert_Shelf04",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf04.glb",
+      "bytes": 4160212,
+      "triangles": 568,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf05",
+      "name": "SM_RockDesert_Shelf05",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf05.glb",
+      "bytes": 4047756,
+      "triangles": 536,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf06",
+      "name": "SM_RockDesert_Shelf06",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf06.glb",
+      "bytes": 3953636,
+      "triangles": 542,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf07",
+      "name": "SM_RockDesert_Shelf07",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf07.glb",
+      "bytes": 4295428,
+      "triangles": 482,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf08",
+      "name": "SM_RockDesert_Shelf08",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf08.glb",
+      "bytes": 4360456,
+      "triangles": 542,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf09",
+      "name": "SM_RockDesert_Shelf09",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf09.glb",
+      "bytes": 4074428,
+      "triangles": 640,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf10",
+      "name": "SM_RockDesert_Shelf10",
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf10.glb",
+      "bytes": 4311108,
+      "triangles": 746,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece01",
+      "name": "SM_RockHexic_Piece01",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece01.glb",
+      "bytes": 2439672,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece02",
+      "name": "SM_RockHexic_Piece02",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece02.glb",
+      "bytes": 2356156,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece03",
+      "name": "SM_RockHexic_Piece03",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece03.glb",
+      "bytes": 2400836,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece04",
+      "name": "SM_RockHexic_Piece04",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece04.glb",
+      "bytes": 2474408,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece05",
+      "name": "SM_RockHexic_Piece05",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece05.glb",
+      "bytes": 2289264,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece06",
+      "name": "SM_RockHexic_Piece06",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece06.glb",
+      "bytes": 2302828,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece07",
+      "name": "SM_RockHexic_Piece07",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece07.glb",
+      "bytes": 2403296,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece08",
+      "name": "SM_RockHexic_Piece08",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece08.glb",
+      "bytes": 2417212,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece09",
+      "name": "SM_RockHexic_Piece09",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece09.glb",
+      "bytes": 2521400,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece10",
+      "name": "SM_RockHexic_Piece10",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece10.glb",
+      "bytes": 2415628,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece11",
+      "name": "SM_RockHexic_Piece11",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece11.glb",
+      "bytes": 2522744,
+      "triangles": 126,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece12",
+      "name": "SM_RockHexic_Piece12",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece12.glb",
+      "bytes": 2731860,
+      "triangles": 122,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece13",
+      "name": "SM_RockHexic_Piece13",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece13.glb",
+      "bytes": 2608712,
+      "triangles": 90,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece14",
+      "name": "SM_RockHexic_Piece14",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece14.glb",
+      "bytes": 2686644,
+      "triangles": 88,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece15",
+      "name": "SM_RockHexic_Piece15",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece15.glb",
+      "bytes": 2699260,
+      "triangles": 88,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece16",
+      "name": "SM_RockHexic_Piece16",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece16.glb",
+      "bytes": 2960332,
+      "triangles": 134,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece17",
+      "name": "SM_RockHexic_Piece17",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece17.glb",
+      "bytes": 2819732,
+      "triangles": 130,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece18",
+      "name": "SM_RockHexic_Piece18",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece18.glb",
+      "bytes": 3116496,
+      "triangles": 142,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Platform01",
+      "name": "SM_RockHexic_Platform01",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Platform01.glb",
+      "bytes": 3590928,
+      "triangles": 1464,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Platform02",
+      "name": "SM_RockHexic_Platform02",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Platform02.glb",
+      "bytes": 3474212,
+      "triangles": 1908,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Platform03",
+      "name": "SM_RockHexic_Platform03",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Platform03.glb",
+      "bytes": 3322108,
+      "triangles": 4152,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Platform04",
+      "name": "SM_RockHexic_Platform04",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Platform04.glb",
+      "bytes": 3408760,
+      "triangles": 2420,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted01",
+      "name": "SM_RockHexic_RockSlanted01",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted01.glb",
+      "bytes": 2744824,
+      "triangles": 136,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted02",
+      "name": "SM_RockHexic_RockSlanted02",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted02.glb",
+      "bytes": 2964340,
+      "triangles": 176,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted03",
+      "name": "SM_RockHexic_RockSlanted03",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted03.glb",
+      "bytes": 2997224,
+      "triangles": 252,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted04",
+      "name": "SM_RockHexic_RockSlanted04",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted04.glb",
+      "bytes": 2944544,
+      "triangles": 264,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted05",
+      "name": "SM_RockHexic_RockSlanted05",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted05.glb",
+      "bytes": 3179936,
+      "triangles": 396,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted06",
+      "name": "SM_RockHexic_RockSlanted06",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted06.glb",
+      "bytes": 3174312,
+      "triangles": 424,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted07",
+      "name": "SM_RockHexic_RockSlanted07",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted07.glb",
+      "bytes": 3290748,
+      "triangles": 412,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted08",
+      "name": "SM_RockHexic_RockSlanted08",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted08.glb",
+      "bytes": 3402624,
+      "triangles": 690,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted09",
+      "name": "SM_RockHexic_RockSlanted09",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted09.glb",
+      "bytes": 3393356,
+      "triangles": 520,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_RockSlanted10",
+      "name": "SM_RockHexic_RockSlanted10",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_RockSlanted10.glb",
+      "bytes": 3518600,
+      "triangles": 664,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks01",
+      "name": "SM_RockHexic_Rocks01",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks01.glb",
+      "bytes": 2765576,
+      "triangles": 160,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks02",
+      "name": "SM_RockHexic_Rocks02",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks02.glb",
+      "bytes": 2877156,
+      "triangles": 184,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks03",
+      "name": "SM_RockHexic_Rocks03",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks03.glb",
+      "bytes": 3024764,
+      "triangles": 234,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks04",
+      "name": "SM_RockHexic_Rocks04",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks04.glb",
+      "bytes": 3116320,
+      "triangles": 300,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks05",
+      "name": "SM_RockHexic_Rocks05",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks05.glb",
+      "bytes": 3301412,
+      "triangles": 410,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks06",
+      "name": "SM_RockHexic_Rocks06",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks06.glb",
+      "bytes": 3240056,
+      "triangles": 430,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks07",
+      "name": "SM_RockHexic_Rocks07",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks07.glb",
+      "bytes": 3335036,
+      "triangles": 442,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks08",
+      "name": "SM_RockHexic_Rocks08",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks08.glb",
+      "bytes": 3399232,
+      "triangles": 628,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks09",
+      "name": "SM_RockHexic_Rocks09",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks09.glb",
+      "bytes": 3397624,
+      "triangles": 610,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Rocks10",
+      "name": "SM_RockHexic_Rocks10",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Rocks10.glb",
+      "bytes": 3450824,
+      "triangles": 664,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Spire01",
+      "name": "SM_RockHexic_Spire01",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Spire01.glb",
+      "bytes": 3345396,
+      "triangles": 396,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Spire02",
+      "name": "SM_RockHexic_Spire02",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Spire02.glb",
+      "bytes": 3515032,
+      "triangles": 748,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Spire03",
+      "name": "SM_RockHexic_Spire03",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Spire03.glb",
+      "bytes": 3089920,
+      "triangles": 1056,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Spire04",
+      "name": "SM_RockHexic_Spire04",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Spire04.glb",
+      "bytes": 3460604,
+      "triangles": 704,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Spire05",
+      "name": "SM_RockHexic_Spire05",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Spire05.glb",
+      "bytes": 3809916,
+      "triangles": 1588,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Spire06",
+      "name": "SM_RockHexic_Spire06",
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Spire06.glb",
+      "bytes": 3232364,
+      "triangles": 1848,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Mountain01",
+      "name": "SM_Mountain01",
+      "path": "Models/Environment/Rocks/Mountains/SM_Mountain01.glb",
+      "bytes": 900400,
+      "triangles": 854,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Mountain02",
+      "name": "SM_Mountain02",
+      "path": "Models/Environment/Rocks/Mountains/SM_Mountain02.glb",
+      "bytes": 935880,
+      "triangles": 1244,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Mountain03",
+      "name": "SM_Mountain03",
+      "path": "Models/Environment/Rocks/Mountains/SM_Mountain03.glb",
+      "bytes": 973748,
+      "triangles": 1337,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Mountain04",
+      "name": "SM_Mountain04",
+      "path": "Models/Environment/Rocks/Mountains/SM_Mountain04.glb",
+      "bytes": 1151428,
+      "triangles": 1313,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock01",
+      "name": "SM_RockSpire_Rock01",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock01.glb",
+      "bytes": 2098676,
+      "triangles": 70,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock02",
+      "name": "SM_RockSpire_Rock02",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock02.glb",
+      "bytes": 2249436,
+      "triangles": 50,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock03",
+      "name": "SM_RockSpire_Rock03",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock03.glb",
+      "bytes": 2186564,
+      "triangles": 60,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock04",
+      "name": "SM_RockSpire_Rock04",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock04.glb",
+      "bytes": 2390884,
+      "triangles": 124,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock05",
+      "name": "SM_RockSpire_Rock05",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock05.glb",
+      "bytes": 2552992,
+      "triangles": 139,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock06",
+      "name": "SM_RockSpire_Rock06",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock06.glb",
+      "bytes": 2474920,
+      "triangles": 190,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock07",
+      "name": "SM_RockSpire_Rock07",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock07.glb",
+      "bytes": 2355056,
+      "triangles": 158,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock08",
+      "name": "SM_RockSpire_Rock08",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock08.glb",
+      "bytes": 2751028,
+      "triangles": 128,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock09",
+      "name": "SM_RockSpire_Rock09",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock09.glb",
+      "bytes": 2736372,
+      "triangles": 250,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock10",
+      "name": "SM_RockSpire_Rock10",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock10.glb",
+      "bytes": 2831440,
+      "triangles": 226,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock11",
+      "name": "SM_RockSpire_Rock11",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock11.glb",
+      "bytes": 2873272,
+      "triangles": 200,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock12",
+      "name": "SM_RockSpire_Rock12",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock12.glb",
+      "bytes": 3039416,
+      "triangles": 150,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock13",
+      "name": "SM_RockSpire_Rock13",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock13.glb",
+      "bytes": 2792316,
+      "triangles": 122,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock14",
+      "name": "SM_RockSpire_Rock14",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock14.glb",
+      "bytes": 3095416,
+      "triangles": 256,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock15",
+      "name": "SM_RockSpire_Rock15",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock15.glb",
+      "bytes": 3007800,
+      "triangles": 236,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock16",
+      "name": "SM_RockSpire_Rock16",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock16.glb",
+      "bytes": 2972260,
+      "triangles": 182,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock17",
+      "name": "SM_RockSpire_Rock17",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock17.glb",
+      "bytes": 2898692,
+      "triangles": 232,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock18",
+      "name": "SM_RockSpire_Rock18",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock18.glb",
+      "bytes": 3098580,
+      "triangles": 414,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock19",
+      "name": "SM_RockSpire_Rock19",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock19.glb",
+      "bytes": 3068880,
+      "triangles": 282,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Rock20",
+      "name": "SM_RockSpire_Rock20",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Rock20.glb",
+      "bytes": 3237052,
+      "triangles": 350,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClump01",
+      "name": "SM_RockSpire_RockClump01",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClump01.glb",
+      "bytes": 2351416,
+      "triangles": 304,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClump02",
+      "name": "SM_RockSpire_RockClump02",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClump02.glb",
+      "bytes": 2417496,
+      "triangles": 472,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClump03",
+      "name": "SM_RockSpire_RockClump03",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClump03.glb",
+      "bytes": 2422352,
+      "triangles": 432,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClump04",
+      "name": "SM_RockSpire_RockClump04",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClump04.glb",
+      "bytes": 2658540,
+      "triangles": 590,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClump05",
+      "name": "SM_RockSpire_RockClump05",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClump05.glb",
+      "bytes": 2620548,
+      "triangles": 1132,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB01",
+      "name": "SM_RockSpire_RockClumpB01",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB01.glb",
+      "bytes": 2929500,
+      "triangles": 443,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB02",
+      "name": "SM_RockSpire_RockClumpB02",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB02.glb",
+      "bytes": 3127428,
+      "triangles": 573,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB03",
+      "name": "SM_RockSpire_RockClumpB03",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB03.glb",
+      "bytes": 3197228,
+      "triangles": 598,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB04",
+      "name": "SM_RockSpire_RockClumpB04",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB04.glb",
+      "bytes": 3464064,
+      "triangles": 1140,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB05",
+      "name": "SM_RockSpire_RockClumpB05",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB05.glb",
+      "bytes": 3786332,
+      "triangles": 1218,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB06",
+      "name": "SM_RockSpire_RockClumpB06",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB06.glb",
+      "bytes": 3692448,
+      "triangles": 1240,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB07",
+      "name": "SM_RockSpire_RockClumpB07",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB07.glb",
+      "bytes": 3731140,
+      "triangles": 854,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB08",
+      "name": "SM_RockSpire_RockClumpB08",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB08.glb",
+      "bytes": 3683140,
+      "triangles": 962,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB09",
+      "name": "SM_RockSpire_RockClumpB09",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB09.glb",
+      "bytes": 3830744,
+      "triangles": 1846,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB10",
+      "name": "SM_RockSpire_RockClumpB10",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB10.glb",
+      "bytes": 3744192,
+      "triangles": 1246,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB11",
+      "name": "SM_RockSpire_RockClumpB11",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB11.glb",
+      "bytes": 3784640,
+      "triangles": 1114,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB12",
+      "name": "SM_RockSpire_RockClumpB12",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB12.glb",
+      "bytes": 3884712,
+      "triangles": 1346,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpC01",
+      "name": "SM_RockSpire_RockClumpC01",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC01.glb",
+      "bytes": 3703468,
+      "triangles": 1378,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpC02",
+      "name": "SM_RockSpire_RockClumpC02",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC02.glb",
+      "bytes": 3960032,
+      "triangles": 1664,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpC03",
+      "name": "SM_RockSpire_RockClumpC03",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC03.glb",
+      "bytes": 3985332,
+      "triangles": 1792,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpC04",
+      "name": "SM_RockSpire_RockClumpC04",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC04.glb",
+      "bytes": 3596920,
+      "triangles": 1080,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf01",
+      "name": "SM_RockSpire_Shelf01",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf01.glb",
+      "bytes": 3816520,
+      "triangles": 560,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf02",
+      "name": "SM_RockSpire_Shelf02",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf02.glb",
+      "bytes": 3973384,
+      "triangles": 846,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf03",
+      "name": "SM_RockSpire_Shelf03",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf03.glb",
+      "bytes": 3880908,
+      "triangles": 788,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf04",
+      "name": "SM_RockSpire_Shelf04",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf04.glb",
+      "bytes": 3832484,
+      "triangles": 850,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf05",
+      "name": "SM_RockSpire_Shelf05",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf05.glb",
+      "bytes": 3990920,
+      "triangles": 1258,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf06",
+      "name": "SM_RockSpire_Shelf06",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf06.glb",
+      "bytes": 4185528,
+      "triangles": 1192,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf07",
+      "name": "SM_RockSpire_Shelf07",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf07.glb",
+      "bytes": 3839296,
+      "triangles": 1085,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf08",
+      "name": "SM_RockSpire_Shelf08",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf08.glb",
+      "bytes": 3714244,
+      "triangles": 522,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire01",
+      "name": "SM_RockSpire_Spire01",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire01.glb",
+      "bytes": 3545692,
+      "triangles": 448,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire02",
+      "name": "SM_RockSpire_Spire02",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire02.glb",
+      "bytes": 3599268,
+      "triangles": 654,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire03",
+      "name": "SM_RockSpire_Spire03",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire03.glb",
+      "bytes": 3536500,
+      "triangles": 480,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire04",
+      "name": "SM_RockSpire_Spire04",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire04.glb",
+      "bytes": 3986632,
+      "triangles": 1282,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-16.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire05",
+      "name": "SM_RockSpire_Spire05",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire05.glb",
+      "bytes": 3833912,
+      "triangles": 916,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-17.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire06",
+      "name": "SM_RockSpire_Spire06",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire06.glb",
+      "bytes": 3608060,
+      "triangles": 918,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-17.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire07",
+      "name": "SM_RockSpire_Spire07",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire07.glb",
+      "bytes": 3875644,
+      "triangles": 534,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-17.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire08",
+      "name": "SM_RockSpire_Spire08",
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire08.glb",
+      "bytes": 4004436,
+      "triangles": 956,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Rocks_part01.zip",
+      "details": "details/Rocks-17.json"
+    }
+  ]
+}

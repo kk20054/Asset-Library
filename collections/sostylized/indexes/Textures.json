@@ -1,0 +1,2887 @@
+{
+  "schema_version": 1,
+  "category": "Textures",
+  "asset_count": 286,
+  "full_catalog": "../catalog.json",
+  "downloads": "../downloads.json",
+  "path_scope": "Asset path is inside the extracted ZIP root, not a direct repository model path. Use download.zip_member or direct_sample_url.",
+  "detail_pages": [
+    "details/Textures-01.json",
+    "details/Textures-02.json",
+    "details/Textures-03.json",
+    "details/Textures-04.json",
+    "details/Textures-05.json",
+    "details/Textures-06.json",
+    "details/Textures-07.json",
+    "details/Textures-08.json",
+    "details/Textures-09.json",
+    "details/Textures-10.json",
+    "details/Textures-11.json",
+    "details/Textures-12.json",
+    "details/Textures-13.json",
+    "details/Textures-14.json",
+    "details/Textures-15.json"
+  ],
+  "assets": [
+    {
+      "id": "SOSTYLIZED_T_ML_Aluminum01",
+      "name": "T_ML_Aluminum01",
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.png",
+      "bytes": 369533,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_ML_Aluminum01_N",
+      "name": "T_ML_Aluminum01_N",
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.png",
+      "bytes": 371739,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_ML_Rubber_Blue_01_D",
+      "name": "T_ML_Rubber_Blue_01_D",
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.png",
+      "bytes": 398845,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_ML_Rubber_Blue_01_N",
+      "name": "T_ML_Rubber_Blue_01_N",
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.png",
+      "bytes": 328986,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_UE4Man_Logo_N",
+      "name": "T_UE4Man_Logo_N",
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4Man_Logo_N.png",
+      "bytes": 122531,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_UE4_LOGO_CARD",
+      "name": "T_UE4_LOGO_CARD",
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4_LOGO_CARD.png",
+      "bytes": 56640,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_UE4_Mannequin_MAT_MASKA",
+      "name": "T_UE4_Mannequin_MAT_MASKA",
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4_Mannequin_MAT_MASKA.png",
+      "bytes": 186760,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_UE4_Mannequin__normals",
+      "name": "T_UE4_Mannequin__normals",
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4_Mannequin__normals.png",
+      "bytes": 5140593,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_GridChecker_A",
+      "name": "T_GridChecker_A",
+      "path": "Textures/Demo/Textures/T_GridChecker_A.png",
+      "bytes": 9468,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_ProcTiles_N",
+      "name": "T_ProcTiles_N",
+      "path": "Textures/Demo/Textures/T_ProcTiles_N.png",
+      "bytes": 24170,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Sky_Blue_transformed",
+      "name": "T_Sky_Blue-transformed",
+      "path": "Textures/Demo/Textures/T_Sky_Blue-transformed.png",
+      "bytes": 12627386,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Smoke_SubUV",
+      "name": "T_Smoke_SubUV",
+      "path": "Textures/Demo/Textures/T_Smoke_SubUV.png",
+      "bytes": 3158795,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Smoke_Tiled_D",
+      "name": "T_Smoke_Tiled_D",
+      "path": "Textures/Demo/Textures/T_Smoke_Tiled_D.png",
+      "bytes": 52797,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Water_N",
+      "name": "T_Water_N",
+      "path": "Textures/Demo/Textures/T_Water_N.png",
+      "bytes": 523844,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RainSplash",
+      "name": "T_RainSplash",
+      "path": "Textures/Effects/Textures/T_RainSplash.png",
+      "bytes": 16242,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Snow",
+      "name": "T_Snow",
+      "path": "Textures/Effects/Textures/T_Snow.png",
+      "bytes": 3538,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SnowFlake",
+      "name": "T_SnowFlake",
+      "path": "Textures/Effects/Textures/T_SnowFlake.png",
+      "bytes": 4564,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SpriteStar",
+      "name": "T_SpriteStar",
+      "path": "Textures/Effects/Textures/T_SpriteStar.png",
+      "bytes": 1277,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CactusPricklyPear_BC",
+      "name": "T_CactusPricklyPear_BC",
+      "path": "Textures/Environment/Foliage/Textures/T_CactusPricklyPear_BC.png",
+      "bytes": 223005,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CactusPricklyPear_N",
+      "name": "T_CactusPricklyPear_N",
+      "path": "Textures/Environment/Foliage/Textures/T_CactusPricklyPear_N.png",
+      "bytes": 266426,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Cactus_BC",
+      "name": "T_Cactus_BC",
+      "path": "Textures/Environment/Foliage/Textures/T_Cactus_BC.png",
+      "bytes": 524207,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_FoliageSheet_BC",
+      "name": "T_FoliageSheet_BC",
+      "path": "Textures/Environment/Foliage/Textures/T_FoliageSheet_BC.png",
+      "bytes": 4519429,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_FoliageSheet_Emissive",
+      "name": "T_FoliageSheet_Emissive",
+      "path": "Textures/Environment/Foliage/Textures/T_FoliageSheet_Emissive.png",
+      "bytes": 191161,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_BushSnowDead",
+      "name": "T_Leaf_BushSnowDead",
+      "path": "Textures/Environment/Foliage/Textures/T_Leaf_BushSnowDead.png",
+      "bytes": 26540,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_BushSnowDead_BC",
+      "name": "T_Leaf_BushSnowDead_BC",
+      "path": "Textures/Environment/Foliage/Textures/T_Leaf_BushSnowDead_BC.png",
+      "bytes": 537813,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_DesertBush",
+      "name": "T_Leaf_DesertBush",
+      "path": "Textures/Environment/Foliage/Textures/T_Leaf_DesertBush.png",
+      "bytes": 10775,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_DesertBushB_BC",
+      "name": "T_Leaf_DesertBushB_BC",
+      "path": "Textures/Environment/Foliage/Textures/T_Leaf_DesertBushB_BC.png",
+      "bytes": 429505,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_DesertBush_BC",
+      "name": "T_Leaf_DesertBush_BC",
+      "path": "Textures/Environment/Foliage/Textures/T_Leaf_DesertBush_BC.png",
+      "bytes": 175100,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Tumbleweed",
+      "name": "T_Tumbleweed",
+      "path": "Textures/Environment/Foliage/Textures/T_Tumbleweed.png",
+      "bytes": 12430,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Tumbleweed_BC",
+      "name": "T_Tumbleweed_BC",
+      "path": "Textures/Environment/Foliage/Textures/T_Tumbleweed_BC.png",
+      "bytes": 163013,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertDirt_BC",
+      "name": "T_DesertDirt_BC",
+      "path": "Textures/Environment/Landscape/Textures/T_DesertDirt_BC.png",
+      "bytes": 5732397,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertDirt_R",
+      "name": "T_DesertDirt_R",
+      "path": "Textures/Environment/Landscape/Textures/T_DesertDirt_R.png",
+      "bytes": 4719544,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertDirt_Rocks_N",
+      "name": "T_DesertDirt_Rocks_N",
+      "path": "Textures/Environment/Landscape/Textures/T_DesertDirt_Rocks_N.png",
+      "bytes": 258409,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertSand_BC",
+      "name": "T_DesertSand_BC",
+      "path": "Textures/Environment/Landscape/Textures/T_DesertSand_BC.png",
+      "bytes": 5972014,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertSand_N",
+      "name": "T_DesertSand_N",
+      "path": "Textures/Environment/Landscape/Textures/T_DesertSand_N.png",
+      "bytes": 1104052,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Dirt1_BC",
+      "name": "T_Dirt1_BC",
+      "path": "Textures/Environment/Landscape/Textures/T_Dirt1_BC.png",
+      "bytes": 10790311,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Dirt1_N",
+      "name": "T_Dirt1_N",
+      "path": "Textures/Environment/Landscape/Textures/T_Dirt1_N.png",
+      "bytes": 3327432,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Dirt1_R",
+      "name": "T_Dirt1_R",
+      "path": "Textures/Environment/Landscape/Textures/T_Dirt1_R.png",
+      "bytes": 4031330,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Dirt1_W",
+      "name": "T_Dirt1_W",
+      "path": "Textures/Environment/Landscape/Textures/T_Dirt1_W.png",
+      "bytes": 4161256,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_DirtySand_H",
+      "name": "T_DirtySand_H",
+      "path": "Textures/Environment/Landscape/Textures/T_DirtySand_H.png",
+      "bytes": 4600759,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Grass1_BC",
+      "name": "T_Grass1_BC",
+      "path": "Textures/Environment/Landscape/Textures/T_Grass1_BC.png",
+      "bytes": 19351505,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Grass1_R",
+      "name": "T_Grass1_R",
+      "path": "Textures/Environment/Landscape/Textures/T_Grass1_R.png",
+      "bytes": 6378559,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Grass_ColormapDesert",
+      "name": "T_Grass_ColormapDesert",
+      "path": "Textures/Environment/Landscape/Textures/T_Grass_ColormapDesert.png",
+      "bytes": 1012340,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Grass_ColormapSnow",
+      "name": "T_Grass_ColormapSnow",
+      "path": "Textures/Environment/Landscape/Textures/T_Grass_ColormapSnow.png",
+      "bytes": 1098402,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Grass_ColormapVol1",
+      "name": "T_Grass_ColormapVol1",
+      "path": "Textures/Environment/Landscape/Textures/T_Grass_ColormapVol1.png",
+      "bytes": 465136,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Grass_ColormapVol2",
+      "name": "T_Grass_ColormapVol2",
+      "path": "Textures/Environment/Landscape/Textures/T_Grass_ColormapVol2.png",
+      "bytes": 824079,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Rock_ColormapVol2",
+      "name": "T_Rock_ColormapVol2",
+      "path": "Textures/Environment/Landscape/Textures/T_Rock_ColormapVol2.png",
+      "bytes": 506595,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Sand_BC",
+      "name": "T_Sand_BC",
+      "path": "Textures/Environment/Landscape/Textures/T_Sand_BC.png",
+      "bytes": 10948624,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Sand_N",
+      "name": "T_Sand_N",
+      "path": "Textures/Environment/Landscape/Textures/T_Sand_N.png",
+      "bytes": 2106440,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Sand_R",
+      "name": "T_Sand_R",
+      "path": "Textures/Environment/Landscape/Textures/T_Sand_R.png",
+      "bytes": 3324476,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SnowGrass_BC",
+      "name": "T_SnowGrass_BC",
+      "path": "Textures/Environment/Landscape/Textures/T_SnowGrass_BC.png",
+      "bytes": 1534472,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Snow_BC",
+      "name": "T_Snow_BC",
+      "path": "Textures/Environment/Landscape/Textures/T_Snow_BC.png",
+      "bytes": 1361144,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BeachShells_BC",
+      "name": "T_BeachShells_BC",
+      "path": "Textures/Environment/Misc/Textures/T_BeachShells_BC.png",
+      "bytes": 244375,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BeachShells_R",
+      "name": "T_BeachShells_R",
+      "path": "Textures/Environment/Misc/Textures/T_BeachShells_R.png",
+      "bytes": 70657,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BoulderClumpClassic_N",
+      "name": "T_BoulderClumpClassic_N",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_BoulderClumpClassic_N.png",
+      "bytes": 2684175,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassicCliffs_N",
+      "name": "T_RockClassicCliffs_N",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassicCliffs_N.png",
+      "bytes": 8915582,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassicPlatforms_GrassMap",
+      "name": "T_RockClassicPlatforms_GrassMap",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassicPlatforms_GrassMap.png",
+      "bytes": 113491,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_BC",
+      "name": "T_RockClassic_BC",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_BC.png",
+      "bytes": 13805448,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_Boulders_N",
+      "name": "T_RockClassic_Boulders_N",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Boulders_N.png",
+      "bytes": 2476340,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_Cliff_GrassMap",
+      "name": "T_RockClassic_Cliff_GrassMap",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Cliff_GrassMap.png",
+      "bytes": 252952,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_N",
+      "name": "T_RockClassic_N",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_N.png",
+      "bytes": 17038390,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_Platforms_N",
+      "name": "T_RockClassic_Platforms_N",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Platforms_N.png",
+      "bytes": 2958202,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_Rocks_BC",
+      "name": "T_RockClassic_Rocks_BC",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Rocks_BC.png",
+      "bytes": 17126777,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_Shelves_GrassMap",
+      "name": "T_RockClassic_Shelves_GrassMap",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Shelves_GrassMap.png",
+      "bytes": 128934,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_Shelves_N",
+      "name": "T_RockClassic_Shelves_N",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Shelves_N.png",
+      "bytes": 2169149,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RocksClassic_Rocks_N",
+      "name": "T_RocksClassic_Rocks_N",
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RocksClassic_Rocks_N.png",
+      "bytes": 3105384,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockCubic_BC",
+      "name": "T_RockCubic_BC",
+      "path": "Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_BC.png",
+      "bytes": 6557359,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockCubic_Cliff_N",
+      "name": "T_RockCubic_Cliff_N",
+      "path": "Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_Cliff_N.png",
+      "bytes": 9165566,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockCubic_Metric_N",
+      "name": "T_RockCubic_Metric_N",
+      "path": "Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_Metric_N.png",
+      "bytes": 4775185,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockCubic_N",
+      "name": "T_RockCubic_N",
+      "path": "Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_N.png",
+      "bytes": 19938679,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RocksCubic_Rocks_N",
+      "name": "T_RocksCubic_Rocks_N",
+      "path": "Textures/Environment/Rocks/Textures/Cubic/T_RocksCubic_Rocks_N.png",
+      "bytes": 3128096,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockDesert_BC",
+      "name": "T_RockDesert_BC",
+      "path": "Textures/Environment/Rocks/Textures/Desert/T_RockDesert_BC.png",
+      "bytes": 17569178,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockDesert_N",
+      "name": "T_RockDesert_N",
+      "path": "Textures/Environment/Rocks/Textures/Desert/T_RockDesert_N.png",
+      "bytes": 16644960,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockDesert_R",
+      "name": "T_RockDesert_R",
+      "path": "Textures/Environment/Rocks/Textures/Desert/T_RockDesert_R.png",
+      "bytes": 4309114,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockHexic_Pieces_N",
+      "name": "T_RockHexic_Pieces_N",
+      "path": "Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Pieces_N.png",
+      "bytes": 1374041,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockHexic_Platforms_N",
+      "name": "T_RockHexic_Platforms_N",
+      "path": "Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Platforms_N.png",
+      "bytes": 6353750,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockHexic_RocksSlanted_N",
+      "name": "T_RockHexic_RocksSlanted_N",
+      "path": "Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_RocksSlanted_N.png",
+      "bytes": 5703636,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockHexic_Rocks_N",
+      "name": "T_RockHexic_Rocks_N",
+      "path": "Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Rocks_N.png",
+      "bytes": 5985052,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockHexic_Spire_N",
+      "name": "T_RockHexic_Spire_N",
+      "path": "Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Spire_N.png",
+      "bytes": 5819918,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockSpire_BC",
+      "name": "T_RockSpire_BC",
+      "path": "Textures/Environment/Rocks/Textures/Spire/T_RockSpire_BC.png",
+      "bytes": 12448040,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockSpire_N",
+      "name": "T_RockSpire_N",
+      "path": "Textures/Environment/Rocks/Textures/Spire/T_RockSpire_N.png",
+      "bytes": 21468241,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockSpire_Rocks_N",
+      "name": "T_RockSpire_Rocks_N",
+      "path": "Textures/Environment/Rocks/Textures/Spire/T_RockSpire_Rocks_N.png",
+      "bytes": 7442329,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockSpire_Shelves_GrassMap",
+      "name": "T_RockSpire_Shelves_GrassMap",
+      "path": "Textures/Environment/Rocks/Textures/Spire/T_RockSpire_Shelves_GrassMap.png",
+      "bytes": 727436,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockSpire_Shelves_N",
+      "name": "T_RockSpire_Shelves_N",
+      "path": "Textures/Environment/Rocks/Textures/Spire/T_RockSpire_Shelves_N.png",
+      "bytes": 8757179,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockSpire_Spires_GrassMap",
+      "name": "T_RockSpire_Spires_GrassMap",
+      "path": "Textures/Environment/Rocks/Textures/Spire/T_RockSpire_Spires_GrassMap.png",
+      "bytes": 331017,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockSpire_Spires_N",
+      "name": "T_RockSpire_Spires_N",
+      "path": "Textures/Environment/Rocks/Textures/Spire/T_RockSpire_Spires_N.png",
+      "bytes": 8339165,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BackroundClouds1A",
+      "name": "T_BackroundClouds1A",
+      "path": "Textures/Environment/Sky/Textures/BackgroundClouds/T_BackroundClouds1A.png",
+      "bytes": 2424808,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BackroundClouds1B",
+      "name": "T_BackroundClouds1B",
+      "path": "Textures/Environment/Sky/Textures/BackgroundClouds/T_BackroundClouds1B.png",
+      "bytes": 5859806,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BackroundClouds2A",
+      "name": "T_BackroundClouds2A",
+      "path": "Textures/Environment/Sky/Textures/BackgroundClouds/T_BackroundClouds2A.png",
+      "bytes": 891098,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BackroundClouds2B",
+      "name": "T_BackroundClouds2B",
+      "path": "Textures/Environment/Sky/Textures/BackgroundClouds/T_BackroundClouds2B.png",
+      "bytes": 1078074,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer01",
+      "name": "T_CloudLayer01",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer01.png",
+      "bytes": 2666858,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer02",
+      "name": "T_CloudLayer02",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer02.png",
+      "bytes": 1595192,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer03",
+      "name": "T_CloudLayer03",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer03.png",
+      "bytes": 4270620,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer04",
+      "name": "T_CloudLayer04",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer04.png",
+      "bytes": 2900511,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer05",
+      "name": "T_CloudLayer05",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer05.png",
+      "bytes": 596278,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer06",
+      "name": "T_CloudLayer06",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer06.png",
+      "bytes": 2733668,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer07",
+      "name": "T_CloudLayer07",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer07.png",
+      "bytes": 1772813,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer08",
+      "name": "T_CloudLayer08",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer08.png",
+      "bytes": 1491300,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer09",
+      "name": "T_CloudLayer09",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer09.png",
+      "bytes": 3419400,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer10",
+      "name": "T_CloudLayer10",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer10.png",
+      "bytes": 2003200,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer11",
+      "name": "T_CloudLayer11",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer11.png",
+      "bytes": 1817702,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer12",
+      "name": "T_CloudLayer12",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer12.png",
+      "bytes": 3078164,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer13",
+      "name": "T_CloudLayer13",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer13.png",
+      "bytes": 4678694,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Cloudy01",
+      "name": "T_CloudLayer_Cloudy01",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Cloudy01.png",
+      "bytes": 4133229,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Mixed01",
+      "name": "T_CloudLayer_Mixed01",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Mixed01.png",
+      "bytes": 3541843,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Overhead01",
+      "name": "T_CloudLayer_Overhead01",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead01.png",
+      "bytes": 1996769,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Overhead02",
+      "name": "T_CloudLayer_Overhead02",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead02.png",
+      "bytes": 3885056,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Overhead03",
+      "name": "T_CloudLayer_Overhead03",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead03.png",
+      "bytes": 5666626,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Overhead04",
+      "name": "T_CloudLayer_Overhead04",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead04.png",
+      "bytes": 1464365,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Sharp01",
+      "name": "T_CloudLayer_Sharp01",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Sharp01.png",
+      "bytes": 4088793,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Sharp02",
+      "name": "T_CloudLayer_Sharp02",
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Sharp02.png",
+      "bytes": 2665254,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds01",
+      "name": "T_SkyClouds01",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds01.png",
+      "bytes": 202530,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds02",
+      "name": "T_SkyClouds02",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds02.png",
+      "bytes": 379294,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds03",
+      "name": "T_SkyClouds03",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds03.png",
+      "bytes": 436243,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds04",
+      "name": "T_SkyClouds04",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds04.png",
+      "bytes": 223574,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds05",
+      "name": "T_SkyClouds05",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds05.png",
+      "bytes": 348258,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds06",
+      "name": "T_SkyClouds06",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds06.png",
+      "bytes": 361711,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds07",
+      "name": "T_SkyClouds07",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds07.png",
+      "bytes": 288257,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds08",
+      "name": "T_SkyClouds08",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds08.png",
+      "bytes": 242898,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds09",
+      "name": "T_SkyClouds09",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds09.png",
+      "bytes": 466840,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds10",
+      "name": "T_SkyClouds10",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds10.png",
+      "bytes": 643556,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds11",
+      "name": "T_SkyClouds11",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds11.png",
+      "bytes": 668392,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds12",
+      "name": "T_SkyClouds12",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds12.png",
+      "bytes": 118213,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds13",
+      "name": "T_SkyClouds13",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds13.png",
+      "bytes": 59303,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds14",
+      "name": "T_SkyClouds14",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds14.png",
+      "bytes": 91491,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds15",
+      "name": "T_SkyClouds15",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds15.png",
+      "bytes": 76787,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds16",
+      "name": "T_SkyClouds16",
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds16.png",
+      "bytes": 66143,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Moon01_BC",
+      "name": "T_Moon01_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Moon01_BC.png",
+      "bytes": 281651,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Moon02A_BC",
+      "name": "T_Moon02A_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Moon02A_BC.png",
+      "bytes": 298411,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Moon02B_BC",
+      "name": "T_Moon02B_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Moon02B_BC.png",
+      "bytes": 303379,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Moon02C_BC",
+      "name": "T_Moon02C_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Moon02C_BC.png",
+      "bytes": 279143,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Moon02D_BC",
+      "name": "T_Moon02D_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Moon02D_BC.png",
+      "bytes": 255311,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Moon02E_BC",
+      "name": "T_Moon02E_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Moon02E_BC.png",
+      "bytes": 231995,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Moon02F_BC",
+      "name": "T_Moon02F_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Moon02F_BC.png",
+      "bytes": 263383,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Moon02G_BC",
+      "name": "T_Moon02G_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Moon02G_BC.png",
+      "bytes": 289675,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Moon02H_BC",
+      "name": "T_Moon02H_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Moon02H_BC.png",
+      "bytes": 297715,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Moon03_BC",
+      "name": "T_Moon03_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Moon03_BC.png",
+      "bytes": 852364,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Nebula",
+      "name": "T_Nebula",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Nebula.png",
+      "bytes": 4901113,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PlanetRingMask",
+      "name": "T_PlanetRingMask",
+      "path": "Textures/Environment/Sky/Textures/Space/T_PlanetRingMask.png",
+      "bytes": 22776,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PlanetaryRing",
+      "name": "T_PlanetaryRing",
+      "path": "Textures/Environment/Sky/Textures/Space/T_PlanetaryRing.png",
+      "bytes": 108733,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Stars01_BC",
+      "name": "T_Stars01_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Stars01_BC.png",
+      "bytes": 89729,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Stars02_BC",
+      "name": "T_Stars02_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Stars02_BC.png",
+      "bytes": 545541,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Stars03_BC",
+      "name": "T_Stars03_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Stars03_BC.png",
+      "bytes": 157450,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Stars04_BC",
+      "name": "T_Stars04_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Stars04_BC.png",
+      "bytes": 1231109,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Stars05_BC",
+      "name": "T_Stars05_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Stars05_BC.png",
+      "bytes": 283237,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Sun01_BC",
+      "name": "T_Sun01_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Sun01_BC.png",
+      "bytes": 3245,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Sun02_BC",
+      "name": "T_Sun02_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Sun02_BC.png",
+      "bytes": 16181,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Sun03_BC",
+      "name": "T_Sun03_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Sun03_BC.png",
+      "bytes": 875903,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Sun04_BC",
+      "name": "T_Sun04_BC",
+      "path": "Textures/Environment/Sky/Textures/Space/T_Sun04_BC.png",
+      "bytes": 3831,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyCurve_Gradient",
+      "name": "T_SkyCurve_Gradient",
+      "path": "Textures/Environment/Sky/Textures/T_SkyCurve_Gradient.png",
+      "bytes": 135575,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterRipples",
+      "name": "T_WaterRipples",
+      "path": "Textures/Environment/Sky/Textures/T_WaterRipples.png",
+      "bytes": 131708,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBarkMisc_BC",
+      "name": "T_BambooBarkMisc_BC",
+      "path": "Textures/Environment/Trees/Textures/T_BambooBarkMisc_BC.png",
+      "bytes": 5430177,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBarkMisc_N",
+      "name": "T_BambooBarkMisc_N",
+      "path": "Textures/Environment/Trees/Textures/T_BambooBarkMisc_N.png",
+      "bytes": 8443989,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBarkMisc_R",
+      "name": "T_BambooBarkMisc_R",
+      "path": "Textures/Environment/Trees/Textures/T_BambooBarkMisc_R.png",
+      "bytes": 2013665,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBark_BC",
+      "name": "T_BambooBark_BC",
+      "path": "Textures/Environment/Trees/Textures/T_BambooBark_BC.png",
+      "bytes": 2133186,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBark_N",
+      "name": "T_BambooBark_N",
+      "path": "Textures/Environment/Trees/Textures/T_BambooBark_N.png",
+      "bytes": 2132930,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BambooBark_R",
+      "name": "T_BambooBark_R",
+      "path": "Textures/Environment/Trees/Textures/T_BambooBark_R.png",
+      "bytes": 604678,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BananaBark_BC",
+      "name": "T_BananaBark_BC",
+      "path": "Textures/Environment/Trees/Textures/T_BananaBark_BC.png",
+      "bytes": 560034,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BananaBark_N",
+      "name": "T_BananaBark_N",
+      "path": "Textures/Environment/Trees/Textures/T_BananaBark_N.png",
+      "bytes": 843223,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BananaBark_R",
+      "name": "T_BananaBark_R",
+      "path": "Textures/Environment/Trees/Textures/T_BananaBark_R.png",
+      "bytes": 137631,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Banana_Leaf",
+      "name": "T_Banana_Leaf",
+      "path": "Textures/Environment/Trees/Textures/T_Banana_Leaf.png",
+      "bytes": 39604,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Banana_Leaf_BC",
+      "name": "T_Banana_Leaf_BC",
+      "path": "Textures/Environment/Trees/Textures/T_Banana_Leaf_BC.png",
+      "bytes": 460854,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Banana_Leaf_R",
+      "name": "T_Banana_Leaf_R",
+      "path": "Textures/Environment/Trees/Textures/T_Banana_Leaf_R.png",
+      "bytes": 194629,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBarkMisc_BC",
+      "name": "T_BirchBarkMisc_BC",
+      "path": "Textures/Environment/Trees/Textures/T_BirchBarkMisc_BC.png",
+      "bytes": 11336112,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBarkMisc_N",
+      "name": "T_BirchBarkMisc_N",
+      "path": "Textures/Environment/Trees/Textures/T_BirchBarkMisc_N.png",
+      "bytes": 14181746,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBarkMisc_R",
+      "name": "T_BirchBarkMisc_R",
+      "path": "Textures/Environment/Trees/Textures/T_BirchBarkMisc_R.png",
+      "bytes": 3802318,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBark_BC",
+      "name": "T_BirchBark_BC",
+      "path": "Textures/Environment/Trees/Textures/T_BirchBark_BC.png",
+      "bytes": 8883693,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBark_N",
+      "name": "T_BirchBark_N",
+      "path": "Textures/Environment/Trees/Textures/T_BirchBark_N.png",
+      "bytes": 12107777,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_BirchBark_R",
+      "name": "T_BirchBark_R",
+      "path": "Textures/Environment/Trees/Textures/T_BirchBark_R.png",
+      "bytes": 3111464,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_ChinaPina_BC",
+      "name": "T_ChinaPina_BC",
+      "path": "Textures/Environment/Trees/Textures/T_ChinaPina_BC.png",
+      "bytes": 16943199,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalmLeaves_BC",
+      "name": "T_CoconutPalmLeaves_BC",
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalmLeaves_BC.png",
+      "bytes": 640308,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalmMisc_BC",
+      "name": "T_CoconutPalmMisc_BC",
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalmMisc_BC.png",
+      "bytes": 7480356,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalmMisc_N",
+      "name": "T_CoconutPalmMisc_N",
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalmMisc_N.png",
+      "bytes": 11315298,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalmMisc_R",
+      "name": "T_CoconutPalmMisc_R",
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalmMisc_R.png",
+      "bytes": 3105214,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalm_BC",
+      "name": "T_CoconutPalm_BC",
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalm_BC.png",
+      "bytes": 2574346,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalm_N",
+      "name": "T_CoconutPalm_N",
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalm_N.png",
+      "bytes": 5226764,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_CoconutPalm_R",
+      "name": "T_CoconutPalm_R",
+      "path": "Textures/Environment/Trees/Textures/T_CoconutPalm_R.png",
+      "bytes": 1048236,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertCoconutPalm_BC",
+      "name": "T_DesertCoconutPalm_BC",
+      "path": "Textures/Environment/Trees/Textures/T_DesertCoconutPalm_BC.png",
+      "bytes": 1768493,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertPalm_BC",
+      "name": "T_DesertPalm_BC",
+      "path": "Textures/Environment/Trees/Textures/T_DesertPalm_BC.png",
+      "bytes": 1948549,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertPalm_N",
+      "name": "T_DesertPalm_N",
+      "path": "Textures/Environment/Trees/Textures/T_DesertPalm_N.png",
+      "bytes": 3003982,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-09.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertPalm_R",
+      "name": "T_DesertPalm_R",
+      "path": "Textures/Environment/Trees/Textures/T_DesertPalm_R.png",
+      "bytes": 384938,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_FirBarkMisc_BC",
+      "name": "T_FirBarkMisc_BC",
+      "path": "Textures/Environment/Trees/Textures/T_FirBarkMisc_BC.png",
+      "bytes": 10650987,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_FirBarkMisc_N",
+      "name": "T_FirBarkMisc_N",
+      "path": "Textures/Environment/Trees/Textures/T_FirBarkMisc_N.png",
+      "bytes": 19072910,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_FirBarkMisc_R",
+      "name": "T_FirBarkMisc_R",
+      "path": "Textures/Environment/Trees/Textures/T_FirBarkMisc_R.png",
+      "bytes": 3233077,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_FirBark_BC",
+      "name": "T_FirBark_BC",
+      "path": "Textures/Environment/Trees/Textures/T_FirBark_BC.png",
+      "bytes": 9244772,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_FirBark_N",
+      "name": "T_FirBark_N",
+      "path": "Textures/Environment/Trees/Textures/T_FirBark_N.png",
+      "bytes": 18053438,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_FirBark_R",
+      "name": "T_FirBark_R",
+      "path": "Textures/Environment/Trees/Textures/T_FirBark_R.png",
+      "bytes": 5032967,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_KnotwoodBark_BC",
+      "name": "T_KnotwoodBark_BC",
+      "path": "Textures/Environment/Trees/Textures/T_KnotwoodBark_BC.png",
+      "bytes": 12824486,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_KnotwoodBark_N",
+      "name": "T_KnotwoodBark_N",
+      "path": "Textures/Environment/Trees/Textures/T_KnotwoodBark_N.png",
+      "bytes": 24521321,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_KnotwoodBark_R",
+      "name": "T_KnotwoodBark_R",
+      "path": "Textures/Environment/Trees/Textures/T_KnotwoodBark_R.png",
+      "bytes": 4141456,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Bamboo",
+      "name": "T_Leaf_Bamboo",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Bamboo.png",
+      "bytes": 25085,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Bamboo_Edged",
+      "name": "T_Leaf_Bamboo_Edged",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Bamboo_Edged.png",
+      "bytes": 13898,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Bamboo_Filled",
+      "name": "T_Leaf_Bamboo_Filled",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Bamboo_Filled.png",
+      "bytes": 20694,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Bush",
+      "name": "T_Leaf_Bush",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Bush.png",
+      "bytes": 24861,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_ChinaPine",
+      "name": "T_Leaf_ChinaPine",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_ChinaPine.png",
+      "bytes": 9725,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_ChinaPine_Filled",
+      "name": "T_Leaf_ChinaPine_Filled",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_ChinaPine_Filled.png",
+      "bytes": 7162,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_CoconutPalm",
+      "name": "T_Leaf_CoconutPalm",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_CoconutPalm.png",
+      "bytes": 428524,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Deciduous",
+      "name": "T_Leaf_Deciduous",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Deciduous.png",
+      "bytes": 34910,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Deciduous_Edged",
+      "name": "T_Leaf_Deciduous_Edged",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Deciduous_Edged.png",
+      "bytes": 41325,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Deciduous_Filled",
+      "name": "T_Leaf_Deciduous_Filled",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Deciduous_Filled.png",
+      "bytes": 52349,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-10.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Deciduous_Sparse",
+      "name": "T_Leaf_Deciduous_Sparse",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Deciduous_Sparse.png",
+      "bytes": 10913,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_DesertCoconutPalm",
+      "name": "T_Leaf_DesertCoconutPalm",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_DesertCoconutPalm.png",
+      "bytes": 320291,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_DesertPalm_BC",
+      "name": "T_Leaf_DesertPalm_BC",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_DesertPalm_BC.png",
+      "bytes": 2164795,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Fir",
+      "name": "T_Leaf_Fir",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Fir.png",
+      "bytes": 44766,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Fir_Filled",
+      "name": "T_Leaf_Fir_Filled",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Fir_Filled.png",
+      "bytes": 32815,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Knotwood",
+      "name": "T_Leaf_Knotwood",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Knotwood.png",
+      "bytes": 58814,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Knotwood_Edged",
+      "name": "T_Leaf_Knotwood_Edged",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Knotwood_Edged.png",
+      "bytes": 67855,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Knotwood_Filled",
+      "name": "T_Leaf_Knotwood_Filled",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Knotwood_Filled.png",
+      "bytes": 43445,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Maple",
+      "name": "T_Leaf_Maple",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Maple.png",
+      "bytes": 59891,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Palm",
+      "name": "T_Leaf_Palm",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Palm.png",
+      "bytes": 59867,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Palm_BC",
+      "name": "T_Leaf_Palm_BC",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Palm_BC.png",
+      "bytes": 1845682,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Palm_R",
+      "name": "T_Leaf_Palm_R",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Palm_R.png",
+      "bytes": 695317,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Palm_SS",
+      "name": "T_Leaf_Palm_SS",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Palm_SS.png",
+      "bytes": 595103,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Pine",
+      "name": "T_Leaf_Pine",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Pine.png",
+      "bytes": 35365,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_PineLeafy",
+      "name": "T_Leaf_PineLeafy",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_PineLeafy.png",
+      "bytes": 21974,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_PineLeafy_BC",
+      "name": "T_Leaf_PineLeafy_BC",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_PineLeafy_BC.png",
+      "bytes": 118625,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Pine_SS",
+      "name": "T_Leaf_Pine_SS",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Pine_SS.png",
+      "bytes": 219181,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_SnowBushDead",
+      "name": "T_Leaf_SnowBushDead",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_SnowBushDead.png",
+      "bytes": 338336,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Windswept",
+      "name": "T_Leaf_Windswept",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Windswept.png",
+      "bytes": 15632,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Yucca",
+      "name": "T_Leaf_Yucca",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Yucca.png",
+      "bytes": 4474,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-11.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_Yucca_BC",
+      "name": "T_Leaf_Yucca_BC",
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Yucca_BC.png",
+      "bytes": 103630,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBarkMisc_BC",
+      "name": "T_OakBarkMisc_BC",
+      "path": "Textures/Environment/Trees/Textures/T_OakBarkMisc_BC.png",
+      "bytes": 10668670,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBarkMisc_N",
+      "name": "T_OakBarkMisc_N",
+      "path": "Textures/Environment/Trees/Textures/T_OakBarkMisc_N.png",
+      "bytes": 16588226,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBarkMisc_R",
+      "name": "T_OakBarkMisc_R",
+      "path": "Textures/Environment/Trees/Textures/T_OakBarkMisc_R.png",
+      "bytes": 3452620,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBark_BC",
+      "name": "T_OakBark_BC",
+      "path": "Textures/Environment/Trees/Textures/T_OakBark_BC.png",
+      "bytes": 8551368,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBark_N",
+      "name": "T_OakBark_N",
+      "path": "Textures/Environment/Trees/Textures/T_OakBark_N.png",
+      "bytes": 13168482,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBark_R",
+      "name": "T_OakBark_R",
+      "path": "Textures/Environment/Trees/Textures/T_OakBark_R.png",
+      "bytes": 2534955,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWoodMisc_BC",
+      "name": "T_PalmWoodMisc_BC",
+      "path": "Textures/Environment/Trees/Textures/T_PalmWoodMisc_BC.png",
+      "bytes": 7191462,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWoodMisc_N",
+      "name": "T_PalmWoodMisc_N",
+      "path": "Textures/Environment/Trees/Textures/T_PalmWoodMisc_N.png",
+      "bytes": 5355751,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWoodMisc_R",
+      "name": "T_PalmWoodMisc_R",
+      "path": "Textures/Environment/Trees/Textures/T_PalmWoodMisc_R.png",
+      "bytes": 3755125,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWood_BC",
+      "name": "T_PalmWood_BC",
+      "path": "Textures/Environment/Trees/Textures/T_PalmWood_BC.png",
+      "bytes": 2038977,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWood_N",
+      "name": "T_PalmWood_N",
+      "path": "Textures/Environment/Trees/Textures/T_PalmWood_N.png",
+      "bytes": 3054297,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWood_R",
+      "name": "T_PalmWood_R",
+      "path": "Textures/Environment/Trees/Textures/T_PalmWood_R.png",
+      "bytes": 1782299,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PineBarkMisc_BC",
+      "name": "T_PineBarkMisc_BC",
+      "path": "Textures/Environment/Trees/Textures/T_PineBarkMisc_BC.png",
+      "bytes": 16800233,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PineBark_BC",
+      "name": "T_PineBark_BC",
+      "path": "Textures/Environment/Trees/Textures/T_PineBark_BC.png",
+      "bytes": 12326132,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PineBark_N",
+      "name": "T_PineBark_N",
+      "path": "Textures/Environment/Trees/Textures/T_PineBark_N.png",
+      "bytes": 21336801,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_PineBark_R",
+      "name": "T_PineBark_R",
+      "path": "Textures/Environment/Trees/Textures/T_PineBark_R.png",
+      "bytes": 4360849,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RedMapleBark_BC",
+      "name": "T_RedMapleBark_BC",
+      "path": "Textures/Environment/Trees/Textures/T_RedMapleBark_BC.png",
+      "bytes": 9405629,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RedMapleBark_N",
+      "name": "T_RedMapleBark_N",
+      "path": "Textures/Environment/Trees/Textures/T_RedMapleBark_N.png",
+      "bytes": 29676766,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RedMapleBark_R",
+      "name": "T_RedMapleBark_R",
+      "path": "Textures/Environment/Trees/Textures/T_RedMapleBark_R.png",
+      "bytes": 2736562,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-12.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_WindsweptBark_BC",
+      "name": "T_WindsweptBark_BC",
+      "path": "Textures/Environment/Trees/Textures/T_WindsweptBark_BC.png",
+      "bytes": 14803228,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RiverFlowLines",
+      "name": "T_RiverFlowLines",
+      "path": "Textures/Environment/Water/Textures/T_RiverFlowLines.png",
+      "bytes": 41899,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Water1_D",
+      "name": "T_Water1_D",
+      "path": "Textures/Environment/Water/Textures/T_Water1_D.png",
+      "bytes": 5340938,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Water1_N",
+      "name": "T_Water1_N",
+      "path": "Textures/Environment/Water/Textures/T_Water1_N.png",
+      "bytes": 25564473,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Water2_D",
+      "name": "T_Water2_D",
+      "path": "Textures/Environment/Water/Textures/T_Water2_D.png",
+      "bytes": 1808302,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Water2_N",
+      "name": "T_Water2_N",
+      "path": "Textures/Environment/Water/Textures/T_Water2_N.png",
+      "bytes": 17389869,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Water3_D",
+      "name": "T_Water3_D",
+      "path": "Textures/Environment/Water/Textures/T_Water3_D.png",
+      "bytes": 1886538,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Water3_N",
+      "name": "T_Water3_N",
+      "path": "Textures/Environment/Water/Textures/T_Water3_N.png",
+      "bytes": 24388975,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Water4_D",
+      "name": "T_Water4_D",
+      "path": "Textures/Environment/Water/Textures/T_Water4_D.png",
+      "bytes": 6646342,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Water4_N",
+      "name": "T_Water4_N",
+      "path": "Textures/Environment/Water/Textures/T_Water4_N.png",
+      "bytes": 35402461,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterAnime",
+      "name": "T_WaterAnime",
+      "path": "Textures/Environment/Water/Textures/T_WaterAnime.png",
+      "bytes": 695293,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterAnime2",
+      "name": "T_WaterAnime2",
+      "path": "Textures/Environment/Water/Textures/T_WaterAnime2.png",
+      "bytes": 120752,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterCaustics",
+      "name": "T_WaterCaustics",
+      "path": "Textures/Environment/Water/Textures/T_WaterCaustics.png",
+      "bytes": 16022390,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterFantasy",
+      "name": "T_WaterFantasy",
+      "path": "Textures/Environment/Water/Textures/T_WaterFantasy.png",
+      "bytes": 4784339,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterParticle",
+      "name": "T_WaterParticle",
+      "path": "Textures/Environment/Water/Textures/T_WaterParticle.png",
+      "bytes": 178313,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_Waterlines",
+      "name": "T_Waterlines",
+      "path": "Textures/Environment/Water/Textures/T_Waterlines.png",
+      "bytes": 233876,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_HorizontalGradient",
+      "name": "T_HorizontalGradient",
+      "path": "Textures/Textures/Gradients/T_HorizontalGradient.png",
+      "bytes": 400,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_LinearGradient",
+      "name": "T_LinearGradient",
+      "path": "Textures/Textures/Gradients/T_LinearGradient.png",
+      "bytes": 201578,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RainbowGradient",
+      "name": "T_RainbowGradient",
+      "path": "Textures/Textures/Gradients/T_RainbowGradient.png",
+      "bytes": 645293,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_VerticalGradient",
+      "name": "T_VerticalGradient",
+      "path": "Textures/Textures/Gradients/T_VerticalGradient.png",
+      "bytes": 425,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-13.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_VerticalGradientShifted",
+      "name": "T_VerticalGradientShifted",
+      "path": "Textures/Textures/Gradients/T_VerticalGradientShifted.png",
+      "bytes": 2556,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_EdgeMaskTight",
+      "name": "T_EdgeMaskTight",
+      "path": "Textures/Textures/Masks/T_EdgeMaskTight.png",
+      "bytes": 3953,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_EdgeMask_Horizontal",
+      "name": "T_EdgeMask_Horizontal",
+      "path": "Textures/Textures/Masks/T_EdgeMask_Horizontal.png",
+      "bytes": 343,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_HorizontalWipe",
+      "name": "T_HorizontalWipe",
+      "path": "Textures/Textures/Masks/T_HorizontalWipe.png",
+      "bytes": 262,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_MaskHorseshoe",
+      "name": "T_MaskHorseshoe",
+      "path": "Textures/Textures/Masks/T_MaskHorseshoe.png",
+      "bytes": 9776,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SphereMask",
+      "name": "T_SphereMask",
+      "path": "Textures/Textures/Masks/T_SphereMask.png",
+      "bytes": 213601,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterWavesMask",
+      "name": "T_WaterWavesMask",
+      "path": "Textures/Textures/Masks/T_WaterWavesMask.png",
+      "bytes": 101172,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_3DNoise_Source",
+      "name": "T_3DNoise_Source",
+      "path": "Textures/Textures/Noise/T_3DNoise_Source.exr",
+      "bytes": 1081798,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_ChromaNoise2x_Nearest",
+      "name": "T_ChromaNoise2x_Nearest",
+      "path": "Textures/Textures/Noise/T_ChromaNoise2x_Nearest.png",
+      "bytes": 273706,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_ChromaNoise_Bilinear",
+      "name": "T_ChromaNoise_Bilinear",
+      "path": "Textures/Textures/Noise/T_ChromaNoise_Bilinear.png",
+      "bytes": 231924,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_ChromaNoise_Blurred",
+      "name": "T_ChromaNoise_Blurred",
+      "path": "Textures/Textures/Noise/T_ChromaNoise_Blurred.png",
+      "bytes": 196656,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_ChromaNoise_Nearest",
+      "name": "T_ChromaNoise_Nearest",
+      "path": "Textures/Textures/Noise/T_ChromaNoise_Nearest.png",
+      "bytes": 231924,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseGreyed",
+      "name": "T_NoiseGreyed",
+      "path": "Textures/Textures/Noise/T_NoiseGreyed.png",
+      "bytes": 98322,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoisePuddles",
+      "name": "T_NoisePuddles",
+      "path": "Textures/Textures/Noise/T_NoisePuddles.png",
+      "bytes": 1127366,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseRough",
+      "name": "T_NoiseRough",
+      "path": "Textures/Textures/Noise/T_NoiseRough.png",
+      "bytes": 1330664,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseRough02",
+      "name": "T_NoiseRough02",
+      "path": "Textures/Textures/Noise/T_NoiseRough02.png",
+      "bytes": 1352841,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseRough_HighContrast",
+      "name": "T_NoiseRough_HighContrast",
+      "path": "Textures/Textures/Noise/T_NoiseRough_HighContrast.png",
+      "bytes": 893925,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseSmooth",
+      "name": "T_NoiseSmooth",
+      "path": "Textures/Textures/Noise/T_NoiseSmooth.png",
+      "bytes": 235959,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseSmoothSpotted",
+      "name": "T_NoiseSmoothSpotted",
+      "path": "Textures/Textures/Noise/T_NoiseSmoothSpotted.png",
+      "bytes": 303251,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseSmooth_N",
+      "name": "T_NoiseSmooth_N",
+      "path": "Textures/Textures/Noise/T_NoiseSmooth_N.png",
+      "bytes": 883544,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-14.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseSparkle3",
+      "name": "T_NoiseSparkle3",
+      "path": "Textures/Textures/Noise/T_NoiseSparkle3.png",
+      "bytes": 2153750,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseStylized",
+      "name": "T_NoiseStylized",
+      "path": "Textures/Textures/Noise/T_NoiseStylized.png",
+      "bytes": 7268085,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseVertical",
+      "name": "T_NoiseVertical",
+      "path": "Textures/Textures/Noise/T_NoiseVertical.png",
+      "bytes": 68572,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseWind",
+      "name": "T_NoiseWind",
+      "path": "Textures/Textures/Noise/T_NoiseWind.png",
+      "bytes": 746309,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_RockStripeNoise",
+      "name": "T_RockStripeNoise",
+      "path": "Textures/Textures/Noise/T_RockStripeNoise.png",
+      "bytes": 510956,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-15.json"
+    },
+    {
+      "id": "SOSTYLIZED_T_SandDesertWind",
+      "name": "T_SandDesertWind",
+      "path": "Textures/Textures/Noise/T_SandDesertWind.png",
+      "bytes": 1212637,
+      "triangles": null,
+      "material_status": "native_texture_source",
+      "download_zip": "SoStylized_Godot_Blender_Textures_part01.zip",
+      "details": "details/Textures-15.json"
+    }
+  ]
+}

@@ -1,0 +1,2105 @@
+{
+  "schema_version": 1,
+  "category": "Trees",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_RedMaple01",
+      "source": {
+        "name": "SM_RedMaple01",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_RedMaple01.SM_RedMaple01",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_RedMaple01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6834a8fd39070ef2569a25e01c3f5729b3bcdea187826942a830763583ff7d55",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_RedMaple01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_RedMapleLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RedMapleBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleBark.MI_RedMapleBark"
+        },
+        {
+          "slot": "MI_RedMapleLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleLeaves.MI_RedMapleLeaves"
+        },
+        {
+          "slot": "MI_RedMapleBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleBark_LOD1.MI_RedMapleBark_LOD1"
+        },
+        {
+          "slot": "MI_RedMapleLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleLeaves_LOD1.MI_RedMapleLeaves_LOD1"
+        },
+        {
+          "slot": "MI_RedMapleTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleTree_SingleMat.MI_RedMapleTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "53a0d98c169fcd0bfa89249f02ea375453a6d846955633f9aa0c965873a3fdc9",
+      "native_bytes": 2131956,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RedMapleBark_SM_RedMaple01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_RedMapleLeaves_SM_RedMaple01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1242,
+      "scene_triangles": 1242,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -6.377452373504639,
+          -1.1475894451141357,
+          -7.552002906799316
+        ],
+        "max": [
+          9.088735580444336,
+          13.82447338104248,
+          4.609235763549805
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_RedMaple01.glb",
+      "bytes": 2131836,
+      "sha256": "e9c421f339880f6f32315ebbf5f776116b9f1848169b984486ecb9009fc565d4",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMaple01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMaple02",
+      "source": {
+        "name": "SM_RedMaple02",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_RedMaple02.SM_RedMaple02",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_RedMaple02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "bc50e27a1bcf78811070925f07c1d3bfe22d2c6a8a08416c3f66f372ea25acc3",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_RedMaple02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_RedMapleLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RedMapleBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleBark.MI_RedMapleBark"
+        },
+        {
+          "slot": "MI_RedMapleLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleLeaves.MI_RedMapleLeaves"
+        },
+        {
+          "slot": "MI_RedMapleBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleBark_LOD1.MI_RedMapleBark_LOD1"
+        },
+        {
+          "slot": "MI_RedMapleLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleLeaves_LOD1.MI_RedMapleLeaves_LOD1"
+        },
+        {
+          "slot": "MI_RedMapleTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleTree_SingleMat.MI_RedMapleTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "3905e96fa852275020a5ff2e953494f1cecf7d4ffbb54f8b5616da8da6b25f4a",
+      "native_bytes": 1845700,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RedMapleBark_SM_RedMaple02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_RedMapleLeaves_SM_RedMaple02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1807,
+      "scene_triangles": 1807,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -12.173720359802246,
+          -2.2007980346679688,
+          -12.550493240356445
+        ],
+        "max": [
+          14.274633407592773,
+          17.22355842590332,
+          14.508692741394043
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_RedMaple02.glb",
+      "bytes": 1845580,
+      "sha256": "dd9da6956f9637a80048aefa43a1178a9e52a1728f3ff6e94045becc087823dd",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMaple02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMaple03",
+      "source": {
+        "name": "SM_RedMaple03",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_RedMaple03.SM_RedMaple03",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_RedMaple03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "93c76785a79702e22093040cfd44e8df299bfface1f5cb48c8b2a6e416a41ade",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_RedMaple03 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_RedMapleLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RedMapleBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleBark.MI_RedMapleBark"
+        },
+        {
+          "slot": "MI_RedMapleLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleLeaves.MI_RedMapleLeaves"
+        },
+        {
+          "slot": "MI_RedMapleBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleBark_LOD1.MI_RedMapleBark_LOD1"
+        },
+        {
+          "slot": "MI_RedMapleLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleLeaves_LOD1.MI_RedMapleLeaves_LOD1"
+        },
+        {
+          "slot": "MI_RedMapleTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleTree_SingleMat.MI_RedMapleTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "06dd332b6c092261fb8279a40c01ce915fb6beb7362beb2f4dde9ace2e3bd6e8",
+      "native_bytes": 1733192,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RedMapleBark_SM_RedMaple03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_RedMapleLeaves_SM_RedMaple03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1742,
+      "scene_triangles": 1742,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -8.202536582946777,
+          -2.149899482727051,
+          -12.542828559875488
+        ],
+        "max": [
+          19.715105056762695,
+          19.766752243041992,
+          12.712212562561035
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_RedMaple03.glb",
+      "bytes": 1733072,
+      "sha256": "8f435f2a36e68390d5e5788bbfa1722bda21b046ccdddfad3993b52a39eee792",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMaple03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMaple04",
+      "source": {
+        "name": "SM_RedMaple04",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_RedMaple04.SM_RedMaple04",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_RedMaple04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "cf10d9fcbcf8f3df4ec7e22b9c38725833607507c88021cb1acfcb6caab04a49",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_RedMaple04 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_RedMapleLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RedMapleBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleBark.MI_RedMapleBark"
+        },
+        {
+          "slot": "MI_RedMapleLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleLeaves.MI_RedMapleLeaves"
+        },
+        {
+          "slot": "MI_RedMapleBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleBark_LOD1.MI_RedMapleBark_LOD1"
+        },
+        {
+          "slot": "MI_RedMapleLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleLeaves_LOD1.MI_RedMapleLeaves_LOD1"
+        },
+        {
+          "slot": "MI_RedMapleTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_RedMapleTree_SingleMat.MI_RedMapleTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e185cd0aab76cc0f702d50cbd8fbc7310d5b1fd97bbee4fc2f393b477b911739",
+      "native_bytes": 2026940,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RedMapleBark_SM_RedMaple04",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_RedMapleLeaves_SM_RedMaple04",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 3260,
+      "scene_triangles": 3260,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -17.77808952331543,
+          -3.242964029312134,
+          -17.692777633666992
+        ],
+        "max": [
+          18.8162899017334,
+          25.39272117614746,
+          13.755542755126953
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_RedMaple04.glb",
+      "bytes": 2026820,
+      "sha256": "717a7f4835c17d116e7a41ef14fae1224bbeb9d5c629368c56b8e5e8252e3228",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMaple04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMapleRoots01",
+      "source": {
+        "name": "SM_RedMapleRoots01",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_RedMapleRoots01.SM_RedMapleRoots01",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_RedMapleRoots01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "821266a67917e390112b8c26f5daae215dfda32a5f4d91bc1f99c42b98bcafe3",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RedMapleBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleBark.MI_RedMapleBark"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "178983a3f1d92d98e0642050490512b0e183ad0de56c7cae7fdcf104596ff4f7",
+      "native_bytes": 3099392,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RedMapleBark_SM_RedMapleRoots01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 180,
+      "scene_triangles": 180,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.5313894748687744,
+          -1.4181689023971558,
+          -1.4812356233596802
+        ],
+        "max": [
+          1.1134997606277466,
+          0.644680380821228,
+          4.220969200134277
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_RedMapleRoots01.glb",
+      "bytes": 3099364,
+      "sha256": "bd4e4b5af7783716907c2ee338ad445fcbee54c6167d736742191ca68f04c405",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMapleRoots01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMapleRoots02",
+      "source": {
+        "name": "SM_RedMapleRoots02",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_RedMapleRoots02.SM_RedMapleRoots02",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_RedMapleRoots02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "309019fcc73024335ad51d0867f30a96fa4bebd7819bbd3c4211de167b097c0b",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RedMapleBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleBark.MI_RedMapleBark"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "be56654a9e3cdd59bd744cc2c7538fde1eb2543e8c77216609b90cefe09947a5",
+      "native_bytes": 3017536,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RedMapleBark_SM_RedMapleRoots02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 168,
+      "scene_triangles": 168,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.2872289419174194,
+          -1.573477029800415,
+          -1.5047895908355713
+        ],
+        "max": [
+          0.8979612588882446,
+          1.179847002029419,
+          5.136806488037109
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_RedMapleRoots02.glb",
+      "bytes": 3017508,
+      "sha256": "ddfcb97cd83a090ffb8b181fc1a62eae2ed027afd60501ea05b96da618232d3e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMapleRoots02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMapleRoots03",
+      "source": {
+        "name": "SM_RedMapleRoots03",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_RedMapleRoots03.SM_RedMapleRoots03",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_RedMapleRoots03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "90a5eea067a743fb13aff7434d1d3f03346d540640650cf625ea3713d87109df",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RedMapleBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleBark.MI_RedMapleBark"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "18727a0abd5c7157dc09c4ddbf4bd84bc4ae8b6c5c2bc976f591bfb4145488b2",
+      "native_bytes": 2584416,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RedMapleBark_SM_RedMapleRoots03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 378,
+      "scene_triangles": 378,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.8509851694107056,
+          -1.4394025802612305,
+          -1.7910979986190796
+        ],
+        "max": [
+          1.3886476755142212,
+          1.090075969696045,
+          6.945947170257568
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_RedMapleRoots03.glb",
+      "bytes": 2584388,
+      "sha256": "77499b2b59dcc4a5eb2ef357f02a6e974cedd501400fc693cfcac83a00937dce",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMapleRoots03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMapleSapling01",
+      "source": {
+        "name": "SM_RedMapleSapling01",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_RedMapleSapling01.SM_RedMapleSapling01",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_RedMapleSapling01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c43fc50d9f28e7393744ce9152373a5e1b5edd9cdd826ad5c73002f02d0162c3",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_RedMapleSapllingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RedMapleBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleBark.MI_RedMapleBark"
+        },
+        {
+          "slot": "MI_RedMapleSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleSapllingLeaves.MI_RedMapleSapllingLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1231a5f8dae21e07782e142228bc0afaef0321760245d230441816dfbe85ea28",
+      "native_bytes": 1326296,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RedMapleBark_SM_RedMapleSapling01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_RedMapleSapllingLeaves_SM_RedMapleSapling01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 138,
+      "scene_triangles": 138,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.1033209562301636,
+          -0.38309451937675476,
+          -1.199249267578125
+        ],
+        "max": [
+          1.000783920288086,
+          3.457585334777832,
+          1.0184859037399292
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_RedMapleSapling01.glb",
+      "bytes": 1326180,
+      "sha256": "50f7cf9ce5afc41df79c79fad8a2020a84cb0f879749e3162658dca328f10ce9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMapleSapling01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedMapleSapling02",
+      "source": {
+        "name": "SM_RedMapleSapling02",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_RedMapleSapling02.SM_RedMapleSapling02",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_RedMapleSapling02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0811681cb6600982c749e0c8e5ac9b336f4f05e3207b6192df881f18e5b593d5",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_RedMapleSapllingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RedMapleBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleBark.MI_RedMapleBark"
+        },
+        {
+          "slot": "MI_RedMapleSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_RedMapleSapllingLeaves.MI_RedMapleSapllingLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "df7929fbdd5df996b9ee4335bbca399693552a24c10c73801392d8a407759c51",
+      "native_bytes": 1406700,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RedMapleBark_SM_RedMapleSapling02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_RedMapleSapllingLeaves_SM_RedMapleSapling02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 220,
+      "scene_triangles": 220,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -1.9448102712631226,
+          -0.4699075222015381,
+          -1.0880800485610962
+        ],
+        "max": [
+          2.3169667720794678,
+          5.265863418579102,
+          1.8307132720947266
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_RedMapleSapling02.glb",
+      "bytes": 1406580,
+      "sha256": "48e1cd0390758a06b53035994ec8e8bcbf904a0d3ac7c2799229b1b61b80eb6a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMapleSapling02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_TheGreetingPine",
+      "source": {
+        "name": "SM_TheGreetingPine",
+        "path": "/Game/SoStylized/Environment/Trees/China/SM_TheGreetingPine.SM_TheGreetingPine",
+        "package": "/Game/SoStylized/Environment/Trees/China/SM_TheGreetingPine",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/China",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8bf54882e6a7c07227e87105ad47e19ff18e1af813bdc97003f892d11a72f757",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_TheGreetingPine (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_ChinaPineLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_ChinaPineBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineBark.MI_ChinaPineBark"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_ChinaPineLeaves.MI_ChinaPineLeaves"
+        },
+        {
+          "slot": "MI_ChinaPineLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineLeaves_LOD1.MI_ChinaPineLeaves_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineBark_LOD1.MI_ChinaPineBark_LOD1"
+        },
+        {
+          "slot": "MI_ChinaPineTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_ChinaPineTree_SingleMat.MI_ChinaPineTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e2c349c5ae4a54b44ad7f515ec16fa7e42bea1ac32440671430bb813ac9b3c6b",
+      "native_bytes": 1267088,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_ChinaPineBark_SM_TheGreetingPine",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_ChinaPineLeaves_SM_TheGreetingPine",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2062,
+      "scene_triangles": 2062,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -4.674874305725098,
+          -1.2553225755691528,
+          -6.484040260314941
+        ],
+        "max": [
+          10.381081581115723,
+          16.20426368713379,
+          5.004332542419434
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/China/SM_TheGreetingPine.glb",
+      "bytes": 1266972,
+      "sha256": "ebc24c9e0181784e88ac517ef0c8822d2b6c4e2d9f729a6aaf51256417de4735",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_TheGreetingPine.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BananaTree01",
+      "source": {
+        "name": "SM_BananaTree01",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_BananaTree01.SM_BananaTree01",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_BananaTree01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2c7aec420a2f13f3a88b14e3fe1683b07f735799e6e5394a9467790d1992e6ad",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_BananaLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BananaBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BananaBark.MI_BananaBark"
+        },
+        {
+          "slot": "MI_BananaLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BananaLeaves.MI_BananaLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f72dd5c939b2962b3df1666f1a11cd28014b60bea958f0b958ce5fa02d0981ab",
+      "native_bytes": 3202500,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BananaBark_SM_BananaTree01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BananaLeaves_SM_BananaTree01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 236,
+      "scene_triangles": 236,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.2277034521102905,
+          -0.2628977596759796,
+          -1.6461472511291504
+        ],
+        "max": [
+          1.43744957447052,
+          2.8407888412475586,
+          1.1060521602630615
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_BananaTree01.glb",
+      "bytes": 3202380,
+      "sha256": "b175e905c9c6c9f3c9e1f47e5ca666af0ae7851dadc923baa47be21fc96fde8d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_BananaTree01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BananaTree02",
+      "source": {
+        "name": "SM_BananaTree02",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_BananaTree02.SM_BananaTree02",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_BananaTree02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "43ca54a46b13f4739b5de476ea9591381e7f11ede50182a4a88cb2ff524937c2",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_BananaLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BananaBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BananaBark.MI_BananaBark"
+        },
+        {
+          "slot": "MI_BananaLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BananaLeaves.MI_BananaLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "bef590793a63ef8aa93f2f90ea156dd02b4bae83479b797ba4c6d6f3b28cba26",
+      "native_bytes": 2899780,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BananaBark_SM_BananaTree02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BananaLeaves_SM_BananaTree02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 326,
+      "scene_triangles": 326,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.4892857074737549,
+          -0.2332310974597931,
+          -1.6985814571380615
+        ],
+        "max": [
+          1.993131160736084,
+          3.748716115951538,
+          1.5167051553726196
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_BananaTree02.glb",
+      "bytes": 2899660,
+      "sha256": "c931f910a77fc07f0bd12636d2a0a062522abb58a1d12103a25c77c97813ff50",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_BananaTree02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BananaTree03",
+      "source": {
+        "name": "SM_BananaTree03",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_BananaTree03.SM_BananaTree03",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_BananaTree03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c397b773628cac1f43135c1edeb3414ca87a81755bfdc14589f9f791ce2c56d1",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_BananaLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BananaBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BananaBark.MI_BananaBark"
+        },
+        {
+          "slot": "MI_BananaLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BananaLeaves.MI_BananaLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "04b33dcbb7d7bea869c3b56819df6dfc6bd4bdbef135bd0067c1e1391d9fdae8",
+      "native_bytes": 3680428,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BananaBark_SM_BananaTree03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BananaLeaves_SM_BananaTree03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 557,
+      "scene_triangles": 557,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.179119110107422,
+          -0.2281036674976349,
+          -2.3215465545654297
+        ],
+        "max": [
+          2.2816731929779053,
+          5.030359745025635,
+          2.235408306121826
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_BananaTree03.glb",
+      "bytes": 3680308,
+      "sha256": "08b4711f9cad8a0a680f930b6fba4bf3f6da6b209d0b675563631ed9836e988e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_BananaTree03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BananaTree04",
+      "source": {
+        "name": "SM_BananaTree04",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_BananaTree04.SM_BananaTree04",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_BananaTree04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ec0cc70808fddf5b307807ad9d6ca9d0572858b6e7ef85882dc9118a0a4c96e5",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_BananaLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BananaBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BananaBark.MI_BananaBark"
+        },
+        {
+          "slot": "MI_BananaLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BananaLeaves.MI_BananaLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "72b0f435a01451593980ff80b39cca4f9da165cc9748711bd00eac5f5139ba8f",
+      "native_bytes": 3208036,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BananaBark_SM_BananaTree04",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BananaLeaves_SM_BananaTree04",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 629,
+      "scene_triangles": 629,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.386983871459961,
+          -0.2997453510761261,
+          -2.9073143005371094
+        ],
+        "max": [
+          2.8265440464019775,
+          5.653508186340332,
+          2.9039812088012695
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_BananaTree04.glb",
+      "bytes": 3207916,
+      "sha256": "3397f76b4806e028882b973a11c635fa5899d357583f813bf27bc47132fa0807",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_BananaTree04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BananaTree05",
+      "source": {
+        "name": "SM_BananaTree05",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_BananaTree05.SM_BananaTree05",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_BananaTree05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3eb2ebe8c7b0d3a19999161e0e36a6562b6760f6825847e1316d41b594d4ad8e",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_BananaLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BananaBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BananaBark.MI_BananaBark"
+        },
+        {
+          "slot": "MI_BananaLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BananaLeaves.MI_BananaLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0a7aa95ecbbf62e855041e188ed4e7df0c0098ffb27d5e2d96f8f0d5617ca835",
+      "native_bytes": 3005080,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BananaBark_SM_BananaTree05",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BananaLeaves_SM_BananaTree05",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 663,
+      "scene_triangles": 663,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.044661283493042,
+          -0.4214690625667572,
+          -2.2600479125976562
+        ],
+        "max": [
+          3.4375789165496826,
+          6.612514972686768,
+          3.0222573280334473
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_BananaTree05.glb",
+      "bytes": 3004964,
+      "sha256": "2486171ddc0c97c8b803445284c15b306ead69a4573eb0e1d96c4e356ef4b69e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_BananaTree05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalm01",
+      "source": {
+        "name": "SM_CoconutPalm01",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_CoconutPalm01.SM_CoconutPalm01",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_CoconutPalm01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ba955acaa4ffdc9765f8ec4ccda75a06b64be1db0e2016d31db10b1bd780595f",
+      "engine_log_warnings": [
+        "Material MI_CoconutPalmBark is baked using mesh data from SM_CoconutPalm01 but the lightmap UV (channel 1) are overlapping by 1.70% (in mesh section 0) and may produce incorrect results",
+        "Unsupported shading model (Subsurface) in material MI_CoconutPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_CoconutPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_CoconutPalmBark.MI_CoconutPalmBark"
+        },
+        {
+          "slot": "MI_CoconutPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_CoconutPalmLeaves.MI_CoconutPalmLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "8def40a16ca372b8daafa37c2d7fcb632d59fbfe72028a1186f62996da4cd0a1",
+      "native_bytes": 2344788,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_CoconutPalmBark_SM_CoconutPalm01",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_CoconutPalmLeaves_SM_CoconutPalm01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1042,
+      "scene_triangles": 1042,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -3.202244520187378,
+          -0.5240123867988586,
+          -3.5019607543945312
+        ],
+        "max": [
+          3.389202833175659,
+          9.30615520477295,
+          3.1167726516723633
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalm01.glb",
+      "bytes": 2344732,
+      "sha256": "0638218a78cf0e6a0fe9557282206ef4eb1ba9f0199982a9f43bc861b3318f4b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_CoconutPalm01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalm02",
+      "source": {
+        "name": "SM_CoconutPalm02",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_CoconutPalm02.SM_CoconutPalm02",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_CoconutPalm02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "cd3252a145f5613026c50cdfb1bb02d4d4ebe1e7fecc492f6021ad5b38b60879",
+      "engine_log_warnings": [
+        "Material MI_CoconutPalmBark is baked using mesh data from SM_CoconutPalm02 but the lightmap UV (channel 1) are overlapping by 3.39% (in mesh section 0) and may produce incorrect results",
+        "Unsupported shading model (Subsurface) in material MI_CoconutPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_CoconutPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_CoconutPalmBark.MI_CoconutPalmBark"
+        },
+        {
+          "slot": "MI_CoconutPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_CoconutPalmLeaves.MI_CoconutPalmLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "03efd30c690184b1a2387f34fa6eb0f252b7a6cb74af87a648c05964359e72e5",
+      "native_bytes": 2537168,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_CoconutPalmBark_SM_CoconutPalm02",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_CoconutPalmLeaves_SM_CoconutPalm02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1692,
+      "scene_triangles": 1692,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -3.3587377071380615,
+          -0.5279454588890076,
+          -3.293870449066162
+        ],
+        "max": [
+          3.2443108558654785,
+          10.365646362304688,
+          3.349680185317993
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalm02.glb",
+      "bytes": 2537116,
+      "sha256": "78ced057f15357ff8d8ffc4079680c003ad8359ad9dddd205a75dd9b90dea189",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_CoconutPalm02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalm03",
+      "source": {
+        "name": "SM_CoconutPalm03",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_CoconutPalm03.SM_CoconutPalm03",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_CoconutPalm03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "39be4178befee0a9e6965f282ad3c613fef8bf34f7577855eb772e68bf071e1c",
+      "engine_log_warnings": [
+        "Material MI_CoconutPalmBark is baked using mesh data from SM_CoconutPalm03 but the lightmap UV (channel 1) are overlapping by 1.21% (in mesh section 0) and may produce incorrect results",
+        "Unsupported shading model (Subsurface) in material MI_CoconutPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_CoconutPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_CoconutPalmBark.MI_CoconutPalmBark"
+        },
+        {
+          "slot": "MI_CoconutPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_CoconutPalmLeaves.MI_CoconutPalmLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "fe590dd5aaaff93cc2f983713581c23de10104686246d52194cee0b113a7d887",
+      "native_bytes": 2501476,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_CoconutPalmBark_SM_CoconutPalm03",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_CoconutPalmLeaves_SM_CoconutPalm03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 994,
+      "scene_triangles": 994,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -3.248608350753784,
+          -0.578532874584198,
+          -3.7585160732269287
+        ],
+        "max": [
+          4.0699944496154785,
+          11.021252632141113,
+          3.794947624206543
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalm03.glb",
+      "bytes": 2501420,
+      "sha256": "f4e369af0da05a9ac872efc8ce9081c42d8a89115795f1ec7dba56424cd40b12",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_CoconutPalm03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalm04",
+      "source": {
+        "name": "SM_CoconutPalm04",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_CoconutPalm04.SM_CoconutPalm04",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_CoconutPalm04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "cd052ef47ad14c7fc6e8bfe1bdd625b0d6c25227304b6237bf64ef043a564caa",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_CoconutPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_CoconutPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_CoconutPalmBark.MI_CoconutPalmBark"
+        },
+        {
+          "slot": "MI_CoconutPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_CoconutPalmLeaves.MI_CoconutPalmLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "86a639447678bb727f5aaf51064ac3b01a10d3c56eee0b2181ee14c77ca3bb4e",
+      "native_bytes": 2606244,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_CoconutPalmBark_SM_CoconutPalm04",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_CoconutPalmLeaves_SM_CoconutPalm04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 962,
+      "scene_triangles": 962,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -2.16603422164917,
+          -0.5487953424453735,
+          -4.021844387054443
+        ],
+        "max": [
+          4.404657363891602,
+          11.913434028625488,
+          4.073563575744629
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalm04.glb",
+      "bytes": 2606188,
+      "sha256": "73ee9ac30835bbeade85b60e7dfd39803f96972ba5661e50dfbdf681d93157f4",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_CoconutPalm04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CoconutPalm05",
+      "source": {
+        "name": "SM_CoconutPalm05",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_CoconutPalm05.SM_CoconutPalm05",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_CoconutPalm05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7e58cd3e54f94fcd1cded55169caf5a1640205ef720e6b14f58029ba3f0d2bae",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_CoconutPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_CoconutPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_CoconutPalmBark.MI_CoconutPalmBark"
+        },
+        {
+          "slot": "MI_CoconutPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_CoconutPalmLeaves.MI_CoconutPalmLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "76a37aabd08b7316583a0fdbbced96c834b296ced91f15b22f9ff112a9c4b8db",
+      "native_bytes": 2532088,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_CoconutPalmBark_SM_CoconutPalm05",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_CoconutPalmLeaves_SM_CoconutPalm05",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 994,
+      "scene_triangles": 994,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -3.506075859069824,
+          -0.4826296865940094,
+          -3.764004945755005
+        ],
+        "max": [
+          2.872422933578491,
+          14.670768737792969,
+          3.227965831756592
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_CoconutPalm05.glb",
+      "bytes": 2532036,
+      "sha256": "14e8af8bc5782e67be1b8feb9235d7af511d6147d5947fc096af607915ea1bc3",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_CoconutPalm05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

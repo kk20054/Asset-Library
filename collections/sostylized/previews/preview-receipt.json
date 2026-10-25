@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "scope": "Six selected native GLBs before portable UV normalization; not whole-collection acceptance.",
+  "image_kind": "Converted-asset Blender CPU render; not original Unreal screenshot.",
+  "normalization_note": "UV references/tangent declarations may change; binary geometry and images are unchanged.",
+  "renderer": {
+    "blender": "5.2.2 LTS",
+    "engine": "CYCLES",
+    "device": "CPU",
+    "samples": 16,
+    "size": 640
+  },
+  "contact_sheet": {
+    "path": "contact_sheet.png",
+    "bytes": 2236338,
+    "sha256": "b07f653413bcce6a77dc080acd27a863d14d4d63cccb8809300a30ae51c2f8c4"
+  },
+  "full_catalog": "../catalog.json",
+  "samples": [
+    {
+      "id": "SOSTYLIZED_SM_Bush1",
+      "name": "SM_Bush1",
+      "native_path": "Models/Environment/Foliage/SM_Bush1.glb",
+      "native_sha256": "1fca66772c76bac608f2fc1fc273b233692ee16fa8fa078fc7a2f1c50ce833e1",
+      "native_bytes": 694840,
+      "portable_sha256": "62dfad63a7863403fe2a66247293351bea5d463858e12828b6b5b7c090e91739",
+      "material_readiness": {
+        "status": "representative_static_pbr_preview",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "preview_scope": "Selected native GLB in Blender CPU; not runtime or whole-family acceptance."
+      },
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BushLeaves_SM_Bush1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_CliffClassic1",
+      "name": "SM_CliffClassic1",
+      "native_path": "Models/Environment/Rocks/Classic/SM_CliffClassic1.glb",
+      "native_sha256": "f5a4c8fdceeee00d2e5879c6dd87257d37a3450c0ed52cff976ff9cedfe3102a",
+      "native_bytes": 2939316,
+      "portable_sha256": "6aaeef2c30b36b104eb179e6a0bd16040003354fc8f415cccbe4ae45feb9d8d9",
+      "material_readiness": {
+        "status": "requires_landscape_material_adaptation",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces.",
+          "Black lower base-color is identical to earlier bake; UseVTBlend enabled with landscape RVT references."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockClassic_Cliff_SM_CliffClassic1",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IndividualCloudPlane",
+      "name": "SM_IndividualCloudPlane",
+      "native_path": "Models/Environment/Sky/Meshes/SM_IndividualCloudPlane.glb",
+      "native_sha256": "2cb6cafefb75756d86db1d25e6053b61cf1fcbba55b720fd55e0bcd4cb3f94fb",
+      "native_bytes": 337580,
+      "portable_sha256": "1c4ce33d23e4024ad8e86db0a9edbd8633e8903f08632d9dde02f5b622896821",
+      "material_readiness": {
+        "status": "custom_shader_required",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Invisible bake: alpha=0 throughout; source uses CameraDepthFade, MPC and Blueprint opacity/fade parameters."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IndividualCloud_Classic_SM_IndividualCloudPlane",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Bamboo1",
+      "name": "SM_Bamboo1",
+      "native_path": "Models/Environment/Trees/Bamboo/SM_Bamboo1.glb",
+      "native_sha256": "58ddf1ce341b2b63938db9825e2a12edb0640a1ab5404a9fcba2c7f449772c35",
+      "native_bytes": 3234520,
+      "portable_sha256": "ecd0efce96b12bfb569bf80be04fa002a57144967e1fd53335681403a04e104c",
+      "material_readiness": {
+        "status": "representative_static_pbr_preview",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "preview_scope": "Selected native GLB in Blender CPU; not runtime or whole-family acceptance."
+      },
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_Bamboo1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooLeaves_SM_Bamboo1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Pine01",
+      "name": "SM_Pine01",
+      "native_path": "Models/Environment/Trees/Pine/SM_Pine01.glb",
+      "native_sha256": "1eddffa70f7cdf23479cbf037bb387b6ef605f0dd3f497c86b631c10326ff1ff",
+      "native_bytes": 1879240,
+      "portable_sha256": "becef1a0267eb0a29cb03ce2b73d9d731325cba18d3792e76011d3a4079e53bd",
+      "material_readiness": {
+        "status": "representative_static_pbr_preview",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "preview_scope": "Selected native GLB in Blender CPU; not runtime or whole-family acceptance."
+      },
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PineBark_SM_Pine01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PineLeaves_SM_Pine01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterRiver04",
+      "name": "SM_WaterRiver04",
+      "native_path": "Models/Environment/Water/Meshes/SM_WaterRiver04.glb",
+      "native_sha256": "c0d2d2a06bb0898efaaaf32b543a22c17040b273ea09d94a3d7cf59e55e5d72a",
+      "native_bytes": 828032,
+      "portable_sha256": "fb7d3d083c22f642addabbefed9f3a9f8496052ada1fa3fc25d0f000f0298824",
+      "material_readiness": {
+        "status": "static_water_mesh_only",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Pale static approximation only; animated water and depth behavior need a custom material.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Water_Classic_River_SM_WaterRiver04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,1108 @@
+{
+  "schema_version": 1,
+  "category": "Foliage",
+  "asset_count": 109,
+  "full_catalog": "../catalog.json",
+  "downloads": "../downloads.json",
+  "path_scope": "Asset path is inside the extracted ZIP root, not a direct repository model path. Use download.zip_member or direct_sample_url.",
+  "detail_pages": [
+    "details/Foliage-01.json",
+    "details/Foliage-02.json",
+    "details/Foliage-03.json",
+    "details/Foliage-04.json",
+    "details/Foliage-05.json",
+    "details/Foliage-06.json"
+  ],
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_Tumbleweed01",
+      "name": "SM_Tumbleweed01",
+      "path": "Models/Environment/Foliage/Meshes/SM_Tumbleweed01.glb",
+      "bytes": 1438312,
+      "triangles": 1166,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooBush01",
+      "name": "SM_BambooBush01",
+      "path": "Models/Environment/Foliage/SM_BambooBush01.glb",
+      "bytes": 1939656,
+      "triangles": 472,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Bush1",
+      "name": "SM_Bush1",
+      "path": "Models/Environment/Foliage/SM_Bush1.glb",
+      "bytes": 694780,
+      "triangles": 156,
+      "material_status": "representative_static_pbr_preview",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Bush2",
+      "name": "SM_Bush2",
+      "path": "Models/Environment/Foliage/SM_Bush2.glb",
+      "bytes": 1026692,
+      "triangles": 480,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Bush3",
+      "name": "SM_Bush3",
+      "path": "Models/Environment/Foliage/SM_Bush3.glb",
+      "bytes": 1044896,
+      "triangles": 666,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BushChina01",
+      "name": "SM_BushChina01",
+      "path": "Models/Environment/Foliage/SM_BushChina01.glb",
+      "bytes": 1819220,
+      "triangles": 196,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BushChina02",
+      "name": "SM_BushChina02",
+      "path": "Models/Environment/Foliage/SM_BushChina02.glb",
+      "bytes": 1834052,
+      "triangles": 246,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BushChina03",
+      "name": "SM_BushChina03",
+      "path": "Models/Environment/Foliage/SM_BushChina03.glb",
+      "bytes": 1677956,
+      "triangles": 368,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BushLeafy01",
+      "name": "SM_BushLeafy01",
+      "path": "Models/Environment/Foliage/SM_BushLeafy01.glb",
+      "bytes": 2259072,
+      "triangles": 254,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BushLeafy02",
+      "name": "SM_BushLeafy02",
+      "path": "Models/Environment/Foliage/SM_BushLeafy02.glb",
+      "bytes": 2050428,
+      "triangles": 662,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BushSnowDead01",
+      "name": "SM_BushSnowDead01",
+      "path": "Models/Environment/Foliage/SM_BushSnowDead01.glb",
+      "bytes": 1310140,
+      "triangles": 32,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BushSnowDead02",
+      "name": "SM_BushSnowDead02",
+      "path": "Models/Environment/Foliage/SM_BushSnowDead02.glb",
+      "bytes": 1437908,
+      "triangles": 48,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BushTropical01",
+      "name": "SM_BushTropical01",
+      "path": "Models/Environment/Foliage/SM_BushTropical01.glb",
+      "bytes": 1125420,
+      "triangles": 196,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BushTropical02",
+      "name": "SM_BushTropical02",
+      "path": "Models/Environment/Foliage/SM_BushTropical02.glb",
+      "bytes": 1137812,
+      "triangles": 246,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_BushTropical03",
+      "name": "SM_BushTropical03",
+      "path": "Models/Environment/Foliage/SM_BushTropical03.glb",
+      "bytes": 1050784,
+      "triangles": 368,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus01",
+      "name": "SM_Cactus01",
+      "path": "Models/Environment/Foliage/SM_Cactus01.glb",
+      "bytes": 1632020,
+      "triangles": 1260,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus02",
+      "name": "SM_Cactus02",
+      "path": "Models/Environment/Foliage/SM_Cactus02.glb",
+      "bytes": 1862428,
+      "triangles": 1743,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus03",
+      "name": "SM_Cactus03",
+      "path": "Models/Environment/Foliage/SM_Cactus03.glb",
+      "bytes": 1977800,
+      "triangles": 1761,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus04",
+      "name": "SM_Cactus04",
+      "path": "Models/Environment/Foliage/SM_Cactus04.glb",
+      "bytes": 2184116,
+      "triangles": 1950,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus05",
+      "name": "SM_Cactus05",
+      "path": "Models/Environment/Foliage/SM_Cactus05.glb",
+      "bytes": 1915176,
+      "triangles": 2058,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus06",
+      "name": "SM_Cactus06",
+      "path": "Models/Environment/Foliage/SM_Cactus06.glb",
+      "bytes": 2372708,
+      "triangles": 3489,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus07",
+      "name": "SM_Cactus07",
+      "path": "Models/Environment/Foliage/SM_Cactus07.glb",
+      "bytes": 2392828,
+      "triangles": 3585,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus08",
+      "name": "SM_Cactus08",
+      "path": "Models/Environment/Foliage/SM_Cactus08.glb",
+      "bytes": 2492932,
+      "triangles": 3490,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusBulb01",
+      "name": "SM_CactusBulb01",
+      "path": "Models/Environment/Foliage/SM_CactusBulb01.glb",
+      "bytes": 1125832,
+      "triangles": 70,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusBulb02",
+      "name": "SM_CactusBulb02",
+      "path": "Models/Environment/Foliage/SM_CactusBulb02.glb",
+      "bytes": 876208,
+      "triangles": 252,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusPricklyPear01",
+      "name": "SM_CactusPricklyPear01",
+      "path": "Models/Environment/Foliage/SM_CactusPricklyPear01.glb",
+      "bytes": 1684032,
+      "triangles": 654,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusPricklyPear02",
+      "name": "SM_CactusPricklyPear02",
+      "path": "Models/Environment/Foliage/SM_CactusPricklyPear02.glb",
+      "bytes": 2065964,
+      "triangles": 1719,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusPricklyPear03",
+      "name": "SM_CactusPricklyPear03",
+      "path": "Models/Environment/Foliage/SM_CactusPricklyPear03.glb",
+      "bytes": 2123636,
+      "triangles": 1812,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_CactusPricklyPear04",
+      "name": "SM_CactusPricklyPear04",
+      "path": "Models/Environment/Foliage/SM_CactusPricklyPear04.glb",
+      "bytes": 2179624,
+      "triangles": 3120,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBush01",
+      "name": "SM_DesertBush01",
+      "path": "Models/Environment/Foliage/SM_DesertBush01.glb",
+      "bytes": 1743124,
+      "triangles": 22,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBush02",
+      "name": "SM_DesertBush02",
+      "path": "Models/Environment/Foliage/SM_DesertBush02.glb",
+      "bytes": 1810812,
+      "triangles": 30,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBush03",
+      "name": "SM_DesertBush03",
+      "path": "Models/Environment/Foliage/SM_DesertBush03.glb",
+      "bytes": 1914304,
+      "triangles": 272,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBush04",
+      "name": "SM_DesertBush04",
+      "path": "Models/Environment/Foliage/SM_DesertBush04.glb",
+      "bytes": 1905696,
+      "triangles": 76,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBushB01",
+      "name": "SM_DesertBushB01",
+      "path": "Models/Environment/Foliage/SM_DesertBushB01.glb",
+      "bytes": 1200244,
+      "triangles": 32,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertBushB02",
+      "name": "SM_DesertBushB02",
+      "path": "Models/Environment/Foliage/SM_DesertBushB02.glb",
+      "bytes": 1321708,
+      "triangles": 48,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertTwigRoots01",
+      "name": "SM_DesertTwigRoots01",
+      "path": "Models/Environment/Foliage/SM_DesertTwigRoots01.glb",
+      "bytes": 2148324,
+      "triangles": 588,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertTwigRoots02",
+      "name": "SM_DesertTwigRoots02",
+      "path": "Models/Environment/Foliage/SM_DesertTwigRoots02.glb",
+      "bytes": 2193356,
+      "triangles": 832,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertTwigRoots03",
+      "name": "SM_DesertTwigRoots03",
+      "path": "Models/Environment/Foliage/SM_DesertTwigRoots03.glb",
+      "bytes": 2168308,
+      "triangles": 512,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertWeed01",
+      "name": "SM_DesertWeed01",
+      "path": "Models/Environment/Foliage/SM_DesertWeed01.glb",
+      "bytes": 942540,
+      "triangles": 88,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertWeed02",
+      "name": "SM_DesertWeed02",
+      "path": "Models/Environment/Foliage/SM_DesertWeed02.glb",
+      "bytes": 897392,
+      "triangles": 52,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertWeed03",
+      "name": "SM_DesertWeed03",
+      "path": "Models/Environment/Foliage/SM_DesertWeed03.glb",
+      "bytes": 1020544,
+      "triangles": 92,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ElephantEars01",
+      "name": "SM_ElephantEars01",
+      "path": "Models/Environment/Foliage/SM_ElephantEars01.glb",
+      "bytes": 2013912,
+      "triangles": 378,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ElephantEars02",
+      "name": "SM_ElephantEars02",
+      "path": "Models/Environment/Foliage/SM_ElephantEars02.glb",
+      "bytes": 2148532,
+      "triangles": 630,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_ElephantEars03",
+      "name": "SM_ElephantEars03",
+      "path": "Models/Environment/Foliage/SM_ElephantEars03.glb",
+      "bytes": 2176656,
+      "triangles": 882,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Fern1",
+      "name": "SM_Fern1",
+      "path": "Models/Environment/Foliage/SM_Fern1.glb",
+      "bytes": 1087980,
+      "triangles": 120,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Fern2",
+      "name": "SM_Fern2",
+      "path": "Models/Environment/Foliage/SM_Fern2.glb",
+      "bytes": 1140408,
+      "triangles": 180,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Fern3",
+      "name": "SM_Fern3",
+      "path": "Models/Environment/Foliage/SM_Fern3.glb",
+      "bytes": 1126888,
+      "triangles": 280,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerBush01",
+      "name": "SM_FlowerBush01",
+      "path": "Models/Environment/Foliage/SM_FlowerBush01.glb",
+      "bytes": 1047524,
+      "triangles": 126,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerBush02",
+      "name": "SM_FlowerBush02",
+      "path": "Models/Environment/Foliage/SM_FlowerBush02.glb",
+      "bytes": 858056,
+      "triangles": 182,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerCrocus01",
+      "name": "SM_FlowerCrocus01",
+      "path": "Models/Environment/Foliage/SM_FlowerCrocus01.glb",
+      "bytes": 2154632,
+      "triangles": 576,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerCrocus02",
+      "name": "SM_FlowerCrocus02",
+      "path": "Models/Environment/Foliage/SM_FlowerCrocus02.glb",
+      "bytes": 2269664,
+      "triangles": 952,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerDesertBulb01",
+      "name": "SM_FlowerDesertBulb01",
+      "path": "Models/Environment/Foliage/SM_FlowerDesertBulb01.glb",
+      "bytes": 1430856,
+      "triangles": 40,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerDesertBulb02",
+      "name": "SM_FlowerDesertBulb02",
+      "path": "Models/Environment/Foliage/SM_FlowerDesertBulb02.glb",
+      "bytes": 1167576,
+      "triangles": 78,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerDesertBulb03",
+      "name": "SM_FlowerDesertBulb03",
+      "path": "Models/Environment/Foliage/SM_FlowerDesertBulb03.glb",
+      "bytes": 1451500,
+      "triangles": 78,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerDesertBulb04",
+      "name": "SM_FlowerDesertBulb04",
+      "path": "Models/Environment/Foliage/SM_FlowerDesertBulb04.glb",
+      "bytes": 1325204,
+      "triangles": 40,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerDesertBulb05",
+      "name": "SM_FlowerDesertBulb05",
+      "path": "Models/Environment/Foliage/SM_FlowerDesertBulb05.glb",
+      "bytes": 1205544,
+      "triangles": 40,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerDesertPink01",
+      "name": "SM_FlowerDesertPink01",
+      "path": "Models/Environment/Foliage/SM_FlowerDesertPink01.glb",
+      "bytes": 1324612,
+      "triangles": 92,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerDesertPink02",
+      "name": "SM_FlowerDesertPink02",
+      "path": "Models/Environment/Foliage/SM_FlowerDesertPink02.glb",
+      "bytes": 1392588,
+      "triangles": 162,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowerDesertPink03",
+      "name": "SM_FlowerDesertPink03",
+      "path": "Models/Environment/Foliage/SM_FlowerDesertPink03.glb",
+      "bytes": 1405976,
+      "triangles": 278,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_Allium",
+      "name": "SM_Flower_Allium",
+      "path": "Models/Environment/Foliage/SM_Flower_Allium.glb",
+      "bytes": 1788912,
+      "triangles": 422,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_DaffodilsOrange",
+      "name": "SM_Flower_DaffodilsOrange",
+      "path": "Models/Environment/Foliage/SM_Flower_DaffodilsOrange.glb",
+      "bytes": 1557120,
+      "triangles": 400,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_DaffodilsPink",
+      "name": "SM_Flower_DaffodilsPink",
+      "path": "Models/Environment/Foliage/SM_Flower_DaffodilsPink.glb",
+      "bytes": 1556776,
+      "triangles": 400,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_DaffodilsYellow",
+      "name": "SM_Flower_DaffodilsYellow",
+      "path": "Models/Environment/Foliage/SM_Flower_DaffodilsYellow.glb",
+      "bytes": 1570512,
+      "triangles": 400,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_Daisies1",
+      "name": "SM_Flower_Daisies1",
+      "path": "Models/Environment/Foliage/SM_Flower_Daisies1.glb",
+      "bytes": 1620416,
+      "triangles": 144,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_Foxtails1",
+      "name": "SM_Flower_Foxtails1",
+      "path": "Models/Environment/Foliage/SM_Flower_Foxtails1.glb",
+      "bytes": 2081796,
+      "triangles": 216,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_FoxtailsLight1",
+      "name": "SM_Flower_FoxtailsLight1",
+      "path": "Models/Environment/Foliage/SM_Flower_FoxtailsLight1.glb",
+      "bytes": 2087100,
+      "triangles": 216,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_Sunflower1",
+      "name": "SM_Flower_Sunflower1",
+      "path": "Models/Environment/Foliage/SM_Flower_Sunflower1.glb",
+      "bytes": 1644604,
+      "triangles": 208,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_Sunflower2",
+      "name": "SM_Flower_Sunflower2",
+      "path": "Models/Environment/Foliage/SM_Flower_Sunflower2.glb",
+      "bytes": 1700608,
+      "triangles": 247,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_Sunflower3",
+      "name": "SM_Flower_Sunflower3",
+      "path": "Models/Environment/Foliage/SM_Flower_Sunflower3.glb",
+      "bytes": 1777356,
+      "triangles": 241,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_TulipsOrange",
+      "name": "SM_Flower_TulipsOrange",
+      "path": "Models/Environment/Foliage/SM_Flower_TulipsOrange.glb",
+      "bytes": 1710500,
+      "triangles": 2244,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_TulipsPink",
+      "name": "SM_Flower_TulipsPink",
+      "path": "Models/Environment/Foliage/SM_Flower_TulipsPink.glb",
+      "bytes": 1765604,
+      "triangles": 2244,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_TulipsRed",
+      "name": "SM_Flower_TulipsRed",
+      "path": "Models/Environment/Foliage/SM_Flower_TulipsRed.glb",
+      "bytes": 1760900,
+      "triangles": 2244,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Flower_TulipsYellow",
+      "name": "SM_Flower_TulipsYellow",
+      "path": "Models/Environment/Foliage/SM_Flower_TulipsYellow.glb",
+      "bytes": 1757224,
+      "triangles": 2244,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowersIce01",
+      "name": "SM_FlowersIce01",
+      "path": "Models/Environment/Foliage/SM_FlowersIce01.glb",
+      "bytes": 2237392,
+      "triangles": 500,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowersIce02",
+      "name": "SM_FlowersIce02",
+      "path": "Models/Environment/Foliage/SM_FlowersIce02.glb",
+      "bytes": 2339432,
+      "triangles": 824,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_FlowersIce03",
+      "name": "SM_FlowersIce03",
+      "path": "Models/Environment/Foliage/SM_FlowersIce03.glb",
+      "bytes": 2223852,
+      "triangles": 564,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Grass1",
+      "name": "SM_Grass1",
+      "path": "Models/Environment/Foliage/SM_Grass1.glb",
+      "bytes": 936952,
+      "triangles": 110,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Grass2",
+      "name": "SM_Grass2",
+      "path": "Models/Environment/Foliage/SM_Grass2.glb",
+      "bytes": 1170740,
+      "triangles": 375,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastal01",
+      "name": "SM_IvyCoastal01",
+      "path": "Models/Environment/Foliage/SM_IvyCoastal01.glb",
+      "bytes": 1330092,
+      "triangles": 98,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastal02",
+      "name": "SM_IvyCoastal02",
+      "path": "Models/Environment/Foliage/SM_IvyCoastal02.glb",
+      "bytes": 1426840,
+      "triangles": 264,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastal03",
+      "name": "SM_IvyCoastal03",
+      "path": "Models/Environment/Foliage/SM_IvyCoastal03.glb",
+      "bytes": 1414644,
+      "triangles": 220,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastal04",
+      "name": "SM_IvyCoastal04",
+      "path": "Models/Environment/Foliage/SM_IvyCoastal04.glb",
+      "bytes": 1408596,
+      "triangles": 230,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastal05",
+      "name": "SM_IvyCoastal05",
+      "path": "Models/Environment/Foliage/SM_IvyCoastal05.glb",
+      "bytes": 1690520,
+      "triangles": 554,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalCurved01",
+      "name": "SM_IvyCoastalCurved01",
+      "path": "Models/Environment/Foliage/SM_IvyCoastalCurved01.glb",
+      "bytes": 1430980,
+      "triangles": 220,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalCurved02",
+      "name": "SM_IvyCoastalCurved02",
+      "path": "Models/Environment/Foliage/SM_IvyCoastalCurved02.glb",
+      "bytes": 1396644,
+      "triangles": 230,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalCurved03",
+      "name": "SM_IvyCoastalCurved03",
+      "path": "Models/Environment/Foliage/SM_IvyCoastalCurved03.glb",
+      "bytes": 1635648,
+      "triangles": 458,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine01",
+      "name": "SM_IvyCoastalVine01",
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine01.glb",
+      "bytes": 1467472,
+      "triangles": 494,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine02",
+      "name": "SM_IvyCoastalVine02",
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine02.glb",
+      "bytes": 1375492,
+      "triangles": 392,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine03",
+      "name": "SM_IvyCoastalVine03",
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine03.glb",
+      "bytes": 1389088,
+      "triangles": 546,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine04",
+      "name": "SM_IvyCoastalVine04",
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine04.glb",
+      "bytes": 1419452,
+      "triangles": 496,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine05",
+      "name": "SM_IvyCoastalVine05",
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine05.glb",
+      "bytes": 1476284,
+      "triangles": 552,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine06",
+      "name": "SM_IvyCoastalVine06",
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine06.glb",
+      "bytes": 1361704,
+      "triangles": 332,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine07",
+      "name": "SM_IvyCoastalVine07",
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine07.glb",
+      "bytes": 1448020,
+      "triangles": 1114,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine08",
+      "name": "SM_IvyCoastalVine08",
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine08.glb",
+      "bytes": 1406516,
+      "triangles": 786,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_LilyPad1",
+      "name": "SM_LilyPad1",
+      "path": "Models/Environment/Foliage/SM_LilyPad1.glb",
+      "bytes": 1124932,
+      "triangles": 4,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_LilyPad2",
+      "name": "SM_LilyPad2",
+      "path": "Models/Environment/Foliage/SM_LilyPad2.glb",
+      "bytes": 1157508,
+      "triangles": 4,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_LilyPad3",
+      "name": "SM_LilyPad3",
+      "path": "Models/Environment/Foliage/SM_LilyPad3.glb",
+      "bytes": 1103232,
+      "triangles": 124,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_LilyPadClump1",
+      "name": "SM_LilyPadClump1",
+      "path": "Models/Environment/Foliage/SM_LilyPadClump1.glb",
+      "bytes": 1162252,
+      "triangles": 136,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_LilyPadClump2",
+      "name": "SM_LilyPadClump2",
+      "path": "Models/Environment/Foliage/SM_LilyPadClump2.glb",
+      "bytes": 1178916,
+      "triangles": 28,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Marshtail01",
+      "name": "SM_Marshtail01",
+      "path": "Models/Environment/Foliage/SM_Marshtail01.glb",
+      "bytes": 462524,
+      "triangles": 24,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Marshtail02",
+      "name": "SM_Marshtail02",
+      "path": "Models/Environment/Foliage/SM_Marshtail02.glb",
+      "bytes": 388036,
+      "triangles": 33,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Marshtail03",
+      "name": "SM_Marshtail03",
+      "path": "Models/Environment/Foliage/SM_Marshtail03.glb",
+      "bytes": 506892,
+      "triangles": 32,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Marshtail04",
+      "name": "SM_Marshtail04",
+      "path": "Models/Environment/Foliage/SM_Marshtail04.glb",
+      "bytes": 370584,
+      "triangles": 27,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedFern01",
+      "name": "SM_RedFern01",
+      "path": "Models/Environment/Foliage/SM_RedFern01.glb",
+      "bytes": 1141900,
+      "triangles": 708,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedFern02",
+      "name": "SM_RedFern02",
+      "path": "Models/Environment/Foliage/SM_RedFern02.glb",
+      "bytes": 1316100,
+      "triangles": 1298,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Rice01",
+      "name": "SM_Rice01",
+      "path": "Models/Environment/Foliage/SM_Rice01.glb",
+      "bytes": 662840,
+      "triangles": 6,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Rice02",
+      "name": "SM_Rice02",
+      "path": "Models/Environment/Foliage/SM_Rice02.glb",
+      "bytes": 700060,
+      "triangles": 10,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Rice03",
+      "name": "SM_Rice03",
+      "path": "Models/Environment/Foliage/SM_Rice03.glb",
+      "bytes": 749140,
+      "triangles": 28,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Seaweed",
+      "name": "SM_Seaweed",
+      "path": "Models/Environment/Foliage/SM_Seaweed.glb",
+      "bytes": 1189116,
+      "triangles": 165,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Foliage_part01.zip",
+      "details": "details/Foliage-06.json"
+    }
+  ]
+}

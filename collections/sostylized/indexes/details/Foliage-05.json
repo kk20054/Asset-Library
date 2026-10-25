@@ -1,0 +1,1868 @@
+{
+  "schema_version": 1,
+  "category": "Foliage",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastal03",
+      "source": {
+        "name": "SM_IvyCoastal03",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastal03.SM_IvyCoastal03",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastal03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "58d9d625bd7046c529f9ec31855f08e8e8f95060453ff75bbfb486befe9e9188",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastal, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastal",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastal.MI_IvyCoastal"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b905f4cbb6ff63a9240e653ef2b321ae7174ee72a9b951b7c1a57489cf511649",
+      "native_bytes": 1414672,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastal_SM_IvyCoastal03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 220,
+      "scene_triangles": 220,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.419410765171051,
+          -0.6069949269294739,
+          -1.8321200609207153
+        ],
+        "max": [
+          4.7293877601623535,
+          0.6395324468612671,
+          2.0681264400482178
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastal03.glb",
+      "bytes": 1414644,
+      "sha256": "d33286c3d33bd7669e308e76ddbb04102548c1f9d3b0d940dd670ae7e90e26fa",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastal03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastal04",
+      "source": {
+        "name": "SM_IvyCoastal04",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastal04.SM_IvyCoastal04",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastal04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "961f659f549ae7d18a9bb6bd6b45094d407597863d36d6245730a2245b33eb9e",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastal, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastal",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastal.MI_IvyCoastal"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "18437371ffc0a63ea252aadcbc2449b620fc8cad416f186340ccd30dcf35a271",
+      "native_bytes": 1408624,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastal_SM_IvyCoastal04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 230,
+      "scene_triangles": 230,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.7272810339927673,
+          -0.6978679299354553,
+          -2.75358510017395
+        ],
+        "max": [
+          4.468070983886719,
+          0.6880864500999451,
+          2.866873025894165
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastal04.glb",
+      "bytes": 1408596,
+      "sha256": "5cce2cc1c3d75c2dc17c336bb75961016c6c8039d9d35f35a7684e58d9230482",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastal04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastal05",
+      "source": {
+        "name": "SM_IvyCoastal05",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastal05.SM_IvyCoastal05",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastal05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7b75f9347dd441ff441d4b603c29b3b01fe8b96592f14616f2839d3031ae922e",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastal, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastal",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastal.MI_IvyCoastal"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c12c405655af1d90826c6cb528ee94576631d12e183331e71cf30da83bd3d525",
+      "native_bytes": 1690544,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastal_SM_IvyCoastal05",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 554,
+      "scene_triangles": 554,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.7979761362075806,
+          -0.817816972732544,
+          -4.67007303237915
+        ],
+        "max": [
+          6.227667331695557,
+          0.9517417550086975,
+          3.821772575378418
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastal05.glb",
+      "bytes": 1690520,
+      "sha256": "2098853a5b127170577eba613d453d2c2a6469373a726a10e718c2888cc0c3a4",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastal05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalCurved01",
+      "source": {
+        "name": "SM_IvyCoastalCurved01",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalCurved01.SM_IvyCoastalCurved01",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalCurved01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e0e34b6518bbb66868cee888d525301e3edc6727812466d0ba1ae3409bdf3e3e",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastal, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastal",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastal.MI_IvyCoastal"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "d7419b7587fba18972852658c338b0b64f4fbd74f6f9733c376991726bec54f5",
+      "native_bytes": 1431004,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastal_SM_IvyCoastalCurved01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 220,
+      "scene_triangles": 220,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.7484883069992065,
+          -0.5891396403312683,
+          -1.8321200609207153
+        ],
+        "max": [
+          4.3780598640441895,
+          1.163698434829712,
+          2.0681264400482178
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastalCurved01.glb",
+      "bytes": 1430980,
+      "sha256": "d2b133ac68a24e5147a49ddd9360cbde9cd939c6a52646143a0220e9743a9c00",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastalCurved01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalCurved02",
+      "source": {
+        "name": "SM_IvyCoastalCurved02",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalCurved02.SM_IvyCoastalCurved02",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalCurved02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7d42a9ea50f0c52a85a9ce168899ded4845b282e409704ae5b7720ac1b5babbb",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastal, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastal",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastal.MI_IvyCoastal"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1221e21f62c1df49bcbe8956f3fc8b879f59cf2667b88e52cfe6aeb935c26236",
+      "native_bytes": 1396672,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastal_SM_IvyCoastalCurved02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 230,
+      "scene_triangles": 230,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.7438341975212097,
+          -0.8266977667808533,
+          -2.517137050628662
+        ],
+        "max": [
+          4.425149917602539,
+          1.1100337505340576,
+          2.4736928939819336
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastalCurved02.glb",
+      "bytes": 1396644,
+      "sha256": "7246d6b43828206ef004d0b216fb3793b42cec7092202fa6b66623a73f19cfd1",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastalCurved02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalCurved03",
+      "source": {
+        "name": "SM_IvyCoastalCurved03",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalCurved03.SM_IvyCoastalCurved03",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalCurved03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "46e1ab20e61c07989e9352f0a3e2c94bc5a3c9a02da4e6a6fd1fc420b85f7acd",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastal, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastal",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastal.MI_IvyCoastal"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2640a791aa0288e6ef0f7edaade742dca029405429554ac9070dd9265d167d47",
+      "native_bytes": 1635676,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastal_SM_IvyCoastalCurved03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 458,
+      "scene_triangles": 458,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.0093551874160767,
+          -1.1899397373199463,
+          -4.296456336975098
+        ],
+        "max": [
+          5.733296871185303,
+          1.7003710269927979,
+          3.77783465385437
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastalCurved03.glb",
+      "bytes": 1635648,
+      "sha256": "d1e83eb49922b299536aa8991622ba80ca556de50d00da2fc23c87f565c3bb8f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastalCurved03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine01",
+      "source": {
+        "name": "SM_IvyCoastalVine01",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine01.SM_IvyCoastalVine01",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0c4eb1f7224c4bd51e8074fed71d49a621c8f8744911432bd82dbd024bf53345",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastalVines, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastalVines",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastalVines.MI_IvyCoastalVines"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0d27e1f4ac155fcfc70b9d1674c0db85f2159e582d46473c940e170c3c672036",
+      "native_bytes": 1467500,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastalVines_SM_IvyCoastalVine01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 494,
+      "scene_triangles": 494,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.7503818273544312,
+          -7.857855796813965,
+          -0.8556014895439148
+        ],
+        "max": [
+          0.9257398843765259,
+          0.13795940577983856,
+          0.8198245763778687
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine01.glb",
+      "bytes": 1467472,
+      "sha256": "368aae8935d4a685c82b37249cd229c380717c0238b0a0781612ac304a600a21",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastalVine01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine02",
+      "source": {
+        "name": "SM_IvyCoastalVine02",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine02.SM_IvyCoastalVine02",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "61eb86946d322ca07bf9f6b8eb521bf1bccfe912a0738a71c15fbbbfda0c42cb",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastalVines, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastalVines",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastalVines.MI_IvyCoastalVines"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6b1ca91a205be530d1ed347f789e14d1fdaf888c9a782ea0ef24fd67eefa2ecc",
+      "native_bytes": 1375516,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastalVines_SM_IvyCoastalVine02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 392,
+      "scene_triangles": 392,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.9009501338005066,
+          -10.212114334106445,
+          -0.9557464122772217
+        ],
+        "max": [
+          1.1930776834487915,
+          0.04938500374555588,
+          1.0805941820144653
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine02.glb",
+      "bytes": 1375492,
+      "sha256": "68ca82b014192fbc296d87857569e0d69b3d1ba1d446d5fcae66d1610a9d8c05",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastalVine02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine03",
+      "source": {
+        "name": "SM_IvyCoastalVine03",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine03.SM_IvyCoastalVine03",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0e2d239cb45bd2e0d76fcffd315916f464f7823cc2893539c77ef70c3b647e66",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastalVines, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastalVines",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastalVines.MI_IvyCoastalVines"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "64aa0a1452acdca035d97c6787661b852d2a43e567c04566e4c72016883390d1",
+      "native_bytes": 1389116,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastalVines_SM_IvyCoastalVine03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 546,
+      "scene_triangles": 546,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.3590322732925415,
+          -7.993008136749268,
+          -1.3746615648269653
+        ],
+        "max": [
+          1.3415461778640747,
+          0.14299696683883667,
+          0.915821373462677
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine03.glb",
+      "bytes": 1389088,
+      "sha256": "ee3fdb1e91aed7672be6e8b8bc638b0faa691c3a7605c935d2e0825469fa8ac4",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastalVine03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine04",
+      "source": {
+        "name": "SM_IvyCoastalVine04",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine04.SM_IvyCoastalVine04",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7151e9d9792bc48b30fc484098f2fd074772e33d3442e2911c52b048ffbcf86b",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastalVines, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastalVines",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastalVines.MI_IvyCoastalVines"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2678f3d7f7f41b685b1d5bed7746545f1f926f2f30659a8a3e0572f96af45058",
+      "native_bytes": 1419476,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastalVines_SM_IvyCoastalVine04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 496,
+      "scene_triangles": 496,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.8600437641143799,
+          -8.789922714233398,
+          -0.9320475459098816
+        ],
+        "max": [
+          3.4490926265716553,
+          0.12122898548841476,
+          0.9858845472335815
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine04.glb",
+      "bytes": 1419452,
+      "sha256": "da2a54253255b62bd3fb7a03deb8270428b12ef8722d4fe9a0184ec0e723b363",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastalVine04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine05",
+      "source": {
+        "name": "SM_IvyCoastalVine05",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine05.SM_IvyCoastalVine05",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e9285150492acfb77ded26f891d64358c948814d1f0187df3b5888f990b3adbc",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastalVines, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastalVines",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastalVines.MI_IvyCoastalVines"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6a995a4054090403ed942972dc49e5178ae8640fee2c4c4082e94f2d625ed11f",
+      "native_bytes": 1476312,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastalVines_SM_IvyCoastalVine05",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 552,
+      "scene_triangles": 552,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.185677170753479,
+          -11.598299026489258,
+          -1.3172686100006104
+        ],
+        "max": [
+          3.689565658569336,
+          0.7811149954795837,
+          0.8245845437049866
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine05.glb",
+      "bytes": 1476284,
+      "sha256": "5df72d0743a59858cc41b9e5629628201be5962de0f9f535a0600c111251e09d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastalVine05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine06",
+      "source": {
+        "name": "SM_IvyCoastalVine06",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine06.SM_IvyCoastalVine06",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine06",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "80374b5568c891e5a916b4f77c736660a907a84de869adf2c7487e012e9c50b0",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastalVines, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastalVines",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastalVines.MI_IvyCoastalVines"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "628ebf074acec55444fb392675710f7fe6aa0f8614a319ac8f8379b101fa5288",
+      "native_bytes": 1361732,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastalVines_SM_IvyCoastalVine06",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 332,
+      "scene_triangles": 332,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.3121306896209717,
+          -10.601176261901855,
+          -1.0659924745559692
+        ],
+        "max": [
+          5.40228796005249,
+          0.7962851524353027,
+          1.1461290121078491
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine06.glb",
+      "bytes": 1361704,
+      "sha256": "8d4781a1f11503b2450785d8dd093a35b7996cce7f1ded5f90a65a7351a58585",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastalVine06.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine07",
+      "source": {
+        "name": "SM_IvyCoastalVine07",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine07.SM_IvyCoastalVine07",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine07",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "da989405739c0d35e3f894eef7122ed829c9f6c8eec0f497715d890856551da8",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastalVines, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastalVines",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastalVines.MI_IvyCoastalVines"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "cf5d259b7ae193cf2479a987de52c2e5bf4148d88caa6f349fd47e70eb76deb6",
+      "native_bytes": 1448044,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastalVines_SM_IvyCoastalVine07",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1114,
+      "scene_triangles": 1114,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.7441681027412415,
+          -9.794588088989258,
+          -1.0452196598052979
+        ],
+        "max": [
+          9.90456771850586,
+          0.6540266275405884,
+          1.035182237625122
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine07.glb",
+      "bytes": 1448020,
+      "sha256": "db7ba9fb7602aea3b880ee393061c3dce2babcb00d6bc89b75c7595d2b4ca72c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastalVine07.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_IvyCoastalVine08",
+      "source": {
+        "name": "SM_IvyCoastalVine08",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine08.SM_IvyCoastalVine08",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_IvyCoastalVine08",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d2480b16c1d387e540858080af857f84241678175e26d3c8579b193a0d53977a",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_IvyCoastalVines, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_IvyCoastalVines",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_IvyCoastalVines.MI_IvyCoastalVines"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "3f0c56b1fdba89300df64748d15a5ed18078a003af663d158c25ac5e7d9c9959",
+      "native_bytes": 1406544,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_IvyCoastalVines_SM_IvyCoastalVine08",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 786,
+      "scene_triangles": 786,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.17601150274276733,
+          -10.08686351776123,
+          -0.9562119245529175
+        ],
+        "max": [
+          14.020609855651855,
+          0.18960073590278625,
+          1.1090898513793945
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_IvyCoastalVine08.glb",
+      "bytes": 1406516,
+      "sha256": "6df5f264f6f38800abc9fb9ff0da0cf9fb0efbc1bd82fdb830525ca3b7f1ad87",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_IvyCoastalVine08.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_LilyPad1",
+      "source": {
+        "name": "SM_LilyPad1",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_LilyPad1.SM_LilyPad1",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_LilyPad1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "591cd85be1e041110fbc5a05f3a4eac6cb36781b39519d627a56c4e13c23fefc",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_LilyPads, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_LilyPads",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_LilyPads.MI_LilyPads"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "56bcbb368a353eace51206728c64b841b47db90d9119dd561caedebd8ada9b7b",
+      "native_bytes": 1124960,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_LilyPads_SM_LilyPad1",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 4,
+      "scene_triangles": 4,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -0.37666645646095276,
+          0.0,
+          -0.4136434495449066
+        ],
+        "max": [
+          0.37666645646095276,
+          0.0,
+          0.4463905096054077
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_LilyPad1.glb",
+      "bytes": 1124932,
+      "sha256": "ffdb052bd061320a57b069c5789b41d99a4aa206cf723480ad81a4d8b037d55b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_LilyPad1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_LilyPad2",
+      "source": {
+        "name": "SM_LilyPad2",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_LilyPad2.SM_LilyPad2",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_LilyPad2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b7e26eb1deb17fd48a159d1b04a4c9bf884e9ed912ce1d33356fab2b9a581044",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_LilyPads, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_LilyPads",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_LilyPads.MI_LilyPads"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "96be6d13bd90e5a0597e4fb42b6bd8733cc85ce17719564a6779c0aca15f8b6c",
+      "native_bytes": 1157536,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_LilyPads_SM_LilyPad2",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 4,
+      "scene_triangles": 4,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -0.38023993372917175,
+          0.0,
+          -0.4282102584838867
+        ],
+        "max": [
+          0.38023993372917175,
+          0.0,
+          0.42821016907691956
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_LilyPad2.glb",
+      "bytes": 1157508,
+      "sha256": "55a7e62c657d8d99879712384d6d10d33bd0a0caeb90f59e895dbc974c516282",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_LilyPad2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_LilyPad3",
+      "source": {
+        "name": "SM_LilyPad3",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_LilyPad3.SM_LilyPad3",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_LilyPad3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ca75f7a12f11fb4283e9c008856bed11082e860a117a4f008da915653da433ae",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_LilyPads, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_LilyPads",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_LilyPads.MI_LilyPads"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "09a49885c0d7fe26530add304d61a2b9e61c795b5a3b8ffd09df7ba3f68868f6",
+      "native_bytes": 1103260,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_LilyPads_SM_LilyPad3",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 124,
+      "scene_triangles": 124,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -0.3955582082271576,
+          -0.0012367106974124908,
+          -0.376594603061676
+        ],
+        "max": [
+          0.3955582082271576,
+          0.1097114235162735,
+          0.4093416929244995
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_LilyPad3.glb",
+      "bytes": 1103232,
+      "sha256": "66e87d62910d38d2fc39af9070ff79aeeee04bd300021dc0487c82ef75231de9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_LilyPad3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_LilyPadClump1",
+      "source": {
+        "name": "SM_LilyPadClump1",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_LilyPadClump1.SM_LilyPadClump1",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_LilyPadClump1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2ef8796c4a63dd2f1b9762ef61930c52c2d638bd57d079cceebfc9f1030f31ab",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_LilyPads, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_LilyPads",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_LilyPads.MI_LilyPads"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "682481cac98aa9b3dd2b7527ff104f8dc25dadde9223899d40236e6382570694",
+      "native_bytes": 1162280,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_LilyPads_SM_LilyPadClump1",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 136,
+      "scene_triangles": 136,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -1.3792977333068848,
+          0.010528839193284512,
+          -1.0274838209152222
+        ],
+        "max": [
+          1.7233600616455078,
+          0.1925010234117508,
+          1.4961717128753662
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_LilyPadClump1.glb",
+      "bytes": 1162252,
+      "sha256": "dc1d137347c502ca86bd199dcda828bd2737b0c14436e5973e2734047d997d13",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_LilyPadClump1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_LilyPadClump2",
+      "source": {
+        "name": "SM_LilyPadClump2",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_LilyPadClump2.SM_LilyPadClump2",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_LilyPadClump2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2c06222e4dd9493bc4e170933de519db22355bd803a1d6e3f5cca85ff3401885",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_LilyPads, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_LilyPads",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_LilyPads.MI_LilyPads"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "79c7d485490092493ddfd2dc8a4e399daa79dfb5fc3ff51874fb27c73721c220",
+      "native_bytes": 1178944,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_LilyPads_SM_LilyPadClump2",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 28,
+      "scene_triangles": 28,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.8517652750015259,
+          0.012617952190339565,
+          -1.734011173248291
+        ],
+        "max": [
+          2.4020588397979736,
+          0.05208984389901161,
+          1.5566684007644653
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_LilyPadClump2.glb",
+      "bytes": 1178916,
+      "sha256": "f3892d0f6413fd0b4335489ff8a3bd713a5a6c64e4cf112a53cbcbebc2e5d864",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_LilyPadClump2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Marshtail01",
+      "source": {
+        "name": "SM_Marshtail01",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_Marshtail01.SM_Marshtail01",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_Marshtail01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4ee3898eca7aecba8876835e316e30f46278e2c5321199cb2d88cea1d72070be",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_Marshtails, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Marshtails",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Marshtails.MI_Marshtails"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "67140c00c0dc938c2d05d7ef99edc0774c826eb942bdeb7d7b31c7425c2b1bec",
+      "native_bytes": 462580,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Marshtails_SM_Marshtail01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 24,
+      "scene_triangles": 24,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -0.20706622302532196,
+          -0.15299983322620392,
+          -1.524523377418518
+        ],
+        "max": [
+          0.6096495389938354,
+          1.058117389678955,
+          0.18121205270290375
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_Marshtail01.glb",
+      "bytes": 462524,
+      "sha256": "7f61b11fe1eaf7ed1b6ac93f9d5cdc11554dc7ae939b08b5618b928e4f2512e2",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Marshtail01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

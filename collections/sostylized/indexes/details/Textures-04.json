@@ -1,0 +1,948 @@
+{
+  "schema_version": 1,
+  "category": "Textures",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_T_RockClassic_N",
+      "source": {
+        "name": "T_RockClassic_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RockClassic_N.T_RockClassic_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RockClassic_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d8ef45900cad46e807badb36d0d6366e5b16a3e74ce4d9ed12196c897ad2d917",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "3e7e765a94524a82bff8fe3f3a4af50ea0652e968a44c879ccb0be6b7000be3c",
+      "native_bytes": 17038390,
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_N.png",
+      "bytes": 17038390,
+      "sha256": "3e7e765a94524a82bff8fe3f3a4af50ea0652e968a44c879ccb0be6b7000be3c",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_RockClassic_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_Platforms_N",
+      "source": {
+        "name": "T_RockClassic_Platforms_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RockClassic_Platforms_N.T_RockClassic_Platforms_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RockClassic_Platforms_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0f2ca397a9ef96ed2aba209c922d3afe614f95d99f1ac64ef16d03c1ead65e61",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "3f68a8f1157d903411e9497139ca394b5e545b9c16948fcfe8d6f82649171100",
+      "native_bytes": 2958202,
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Platforms_N.png",
+      "bytes": 2958202,
+      "sha256": "3f68a8f1157d903411e9497139ca394b5e545b9c16948fcfe8d6f82649171100",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Platforms_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_Rocks_BC",
+      "source": {
+        "name": "T_RockClassic_Rocks_BC",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RockClassic_Rocks_BC.T_RockClassic_Rocks_BC",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RockClassic_Rocks_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "654cb3964e63f4097a42e6d683372e1372e605c28b566d6cdc7464ac09bfdb5e",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "4a746d7c0b364ce76e2b451648d65c7bc64ce368759dd229e91d183312f850a4",
+      "native_bytes": 17126777,
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Rocks_BC.png",
+      "bytes": 17126777,
+      "sha256": "4a746d7c0b364ce76e2b451648d65c7bc64ce368759dd229e91d183312f850a4",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Rocks_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_Shelves_GrassMap",
+      "source": {
+        "name": "T_RockClassic_Shelves_GrassMap",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RockClassic_Shelves_GrassMap.T_RockClassic_Shelves_GrassMap",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RockClassic_Shelves_GrassMap",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7272c62e902b336c03064f894e0c1a73aa652fa609ff29087bcaa28cccf2a5d7",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "139080cb7f35d310aa2403a3648722038df110f95f7614d74828ab4c7ab17930",
+      "native_bytes": 128934,
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Shelves_GrassMap.png",
+      "bytes": 128934,
+      "sha256": "139080cb7f35d310aa2403a3648722038df110f95f7614d74828ab4c7ab17930",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Shelves_GrassMap.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockClassic_Shelves_N",
+      "source": {
+        "name": "T_RockClassic_Shelves_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RockClassic_Shelves_N.T_RockClassic_Shelves_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RockClassic_Shelves_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "13045391291ae2993cf12a29bb88b9b472746d852043d139f1dc063da8466c78",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "a5fede4c639040537ab8e6ca9b1966ce71df2d25f27aaad0be68c7cf955b4db4",
+      "native_bytes": 2169149,
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Shelves_N.png",
+      "bytes": 2169149,
+      "sha256": "a5fede4c639040537ab8e6ca9b1966ce71df2d25f27aaad0be68c7cf955b4db4",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Shelves_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RocksClassic_Rocks_N",
+      "source": {
+        "name": "T_RocksClassic_Rocks_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RocksClassic_Rocks_N.T_RocksClassic_Rocks_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Classic/T_RocksClassic_Rocks_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Classic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "eddd77f1c69142cb8659c6425227f0f2758971f1460ed80742ffca1881cd4b29",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "0cefb6f4ff1f7535559432689956338053abca1c047fd85ed6d8cabb1304490c",
+      "native_bytes": 3105384,
+      "path": "Textures/Environment/Rocks/Textures/Classic/T_RocksClassic_Rocks_N.png",
+      "bytes": 3105384,
+      "sha256": "0cefb6f4ff1f7535559432689956338053abca1c047fd85ed6d8cabb1304490c",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_RocksClassic_Rocks_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockCubic_BC",
+      "source": {
+        "name": "T_RockCubic_BC",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Cubic/T_RockCubic_BC.T_RockCubic_BC",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Cubic/T_RockCubic_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Cubic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f1ea80ec505454d82fc540300732612a7a1cd60c92f3d011b5847218b8adffce",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "6267e7eb0f93f6f573a3be50f83e8c9803d24b86153cb039e675b2f5dad30f11",
+      "native_bytes": 6557359,
+      "path": "Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_BC.png",
+      "bytes": 6557359,
+      "sha256": "6267e7eb0f93f6f573a3be50f83e8c9803d24b86153cb039e675b2f5dad30f11",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockCubic_Cliff_N",
+      "source": {
+        "name": "T_RockCubic_Cliff_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Cubic/T_RockCubic_Cliff_N.T_RockCubic_Cliff_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Cubic/T_RockCubic_Cliff_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Cubic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0219c1e23a95be65a0057aadee2fa2991b3a61e97993f427ea023ac1ef746a65",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "bc3325982bb44d942862ea71bdfee42a667bbb2ff42489a725dfe33f2e0e6a3e",
+      "native_bytes": 9165566,
+      "path": "Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_Cliff_N.png",
+      "bytes": 9165566,
+      "sha256": "bc3325982bb44d942862ea71bdfee42a667bbb2ff42489a725dfe33f2e0e6a3e",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_Cliff_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockCubic_Metric_N",
+      "source": {
+        "name": "T_RockCubic_Metric_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Cubic/T_RockCubic_Metric_N.T_RockCubic_Metric_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Cubic/T_RockCubic_Metric_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Cubic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "becc4c770ddacae65ab4dc8d7f067ea062e1861d6b50be56a2d106c6bd178ada",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "f716586eb81152f8bded3d3757c13f40a6697ef9e178287be3e6624e2bede9a7",
+      "native_bytes": 4775185,
+      "path": "Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_Metric_N.png",
+      "bytes": 4775185,
+      "sha256": "f716586eb81152f8bded3d3757c13f40a6697ef9e178287be3e6624e2bede9a7",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_Metric_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockCubic_N",
+      "source": {
+        "name": "T_RockCubic_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Cubic/T_RockCubic_N.T_RockCubic_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Cubic/T_RockCubic_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Cubic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5f09641400d777bd74498f448c85a301045de32e8e409c0fe865bdc195dcacdb",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "8812bcd2967f67c825a547266350f8879a6eaf9af878fe16a54b9aacf68bffa9",
+      "native_bytes": 19938679,
+      "path": "Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_N.png",
+      "bytes": 19938679,
+      "sha256": "8812bcd2967f67c825a547266350f8879a6eaf9af878fe16a54b9aacf68bffa9",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Cubic/T_RockCubic_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RocksCubic_Rocks_N",
+      "source": {
+        "name": "T_RocksCubic_Rocks_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Cubic/T_RocksCubic_Rocks_N.T_RocksCubic_Rocks_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Cubic/T_RocksCubic_Rocks_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Cubic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "767d010d91b8775ff1313bfd7771914bbecbab3d1a17e8576040a6d7b14f135e",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "34286cbe5d0cab72de839666eb1cc2bb4ef845f0e9786d8a814038cc6a77312b",
+      "native_bytes": 3128096,
+      "path": "Textures/Environment/Rocks/Textures/Cubic/T_RocksCubic_Rocks_N.png",
+      "bytes": 3128096,
+      "sha256": "34286cbe5d0cab72de839666eb1cc2bb4ef845f0e9786d8a814038cc6a77312b",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Cubic/T_RocksCubic_Rocks_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockDesert_BC",
+      "source": {
+        "name": "T_RockDesert_BC",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Desert/T_RockDesert_BC.T_RockDesert_BC",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Desert/T_RockDesert_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "743d79203eb4a266388a0b3f98eab7f5e62e8884a43494a6ef8a91bca2a77b0a",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "6db45a6ae43edb1e8c1a367b1c9a1bc56dacedacc16fc0bc4fef3c6508c6a320",
+      "native_bytes": 17569178,
+      "path": "Textures/Environment/Rocks/Textures/Desert/T_RockDesert_BC.png",
+      "bytes": 17569178,
+      "sha256": "6db45a6ae43edb1e8c1a367b1c9a1bc56dacedacc16fc0bc4fef3c6508c6a320",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Desert/T_RockDesert_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockDesert_N",
+      "source": {
+        "name": "T_RockDesert_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Desert/T_RockDesert_N.T_RockDesert_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Desert/T_RockDesert_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2122826c317ffa5565169a6d42d62d205f4e4fa62886bf8c5dd6ac5fac40cc1a",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "06c1c932ddb7a72d9f36c869b5eb5dea093e1f64eae6dc70bac172a529ec1bec",
+      "native_bytes": 16644960,
+      "path": "Textures/Environment/Rocks/Textures/Desert/T_RockDesert_N.png",
+      "bytes": 16644960,
+      "sha256": "06c1c932ddb7a72d9f36c869b5eb5dea093e1f64eae6dc70bac172a529ec1bec",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Desert/T_RockDesert_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockDesert_R",
+      "source": {
+        "name": "T_RockDesert_R",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Desert/T_RockDesert_R.T_RockDesert_R",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Desert/T_RockDesert_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "011c020e48d1ce16816fe0e2bbff5049967af27a473272f80762a2d3cf9ce034",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "ba821c587fa11e6dfa49d76ec858ebf2c4eb5bd4adbe99a610336773e8c63852",
+      "native_bytes": 4309114,
+      "path": "Textures/Environment/Rocks/Textures/Desert/T_RockDesert_R.png",
+      "bytes": 4309114,
+      "sha256": "ba821c587fa11e6dfa49d76ec858ebf2c4eb5bd4adbe99a610336773e8c63852",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Desert/T_RockDesert_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockHexic_Pieces_N",
+      "source": {
+        "name": "T_RockHexic_Pieces_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Hexic/T_RockHexic_Pieces_N.T_RockHexic_Pieces_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Hexic/T_RockHexic_Pieces_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "77f494b7fe2ebbcdfb7fc10d1fb0eb076b0d927702130406d511414e3eec1212",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "dbdbf79576ee00a655171a6fd218b15d83a018c5d2797a8c529e410347273cee",
+      "native_bytes": 1374041,
+      "path": "Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Pieces_N.png",
+      "bytes": 1374041,
+      "sha256": "dbdbf79576ee00a655171a6fd218b15d83a018c5d2797a8c529e410347273cee",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Pieces_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockHexic_Platforms_N",
+      "source": {
+        "name": "T_RockHexic_Platforms_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Hexic/T_RockHexic_Platforms_N.T_RockHexic_Platforms_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Hexic/T_RockHexic_Platforms_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "da9bae5d84152fa54586892ca13263e455450823db905a43979b5242f9e23af8",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "5c351a99109dd6773c58504b02369ec64538fcf500c61b8e1abb2d933156a74d",
+      "native_bytes": 6353750,
+      "path": "Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Platforms_N.png",
+      "bytes": 6353750,
+      "sha256": "5c351a99109dd6773c58504b02369ec64538fcf500c61b8e1abb2d933156a74d",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Platforms_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockHexic_RocksSlanted_N",
+      "source": {
+        "name": "T_RockHexic_RocksSlanted_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Hexic/T_RockHexic_RocksSlanted_N.T_RockHexic_RocksSlanted_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Hexic/T_RockHexic_RocksSlanted_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3621bc790ec168a79fee031a33460a444bd00a489787952f6ee936535d04b3c2",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "bb0eec136ea5770d19281ada8479461ad2f8c5758e588c5bb1f047bba791ba59",
+      "native_bytes": 5703636,
+      "path": "Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_RocksSlanted_N.png",
+      "bytes": 5703636,
+      "sha256": "bb0eec136ea5770d19281ada8479461ad2f8c5758e588c5bb1f047bba791ba59",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_RocksSlanted_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockHexic_Rocks_N",
+      "source": {
+        "name": "T_RockHexic_Rocks_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Hexic/T_RockHexic_Rocks_N.T_RockHexic_Rocks_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Hexic/T_RockHexic_Rocks_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d694c422e06130c7f1661e06628d2aa8557d8e375ef9612894b9e0cdd70ec23a",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "368b003b4d982687eb0761ac1da0957c39a1d10ef71d6a13dc8c1f5ef0346a99",
+      "native_bytes": 5985052,
+      "path": "Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Rocks_N.png",
+      "bytes": 5985052,
+      "sha256": "368b003b4d982687eb0761ac1da0957c39a1d10ef71d6a13dc8c1f5ef0346a99",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Rocks_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockHexic_Spire_N",
+      "source": {
+        "name": "T_RockHexic_Spire_N",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Hexic/T_RockHexic_Spire_N.T_RockHexic_Spire_N",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Hexic/T_RockHexic_Spire_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e8701a7ba82d248d654f9076bf5278c0d266ecd2fdee1cc0699d2f5e0803ed1c",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "7c18bdedee487b466195a1bd7d57567ec44cfc99f26e80587504f9d379813ec9",
+      "native_bytes": 5819918,
+      "path": "Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Spire_N.png",
+      "bytes": 5819918,
+      "sha256": "7c18bdedee487b466195a1bd7d57567ec44cfc99f26e80587504f9d379813ec9",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Hexic/T_RockHexic_Spire_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RockSpire_BC",
+      "source": {
+        "name": "T_RockSpire_BC",
+        "path": "/Game/SoStylized/Environment/Rocks/Textures/Spire/T_RockSpire_BC.T_RockSpire_BC",
+        "package": "/Game/SoStylized/Environment/Rocks/Textures/Spire/T_RockSpire_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Rocks/Textures/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "78fa2a36934ee48bc389c264178771ec5b09d3f11457bd4d58cc94a5aeef1999",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "d3869cfd065d2540774026c535a0130ba274e932b59453c7e734175f26aafb48",
+      "native_bytes": 12448040,
+      "path": "Textures/Environment/Rocks/Textures/Spire/T_RockSpire_BC.png",
+      "bytes": 12448040,
+      "sha256": "d3869cfd065d2540774026c535a0130ba274e932b59453c7e734175f26aafb48",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Spire/T_RockSpire_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

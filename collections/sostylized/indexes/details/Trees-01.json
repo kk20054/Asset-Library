@@ -1,0 +1,2215 @@
+{
+  "schema_version": 1,
+  "category": "Trees",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_Bamboo1",
+      "source": {
+        "name": "SM_Bamboo1",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_Bamboo1.SM_Bamboo1",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_Bamboo1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5049f566ae1dd1c074296facb02825df4da1fb2ff20a8a82d747090370314fda",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Bamboo1 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooLeaves.MI_BambooLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooLeaves_LOD1.MI_BambooLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooTree_SingleMat.MI_BambooTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "58ddf1ce341b2b63938db9825e2a12edb0640a1ab5404a9fcba2c7f449772c35",
+      "native_bytes": 3234520,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_Bamboo1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooLeaves_SM_Bamboo1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1554,
+      "scene_triangles": 1554,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -3.8839640617370605,
+          -0.34631067514419556,
+          -3.3070013523101807
+        ],
+        "max": [
+          2.9900619983673096,
+          15.655898094177246,
+          3.641294479370117
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_Bamboo1.glb",
+      "bytes": 3234400,
+      "sha256": "ecd0efce96b12bfb569bf80be04fa002a57144967e1fd53335681403a04e104c",
+      "material_readiness": {
+        "status": "representative_static_pbr_preview",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "preview_scope": "Selected native GLB in Blender CPU; not runtime or whole-family acceptance."
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_Bamboo1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      },
+      "direct_sample_url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/samples/SM_Bamboo1.glb",
+      "direct_sample": {
+        "path": "samples/SM_Bamboo1.glb",
+        "bytes": 3234400,
+        "sha256": "ecd0efce96b12bfb569bf80be04fa002a57144967e1fd53335681403a04e104c",
+        "url_status": "planned_repository_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Bamboo2",
+      "source": {
+        "name": "SM_Bamboo2",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_Bamboo2.SM_Bamboo2",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_Bamboo2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b4e6a87e5b5ccb62780c5eddec51071cf726e40d17dbe7329e44238c3e49346e",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Bamboo2 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooLeaves.MI_BambooLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooLeaves_LOD1.MI_BambooLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooTree_SingleMat.MI_BambooTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "bceb19d71c4bc292873ba998c6963773c32732d2bf84cbd242314184a64af941",
+      "native_bytes": 2198968,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_Bamboo2",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooLeaves_SM_Bamboo2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 931,
+      "scene_triangles": 931,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -4.408385276794434,
+          -0.7974941730499268,
+          -3.479637384414673
+        ],
+        "max": [
+          4.675690174102783,
+          16.81293296813965,
+          3.4317495822906494
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_Bamboo2.glb",
+      "bytes": 2198852,
+      "sha256": "21b8398bd866a8dc158490127147d680664cddb0bf338721c7124ec6a08ae1e4",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_Bamboo2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Bamboo3",
+      "source": {
+        "name": "SM_Bamboo3",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_Bamboo3.SM_Bamboo3",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_Bamboo3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "941b3044a00cdd39aff9358391b57807e88a0d775304ebacb340b09e8ce4b1f2",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Bamboo3 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooLeaves.MI_BambooLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooLeaves_LOD1.MI_BambooLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooTree_SingleMat.MI_BambooTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "7886a7995a1c0f974668f08d176118f423ea9445e7e756d3a743b43603f34dc8",
+      "native_bytes": 1807848,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_Bamboo3",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooLeaves_SM_Bamboo3",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1192,
+      "scene_triangles": 1192,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -4.137354850769043,
+          -0.7553465962409973,
+          -4.058220386505127
+        ],
+        "max": [
+          4.53031587600708,
+          15.793621063232422,
+          4.607751846313477
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_Bamboo3.glb",
+      "bytes": 1807732,
+      "sha256": "4344aeac8fd9700012e44df1ecb8de69a8ab1a4e91cdbb621251d7f24110c9f3",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_Bamboo3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Bamboo4",
+      "source": {
+        "name": "SM_Bamboo4",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_Bamboo4.SM_Bamboo4",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_Bamboo4",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "27020d378ba64941bb8a3c2fe4a6bb79335aedce177b5ae336b6b05077d7037f",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Bamboo4 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooLeaves.MI_BambooLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooLeaves_LOD1.MI_BambooLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooTree_SingleMat.MI_BambooTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "72102eea254e5c64c6a3bd02f351a9e4d1a45389493cc5bdc1c6f97f8e36d1b0",
+      "native_bytes": 2067856,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_Bamboo4",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooLeaves_SM_Bamboo4",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1862,
+      "scene_triangles": 1862,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -5.5334649085998535,
+          -0.85064697265625,
+          -4.588474273681641
+        ],
+        "max": [
+          5.965258598327637,
+          19.691200256347656,
+          5.010685443878174
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_Bamboo4.glb",
+      "bytes": 2067736,
+      "sha256": "ecb92c61f4962c418c915bea524ffbedc25e4fdfa6633ff781f61ed943f7e6f4",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_Bamboo4.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooFallen1",
+      "source": {
+        "name": "SM_BambooFallen1",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooFallen1.SM_BambooFallen1",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooFallen1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "693431bfd4bd17beb0f0bc572d6d1db21953ce96569a967e645c4c55585acf8a",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_BambooLeavesDry, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBarkMisc.MI_BambooBarkMisc"
+        },
+        {
+          "slot": "M_BambooLeavesDry",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooLeavesDry.MI_BambooLeavesDry"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "491c81bdb8eb745e0df7d5cdb4931614824abf686498c653a581ff3bd27d86bd",
+      "native_bytes": 2653644,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBarkMisc_SM_BambooFallen1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooLeavesDry_SM_BambooFallen1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 682,
+      "scene_triangles": 682,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.9713423252105713,
+          -0.7538890838623047,
+          -0.31154772639274597
+        ],
+        "max": [
+          3.673194169998169,
+          2.439052104949951,
+          11.489192962646484
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooFallen1.glb",
+      "bytes": 2653524,
+      "sha256": "45910eb0036b1e94fd40ad0574e5bbfe781a239e70b2e6e8a2fccd9872e749f2",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooFallen1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSapling1",
+      "source": {
+        "name": "SM_BambooSapling1",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSapling1.SM_BambooSapling1",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSapling1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3a2d3a25c499b191e209d7d065e3f968b2263dedead0e435afbf68a055caa201",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BambooSapling1 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooSaplingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooSaplingLeaves.MI_BambooSaplingLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSaplingLeaves_LOD1.MI_BambooSaplingLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooSapling_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSapling_SingleMat.MI_BambooSapling_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a0c6683c0bd8fc770dd8fd726cf08b554869a42d0c0464a1e5366f1f94aa0591",
+      "native_bytes": 3119000,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_BambooSapling1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooSaplingLeaves_SM_BambooSapling1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 218,
+      "scene_triangles": 218,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.4980087280273438,
+          -0.4493405818939209,
+          -1.404077410697937
+        ],
+        "max": [
+          1.0957794189453125,
+          7.131734371185303,
+          1.3146941661834717
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSapling1.glb",
+      "bytes": 3118880,
+      "sha256": "0faec106db29651f5fcf187c3eec34aff9cfe3cf701d8af4cc2cc67f87861c16",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooSapling1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSapling2",
+      "source": {
+        "name": "SM_BambooSapling2",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSapling2.SM_BambooSapling2",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSapling2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "416d14d232ea69db3004f253554aadf1ad71830fbf01c3f281d07f885d1ee1a7",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BambooSapling2 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooSaplingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooSaplingLeaves.MI_BambooSaplingLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSaplingLeaves_LOD1.MI_BambooSaplingLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooSapling_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSapling_SingleMat.MI_BambooSapling_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "8a656a60f3835bed198bf1a261bdef383c4de478ad2fbc5436db8c29506da1bc",
+      "native_bytes": 3189460,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_BambooSapling2",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooSaplingLeaves_SM_BambooSapling2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 250,
+      "scene_triangles": 250,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.4768600463867188,
+          -0.453935831785202,
+          -1.8151121139526367
+        ],
+        "max": [
+          1.708129644393921,
+          8.500319480895996,
+          1.3133544921875
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSapling2.glb",
+      "bytes": 3189344,
+      "sha256": "eecf9d02061afc188cae7180f2ff0dc6a689e5bc27fdf0b6556fa6abdc9ca30d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooSapling2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSapling3",
+      "source": {
+        "name": "SM_BambooSapling3",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSapling3.SM_BambooSapling3",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSapling3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1a666bd5540c9f8f1d695a68708558c9c9a32f1228ca990e9e7cd297f4fe7e35",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BambooSapling3 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooSaplingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooSaplingLeaves.MI_BambooSaplingLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSaplingLeaves_LOD1.MI_BambooSaplingLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooSapling_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSapling_SingleMat.MI_BambooSapling_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "832f279ec493d8d17b627bad133c6e3d2f0d0dfff8f4197123e3c3df44f0bced",
+      "native_bytes": 2877880,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_BambooSapling3",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooSaplingLeaves_SM_BambooSapling3",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 186,
+      "scene_triangles": 186,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.4291152954101562,
+          -0.4539491832256317,
+          -1.4751538038253784
+        ],
+        "max": [
+          0.876014769077301,
+          8.541692733764648,
+          1.201167106628418
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSapling3.glb",
+      "bytes": 2877760,
+      "sha256": "51f9e12f20fad1cebff65167117a4f9792609c4adf789305b5b3f70710c48678",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooSapling3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSapling4",
+      "source": {
+        "name": "SM_BambooSapling4",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSapling4.SM_BambooSapling4",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSapling4",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "05789edb59d702c14cb49d1965874133ba4599300273ed46e88d791d1969377a",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BambooSapling4 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooSaplingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooSaplingLeaves.MI_BambooSaplingLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSaplingLeaves_LOD1.MI_BambooSaplingLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooSapling_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSapling_SingleMat.MI_BambooSapling_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "4ce43c5796c6b93129ca67325e15688aa916d801cee4dd0d5d70119443ac113a",
+      "native_bytes": 3106516,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_BambooSapling4",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooSaplingLeaves_SM_BambooSapling4",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 314,
+      "scene_triangles": 314,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.8697662353515625,
+          -0.4546932876110077,
+          -2.1910760402679443
+        ],
+        "max": [
+          2.239044189453125,
+          9.972445487976074,
+          2.5322303771972656
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSapling4.glb",
+      "bytes": 3106396,
+      "sha256": "5db0a0b08d0d8c11942ee34c49ab3477f7b0ad37b039f772002a65355a8f9c89",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooSapling4.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSapling5",
+      "source": {
+        "name": "SM_BambooSapling5",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSapling5.SM_BambooSapling5",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSapling5",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2215ab8680d285079d910b3481bf6b09ed992d7fad9a58c51d4fab7d8914e51e",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BambooSapling5 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooSaplingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooSaplingLeaves.MI_BambooSaplingLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSaplingLeaves_LOD1.MI_BambooSaplingLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooSapling_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSapling_SingleMat.MI_BambooSapling_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "58017f260b0c50a293736ceddb9553d8f832eb8e0cdb4e00c8d6abc632094261",
+      "native_bytes": 3171844,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_BambooSapling5",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooSaplingLeaves_SM_BambooSapling5",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 338,
+      "scene_triangles": 338,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.9402923583984375,
+          -0.5005221366882324,
+          -1.8461713790893555
+        ],
+        "max": [
+          2.3502843379974365,
+          10.629498481750488,
+          2.261204719543457
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSapling5.glb",
+      "bytes": 3171728,
+      "sha256": "e1c377ad11768868253544f743f639317e4a48d93904e3376e687d5d8cca8b0e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooSapling5.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSaplingClump1",
+      "source": {
+        "name": "SM_BambooSaplingClump1",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSaplingClump1.SM_BambooSaplingClump1",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSaplingClump1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a5def9751acf6775af72a01a989064b4310b869431bd91bed4a88c28e3eb22de",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BambooSaplingClump1 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooSaplingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooSaplingLeaves.MI_BambooSaplingLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSaplingLeaves_LOD1.MI_BambooSaplingLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooSapling_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSapling_SingleMat.MI_BambooSapling_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "4ed5a9c4579534703e00da80a115f6b3778203cfd2a93e895e1cf92471751cb4",
+      "native_bytes": 3499652,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_BambooSaplingClump1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooSaplingLeaves_SM_BambooSaplingClump1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 830,
+      "scene_triangles": 830,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.2625961303710938,
+          -0.7460827231407166,
+          -1.9606066942214966
+        ],
+        "max": [
+          3.1343438625335693,
+          10.629498481750488,
+          2.3174147605895996
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSaplingClump1.glb",
+      "bytes": 3499532,
+      "sha256": "e59c98c3f664108d0ec51174d1c42d7d02c8c75876ed21e3836bc0ee67cbff10",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooSaplingClump1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSaplingClump2",
+      "source": {
+        "name": "SM_BambooSaplingClump2",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSaplingClump2.SM_BambooSaplingClump2",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSaplingClump2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b64bf9b057b7886123f28a2e6986cbfb2d68b6af73771d02989dee91fa8cee91",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BambooSaplingClump2 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooSaplingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooSaplingLeaves.MI_BambooSaplingLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSaplingLeaves_LOD1.MI_BambooSaplingLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooSapling_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSapling_SingleMat.MI_BambooSapling_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0aa4736370d6b35aa1c75e4c31e50d4e4ee3be80c560a3e9fd385a9c5afaf063",
+      "native_bytes": 2733948,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_BambooSaplingClump2",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooSaplingLeaves_SM_BambooSaplingClump2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 554,
+      "scene_triangles": 554,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.9788703918457031,
+          -0.5697817802429199,
+          -2.2858266830444336
+        ],
+        "max": [
+          3.052114486694336,
+          9.489933967590332,
+          1.6280633211135864
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSaplingClump2.glb",
+      "bytes": 2733832,
+      "sha256": "838fef2f3eaf09a0a2258818059e51b2964d1b1882e237543d1ff11d9ae8ef62",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooSaplingClump2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSaplingClump3",
+      "source": {
+        "name": "SM_BambooSaplingClump3",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSaplingClump3.SM_BambooSaplingClump3",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSaplingClump3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "36f5350ce699ed066c7b29bb3aec5f5b4d7f07611032447d39a71f8de2f40602",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BambooSaplingClump3 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BambooSaplingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBark.MI_BambooBark"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooSaplingLeaves.MI_BambooSaplingLeaves"
+        },
+        {
+          "slot": "M_BambooBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooBark_LOD1.MI_BambooBark_LOD1"
+        },
+        {
+          "slot": "M_BambooSaplingLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSaplingLeaves_LOD1.MI_BambooSaplingLeaves_LOD1"
+        },
+        {
+          "slot": "M_BambooSapling_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BambooSapling_SingleMat.MI_BambooSapling_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1366889472ce34995471d5faf9717f15a58146c44f7b4195f69f8d61ee1f8c49",
+      "native_bytes": 2761300,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBark_SM_BambooSaplingClump3",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BambooSaplingLeaves_SM_BambooSaplingClump3",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1043,
+      "scene_triangles": 1043,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.991291046142578,
+          -0.719388484954834,
+          -2.4643421173095703
+        ],
+        "max": [
+          3.5854671001434326,
+          11.941669464111328,
+          3.0272417068481445
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSaplingClump3.glb",
+      "bytes": 2761180,
+      "sha256": "1d19b1f0299525d2ab4148cbca63d53b40da81cea1e86183cd27a9ae90e0cc35",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooSaplingClump3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooSprout1",
+      "source": {
+        "name": "SM_BambooSprout1",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSprout1.SM_BambooSprout1",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooSprout1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c46b26f2ef4a8eb97e2beac6712c4699322b4b0172d473ddf75309afdb3d48d2",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBarkMisc.MI_BambooBarkMisc"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2f70bda2110c7e2fcf9acb393bada6b1a30e08827c51e4accaeed8e60d9cb236",
+      "native_bytes": 3317440,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBarkMisc_SM_BambooSprout1",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1034,
+      "scene_triangles": 1034,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.2759951949119568,
+          -0.0899064913392067,
+          -0.2611815333366394
+        ],
+        "max": [
+          0.2885122299194336,
+          1.1931939125061035,
+          0.28245407342910767
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooSprout1.glb",
+      "bytes": 3317416,
+      "sha256": "cc6c0e1e75b957a32efbf13a6da0e213a4939fbc64100aead8c26c7a5120f151",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooSprout1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooStump1",
+      "source": {
+        "name": "SM_BambooStump1",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooStump1.SM_BambooStump1",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooStump1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9837fd97def24f7472f29798c814662b0ca67400a9186dfe43d1f12984ddb67d",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBarkMisc.MI_BambooBarkMisc"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "57da8a0db41a33b4294f73830d2a869b4fd43f01148a9d8742c92e516c3b0c6f",
+      "native_bytes": 2646292,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBarkMisc_SM_BambooStump1",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 234,
+      "scene_triangles": 234,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.34039512276649475,
+          -1.351850152015686,
+          -0.31154754757881165
+        ],
+        "max": [
+          0.33813905715942383,
+          1.187482476234436,
+          0.35419395565986633
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooStump1.glb",
+      "bytes": 2646248,
+      "sha256": "bea0bf1a436d8f618fb7b210fc61ba081b04c3af913d33fc8d9ac4bbba12ac2f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooStump1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BambooStump2",
+      "source": {
+        "name": "SM_BambooStump2",
+        "path": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooStump2.SM_BambooStump2",
+        "package": "/Game/SoStylized/Environment/Trees/Bamboo/SM_BambooStump2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Bamboo",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3bc5f760c3dfee2487dace1b96c27e6cdfa6219e29942b0732987a03d65a701d",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BambooBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BambooBarkMisc.MI_BambooBarkMisc"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "18a50ea67540cfa2cba6125ea8c4812308cb828045ab4cac5701d95fdc167f1d",
+      "native_bytes": 2155104,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BambooBarkMisc_SM_BambooStump2",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 130,
+      "scene_triangles": 130,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.2348986715078354,
+          -0.35185012221336365,
+          -0.2708825469017029
+        ],
+        "max": [
+          0.23489870131015778,
+          0.9770792722702026,
+          0.2708825469017029
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Bamboo/SM_BambooStump2.glb",
+      "bytes": 2155064,
+      "sha256": "cc2077e73dcb33d532654c3f1e3afbc1a6a3e2f67b5dcf1a15c1884ecef634ce",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Bamboo/SM_BambooStump2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchSapling1",
+      "source": {
+        "name": "SM_BirchSapling1",
+        "path": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchSapling1.SM_BirchSapling1",
+        "package": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchSapling1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Birch",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "786dbd25f09bcc81e93f57d3035326707fec2a5459c8d0a2f3f8ec653d1fb82b",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BirchSapling1 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BirchSaplingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BirchBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchBark.MI_BirchBark"
+        },
+        {
+          "slot": "M_BirchSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchSaplingLeaves.MI_BirchSaplingLeaves"
+        },
+        {
+          "slot": "M_BirchBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchBark_LOD1.MI_BirchBark_LOD1"
+        },
+        {
+          "slot": "M_BirchSaplingLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchSaplingLeaves_LOD1.MI_BirchSaplingLeaves_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f07fa38ccf0569a1cfe8944eac863a85374a4af5296ce482babfb5b857e2eecf",
+      "native_bytes": 1631688,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BirchBark_SM_BirchSapling1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BirchSaplingLeaves_SM_BirchSapling1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 600,
+      "scene_triangles": 600,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.6280776262283325,
+          -0.4280815124511719,
+          -1.9513509273529053
+        ],
+        "max": [
+          1.9197819232940674,
+          7.689324378967285,
+          1.925234079360962
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Birch/SM_BirchSapling1.glb",
+      "bytes": 1631572,
+      "sha256": "d1c64268aa2ff8cff8e9e2d1f013ed2ebfab3d77a17fd7c6e5e18d70a818a15e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Birch/SM_BirchSapling1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchSapling2",
+      "source": {
+        "name": "SM_BirchSapling2",
+        "path": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchSapling2.SM_BirchSapling2",
+        "package": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchSapling2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Birch",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8b7a5a612fe2ac31a8263bc3fee04322357173f54dbe76d7ffffc43c9c1475e9",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BirchSapling2 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BirchSaplingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BirchBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchBark.MI_BirchBark"
+        },
+        {
+          "slot": "M_BirchSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchSaplingLeaves.MI_BirchSaplingLeaves"
+        },
+        {
+          "slot": "M_BirchBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchBark_LOD1.MI_BirchBark_LOD1"
+        },
+        {
+          "slot": "M_BirchSaplingLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchSaplingLeaves_LOD1.MI_BirchSaplingLeaves_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "25ebc1239f7a6a4317650506ad34e75ff649dfa12a2fa31c7c86ac1b6963a607",
+      "native_bytes": 1742420,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BirchBark_SM_BirchSapling2",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BirchSaplingLeaves_SM_BirchSapling2",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 774,
+      "scene_triangles": 774,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.347409725189209,
+          -0.5024290084838867,
+          -2.3740978240966797
+        ],
+        "max": [
+          2.1527090072631836,
+          10.427431106567383,
+          2.0067501068115234
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Birch/SM_BirchSapling2.glb",
+      "bytes": 1742304,
+      "sha256": "de1ce153ea999f6580fc4006286bf1dfb0bef75c0b1f17e2f297b75de26da3ee",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Birch/SM_BirchSapling2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchStump1",
+      "source": {
+        "name": "SM_BirchStump1",
+        "path": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchStump1.SM_BirchStump1",
+        "package": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchStump1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Birch",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a8c1c50036c85c3d5d8544e4d6eb527eca9fba3ef4fefb91b6f486c6acc61463",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BirchBarkMisc",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchBark_Misc.MI_BirchBark_Misc"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "94cb7cb542d3500397350bb7ec7fcdc41c346f9354bc4774d35430343c7551e0",
+      "native_bytes": 2157688,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BirchBark_Misc_SM_BirchStump1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 245,
+      "scene_triangles": 245,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -0.6455971598625183,
+          -0.7481164336204529,
+          -0.6055871248245239
+        ],
+        "max": [
+          0.6255488991737366,
+          2.247558355331421,
+          0.6301389336585999
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Birch/SM_BirchStump1.glb",
+      "bytes": 2157632,
+      "sha256": "2cce8d6ba134b9652f144536bae3ee24273000775e506c69430d3a289cd2c8f2",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Birch/SM_BirchStump1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_BirchTree1",
+      "source": {
+        "name": "SM_BirchTree1",
+        "path": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTree1.SM_BirchTree1",
+        "package": "/Game/SoStylized/Environment/Trees/Birch/SM_BirchTree1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Birch",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3a94d584df8555ea73ef46bd96789fdeaa2578aaa475766b6eb84b8d2784b0e4",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_BirchTree1 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_BirchLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_BirchBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchBark.MI_BirchBark"
+        },
+        {
+          "slot": "M_BirchLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_BirchLeaves.MI_BirchLeaves"
+        },
+        {
+          "slot": "M_BirchBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchBark_LOD1.MI_BirchBark_LOD1"
+        },
+        {
+          "slot": "M_BirchLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchLeaves_LOD1.MI_BirchLeaves_LOD1"
+        },
+        {
+          "slot": "M_BirchTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_BirchTree_SingleMat.MI_BirchTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1a1f77488ed25f253781d88457802c9ede51d2dd884fdeedf61379fa944eb209",
+      "native_bytes": 2947312,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BirchBark_SM_BirchTree1",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_BirchLeaves_SM_BirchTree1",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 9634,
+      "scene_triangles": 9634,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -6.160094261169434,
+          -0.7481164336204529,
+          -5.368745803833008
+        ],
+        "max": [
+          6.277994632720947,
+          20.77357292175293,
+          6.221196174621582
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Birch/SM_BirchTree1.glb",
+      "bytes": 2947192,
+      "sha256": "c7db3adf60498262ee55a96cbe9b2e0f169e4f6766fc19d9ebc08a1a2ab8e56f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Birch/SM_BirchTree1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

@@ -1,0 +1,948 @@
+{
+  "schema_version": 1,
+  "category": "Textures",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_T_Cactus_BC",
+      "source": {
+        "name": "T_Cactus_BC",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_Cactus_BC.T_Cactus_BC",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_Cactus_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6cd4c8d68b013d5702911907c89118c794adbbbe247acbfbd81851cf37288d3b",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "88428c8aa1a98498ffe3a24bfef36551bf2e718f2367c1a105436480425f6191",
+      "native_bytes": 524207,
+      "path": "Textures/Environment/Foliage/Textures/T_Cactus_BC.png",
+      "bytes": 524207,
+      "sha256": "88428c8aa1a98498ffe3a24bfef36551bf2e718f2367c1a105436480425f6191",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_Cactus_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_FoliageSheet_BC",
+      "source": {
+        "name": "T_FoliageSheet_BC",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_FoliageSheet_BC.T_FoliageSheet_BC",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_FoliageSheet_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "97b36292b0ac889ba06f72f382f3751430f78b0d1a573950d1c5b05acf0103d6",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "3b7c17472f45c561ba0d5de682c499ba71a9a832d6dc1de6c7800a4557b531fb",
+      "native_bytes": 4519429,
+      "path": "Textures/Environment/Foliage/Textures/T_FoliageSheet_BC.png",
+      "bytes": 4519429,
+      "sha256": "3b7c17472f45c561ba0d5de682c499ba71a9a832d6dc1de6c7800a4557b531fb",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_FoliageSheet_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_FoliageSheet_Emissive",
+      "source": {
+        "name": "T_FoliageSheet_Emissive",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_FoliageSheet_Emissive.T_FoliageSheet_Emissive",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_FoliageSheet_Emissive",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0b4d5f415600c8b16c258329e6b6f5ad87c8e5df10b83ae8b76335b7c104a5fb",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "864ebfb627fa097df5efe5beb70dc91bb58d9391fc8f7fa9c16b0abd5c00e076",
+      "native_bytes": 191161,
+      "path": "Textures/Environment/Foliage/Textures/T_FoliageSheet_Emissive.png",
+      "bytes": 191161,
+      "sha256": "864ebfb627fa097df5efe5beb70dc91bb58d9391fc8f7fa9c16b0abd5c00e076",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_FoliageSheet_Emissive.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_BushSnowDead",
+      "source": {
+        "name": "T_Leaf_BushSnowDead",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_Leaf_BushSnowDead.T_Leaf_BushSnowDead",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_Leaf_BushSnowDead",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f84d74f530ca70fae420e11ec62f21f6cdf4d8b26320a21434af7d312e6d90de",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "90b32d6b96311eacd61cb9a2c249e9b5e141d486a484fac61fb3d7b84ff7d5e2",
+      "native_bytes": 26540,
+      "path": "Textures/Environment/Foliage/Textures/T_Leaf_BushSnowDead.png",
+      "bytes": 26540,
+      "sha256": "90b32d6b96311eacd61cb9a2c249e9b5e141d486a484fac61fb3d7b84ff7d5e2",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_Leaf_BushSnowDead.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_BushSnowDead_BC",
+      "source": {
+        "name": "T_Leaf_BushSnowDead_BC",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_Leaf_BushSnowDead_BC.T_Leaf_BushSnowDead_BC",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_Leaf_BushSnowDead_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "feac84d797e93b49849540460be0649ceb1ae28ec18e8ca3f0ef16fd01a8fb72",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "ef4a6ba57f6bad238a53710db84bcfd004a6c2af0018401f006b461efc26e5e4",
+      "native_bytes": 537813,
+      "path": "Textures/Environment/Foliage/Textures/T_Leaf_BushSnowDead_BC.png",
+      "bytes": 537813,
+      "sha256": "ef4a6ba57f6bad238a53710db84bcfd004a6c2af0018401f006b461efc26e5e4",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_Leaf_BushSnowDead_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_DesertBush",
+      "source": {
+        "name": "T_Leaf_DesertBush",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_Leaf_DesertBush.T_Leaf_DesertBush",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_Leaf_DesertBush",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "600e18da6fb650406c75b1c84b117947e99a84deea30b54fb9f63ca7403dcc8e",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "6cb91005ec77dca1c7648eaa3ac4ee58252e77b14c17993158593841b79603b9",
+      "native_bytes": 10775,
+      "path": "Textures/Environment/Foliage/Textures/T_Leaf_DesertBush.png",
+      "bytes": 10775,
+      "sha256": "6cb91005ec77dca1c7648eaa3ac4ee58252e77b14c17993158593841b79603b9",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_Leaf_DesertBush.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_DesertBushB_BC",
+      "source": {
+        "name": "T_Leaf_DesertBushB_BC",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_Leaf_DesertBushB_BC.T_Leaf_DesertBushB_BC",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_Leaf_DesertBushB_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "bbe599bb70169ed36c0e4026f03bf7360013cb449797d69ecf5359f4e07ff4e8",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "a30d6998712f3c340b679ade79f4dcc974ef559790501a08c3421f2c07ab9ec0",
+      "native_bytes": 429505,
+      "path": "Textures/Environment/Foliage/Textures/T_Leaf_DesertBushB_BC.png",
+      "bytes": 429505,
+      "sha256": "a30d6998712f3c340b679ade79f4dcc974ef559790501a08c3421f2c07ab9ec0",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_Leaf_DesertBushB_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Leaf_DesertBush_BC",
+      "source": {
+        "name": "T_Leaf_DesertBush_BC",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_Leaf_DesertBush_BC.T_Leaf_DesertBush_BC",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_Leaf_DesertBush_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ce2dfbe8a74ce59fb89878378869a76da7ed3c4815260ca892871b35244efda6",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "3c1793b5c2f643f54baf8c8b87505c5ccf83762e789258348050fd6c4998796c",
+      "native_bytes": 175100,
+      "path": "Textures/Environment/Foliage/Textures/T_Leaf_DesertBush_BC.png",
+      "bytes": 175100,
+      "sha256": "3c1793b5c2f643f54baf8c8b87505c5ccf83762e789258348050fd6c4998796c",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_Leaf_DesertBush_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Tumbleweed",
+      "source": {
+        "name": "T_Tumbleweed",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_Tumbleweed.T_Tumbleweed",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_Tumbleweed",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5b620232e358de6a1f9385cae674214b9a38d045a108282ff2034c60fdb15b3b",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "5db506eb095d61aff82dbb900e54d58508678654f95e49d281b4eee3af86d2db",
+      "native_bytes": 12430,
+      "path": "Textures/Environment/Foliage/Textures/T_Tumbleweed.png",
+      "bytes": 12430,
+      "sha256": "5db506eb095d61aff82dbb900e54d58508678654f95e49d281b4eee3af86d2db",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_Tumbleweed.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Tumbleweed_BC",
+      "source": {
+        "name": "T_Tumbleweed_BC",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_Tumbleweed_BC.T_Tumbleweed_BC",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_Tumbleweed_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "efc1338c91b30b9ef0307de19990c721c6d65b6948014fdd7ef4218ed84872eb",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "d63385c4ca4ef04e5084783e4a4427ba912195807a01156eb383c67ecb006eeb",
+      "native_bytes": 163013,
+      "path": "Textures/Environment/Foliage/Textures/T_Tumbleweed_BC.png",
+      "bytes": 163013,
+      "sha256": "d63385c4ca4ef04e5084783e4a4427ba912195807a01156eb383c67ecb006eeb",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_Tumbleweed_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertDirt_BC",
+      "source": {
+        "name": "T_DesertDirt_BC",
+        "path": "/Game/SoStylized/Environment/Landscape/Textures/T_DesertDirt_BC.T_DesertDirt_BC",
+        "package": "/Game/SoStylized/Environment/Landscape/Textures/T_DesertDirt_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Landscape/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "679f6bf3c5686d2c5cafd70c56804881dcd5ad47b011c974c47fbfbc8295f5f8",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "c8d088e3d075f447d2c96903309457eccbe2650ffe4e9778a2f94cf2ddf97fa6",
+      "native_bytes": 5732397,
+      "path": "Textures/Environment/Landscape/Textures/T_DesertDirt_BC.png",
+      "bytes": 5732397,
+      "sha256": "c8d088e3d075f447d2c96903309457eccbe2650ffe4e9778a2f94cf2ddf97fa6",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_DesertDirt_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertDirt_R",
+      "source": {
+        "name": "T_DesertDirt_R",
+        "path": "/Game/SoStylized/Environment/Landscape/Textures/T_DesertDirt_R.T_DesertDirt_R",
+        "package": "/Game/SoStylized/Environment/Landscape/Textures/T_DesertDirt_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Landscape/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "44f5afa1229044e9150291bef485cae061d8ac041f09bc4d032ae9566d11b15a",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "203038d8e98168933fc7cfe7093aa191db277a42bae339b0d21ee42ba3a880eb",
+      "native_bytes": 4719544,
+      "path": "Textures/Environment/Landscape/Textures/T_DesertDirt_R.png",
+      "bytes": 4719544,
+      "sha256": "203038d8e98168933fc7cfe7093aa191db277a42bae339b0d21ee42ba3a880eb",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_DesertDirt_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertDirt_Rocks_N",
+      "source": {
+        "name": "T_DesertDirt_Rocks_N",
+        "path": "/Game/SoStylized/Environment/Landscape/Textures/T_DesertDirt_Rocks_N.T_DesertDirt_Rocks_N",
+        "package": "/Game/SoStylized/Environment/Landscape/Textures/T_DesertDirt_Rocks_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Landscape/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a323d15b806f4814818928000dec5a0f1a2b2c129afa3576303ece6093fdac09",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "05a8f2f6fc4d0bd0debb4efb1c3972f0d0f8a8045baa363f728517a00199bdf3",
+      "native_bytes": 258409,
+      "path": "Textures/Environment/Landscape/Textures/T_DesertDirt_Rocks_N.png",
+      "bytes": 258409,
+      "sha256": "05a8f2f6fc4d0bd0debb4efb1c3972f0d0f8a8045baa363f728517a00199bdf3",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_DesertDirt_Rocks_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertSand_BC",
+      "source": {
+        "name": "T_DesertSand_BC",
+        "path": "/Game/SoStylized/Environment/Landscape/Textures/T_DesertSand_BC.T_DesertSand_BC",
+        "package": "/Game/SoStylized/Environment/Landscape/Textures/T_DesertSand_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Landscape/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f83fdc80198779d03a9dfdce457aec8e1767e134c7a1183c7468be80dd4ffb88",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "4b447cd8a7cf004aa39976796c5a59127f3f1b947ed01f1556726025ea187b92",
+      "native_bytes": 5972014,
+      "path": "Textures/Environment/Landscape/Textures/T_DesertSand_BC.png",
+      "bytes": 5972014,
+      "sha256": "4b447cd8a7cf004aa39976796c5a59127f3f1b947ed01f1556726025ea187b92",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_DesertSand_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_DesertSand_N",
+      "source": {
+        "name": "T_DesertSand_N",
+        "path": "/Game/SoStylized/Environment/Landscape/Textures/T_DesertSand_N.T_DesertSand_N",
+        "package": "/Game/SoStylized/Environment/Landscape/Textures/T_DesertSand_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Landscape/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "85cfc48149cb91ab4869ed3cb8e1e2aabfdc3cf267dd550a737ad8ce10632393",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "6a19e59e70f61e466e0d1a0939b66092eeb7d961577f5a8fdf2e3fcc6046ea0c",
+      "native_bytes": 1104052,
+      "path": "Textures/Environment/Landscape/Textures/T_DesertSand_N.png",
+      "bytes": 1104052,
+      "sha256": "6a19e59e70f61e466e0d1a0939b66092eeb7d961577f5a8fdf2e3fcc6046ea0c",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_DesertSand_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Dirt1_BC",
+      "source": {
+        "name": "T_Dirt1_BC",
+        "path": "/Game/SoStylized/Environment/Landscape/Textures/T_Dirt1_BC.T_Dirt1_BC",
+        "package": "/Game/SoStylized/Environment/Landscape/Textures/T_Dirt1_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Landscape/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c3a81883f3ee6b93649feb8c4419f3da62c8dc3e337b96dcc4e1292d030add27",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "8668f80c160fd01feae9e1e43cc585cce95d6c77a97d430db16437f237045977",
+      "native_bytes": 10790311,
+      "path": "Textures/Environment/Landscape/Textures/T_Dirt1_BC.png",
+      "bytes": 10790311,
+      "sha256": "8668f80c160fd01feae9e1e43cc585cce95d6c77a97d430db16437f237045977",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Dirt1_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Dirt1_N",
+      "source": {
+        "name": "T_Dirt1_N",
+        "path": "/Game/SoStylized/Environment/Landscape/Textures/T_Dirt1_N.T_Dirt1_N",
+        "package": "/Game/SoStylized/Environment/Landscape/Textures/T_Dirt1_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Landscape/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ba83b7a55bc4dc99b8c507fc2b57394130873d3f8bde77fc0efce2cc06ac686f",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "c9a3fb4f935607facd463615780a8efb3742a729872e1c8eb52a038b75dfb58e",
+      "native_bytes": 3327432,
+      "path": "Textures/Environment/Landscape/Textures/T_Dirt1_N.png",
+      "bytes": 3327432,
+      "sha256": "c9a3fb4f935607facd463615780a8efb3742a729872e1c8eb52a038b75dfb58e",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Dirt1_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Dirt1_R",
+      "source": {
+        "name": "T_Dirt1_R",
+        "path": "/Game/SoStylized/Environment/Landscape/Textures/T_Dirt1_R.T_Dirt1_R",
+        "package": "/Game/SoStylized/Environment/Landscape/Textures/T_Dirt1_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Landscape/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b43cac152d5c366e519b79341bda28878cdac67988345289f41582009b6d5223",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "2f60fecf7d57e66eed0bf9ec5b0c942823b8ffc401275c0ef6a11622a76772e4",
+      "native_bytes": 4031330,
+      "path": "Textures/Environment/Landscape/Textures/T_Dirt1_R.png",
+      "bytes": 4031330,
+      "sha256": "2f60fecf7d57e66eed0bf9ec5b0c942823b8ffc401275c0ef6a11622a76772e4",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Dirt1_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Dirt1_W",
+      "source": {
+        "name": "T_Dirt1_W",
+        "path": "/Game/SoStylized/Environment/Landscape/Textures/T_Dirt1_W.T_Dirt1_W",
+        "package": "/Game/SoStylized/Environment/Landscape/Textures/T_Dirt1_W",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Landscape/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "28f54d53e0b69a85e57cd084efda64be5072ac2367016a4483b4e3be731be25b",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "88220c8973510c95063348dfcd3c4c0f3c8c3d1a46184d4678e16d6f7f6ee899",
+      "native_bytes": 4161256,
+      "path": "Textures/Environment/Landscape/Textures/T_Dirt1_W.png",
+      "bytes": 4161256,
+      "sha256": "88220c8973510c95063348dfcd3c4c0f3c8c3d1a46184d4678e16d6f7f6ee899",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Dirt1_W.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_DirtySand_H",
+      "source": {
+        "name": "T_DirtySand_H",
+        "path": "/Game/SoStylized/Environment/Landscape/Textures/T_DirtySand_H.T_DirtySand_H",
+        "package": "/Game/SoStylized/Environment/Landscape/Textures/T_DirtySand_H",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Landscape/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "148c0134a5a799fba62262d34ea8a59f8d9d0cbb5613a9e65e8b9f10c9a6684c",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "ea4d2af45a3ba950845b0fd6e6d2f51209ba429115343143ee4d91d309d0b174",
+      "native_bytes": 4600759,
+      "path": "Textures/Environment/Landscape/Textures/T_DirtySand_H.png",
+      "bytes": 4600759,
+      "sha256": "ea4d2af45a3ba950845b0fd6e6d2f51209ba429115343143ee4d91d309d0b174",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_DirtySand_H.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

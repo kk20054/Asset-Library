@@ -1,0 +1,1020 @@
+{
+  "schema_version": 1,
+  "category": "Textures",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_T_VerticalGradientShifted",
+      "source": {
+        "name": "T_VerticalGradientShifted",
+        "path": "/Game/SoStylized/Textures/Gradients/T_VerticalGradientShifted.T_VerticalGradientShifted",
+        "package": "/Game/SoStylized/Textures/Gradients/T_VerticalGradientShifted",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Gradients",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ff4e0cdf8bc3719ac6d408dcd35af254909e191a34b991a0524bd2e9d1951c26",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "615db7ffd1b3a051738fcbe1357ebad31c93f5a5043ce75ac47adef6bc3035a0",
+      "native_bytes": 2556,
+      "path": "Textures/Textures/Gradients/T_VerticalGradientShifted.png",
+      "bytes": 2556,
+      "sha256": "615db7ffd1b3a051738fcbe1357ebad31c93f5a5043ce75ac47adef6bc3035a0",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Gradients/T_VerticalGradientShifted.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_EdgeMaskTight",
+      "source": {
+        "name": "T_EdgeMaskTight",
+        "path": "/Game/SoStylized/Textures/Masks/T_EdgeMaskTight.T_EdgeMaskTight",
+        "package": "/Game/SoStylized/Textures/Masks/T_EdgeMaskTight",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Masks",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1ad649995dcbab1499b6ba7af1a70ad2e93cde2098c925b879ba7e14fa791b2b",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "d17c77b3f95e9a10852c6aaaa72b8518fde0c175ee74191a5d4ace8a36306624",
+      "native_bytes": 3953,
+      "path": "Textures/Textures/Masks/T_EdgeMaskTight.png",
+      "bytes": 3953,
+      "sha256": "d17c77b3f95e9a10852c6aaaa72b8518fde0c175ee74191a5d4ace8a36306624",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Masks/T_EdgeMaskTight.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_EdgeMask_Horizontal",
+      "source": {
+        "name": "T_EdgeMask_Horizontal",
+        "path": "/Game/SoStylized/Textures/Masks/T_EdgeMask_Horizontal.T_EdgeMask_Horizontal",
+        "package": "/Game/SoStylized/Textures/Masks/T_EdgeMask_Horizontal",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Masks",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "20b82663c3c1b07d64ff71a6cf108e55b66548b7d3f7fb5280cf52c2aac1fe4a",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "08e03dad4f1708e8426a6d775cb12031b1204483e9eb895694a673e784771ed6",
+      "native_bytes": 343,
+      "path": "Textures/Textures/Masks/T_EdgeMask_Horizontal.png",
+      "bytes": 343,
+      "sha256": "08e03dad4f1708e8426a6d775cb12031b1204483e9eb895694a673e784771ed6",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Masks/T_EdgeMask_Horizontal.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_HorizontalWipe",
+      "source": {
+        "name": "T_HorizontalWipe",
+        "path": "/Game/SoStylized/Textures/Masks/T_HorizontalWipe.T_HorizontalWipe",
+        "package": "/Game/SoStylized/Textures/Masks/T_HorizontalWipe",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Masks",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4611fa3e0407bc9c7f43c901a9f336fba1e6988b85e0b118947317025016a995",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "c768350e5f530cd79727700957d3c2a93ed7e73fd494c321d2af9bb2157b6ff7",
+      "native_bytes": 262,
+      "path": "Textures/Textures/Masks/T_HorizontalWipe.png",
+      "bytes": 262,
+      "sha256": "c768350e5f530cd79727700957d3c2a93ed7e73fd494c321d2af9bb2157b6ff7",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Masks/T_HorizontalWipe.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_MaskHorseshoe",
+      "source": {
+        "name": "T_MaskHorseshoe",
+        "path": "/Game/SoStylized/Textures/Masks/T_MaskHorseshoe.T_MaskHorseshoe",
+        "package": "/Game/SoStylized/Textures/Masks/T_MaskHorseshoe",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Masks",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3d6b0d46d5e974613a7e931a0e590325076e35c2d6a2118aef497ea5523da1af",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "6ba7dcbbeae2a98ac98d11eb5656a52e9a2ed56a7989623071ad09527d7cba30",
+      "native_bytes": 9776,
+      "path": "Textures/Textures/Masks/T_MaskHorseshoe.png",
+      "bytes": 9776,
+      "sha256": "6ba7dcbbeae2a98ac98d11eb5656a52e9a2ed56a7989623071ad09527d7cba30",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Masks/T_MaskHorseshoe.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SphereMask",
+      "source": {
+        "name": "T_SphereMask",
+        "path": "/Game/SoStylized/Textures/Masks/T_SphereMask.T_SphereMask",
+        "package": "/Game/SoStylized/Textures/Masks/T_SphereMask",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Masks",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7b9d5ff4f786d5e40875173edc1a00e8bb3299b7feda7b1eb120c14c8bf01c34",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "d982ae2f861aa24118c0a0ccd5690e373ddb9443bfab6a4128e46de944ba36cb",
+      "native_bytes": 213601,
+      "path": "Textures/Textures/Masks/T_SphereMask.png",
+      "bytes": 213601,
+      "sha256": "d982ae2f861aa24118c0a0ccd5690e373ddb9443bfab6a4128e46de944ba36cb",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Masks/T_SphereMask.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterWavesMask",
+      "source": {
+        "name": "T_WaterWavesMask",
+        "path": "/Game/SoStylized/Textures/Masks/T_WaterWavesMask.T_WaterWavesMask",
+        "package": "/Game/SoStylized/Textures/Masks/T_WaterWavesMask",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Masks",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d8a9dd7b886639ae67d8bd1610c8d24682ad67b7e85753bdd5bc8f8c4634ed37",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "ae95a85a9ef6161a1a64768fbf25b0c553e196f450ffc9eeba8ddf570e80669f",
+      "native_bytes": 101172,
+      "path": "Textures/Textures/Masks/T_WaterWavesMask.png",
+      "bytes": 101172,
+      "sha256": "ae95a85a9ef6161a1a64768fbf25b0c553e196f450ffc9eeba8ddf570e80669f",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Masks/T_WaterWavesMask.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_3DNoise_Source",
+      "source": {
+        "name": "T_3DNoise_Source",
+        "path": "/Game/SoStylized/Textures/Noise/T_3DNoise_Source.T_3DNoise_Source",
+        "package": "/Game/SoStylized/Textures/Noise/T_3DNoise_Source",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d472ed4b32a27ba3c311159fc4014967178fea0097ce255c33d481691e7cbe98",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_HDR: 6>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "2da0f2adbb5d1adf8a726aa28e4adc147202d392180691386128098a187c5bcd",
+      "native_bytes": 1081798,
+      "path": "Textures/Textures/Noise/T_3DNoise_Source.exr",
+      "bytes": 1081798,
+      "sha256": "2da0f2adbb5d1adf8a726aa28e4adc147202d392180691386128098a187c5bcd",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_3DNoise_Source.exr",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_ChromaNoise2x_Nearest",
+      "source": {
+        "name": "T_ChromaNoise2x_Nearest",
+        "path": "/Game/SoStylized/Textures/Noise/T_ChromaNoise2x_Nearest.T_ChromaNoise2x_Nearest",
+        "package": "/Game/SoStylized/Textures/Noise/T_ChromaNoise2x_Nearest",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "bbb2bc31ba853b17a217c08231968eec9224681d895a35b03e4d19a3cee5af4b",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_HDR: 6>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "9baf2f320d92527637a2407252ce336e190e9adda17da32ce396720b4699e8fd",
+      "native_bytes": 273706,
+      "path": "Textures/Textures/Noise/T_ChromaNoise2x_Nearest.png",
+      "bytes": 273706,
+      "sha256": "9baf2f320d92527637a2407252ce336e190e9adda17da32ce396720b4699e8fd",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_ChromaNoise2x_Nearest.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_ChromaNoise_Bilinear",
+      "source": {
+        "name": "T_ChromaNoise_Bilinear",
+        "path": "/Game/SoStylized/Textures/Noise/T_ChromaNoise_Bilinear.T_ChromaNoise_Bilinear",
+        "package": "/Game/SoStylized/Textures/Noise/T_ChromaNoise_Bilinear",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c40fd29416016e00ac255e04a7c464112417346bb90f3f5ea91bdc89d21bfa77",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_HDR_F32: 16>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "e92630d63d26b789ceeb39fc19ba6a733986fa1b41cfc0e9225096f039705bcc",
+      "native_bytes": 231924,
+      "path": "Textures/Textures/Noise/T_ChromaNoise_Bilinear.png",
+      "bytes": 231924,
+      "sha256": "e92630d63d26b789ceeb39fc19ba6a733986fa1b41cfc0e9225096f039705bcc",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_ChromaNoise_Bilinear.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_ChromaNoise_Blurred",
+      "source": {
+        "name": "T_ChromaNoise_Blurred",
+        "path": "/Game/SoStylized/Textures/Noise/T_ChromaNoise_Blurred.T_ChromaNoise_Blurred",
+        "package": "/Game/SoStylized/Textures/Noise/T_ChromaNoise_Blurred",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b60677bf88039787cf33ad3938abd28e579c002e9e6cbfde042d1ce32e77085a",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "113cb4a7f40d8aa1b91960d7b72fd1b3852a2091276dfc18c1d4dfa3d9740cc4",
+      "native_bytes": 196656,
+      "path": "Textures/Textures/Noise/T_ChromaNoise_Blurred.png",
+      "bytes": 196656,
+      "sha256": "113cb4a7f40d8aa1b91960d7b72fd1b3852a2091276dfc18c1d4dfa3d9740cc4",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_ChromaNoise_Blurred.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_ChromaNoise_Nearest",
+      "source": {
+        "name": "T_ChromaNoise_Nearest",
+        "path": "/Game/SoStylized/Textures/Noise/T_ChromaNoise_Nearest.T_ChromaNoise_Nearest",
+        "package": "/Game/SoStylized/Textures/Noise/T_ChromaNoise_Nearest",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1605c8fdc7e5c9f5085c1f6d657a59826de786a03a1397e823b91e2b66a589e7",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_HDR_F32: 16>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "e92630d63d26b789ceeb39fc19ba6a733986fa1b41cfc0e9225096f039705bcc",
+      "native_bytes": 231924,
+      "path": "Textures/Textures/Noise/T_ChromaNoise_Nearest.png",
+      "bytes": 231924,
+      "sha256": "e92630d63d26b789ceeb39fc19ba6a733986fa1b41cfc0e9225096f039705bcc",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_ChromaNoise_Nearest.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseGreyed",
+      "source": {
+        "name": "T_NoiseGreyed",
+        "path": "/Game/SoStylized/Textures/Noise/T_NoiseGreyed.T_NoiseGreyed",
+        "package": "/Game/SoStylized/Textures/Noise/T_NoiseGreyed",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3686022a183db349f0ed2cc201542a75e9b4416b46228865aff13214fd84d5b9",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "f5d92fd76383e4ae47c3ba946055541ec028e95a8adbfe5b6ee6444fdef60ef5",
+      "native_bytes": 98322,
+      "path": "Textures/Textures/Noise/T_NoiseGreyed.png",
+      "bytes": 98322,
+      "sha256": "f5d92fd76383e4ae47c3ba946055541ec028e95a8adbfe5b6ee6444fdef60ef5",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_NoiseGreyed.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_NoisePuddles",
+      "source": {
+        "name": "T_NoisePuddles",
+        "path": "/Game/SoStylized/Textures/Noise/T_NoisePuddles.T_NoisePuddles",
+        "package": "/Game/SoStylized/Textures/Noise/T_NoisePuddles",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "23df335faf418b2122a6f37d5bf07860e4ac78885fac782c157a2801a10c539b",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_EDITOR_ICON: 7>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "ab69551d7bdf8a3d1aeee0d93543c8763ad3efd802e24d60ef490d37467f0493",
+      "native_bytes": 1127366,
+      "path": "Textures/Textures/Noise/T_NoisePuddles.png",
+      "bytes": 1127366,
+      "sha256": "ab69551d7bdf8a3d1aeee0d93543c8763ad3efd802e24d60ef490d37467f0493",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_NoisePuddles.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseRough",
+      "source": {
+        "name": "T_NoiseRough",
+        "path": "/Game/SoStylized/Textures/Noise/T_NoiseRough.T_NoiseRough",
+        "package": "/Game/SoStylized/Textures/Noise/T_NoiseRough",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0d3768cab2d9466b5180bfb15c02111ba149078315fdbf29ae2600ac16b6576d",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "5e172ac451a1521e10347292dc5df26f150608781ed88d4d59093d8313a20847",
+      "native_bytes": 1330664,
+      "path": "Textures/Textures/Noise/T_NoiseRough.png",
+      "bytes": 1330664,
+      "sha256": "5e172ac451a1521e10347292dc5df26f150608781ed88d4d59093d8313a20847",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_NoiseRough.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseRough02",
+      "source": {
+        "name": "T_NoiseRough02",
+        "path": "/Game/SoStylized/Textures/Noise/T_NoiseRough02.T_NoiseRough02",
+        "package": "/Game/SoStylized/Textures/Noise/T_NoiseRough02",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "643ab977a0b9e308e430d98249b6ffcd88673077c31327fbf4090ec1d7fd9f4a",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "d67895d6854447acff843ca29580b30ee0b1b3c3ad21c5cf7f2d0443f98f55c6",
+      "native_bytes": 1352841,
+      "path": "Textures/Textures/Noise/T_NoiseRough02.png",
+      "bytes": 1352841,
+      "sha256": "d67895d6854447acff843ca29580b30ee0b1b3c3ad21c5cf7f2d0443f98f55c6",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_NoiseRough02.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseRough_HighContrast",
+      "source": {
+        "name": "T_NoiseRough_HighContrast",
+        "path": "/Game/SoStylized/Textures/Noise/T_NoiseRough_HighContrast.T_NoiseRough_HighContrast",
+        "package": "/Game/SoStylized/Textures/Noise/T_NoiseRough_HighContrast",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "cc3734d0a1e7a0a3b5bbd977a48a58b059265bb0694c969cb2fab120237e26c1",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "7edb17a9fef52d39d7077df1bdb173f29df5ff48558d97fb28e98dc437fcbec3",
+      "native_bytes": 893925,
+      "path": "Textures/Textures/Noise/T_NoiseRough_HighContrast.png",
+      "bytes": 893925,
+      "sha256": "7edb17a9fef52d39d7077df1bdb173f29df5ff48558d97fb28e98dc437fcbec3",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_NoiseRough_HighContrast.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseSmooth",
+      "source": {
+        "name": "T_NoiseSmooth",
+        "path": "/Game/SoStylized/Textures/Noise/T_NoiseSmooth.T_NoiseSmooth",
+        "package": "/Game/SoStylized/Textures/Noise/T_NoiseSmooth",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0fe7f4c7345dfecd935a31e6df1ae29e3255a170ca2ce7a7dd246f8778173842",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "beeb9b34a5f25aec48ff3c597b51c3d3994ecfbb70dc608f8dc6ad9e1652c547",
+      "native_bytes": 235959,
+      "path": "Textures/Textures/Noise/T_NoiseSmooth.png",
+      "bytes": 235959,
+      "sha256": "beeb9b34a5f25aec48ff3c597b51c3d3994ecfbb70dc608f8dc6ad9e1652c547",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_NoiseSmooth.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseSmoothSpotted",
+      "source": {
+        "name": "T_NoiseSmoothSpotted",
+        "path": "/Game/SoStylized/Textures/Noise/T_NoiseSmoothSpotted.T_NoiseSmoothSpotted",
+        "package": "/Game/SoStylized/Textures/Noise/T_NoiseSmoothSpotted",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "541c06cda3e45ef7b2f7141876e2cb726eae17dc6ebd76238848d486f3890ad3",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "52602f1f2814ddcc66ad485f75a27cedf0ca63db81921830d79dc54448df9b2f",
+      "native_bytes": 303251,
+      "path": "Textures/Textures/Noise/T_NoiseSmoothSpotted.png",
+      "bytes": 303251,
+      "sha256": "52602f1f2814ddcc66ad485f75a27cedf0ca63db81921830d79dc54448df9b2f",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_NoiseSmoothSpotted.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_NoiseSmooth_N",
+      "source": {
+        "name": "T_NoiseSmooth_N",
+        "path": "/Game/SoStylized/Textures/Noise/T_NoiseSmooth_N.T_NoiseSmooth_N",
+        "package": "/Game/SoStylized/Textures/Noise/T_NoiseSmooth_N",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Noise",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "bec7e97a8ed17343f7fbd38b604a1fde463995c4467b9888c444148522cd96ea",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "format_attempts": [
+        {
+          "extension": ".png",
+          "succeeded": true
+        }
+      ],
+      "native_status": "exported",
+      "native_sha256": "bb2d99dc897e73e59ffd1e66438022d7f3819f549ce0fc62b7eb2b3eccda60f7",
+      "native_bytes": 883544,
+      "path": "Textures/Textures/Noise/T_NoiseSmooth_N.png",
+      "bytes": 883544,
+      "sha256": "bb2d99dc897e73e59ffd1e66438022d7f3819f549ce0fc62b7eb2b3eccda60f7",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Noise/T_NoiseSmooth_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

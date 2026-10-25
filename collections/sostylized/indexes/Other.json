@@ -1,0 +1,1500 @@
+{
+  "schema_version": 1,
+  "category": "Other",
+  "asset_count": 148,
+  "full_catalog": "../catalog.json",
+  "downloads": "../downloads.json",
+  "path_scope": "Asset path is inside the extracted ZIP root, not a direct repository model path. Use download.zip_member or direct_sample_url.",
+  "detail_pages": [
+    "details/Other-01.json",
+    "details/Other-02.json",
+    "details/Other-03.json",
+    "details/Other-04.json",
+    "details/Other-05.json",
+    "details/Other-06.json",
+    "details/Other-07.json",
+    "details/Other-08.json"
+  ],
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_Ramp",
+      "name": "SM_Ramp",
+      "path": "Models/Demo/Meshes/SM_Ramp.glb",
+      "bytes": 534560,
+      "triangles": 8,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sphere",
+      "name": "SM_Sphere",
+      "path": "Models/Demo/Meshes/SM_Sphere.glb",
+      "bytes": 554800,
+      "triangles": 528,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_LightningStrike01",
+      "name": "SM_LightningStrike01",
+      "path": "Models/Effects/Meshes/SM_LightningStrike01.glb",
+      "bytes": 442092,
+      "triangles": 872,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_LightningStrike02",
+      "name": "SM_LightningStrike02",
+      "path": "Models/Effects/Meshes/SM_LightningStrike02.glb",
+      "bytes": 468212,
+      "triangles": 1528,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_LightningStrike03",
+      "name": "SM_LightningStrike03",
+      "path": "Models/Effects/Meshes/SM_LightningStrike03.glb",
+      "bytes": 435868,
+      "triangles": 720,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_LightningStrike04",
+      "name": "SM_LightningStrike04",
+      "path": "Models/Effects/Meshes/SM_LightningStrike04.glb",
+      "bytes": 483900,
+      "triangles": 1864,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_LightningStrike05",
+      "name": "SM_LightningStrike05",
+      "path": "Models/Effects/Meshes/SM_LightningStrike05.glb",
+      "bytes": 445332,
+      "triangles": 944,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RainDrop",
+      "name": "SM_RainDrop",
+      "path": "Models/Effects/Meshes/SM_RainDrop.glb",
+      "bytes": 1616,
+      "triangles": 2,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RainSplash",
+      "name": "SM_RainSplash",
+      "path": "Models/Effects/Meshes/SM_RainSplash.glb",
+      "bytes": 132248,
+      "triangles": 4,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDebris01",
+      "name": "SM_RockDebris01",
+      "path": "Models/Effects/Meshes/SM_RockDebris01.glb",
+      "bytes": 6292,
+      "triangles": 34,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDebris02",
+      "name": "SM_RockDebris02",
+      "path": "Models/Effects/Meshes/SM_RockDebris02.glb",
+      "bytes": 5028,
+      "triangles": 26,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDebris03",
+      "name": "SM_RockDebris03",
+      "path": "Models/Effects/Meshes/SM_RockDebris03.glb",
+      "bytes": 3204,
+      "triangles": 16,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_VegetationParticle",
+      "name": "SM_VegetationParticle",
+      "path": "Models/Effects/Meshes/SM_VegetationParticle.glb",
+      "bytes": 1568,
+      "triangles": 1,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_WindLineMesh",
+      "name": "SM_WindLineMesh",
+      "path": "Models/Effects/Meshes/SM_WindLineMesh.glb",
+      "bytes": 6216,
+      "triangles": 42,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus01_Collision",
+      "name": "SM_Cactus01_Collision",
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus01_Collision.glb",
+      "bytes": 549012,
+      "triangles": 419,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus02_Collision",
+      "name": "SM_Cactus02_Collision",
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus02_Collision.glb",
+      "bytes": 556952,
+      "triangles": 581,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus03_Collision",
+      "name": "SM_Cactus03_Collision",
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus03_Collision.glb",
+      "bytes": 555768,
+      "triangles": 552,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus04_Collision",
+      "name": "SM_Cactus04_Collision",
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus04_Collision.glb",
+      "bytes": 559008,
+      "triangles": 616,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus05_Collision",
+      "name": "SM_Cactus05_Collision",
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus05_Collision.glb",
+      "bytes": 561720,
+      "triangles": 686,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus06_Collision",
+      "name": "SM_Cactus06_Collision",
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus06_Collision.glb",
+      "bytes": 578140,
+      "triangles": 1126,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-01.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus07_Collision",
+      "name": "SM_Cactus07_Collision",
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus07_Collision.glb",
+      "bytes": 578196,
+      "triangles": 1126,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus08_Collision",
+      "name": "SM_Cactus08_Collision",
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus08_Collision.glb",
+      "bytes": 579740,
+      "triangles": 1122,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Beach_BandedTulip",
+      "name": "SM_Beach_BandedTulip",
+      "path": "Models/Environment/Misc/SM_Beach_BandedTulip.glb",
+      "bytes": 1041812,
+      "triangles": 36,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Beach_Conch",
+      "name": "SM_Beach_Conch",
+      "path": "Models/Environment/Misc/SM_Beach_Conch.glb",
+      "bytes": 1243156,
+      "triangles": 160,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Beach_SandDollar",
+      "name": "SM_Beach_SandDollar",
+      "path": "Models/Environment/Misc/SM_Beach_SandDollar.glb",
+      "bytes": 805612,
+      "triangles": 34,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Beach_Scallop",
+      "name": "SM_Beach_Scallop",
+      "path": "Models/Environment/Misc/SM_Beach_Scallop.glb",
+      "bytes": 1129792,
+      "triangles": 60,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Beach_Starfish",
+      "name": "SM_Beach_Starfish",
+      "path": "Models/Environment/Misc/SM_Beach_Starfish.glb",
+      "bytes": 697356,
+      "triangles": 112,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Rainbow",
+      "name": "SM_Rainbow",
+      "path": "Models/Environment/Misc/SM_Rainbow.glb",
+      "bytes": 340412,
+      "triangles": 96,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RainbowDouble",
+      "name": "SM_RainbowDouble",
+      "path": "Models/Environment/Misc/SM_RainbowDouble.glb",
+      "bytes": 488504,
+      "triangles": 192,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RainbowThick",
+      "name": "SM_RainbowThick",
+      "path": "Models/Environment/Misc/SM_RainbowThick.glb",
+      "bytes": 340432,
+      "triangles": 96,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_RainbowThin",
+      "name": "SM_RainbowThin",
+      "path": "Models/Environment/Misc/SM_RainbowThin.glb",
+      "bytes": 340428,
+      "triangles": 96,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sandfall01",
+      "name": "SM_Sandfall01",
+      "path": "Models/Environment/Misc/SM_Sandfall01.glb",
+      "bytes": 1187348,
+      "triangles": 72,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sandfall02",
+      "name": "SM_Sandfall02",
+      "path": "Models/Environment/Misc/SM_Sandfall02.glb",
+      "bytes": 1354708,
+      "triangles": 72,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sandfall03",
+      "name": "SM_Sandfall03",
+      "path": "Models/Environment/Misc/SM_Sandfall03.glb",
+      "bytes": 1608088,
+      "triangles": 193,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sandfall04",
+      "name": "SM_Sandfall04",
+      "path": "Models/Environment/Misc/SM_Sandfall04.glb",
+      "bytes": 1205256,
+      "triangles": 72,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sandfall05",
+      "name": "SM_Sandfall05",
+      "path": "Models/Environment/Misc/SM_Sandfall05.glb",
+      "bytes": 1518600,
+      "triangles": 80,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_SnowDrift01",
+      "name": "SM_SnowDrift01",
+      "path": "Models/Environment/Misc/SM_SnowDrift01.glb",
+      "bytes": 88880,
+      "triangles": 124,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_SnowDrift02",
+      "name": "SM_SnowDrift02",
+      "path": "Models/Environment/Misc/SM_SnowDrift02.glb",
+      "bytes": 91616,
+      "triangles": 212,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_SnowDrift03",
+      "name": "SM_SnowDrift03",
+      "path": "Models/Environment/Misc/SM_SnowDrift03.glb",
+      "bytes": 91988,
+      "triangles": 224,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_SnowDrift04",
+      "name": "SM_SnowDrift04",
+      "path": "Models/Environment/Misc/SM_SnowDrift04.glb",
+      "bytes": 91432,
+      "triangles": 206,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-02.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_SnowDrift05",
+      "name": "SM_SnowDrift05",
+      "path": "Models/Environment/Misc/SM_SnowDrift05.glb",
+      "bytes": 98320,
+      "triangles": 428,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_Bamboo1",
+      "name": "SM_Collision_Bamboo1",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_Bamboo1.glb",
+      "bytes": 554448,
+      "triangles": 174,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_Bamboo2",
+      "name": "SM_Collision_Bamboo2",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_Bamboo2.glb",
+      "bytes": 547028,
+      "triangles": 114,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_Bamboo3",
+      "name": "SM_Collision_Bamboo3",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_Bamboo3.glb",
+      "bytes": 550196,
+      "triangles": 138,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_Bamboo4",
+      "name": "SM_Collision_Bamboo4",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_Bamboo4.glb",
+      "bytes": 547028,
+      "triangles": 114,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_BirchStump",
+      "name": "SM_Collision_BirchStump",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_BirchStump.glb",
+      "bytes": 550044,
+      "triangles": 121,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_BirchTree1",
+      "name": "SM_Collision_BirchTree1",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_BirchTree1.glb",
+      "bytes": 539696,
+      "triangles": 154,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_BirchTree2",
+      "name": "SM_Collision_BirchTree2",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_BirchTree2.glb",
+      "bytes": 537744,
+      "triangles": 102,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_BirchTree3",
+      "name": "SM_Collision_BirchTree3",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_BirchTree3.glb",
+      "bytes": 538172,
+      "triangles": 114,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_BirchTreeB1",
+      "name": "SM_Collision_BirchTreeB1",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_BirchTreeB1.glb",
+      "bytes": 543968,
+      "triangles": 270,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_BirchTreeB2",
+      "name": "SM_Collision_BirchTreeB2",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_BirchTreeB2.glb",
+      "bytes": 543236,
+      "triangles": 252,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_BirchTreeB3",
+      "name": "SM_Collision_BirchTreeB3",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_BirchTreeB3.glb",
+      "bytes": 547116,
+      "triangles": 347,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_ChinaPina01",
+      "name": "SM_Collision_ChinaPina01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_ChinaPina01.glb",
+      "bytes": 601280,
+      "triangles": 410,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_ChinaPina02",
+      "name": "SM_Collision_ChinaPina02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_ChinaPina02.glb",
+      "bytes": 600500,
+      "triangles": 400,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_ChinaPina03",
+      "name": "SM_Collision_ChinaPina03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_ChinaPina03.glb",
+      "bytes": 614844,
+      "triangles": 473,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_ChinaPinaB01",
+      "name": "SM_Collision_ChinaPinaB01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_ChinaPinaB01.glb",
+      "bytes": 597284,
+      "triangles": 392,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_ChinaPinaB02",
+      "name": "SM_Collision_ChinaPinaB02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_ChinaPinaB02.glb",
+      "bytes": 606632,
+      "triangles": 474,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_ChinaPinaB03",
+      "name": "SM_Collision_ChinaPinaB03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_ChinaPinaB03.glb",
+      "bytes": 608048,
+      "triangles": 434,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_ChinaPinaC01",
+      "name": "SM_Collision_ChinaPinaC01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_ChinaPinaC01.glb",
+      "bytes": 583368,
+      "triangles": 293,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_ChinaPinaC02",
+      "name": "SM_Collision_ChinaPinaC02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_ChinaPinaC02.glb",
+      "bytes": 573724,
+      "triangles": 234,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-03.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_CoconutPalm01",
+      "name": "SM_Collision_CoconutPalm01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_CoconutPalm01.glb",
+      "bytes": 550304,
+      "triangles": 136,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_CoconutPalm02",
+      "name": "SM_Collision_CoconutPalm02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_CoconutPalm02.glb",
+      "bytes": 550304,
+      "triangles": 136,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_CoconutPalm03",
+      "name": "SM_Collision_CoconutPalm03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_CoconutPalm03.glb",
+      "bytes": 550304,
+      "triangles": 136,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_CoconutPalm04",
+      "name": "SM_Collision_CoconutPalm04",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_CoconutPalm04.glb",
+      "bytes": 550304,
+      "triangles": 136,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_CoconutPalm05",
+      "name": "SM_Collision_CoconutPalm05",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_CoconutPalm05.glb",
+      "bytes": 557860,
+      "triangles": 200,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_CoconutPalmB01",
+      "name": "SM_Collision_CoconutPalmB01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_CoconutPalmB01.glb",
+      "bytes": 552192,
+      "triangles": 152,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_CoconutPalmB02",
+      "name": "SM_Collision_CoconutPalmB02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_CoconutPalmB02.glb",
+      "bytes": 545720,
+      "triangles": 256,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_CoconutPalmB03",
+      "name": "SM_Collision_CoconutPalmB03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_CoconutPalmB03.glb",
+      "bytes": 565412,
+      "triangles": 264,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_CoconutPalmC01",
+      "name": "SM_Collision_CoconutPalmC01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_CoconutPalmC01.glb",
+      "bytes": 550308,
+      "triangles": 136,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_CoconutPalmC02",
+      "name": "SM_Collision_CoconutPalmC02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_CoconutPalmC02.glb",
+      "bytes": 550308,
+      "triangles": 136,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_CoconutPalmC03",
+      "name": "SM_Collision_CoconutPalmC03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_CoconutPalmC03.glb",
+      "bytes": 550304,
+      "triangles": 136,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_FirFallen1",
+      "name": "SM_Collision_FirFallen1",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_FirFallen1.glb",
+      "bytes": 588124,
+      "triangles": 399,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_FirFallen2",
+      "name": "SM_Collision_FirFallen2",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_FirFallen2.glb",
+      "bytes": 664164,
+      "triangles": 1069,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_FirFallen2_SnowCover",
+      "name": "SM_Collision_FirFallen2_SnowCover",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_FirFallen2_SnowCover.glb",
+      "bytes": 620700,
+      "triangles": 391,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_FirFallen3",
+      "name": "SM_Collision_FirFallen3",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_FirFallen3.glb",
+      "bytes": 583484,
+      "triangles": 401,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_FirTree1",
+      "name": "SM_Collision_FirTree1",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_FirTree1.glb",
+      "bytes": 614924,
+      "triangles": 638,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_FirTree2",
+      "name": "SM_Collision_FirTree2",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_FirTree2.glb",
+      "bytes": 621468,
+      "triangles": 702,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_FirTree3",
+      "name": "SM_Collision_FirTree3",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_FirTree3.glb",
+      "bytes": 613196,
+      "triangles": 630,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_FirTree4",
+      "name": "SM_Collision_FirTree4",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_FirTree4.glb",
+      "bytes": 621320,
+      "triangles": 696,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_FirTree5",
+      "name": "SM_Collision_FirTree5",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_FirTree5.glb",
+      "bytes": 614924,
+      "triangles": 638,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-04.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodDead01",
+      "name": "SM_Collision_KnotwoodDead01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodDead01.glb",
+      "bytes": 589340,
+      "triangles": 415,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodDead02",
+      "name": "SM_Collision_KnotwoodDead02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodDead02.glb",
+      "bytes": 586080,
+      "triangles": 386,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodTree01",
+      "name": "SM_Collision_KnotwoodTree01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree01.glb",
+      "bytes": 594640,
+      "triangles": 347,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodTree02",
+      "name": "SM_Collision_KnotwoodTree02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree02.glb",
+      "bytes": 579264,
+      "triangles": 257,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodTree03",
+      "name": "SM_Collision_KnotwoodTree03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree03.glb",
+      "bytes": 588604,
+      "triangles": 325,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodTree04",
+      "name": "SM_Collision_KnotwoodTree04",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodTree04.glb",
+      "bytes": 566392,
+      "triangles": 199,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_KnotwoodTreeB01",
+      "name": "SM_Collision_KnotwoodTreeB01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_KnotwoodTreeB01.glb",
+      "bytes": 573772,
+      "triangles": 229,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakFallen1",
+      "name": "SM_Collision_OakFallen1",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakFallen1.glb",
+      "bytes": 607428,
+      "triangles": 452,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakFallen2",
+      "name": "SM_Collision_OakFallen2",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakFallen2.glb",
+      "bytes": 549104,
+      "triangles": 104,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakStump1",
+      "name": "SM_Collision_OakStump1",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakStump1.glb",
+      "bytes": 577760,
+      "triangles": 288,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakStump1_SnowCover",
+      "name": "SM_Collision_OakStump1_SnowCover",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakStump1_SnowCover.glb",
+      "bytes": 598676,
+      "triangles": 374,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTree1",
+      "name": "SM_Collision_OakTree1",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTree1.glb",
+      "bytes": 580272,
+      "triangles": 361,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTree2",
+      "name": "SM_Collision_OakTree2",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTree2.glb",
+      "bytes": 565132,
+      "triangles": 209,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTree3",
+      "name": "SM_Collision_OakTree3",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTree3.glb",
+      "bytes": 589040,
+      "triangles": 432,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTree4",
+      "name": "SM_Collision_OakTree4",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTree4.glb",
+      "bytes": 581292,
+      "triangles": 354,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTreeLarge1",
+      "name": "SM_Collision_OakTreeLarge1",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTreeLarge1.glb",
+      "bytes": 661580,
+      "triangles": 928,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTreeLarge2",
+      "name": "SM_Collision_OakTreeLarge2",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTreeLarge2.glb",
+      "bytes": 602548,
+      "triangles": 469,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_OakTreeLarge3",
+      "name": "SM_Collision_OakTreeLarge3",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_OakTreeLarge3.glb",
+      "bytes": 654000,
+      "triangles": 990,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmFallen01",
+      "name": "SM_Collision_PalmFallen01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmFallen01.glb",
+      "bytes": 538184,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmFallen02",
+      "name": "SM_Collision_PalmFallen02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmFallen02.glb",
+      "bytes": 538184,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-05.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmFallen03",
+      "name": "SM_Collision_PalmFallen03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmFallen03.glb",
+      "bytes": 540964,
+      "triangles": 72,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmStump01",
+      "name": "SM_Collision_PalmStump01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmStump01.glb",
+      "bytes": 538184,
+      "triangles": 44,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree01",
+      "name": "SM_Collision_PalmTree01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree01.glb",
+      "bytes": 547344,
+      "triangles": 76,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree02",
+      "name": "SM_Collision_PalmTree02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree02.glb",
+      "bytes": 548384,
+      "triangles": 86,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree03",
+      "name": "SM_Collision_PalmTree03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree03.glb",
+      "bytes": 547212,
+      "triangles": 80,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree04",
+      "name": "SM_Collision_PalmTree04",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree04.glb",
+      "bytes": 550016,
+      "triangles": 102,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree05",
+      "name": "SM_Collision_PalmTree05",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree05.glb",
+      "bytes": 548696,
+      "triangles": 94,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree06",
+      "name": "SM_Collision_PalmTree06",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree06.glb",
+      "bytes": 551760,
+      "triangles": 108,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree07",
+      "name": "SM_Collision_PalmTree07",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree07.glb",
+      "bytes": 551772,
+      "triangles": 110,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree08",
+      "name": "SM_Collision_PalmTree08",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree08.glb",
+      "bytes": 552492,
+      "triangles": 110,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree09",
+      "name": "SM_Collision_PalmTree09",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree09.glb",
+      "bytes": 560140,
+      "triangles": 154,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree10",
+      "name": "SM_Collision_PalmTree10",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree10.glb",
+      "bytes": 557436,
+      "triangles": 136,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree11",
+      "name": "SM_Collision_PalmTree11",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree11.glb",
+      "bytes": 549468,
+      "triangles": 87,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree12",
+      "name": "SM_Collision_PalmTree12",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree12.glb",
+      "bytes": 548584,
+      "triangles": 81,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree13",
+      "name": "SM_Collision_PalmTree13",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree13.glb",
+      "bytes": 560380,
+      "triangles": 146,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree14",
+      "name": "SM_Collision_PalmTree14",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree14.glb",
+      "bytes": 560856,
+      "triangles": 154,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PalmTree15",
+      "name": "SM_Collision_PalmTree15",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PalmTree15.glb",
+      "bytes": 561380,
+      "triangles": 157,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_Pine01",
+      "name": "SM_Collision_Pine01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_Pine01.glb",
+      "bytes": 604740,
+      "triangles": 423,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_Pine02",
+      "name": "SM_Collision_Pine02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_Pine02.glb",
+      "bytes": 602128,
+      "triangles": 384,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_Pine03",
+      "name": "SM_Collision_Pine03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_Pine03.glb",
+      "bytes": 607432,
+      "triangles": 404,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-06.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PineDead01",
+      "name": "SM_Collision_PineDead01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PineDead01.glb",
+      "bytes": 574140,
+      "triangles": 282,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PineDead02",
+      "name": "SM_Collision_PineDead02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PineDead02.glb",
+      "bytes": 595984,
+      "triangles": 379,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PineDead03",
+      "name": "SM_Collision_PineDead03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PineDead03.glb",
+      "bytes": 633836,
+      "triangles": 554,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PineLeafySnow01",
+      "name": "SM_Collision_PineLeafySnow01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PineLeafySnow01.glb",
+      "bytes": 654480,
+      "triangles": 693,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PineLeafySnow02",
+      "name": "SM_Collision_PineLeafySnow02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PineLeafySnow02.glb",
+      "bytes": 613056,
+      "triangles": 559,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PineSnowCover01",
+      "name": "SM_Collision_PineSnowCover01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PineSnowCover01.glb",
+      "bytes": 604544,
+      "triangles": 413,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_PineSnowCover02",
+      "name": "SM_Collision_PineSnowCover02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_PineSnowCover02.glb",
+      "bytes": 592220,
+      "triangles": 351,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_RedMaple01",
+      "name": "SM_Collision_RedMaple01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_RedMaple01.glb",
+      "bytes": 585864,
+      "triangles": 301,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_RedMaple02",
+      "name": "SM_Collision_RedMaple02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_RedMaple02.glb",
+      "bytes": 583240,
+      "triangles": 260,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_RedMaple03",
+      "name": "SM_Collision_RedMaple03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_RedMaple03.glb",
+      "bytes": 606860,
+      "triangles": 428,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_RedMaple04",
+      "name": "SM_Collision_RedMaple04",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_RedMaple04.glb",
+      "bytes": 679876,
+      "triangles": 823,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_TheGreetingPine",
+      "name": "SM_Collision_TheGreetingPine",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_TheGreetingPine.glb",
+      "bytes": 594120,
+      "triangles": 368,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_TreeWindsweptSapling_01",
+      "name": "SM_Collision_TreeWindsweptSapling_01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_TreeWindsweptSapling_01.glb",
+      "bytes": 541528,
+      "triangles": 150,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_TreeWindsweptSapling_02",
+      "name": "SM_Collision_TreeWindsweptSapling_02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_TreeWindsweptSapling_02.glb",
+      "bytes": 559260,
+      "triangles": 473,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_TreeWindswept_01",
+      "name": "SM_Collision_TreeWindswept_01",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_TreeWindswept_01.glb",
+      "bytes": 550656,
+      "triangles": 314,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_TreeWindswept_02",
+      "name": "SM_Collision_TreeWindswept_02",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_TreeWindswept_02.glb",
+      "bytes": 562744,
+      "triangles": 515,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_TreeWindswept_03",
+      "name": "SM_Collision_TreeWindswept_03",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_TreeWindswept_03.glb",
+      "bytes": 568060,
+      "triangles": 621,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_TreeWindswept_04",
+      "name": "SM_Collision_TreeWindswept_04",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_TreeWindswept_04.glb",
+      "bytes": 565136,
+      "triangles": 554,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_YuccaTree04",
+      "name": "SM_Collision_YuccaTree04",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_YuccaTree04.glb",
+      "bytes": 564856,
+      "triangles": 172,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_Collision_YuccaTree05",
+      "name": "SM_Collision_YuccaTree05",
+      "path": "Models/Environment/Trees/Collision/SM_Collision_YuccaTree05.glb",
+      "bytes": 569688,
+      "triangles": 197,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-07.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmSapling01_Collision",
+      "name": "SM_DesertPalmSapling01_Collision",
+      "path": "Models/Environment/Trees/Collision/SM_DesertPalmSapling01_Collision.glb",
+      "bytes": 556152,
+      "triangles": 136,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmSapling02_Collision",
+      "name": "SM_DesertPalmSapling02_Collision",
+      "path": "Models/Environment/Trees/Collision/SM_DesertPalmSapling02_Collision.glb",
+      "bytes": 558216,
+      "triangles": 144,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmSapling03_Collision",
+      "name": "SM_DesertPalmSapling03_Collision",
+      "path": "Models/Environment/Trees/Collision/SM_DesertPalmSapling03_Collision.glb",
+      "bytes": 565012,
+      "triangles": 196,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree01_Collision",
+      "name": "SM_DesertPalmTree01_Collision",
+      "path": "Models/Environment/Trees/Collision/SM_DesertPalmTree01_Collision.glb",
+      "bytes": 562596,
+      "triangles": 178,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree02_Collision",
+      "name": "SM_DesertPalmTree02_Collision",
+      "path": "Models/Environment/Trees/Collision/SM_DesertPalmTree02_Collision.glb",
+      "bytes": 578852,
+      "triangles": 296,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree03_Collision",
+      "name": "SM_DesertPalmTree03_Collision",
+      "path": "Models/Environment/Trees/Collision/SM_DesertPalmTree03_Collision.glb",
+      "bytes": 582276,
+      "triangles": 218,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree04_Collision",
+      "name": "SM_DesertPalmTree04_Collision",
+      "path": "Models/Environment/Trees/Collision/SM_DesertPalmTree04_Collision.glb",
+      "bytes": 583608,
+      "triangles": 224,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-08.json"
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree05_Collision",
+      "name": "SM_DesertPalmTree05_Collision",
+      "path": "Models/Environment/Trees/Collision/SM_DesertPalmTree05_Collision.glb",
+      "bytes": 568140,
+      "triangles": 214,
+      "material_status": "static_bake_not_individually_visual_reviewed",
+      "download_zip": "SoStylized_Godot_Blender_Other_part01.zip",
+      "details": "details/Other-08.json"
+    }
+  ]
+}

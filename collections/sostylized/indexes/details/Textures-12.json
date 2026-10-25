@@ -1,0 +1,948 @@
+{
+  "schema_version": 1,
+  "category": "Textures",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_T_Leaf_Yucca_BC",
+      "source": {
+        "name": "T_Leaf_Yucca_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_Leaf_Yucca_BC.T_Leaf_Yucca_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_Leaf_Yucca_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1c485b97785ae606e7a592b835dd2a2e2b44577936826284236e86ad94dadacb",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "36dabe882628daaf63d1d8b08466467afd8b2adf8d8b3cc1b00533ff3ad7e555",
+      "native_bytes": 103630,
+      "path": "Textures/Environment/Trees/Textures/T_Leaf_Yucca_BC.png",
+      "bytes": 103630,
+      "sha256": "36dabe882628daaf63d1d8b08466467afd8b2adf8d8b3cc1b00533ff3ad7e555",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_Leaf_Yucca_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBarkMisc_BC",
+      "source": {
+        "name": "T_OakBarkMisc_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_OakBarkMisc_BC.T_OakBarkMisc_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_OakBarkMisc_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d0a20fcb6a3d8ade71a49918358f82ffdf82fccf0385ce68f6e6437b366152b2",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "781b9d4214b8c0500ccd76b73e8a76f40b08abe587f62a964e669a1aecc5cafc",
+      "native_bytes": 10668670,
+      "path": "Textures/Environment/Trees/Textures/T_OakBarkMisc_BC.png",
+      "bytes": 10668670,
+      "sha256": "781b9d4214b8c0500ccd76b73e8a76f40b08abe587f62a964e669a1aecc5cafc",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_OakBarkMisc_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBarkMisc_N",
+      "source": {
+        "name": "T_OakBarkMisc_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_OakBarkMisc_N.T_OakBarkMisc_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_OakBarkMisc_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4f944c6564604e6989e19a099842821ebefc7f619233d9c08ca76fdf4ee52336",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "f4c754058dd1267d6f19d3dacd7e781f1c7f85a11d32c79135b36c877b33053f",
+      "native_bytes": 16588226,
+      "path": "Textures/Environment/Trees/Textures/T_OakBarkMisc_N.png",
+      "bytes": 16588226,
+      "sha256": "f4c754058dd1267d6f19d3dacd7e781f1c7f85a11d32c79135b36c877b33053f",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_OakBarkMisc_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBarkMisc_R",
+      "source": {
+        "name": "T_OakBarkMisc_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_OakBarkMisc_R.T_OakBarkMisc_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_OakBarkMisc_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "471737ec0670188900848d09423f08e28fd0659a563365ff77091da2915ed3ca",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "9bc538cfa1fc83b73ab58303aa2e1a5b1a77c90764daaaa586d81a67f3e6a28b",
+      "native_bytes": 3452620,
+      "path": "Textures/Environment/Trees/Textures/T_OakBarkMisc_R.png",
+      "bytes": 3452620,
+      "sha256": "9bc538cfa1fc83b73ab58303aa2e1a5b1a77c90764daaaa586d81a67f3e6a28b",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_OakBarkMisc_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBark_BC",
+      "source": {
+        "name": "T_OakBark_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_OakBark_BC.T_OakBark_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_OakBark_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "608b289cfcf77e0efe17016e03b753d685ff4b16b81127d79b9c9b24565bdc62",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "6e9688fc673fa4844d1ac328e57bc481995d6fe560317b0d5726ba739333e2b5",
+      "native_bytes": 8551368,
+      "path": "Textures/Environment/Trees/Textures/T_OakBark_BC.png",
+      "bytes": 8551368,
+      "sha256": "6e9688fc673fa4844d1ac328e57bc481995d6fe560317b0d5726ba739333e2b5",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_OakBark_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBark_N",
+      "source": {
+        "name": "T_OakBark_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_OakBark_N.T_OakBark_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_OakBark_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9507f093fbb93876e4d8034b921088bb4885e8356f858504bbd5fb9340121d6e",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "d995ace12d8730708906efe5b072526c0183ef67575af831a2fb6c03ca5b819e",
+      "native_bytes": 13168482,
+      "path": "Textures/Environment/Trees/Textures/T_OakBark_N.png",
+      "bytes": 13168482,
+      "sha256": "d995ace12d8730708906efe5b072526c0183ef67575af831a2fb6c03ca5b819e",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_OakBark_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_OakBark_R",
+      "source": {
+        "name": "T_OakBark_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_OakBark_R.T_OakBark_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_OakBark_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0469a3243f0d9e7b3bfddad95fca236b11f2bbf438cb33939a4fbffeb11b78e4",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "9e0496a2c91c4a5600102c5af56f11a96e3b786b120c3981a308d6736747f19e",
+      "native_bytes": 2534955,
+      "path": "Textures/Environment/Trees/Textures/T_OakBark_R.png",
+      "bytes": 2534955,
+      "sha256": "9e0496a2c91c4a5600102c5af56f11a96e3b786b120c3981a308d6736747f19e",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_OakBark_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWoodMisc_BC",
+      "source": {
+        "name": "T_PalmWoodMisc_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWoodMisc_BC.T_PalmWoodMisc_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWoodMisc_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "11a0ff235ed4881d4f0a31d164ebe5f14fce466f9efb4d2a88ea099784c6ef0f",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "4fac671acf16909746f2ebbf5f02b2698415d4ba41f06d0ef2d9f82817b6e16d",
+      "native_bytes": 7191462,
+      "path": "Textures/Environment/Trees/Textures/T_PalmWoodMisc_BC.png",
+      "bytes": 7191462,
+      "sha256": "4fac671acf16909746f2ebbf5f02b2698415d4ba41f06d0ef2d9f82817b6e16d",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_PalmWoodMisc_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWoodMisc_N",
+      "source": {
+        "name": "T_PalmWoodMisc_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWoodMisc_N.T_PalmWoodMisc_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWoodMisc_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "56e241dfa6280785927cc4d84bbf0c9290e257f5932560396bd46437a2ad5c7c",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "e0e77663fac3dbf34b05ae639284f8f21d481ac02abf64e8af15d45a5376e35a",
+      "native_bytes": 5355751,
+      "path": "Textures/Environment/Trees/Textures/T_PalmWoodMisc_N.png",
+      "bytes": 5355751,
+      "sha256": "e0e77663fac3dbf34b05ae639284f8f21d481ac02abf64e8af15d45a5376e35a",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_PalmWoodMisc_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWoodMisc_R",
+      "source": {
+        "name": "T_PalmWoodMisc_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWoodMisc_R.T_PalmWoodMisc_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWoodMisc_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "df53850d5cd959d24f5706b749bfac3f00f7baed8cfdc0b51441237d84bb24b9",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "f345105e7570d0ee81db9435cd1689b39ccf85278ad4c464e58abc7fc2e9e2c4",
+      "native_bytes": 3755125,
+      "path": "Textures/Environment/Trees/Textures/T_PalmWoodMisc_R.png",
+      "bytes": 3755125,
+      "sha256": "f345105e7570d0ee81db9435cd1689b39ccf85278ad4c464e58abc7fc2e9e2c4",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_PalmWoodMisc_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWood_BC",
+      "source": {
+        "name": "T_PalmWood_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWood_BC.T_PalmWood_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWood_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "945b723243e2280c8fe4c1ee048e5655aedfde90b5ed8f45fa0f7bac5e234eca",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "767141526ffbaccc925a3546108ab69a8ec739b3a44a615a3436a4c820c892d9",
+      "native_bytes": 2038977,
+      "path": "Textures/Environment/Trees/Textures/T_PalmWood_BC.png",
+      "bytes": 2038977,
+      "sha256": "767141526ffbaccc925a3546108ab69a8ec739b3a44a615a3436a4c820c892d9",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_PalmWood_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWood_N",
+      "source": {
+        "name": "T_PalmWood_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWood_N.T_PalmWood_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWood_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "70bb2576063596787fda5a3c7faa78afd8e8cb1db303f35b8aca69dc53f605b6",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "4bef4feb68e97bb0baf2b813e8d7e6b69c43a47018c9aa88dec61b843a0f05f2",
+      "native_bytes": 3054297,
+      "path": "Textures/Environment/Trees/Textures/T_PalmWood_N.png",
+      "bytes": 3054297,
+      "sha256": "4bef4feb68e97bb0baf2b813e8d7e6b69c43a47018c9aa88dec61b843a0f05f2",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_PalmWood_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_PalmWood_R",
+      "source": {
+        "name": "T_PalmWood_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWood_R.T_PalmWood_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_PalmWood_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a5c0c3cdca7c8f267cfc90ee0c9db43412fa857d8b72671327db5fdd50eb0b71",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "82d666a2b38e6ca36975455ce8d617aa42bc7d7909d43b899b2fa0600c72138d",
+      "native_bytes": 1782299,
+      "path": "Textures/Environment/Trees/Textures/T_PalmWood_R.png",
+      "bytes": 1782299,
+      "sha256": "82d666a2b38e6ca36975455ce8d617aa42bc7d7909d43b899b2fa0600c72138d",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_PalmWood_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_PineBarkMisc_BC",
+      "source": {
+        "name": "T_PineBarkMisc_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_PineBarkMisc_BC.T_PineBarkMisc_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_PineBarkMisc_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a1ebc09a69f949c3afe50cc81ad3bdca747c5e20daa0dafcf2b0ca2f31733d19",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "04c5ea8db94bc55ed24b2d35dacf5dedf93e801f32b5eedd925d3e3eb4505388",
+      "native_bytes": 16800233,
+      "path": "Textures/Environment/Trees/Textures/T_PineBarkMisc_BC.png",
+      "bytes": 16800233,
+      "sha256": "04c5ea8db94bc55ed24b2d35dacf5dedf93e801f32b5eedd925d3e3eb4505388",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_PineBarkMisc_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_PineBark_BC",
+      "source": {
+        "name": "T_PineBark_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_PineBark_BC.T_PineBark_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_PineBark_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "97d2635ac41ed2d1c86b48de9235830c298866e7c35cd9385385423fc468b32e",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "b4fff9038331c37dfbc666cc903e79c612ae694f4209d45d0ed3344d245de099",
+      "native_bytes": 12326132,
+      "path": "Textures/Environment/Trees/Textures/T_PineBark_BC.png",
+      "bytes": 12326132,
+      "sha256": "b4fff9038331c37dfbc666cc903e79c612ae694f4209d45d0ed3344d245de099",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_PineBark_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_PineBark_N",
+      "source": {
+        "name": "T_PineBark_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_PineBark_N.T_PineBark_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_PineBark_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "cf13636878c97c7f679f9fd6f93f6905af6914e35cf4df40cb7dee46fd453bb8",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "f2be4bded50e5cd615e1ab6f42e6bac13856e6fb783c93b90f7ceb326d349a62",
+      "native_bytes": 21336801,
+      "path": "Textures/Environment/Trees/Textures/T_PineBark_N.png",
+      "bytes": 21336801,
+      "sha256": "f2be4bded50e5cd615e1ab6f42e6bac13856e6fb783c93b90f7ceb326d349a62",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_PineBark_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_PineBark_R",
+      "source": {
+        "name": "T_PineBark_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_PineBark_R.T_PineBark_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_PineBark_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d22e03eab7e4d6a56814c4ee44ac0a591f44145f9c789393e929029a02c3651d",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "dd77cb5597e266c20f5cef3ab36ed35a3f3db79850f931df4573f7947bdbc23a",
+      "native_bytes": 4360849,
+      "path": "Textures/Environment/Trees/Textures/T_PineBark_R.png",
+      "bytes": 4360849,
+      "sha256": "dd77cb5597e266c20f5cef3ab36ed35a3f3db79850f931df4573f7947bdbc23a",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_PineBark_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RedMapleBark_BC",
+      "source": {
+        "name": "T_RedMapleBark_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_RedMapleBark_BC.T_RedMapleBark_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_RedMapleBark_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e979d688dc1540da469897c7ce55bb3ad1038196ff19b84bd7b9c860b11e3fd6",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "2c18f0bb556b2e481a5e821196d0661055abca2af1ac92a8f3025cc5c08a7449",
+      "native_bytes": 9405629,
+      "path": "Textures/Environment/Trees/Textures/T_RedMapleBark_BC.png",
+      "bytes": 9405629,
+      "sha256": "2c18f0bb556b2e481a5e821196d0661055abca2af1ac92a8f3025cc5c08a7449",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_RedMapleBark_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RedMapleBark_N",
+      "source": {
+        "name": "T_RedMapleBark_N",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_RedMapleBark_N.T_RedMapleBark_N",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_RedMapleBark_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "389d870b04ae3aefefba75dc17063408c33cac55a7396f15bb94193d914653a5",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "afc050bad8e7240ad7fbfd65ae7181cbde629733aa1a111b7d26f2b8ea428d81",
+      "native_bytes": 29676766,
+      "path": "Textures/Environment/Trees/Textures/T_RedMapleBark_N.png",
+      "bytes": 29676766,
+      "sha256": "afc050bad8e7240ad7fbfd65ae7181cbde629733aa1a111b7d26f2b8ea428d81",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_RedMapleBark_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RedMapleBark_R",
+      "source": {
+        "name": "T_RedMapleBark_R",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_RedMapleBark_R.T_RedMapleBark_R",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_RedMapleBark_R",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "84c58efcb486549337ac8ddf62b3860733e69d59988f07a0f568d4e65e91814e",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "f8f149c22b48f6ea649cfad53dc62c10211e1c536f14359edc0390e904367a7f",
+      "native_bytes": 2736562,
+      "path": "Textures/Environment/Trees/Textures/T_RedMapleBark_R.png",
+      "bytes": 2736562,
+      "sha256": "f8f149c22b48f6ea649cfad53dc62c10211e1c536f14359edc0390e904367a7f",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_RedMapleBark_R.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

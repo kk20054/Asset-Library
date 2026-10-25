@@ -1,0 +1,707 @@
+{
+  "schema_version": 1,
+  "category": "Audio",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_S_TimeSkip",
+      "source": {
+        "name": "S_TimeSkip",
+        "path": "/Game/SoStylized/Sounds/Misc/S_TimeSkip.S_TimeSkip",
+        "package": "/Game/SoStylized/Sounds/Misc/S_TimeSkip",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ca0e9093a282f22643478ff359447aaed5238ee460f79ff691866e3c41f29a07",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "02ce0739e0be0f19b2e484fe8b6d280e5c2a306e41b0daba02aa3b909d8f4a5a",
+      "native_bytes": 1765860,
+      "path": "Audio/Sounds/Misc/S_TimeSkip.wav",
+      "bytes": 1765860,
+      "sha256": "02ce0739e0be0f19b2e484fe8b6d280e5c2a306e41b0daba02aa3b909d8f4a5a",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Misc/S_TimeSkip.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Step_Dirt01",
+      "source": {
+        "name": "S_Step_Dirt01",
+        "path": "/Game/SoStylized/Sounds/Step/S_Step_Dirt01.S_Step_Dirt01",
+        "package": "/Game/SoStylized/Sounds/Step/S_Step_Dirt01",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Step",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "71124f76d60c8f4321a90889edad71c7fcd983f56c22b6a7a37f0759675d0ab8",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0fdf61ac093cac725ed409ea19aab4513fbf363e763824586ed6028e50ec67a8",
+      "native_bytes": 82496,
+      "path": "Audio/Sounds/Step/S_Step_Dirt01.wav",
+      "bytes": 82496,
+      "sha256": "0fdf61ac093cac725ed409ea19aab4513fbf363e763824586ed6028e50ec67a8",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Step/S_Step_Dirt01.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Step_Dirt02",
+      "source": {
+        "name": "S_Step_Dirt02",
+        "path": "/Game/SoStylized/Sounds/Step/S_Step_Dirt02.S_Step_Dirt02",
+        "package": "/Game/SoStylized/Sounds/Step/S_Step_Dirt02",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Step",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "382553da882c74a1db00d2989e910d1563a4d46225ee3e8c2618b862e370829e",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6f61a5c8d319a3f1957ea76c330756a7ab54b7d908ccd242ed6ce3529826bacc",
+      "native_bytes": 76612,
+      "path": "Audio/Sounds/Step/S_Step_Dirt02.wav",
+      "bytes": 76612,
+      "sha256": "6f61a5c8d319a3f1957ea76c330756a7ab54b7d908ccd242ed6ce3529826bacc",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Step/S_Step_Dirt02.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Step_Dirt03",
+      "source": {
+        "name": "S_Step_Dirt03",
+        "path": "/Game/SoStylized/Sounds/Step/S_Step_Dirt03.S_Step_Dirt03",
+        "package": "/Game/SoStylized/Sounds/Step/S_Step_Dirt03",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Step",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "16f73f3efdf11f6dae4db564347f37ff9163322b96619190e3e9018f09f6298a",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5e7ad904e80fdecb7cb25584762258cfa01303b29efb9c727d32d0f0cc709eb8",
+      "native_bytes": 58952,
+      "path": "Audio/Sounds/Step/S_Step_Dirt03.wav",
+      "bytes": 58952,
+      "sha256": "5e7ad904e80fdecb7cb25584762258cfa01303b29efb9c727d32d0f0cc709eb8",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Step/S_Step_Dirt03.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Ambience_Lightning_Distant",
+      "source": {
+        "name": "S_Ambience_Lightning_Distant",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Ambience_Lightning_Distant.S_Ambience_Lightning_Distant",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Ambience_Lightning_Distant",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6342153322eccd5106f1a226f5202a3b75ae41a053ba6267bf4aaefae7e939c9",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b485a630ba18bc7b69900b230fd5ee891f06dc630475e68995567190cd5304b4",
+      "native_bytes": 18528844,
+      "path": "Audio/Sounds/Weather/S_Ambience_Lightning_Distant.wav",
+      "bytes": 18528844,
+      "sha256": "b485a630ba18bc7b69900b230fd5ee891f06dc630475e68995567190cd5304b4",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Ambience_Lightning_Distant.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Ambience_Nature",
+      "source": {
+        "name": "S_Ambience_Nature",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Ambience_Nature.S_Ambience_Nature",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Ambience_Nature",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5b11b48d2b0e9fbf6ad1042a6fe76950a77bd8d56813e0a30f407945afca24f5",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "348b21634cd138a65f268619a583d63d25ebe72692986e6bac4ebfa1e1b8552f",
+      "native_bytes": 2648736,
+      "path": "Audio/Sounds/Weather/S_Ambience_Nature.wav",
+      "bytes": 2648736,
+      "sha256": "348b21634cd138a65f268619a583d63d25ebe72692986e6bac4ebfa1e1b8552f",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Ambience_Nature.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Ambience_Nature_Night",
+      "source": {
+        "name": "S_Ambience_Nature_Night",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Ambience_Nature_Night.S_Ambience_Nature_Night",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Ambience_Nature_Night",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2f91e8ec12e54f78df186f823efb29dadf69bcce1b5f49f6955fc196d45b2623",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "09ed7ef68a6b37e24611602a23bce4ddbffd49aa32db47efb0f869860acd93b6",
+      "native_bytes": 3531624,
+      "path": "Audio/Sounds/Weather/S_Ambience_Nature_Night.wav",
+      "bytes": 3531624,
+      "sha256": "09ed7ef68a6b37e24611602a23bce4ddbffd49aa32db47efb0f869860acd93b6",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Ambience_Nature_Night.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Ambience_Wind",
+      "source": {
+        "name": "S_Ambience_Wind",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Ambience_Wind.S_Ambience_Wind",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Ambience_Wind",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "82f92ee84e2da9ede22bb01c3e0d4b778a6d2a5d3a0048f69b09587e3a5a196e",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5f035848884bf22477407bb91efab7becc529ff1f0ccffdace4b6aaa1d03ed00",
+      "native_bytes": 3531620,
+      "path": "Audio/Sounds/Weather/S_Ambience_Wind.wav",
+      "bytes": 3531620,
+      "sha256": "5f035848884bf22477407bb91efab7becc529ff1f0ccffdace4b6aaa1d03ed00",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Ambience_Wind.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Charge",
+      "source": {
+        "name": "S_Lightning_Charge",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Lightning_Charge.S_Lightning_Charge",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Lightning_Charge",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7d8208c6db5aaf81ee444b39fe0933626a719b5713094d1ac6fda29ae0b0fa65",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "8a02e9a9e34cb038c7a2c9ab7aa31b771ec1dece02b1b8ac3b46b05617113b72",
+      "native_bytes": 547484,
+      "path": "Audio/Sounds/Weather/S_Lightning_Charge.wav",
+      "bytes": 547484,
+      "sha256": "8a02e9a9e34cb038c7a2c9ab7aa31b771ec1dece02b1b8ac3b46b05617113b72",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Lightning_Charge.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Close01",
+      "source": {
+        "name": "S_Lightning_Close01",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Lightning_Close01.S_Lightning_Close01",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Lightning_Close01",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5548cc1c0935fcc6d981cef6364349dea2495f6c2f56ec270e0848495a685e2d",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "3b1faee885814c7ad3610c3ec30588bc60c05a3c89d8363bb7fd445146e7f7ba",
+      "native_bytes": 1294988,
+      "path": "Audio/Sounds/Weather/S_Lightning_Close01.wav",
+      "bytes": 1294988,
+      "sha256": "3b1faee885814c7ad3610c3ec30588bc60c05a3c89d8363bb7fd445146e7f7ba",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Lightning_Close01.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Close02",
+      "source": {
+        "name": "S_Lightning_Close02",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Lightning_Close02.S_Lightning_Close02",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Lightning_Close02",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d87cffa5908e241fac768942ac4aa6bbf8f5b93a6acc877f0429e177090f336f",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "135b928163ed432bdb469075e17abb6b4203bb8ab486ecb67d68a1ecbf10726f",
+      "native_bytes": 1294988,
+      "path": "Audio/Sounds/Weather/S_Lightning_Close02.wav",
+      "bytes": 1294988,
+      "sha256": "135b928163ed432bdb469075e17abb6b4203bb8ab486ecb67d68a1ecbf10726f",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Lightning_Close02.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Close03",
+      "source": {
+        "name": "S_Lightning_Close03",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Lightning_Close03.S_Lightning_Close03",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Lightning_Close03",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2865dc02b47cbbc9597a99e42478cf37dc690db3fb9b98fd2c231572d1f2893b",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1ebecc40ca9246e77cede40e12eb3f572ed27285b9745f7cb66eb7a945dd08e8",
+      "native_bytes": 1294988,
+      "path": "Audio/Sounds/Weather/S_Lightning_Close03.wav",
+      "bytes": 1294988,
+      "sha256": "1ebecc40ca9246e77cede40e12eb3f572ed27285b9745f7cb66eb7a945dd08e8",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Lightning_Close03.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Far01",
+      "source": {
+        "name": "S_Lightning_Far01",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Lightning_Far01.S_Lightning_Far01",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Lightning_Far01",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f452bfa00e3235c4d7a2c7f71b69213053d8a07bc6624f7c7348519e431cfc9d",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b7fab4541d5a6c5672c4fbc459fd6ebac5b3f1c4b7cbd5bf2bb68262873b8f4b",
+      "native_bytes": 1153728,
+      "path": "Audio/Sounds/Weather/S_Lightning_Far01.wav",
+      "bytes": 1153728,
+      "sha256": "b7fab4541d5a6c5672c4fbc459fd6ebac5b3f1c4b7cbd5bf2bb68262873b8f4b",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Lightning_Far01.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Far02",
+      "source": {
+        "name": "S_Lightning_Far02",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Lightning_Far02.S_Lightning_Far02",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Lightning_Far02",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6075b832cf6fbf97de9688b9023947e904c65367d3e0ab611051818a627cbfd8",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "d4442b2fdbe68b261ee05742c22ec5ec7bcf98d91cc3c358b2517080492a0cdf",
+      "native_bytes": 1294988,
+      "path": "Audio/Sounds/Weather/S_Lightning_Far02.wav",
+      "bytes": 1294988,
+      "sha256": "d4442b2fdbe68b261ee05742c22ec5ec7bcf98d91cc3c358b2517080492a0cdf",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Lightning_Far02.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Lightning_Far03",
+      "source": {
+        "name": "S_Lightning_Far03",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Lightning_Far03.S_Lightning_Far03",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Lightning_Far03",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "91f5172ab8aa3a22631ac852f516ad853945f09b43525857f67248071b8e8887",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "9b292a291a35edc415b2eb0a2cb2a016015006e6bd44cb00bf136fb981e7ab93",
+      "native_bytes": 1289104,
+      "path": "Audio/Sounds/Weather/S_Lightning_Far03.wav",
+      "bytes": 1289104,
+      "sha256": "9b292a291a35edc415b2eb0a2cb2a016015006e6bd44cb00bf136fb981e7ab93",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Lightning_Far03.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Rain_Gentle",
+      "source": {
+        "name": "S_Rain_Gentle",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Rain_Gentle.S_Rain_Gentle",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Rain_Gentle",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5d8284167b749772c8c8caf4a7f88d46bb743320f7fcdf6f0fdb644d0c210f79",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f2edc3948d8404ee67c8aac6704c7eb260b9ee697c5510f6bce445b773eb6e6c",
+      "native_bytes": 3531620,
+      "path": "Audio/Sounds/Weather/S_Rain_Gentle.wav",
+      "bytes": 3531620,
+      "sha256": "f2edc3948d8404ee67c8aac6704c7eb260b9ee697c5510f6bce445b773eb6e6c",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Rain_Gentle.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_S_Rain_Medium",
+      "source": {
+        "name": "S_Rain_Medium",
+        "path": "/Game/SoStylized/Sounds/Weather/S_Rain_Medium.S_Rain_Medium",
+        "package": "/Game/SoStylized/Sounds/Weather/S_Rain_Medium",
+        "class": "SoundWave"
+      },
+      "category": "Sounds/Weather",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "fa98f802efa0923afad02a8a464be43a32bd9a0b399328ca7ce2f18330f62241",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "64daffb9dce662f44f1ba0b2a463a45b5b40b4116985578df7f8a8cf88141f12",
+      "native_bytes": 2648740,
+      "path": "Audio/Sounds/Weather/S_Rain_Medium.wav",
+      "bytes": 2648740,
+      "sha256": "64daffb9dce662f44f1ba0b2a463a45b5b40b4116985578df7f8a8cf88141f12",
+      "material_readiness": {
+        "status": "native_wav_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native WAV; Unreal cues, attenuation and runtime audio behavior are not ported."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Audio",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Audio_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Audio/Sounds/Weather/S_Rain_Medium.wav",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

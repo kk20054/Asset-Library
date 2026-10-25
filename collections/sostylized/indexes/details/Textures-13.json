@@ -1,0 +1,963 @@
+{
+  "schema_version": 1,
+  "category": "Textures",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_T_WindsweptBark_BC",
+      "source": {
+        "name": "T_WindsweptBark_BC",
+        "path": "/Game/SoStylized/Environment/Trees/Textures/T_WindsweptBark_BC.T_WindsweptBark_BC",
+        "package": "/Game/SoStylized/Environment/Trees/Textures/T_WindsweptBark_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Trees/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9a9671444ecfcd288fa62e93803c91e357af59e9ef110d73299a97d042d0bec2",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "fc718fe43f29e0e9ea8eada2891ae7848475176bfb5c4a26e26b4df373b808b8",
+      "native_bytes": 14803228,
+      "path": "Textures/Environment/Trees/Textures/T_WindsweptBark_BC.png",
+      "bytes": 14803228,
+      "sha256": "fc718fe43f29e0e9ea8eada2891ae7848475176bfb5c4a26e26b4df373b808b8",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Trees/Textures/T_WindsweptBark_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RiverFlowLines",
+      "source": {
+        "name": "T_RiverFlowLines",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_RiverFlowLines.T_RiverFlowLines",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_RiverFlowLines",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "45d3fada82139c2f7017902d0e8652d9edc2128225cf13a3eb18e9011b5d92b3",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "ff0c18dd6e5ca85c514b353fb0ac9c674199ddcb1479b8e24c01fc936de50e5b",
+      "native_bytes": 41899,
+      "path": "Textures/Environment/Water/Textures/T_RiverFlowLines.png",
+      "bytes": 41899,
+      "sha256": "ff0c18dd6e5ca85c514b353fb0ac9c674199ddcb1479b8e24c01fc936de50e5b",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_RiverFlowLines.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Water1_D",
+      "source": {
+        "name": "T_Water1_D",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_Water1_D.T_Water1_D",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_Water1_D",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0f0fd8c8ae0251f7e34678ef8c1f41e938c08769ff44d5c59eb20ac416a841e2",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_GRAYSCALE: 3>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "72c0ee611998cae32075ecbe1725c28f96edab435e5b79a08787a4133ad3dc5b",
+      "native_bytes": 5340938,
+      "path": "Textures/Environment/Water/Textures/T_Water1_D.png",
+      "bytes": 5340938,
+      "sha256": "72c0ee611998cae32075ecbe1725c28f96edab435e5b79a08787a4133ad3dc5b",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_Water1_D.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Water1_N",
+      "source": {
+        "name": "T_Water1_N",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_Water1_N.T_Water1_N",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_Water1_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6a972f88ba3840088d18ddce4a1c7d90a75fe68c478536f4204b5739329c452c",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "888dcf231b77eee9d31a7a463880f87c0f8e6c26c154e79846ded64af915fbf6",
+      "native_bytes": 25564473,
+      "path": "Textures/Environment/Water/Textures/T_Water1_N.png",
+      "bytes": 25564473,
+      "sha256": "888dcf231b77eee9d31a7a463880f87c0f8e6c26c154e79846ded64af915fbf6",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_Water1_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Water2_D",
+      "source": {
+        "name": "T_Water2_D",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_Water2_D.T_Water2_D",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_Water2_D",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4f8fcaa2dbbeba263025f6390838b089dcf5cc2885c37692af4d03068bddbc07",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_GRAYSCALE: 3>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "145a1310ced38bc960aa20d262593c1592376dee50a26742e96a016232e530e8",
+      "native_bytes": 1808302,
+      "path": "Textures/Environment/Water/Textures/T_Water2_D.png",
+      "bytes": 1808302,
+      "sha256": "145a1310ced38bc960aa20d262593c1592376dee50a26742e96a016232e530e8",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_Water2_D.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Water2_N",
+      "source": {
+        "name": "T_Water2_N",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_Water2_N.T_Water2_N",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_Water2_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "cf9ecebd0d503a5577dcbc02f41e7601243bca4478a0a12b9a8b65c49d82b87e",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "94d81343ce756ef964e182be1ff22995b5e229baefd6e826544f19d4aea0d83f",
+      "native_bytes": 17389869,
+      "path": "Textures/Environment/Water/Textures/T_Water2_N.png",
+      "bytes": 17389869,
+      "sha256": "94d81343ce756ef964e182be1ff22995b5e229baefd6e826544f19d4aea0d83f",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_Water2_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Water3_D",
+      "source": {
+        "name": "T_Water3_D",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_Water3_D.T_Water3_D",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_Water3_D",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0f152d8f5d350a11800bc7bf1180b0fea8d95dcaf3b2d7f406089fad5ad98d3c",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_GRAYSCALE: 3>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "f10870c143a2c878894bb5b8eca4ca117cfcd596640fca72b9cd01d29a585b36",
+      "native_bytes": 1886538,
+      "path": "Textures/Environment/Water/Textures/T_Water3_D.png",
+      "bytes": 1886538,
+      "sha256": "f10870c143a2c878894bb5b8eca4ca117cfcd596640fca72b9cd01d29a585b36",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_Water3_D.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Water3_N",
+      "source": {
+        "name": "T_Water3_N",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_Water3_N.T_Water3_N",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_Water3_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2b67c11db9ea5fb0cd9ece8840f8c4e0ca414c278ca446bb4c5bde22cae89162",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "8fbc67835e4f83bd384e27281c3e0cd6c7d856d85a64c57e7c23f3d44e7a8e51",
+      "native_bytes": 24388975,
+      "path": "Textures/Environment/Water/Textures/T_Water3_N.png",
+      "bytes": 24388975,
+      "sha256": "8fbc67835e4f83bd384e27281c3e0cd6c7d856d85a64c57e7c23f3d44e7a8e51",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_Water3_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Water4_D",
+      "source": {
+        "name": "T_Water4_D",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_Water4_D.T_Water4_D",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_Water4_D",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c6915c7a0bcc8517325ed38b1f7827cee1f0d873a5e1b67a8df443b17b2a085e",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_GRAYSCALE: 3>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "f0ea0ae831b2c7eabdac29661ea7f4a207422b1ef03b6208625bd4c64b1b7ec9",
+      "native_bytes": 6646342,
+      "path": "Textures/Environment/Water/Textures/T_Water4_D.png",
+      "bytes": 6646342,
+      "sha256": "f0ea0ae831b2c7eabdac29661ea7f4a207422b1ef03b6208625bd4c64b1b7ec9",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_Water4_D.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Water4_N",
+      "source": {
+        "name": "T_Water4_N",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_Water4_N.T_Water4_N",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_Water4_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a864bc4a6f15e6038c25c6c8e0b9fc4f3a7872a4c6f5909652b8090933f2edb1",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "43eec44d2660a498b90895ea4466ac7961898dc9d34427aae58629d70ae4628d",
+      "native_bytes": 35402461,
+      "path": "Textures/Environment/Water/Textures/T_Water4_N.png",
+      "bytes": 35402461,
+      "sha256": "43eec44d2660a498b90895ea4466ac7961898dc9d34427aae58629d70ae4628d",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_Water4_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterAnime",
+      "source": {
+        "name": "T_WaterAnime",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_WaterAnime.T_WaterAnime",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_WaterAnime",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ff487c10672d257c3d8a15cf1cd4c32acbfc4702c1ea67d9c44ab73f35232a27",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "719f591c08cafda95a212fd27f3fc27473ee0f289f26ce0845eca925b0d6f336",
+      "native_bytes": 695293,
+      "path": "Textures/Environment/Water/Textures/T_WaterAnime.png",
+      "bytes": 695293,
+      "sha256": "719f591c08cafda95a212fd27f3fc27473ee0f289f26ce0845eca925b0d6f336",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_WaterAnime.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterAnime2",
+      "source": {
+        "name": "T_WaterAnime2",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_WaterAnime2.T_WaterAnime2",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_WaterAnime2",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f2e35f1578958490d11c62f141cf064b4fd137dbb98347fcb40c9fe7ff62ad2b",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "b82956e718491a48e5883684780d57bf026068d07b969d192a7c0086f7a0976d",
+      "native_bytes": 120752,
+      "path": "Textures/Environment/Water/Textures/T_WaterAnime2.png",
+      "bytes": 120752,
+      "sha256": "b82956e718491a48e5883684780d57bf026068d07b969d192a7c0086f7a0976d",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_WaterAnime2.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterCaustics",
+      "source": {
+        "name": "T_WaterCaustics",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_WaterCaustics.T_WaterCaustics",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_WaterCaustics",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "dd85bdd7eb041e20af9c4ba1f0a836b0899f4bb1f340a8aa4dc3d9d7f75f30b8",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "3cabb4aae5d19eec9e3c7c593b8d0e2f87ec0b9d0626ec9b64570b64cdc4f730",
+      "native_bytes": 16022390,
+      "path": "Textures/Environment/Water/Textures/T_WaterCaustics.png",
+      "bytes": 16022390,
+      "sha256": "3cabb4aae5d19eec9e3c7c593b8d0e2f87ec0b9d0626ec9b64570b64cdc4f730",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_WaterCaustics.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterFantasy",
+      "source": {
+        "name": "T_WaterFantasy",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_WaterFantasy.T_WaterFantasy",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_WaterFantasy",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2ba629f70bb13bf043314638e180ecd7cc3b6f0ea8c8d276a79dfc0652418989",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "257573b2ae5388bc30758f4dae4bd6c7fc580dad7af33818f4994e4b0c9f24d6",
+      "native_bytes": 4784339,
+      "path": "Textures/Environment/Water/Textures/T_WaterFantasy.png",
+      "bytes": 4784339,
+      "sha256": "257573b2ae5388bc30758f4dae4bd6c7fc580dad7af33818f4994e4b0c9f24d6",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_WaterFantasy.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_WaterParticle",
+      "source": {
+        "name": "T_WaterParticle",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_WaterParticle.T_WaterParticle",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_WaterParticle",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "04165ce2e2b600a5764adcf3256e3c35b1ffbb6053735807a587b52ac92f7083",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "76e036b796465515c01fb7c0429143ab752c7145f8344ad3b036ac30d8762645",
+      "native_bytes": 178313,
+      "path": "Textures/Environment/Water/Textures/T_WaterParticle.png",
+      "bytes": 178313,
+      "sha256": "76e036b796465515c01fb7c0429143ab752c7145f8344ad3b036ac30d8762645",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_WaterParticle.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Waterlines",
+      "source": {
+        "name": "T_Waterlines",
+        "path": "/Game/SoStylized/Environment/Water/Textures/T_Waterlines.T_Waterlines",
+        "package": "/Game/SoStylized/Environment/Water/Textures/T_Waterlines",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Water/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ce3814b754f11dc8ab92a0f122b7746ce5b83e2422eb40433016e47aef2e032c",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "5a808a2f653bddc457fa9d83ed074fd74974d484037ef8f38b82461274a2703c",
+      "native_bytes": 233876,
+      "path": "Textures/Environment/Water/Textures/T_Waterlines.png",
+      "bytes": 233876,
+      "sha256": "5a808a2f653bddc457fa9d83ed074fd74974d484037ef8f38b82461274a2703c",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Water/Textures/T_Waterlines.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_HorizontalGradient",
+      "source": {
+        "name": "T_HorizontalGradient",
+        "path": "/Game/SoStylized/Textures/Gradients/T_HorizontalGradient.T_HorizontalGradient",
+        "package": "/Game/SoStylized/Textures/Gradients/T_HorizontalGradient",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Gradients",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ff13d5f7b7cf170d7cffcb410ee7a4d386342917d8f1dbf63113fc3ea8f9fe98",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "ef9eaa160ac53b365268304b72467eb0c89e49912e552e7e9b1d7723fe82a174",
+      "native_bytes": 400,
+      "path": "Textures/Textures/Gradients/T_HorizontalGradient.png",
+      "bytes": 400,
+      "sha256": "ef9eaa160ac53b365268304b72467eb0c89e49912e552e7e9b1d7723fe82a174",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Gradients/T_HorizontalGradient.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_LinearGradient",
+      "source": {
+        "name": "T_LinearGradient",
+        "path": "/Game/SoStylized/Textures/Gradients/T_LinearGradient.T_LinearGradient",
+        "package": "/Game/SoStylized/Textures/Gradients/T_LinearGradient",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Gradients",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a26ef207e7ebfa335e1969d64ff10e70c32c973ddd6053697435eceb493f53d6",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "63b78ac93affbcb63abb0b6ab75ccba1fc5670a1c2a500a0b41b670ad8954f3e",
+      "native_bytes": 201578,
+      "path": "Textures/Textures/Gradients/T_LinearGradient.png",
+      "bytes": 201578,
+      "sha256": "63b78ac93affbcb63abb0b6ab75ccba1fc5670a1c2a500a0b41b670ad8954f3e",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Gradients/T_LinearGradient.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RainbowGradient",
+      "source": {
+        "name": "T_RainbowGradient",
+        "path": "/Game/SoStylized/Textures/Gradients/T_RainbowGradient.T_RainbowGradient",
+        "package": "/Game/SoStylized/Textures/Gradients/T_RainbowGradient",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Gradients",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "183a8de30c0c6b246d6167938edcf4c12738c74df4563982c982e1b829c0d84b",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "25179eb842a5e52171d14cf3807948711ae9ab5299e7edeff9112387d9e9d16b",
+      "native_bytes": 645293,
+      "path": "Textures/Textures/Gradients/T_RainbowGradient.png",
+      "bytes": 645293,
+      "sha256": "25179eb842a5e52171d14cf3807948711ae9ab5299e7edeff9112387d9e9d16b",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Gradients/T_RainbowGradient.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_VerticalGradient",
+      "source": {
+        "name": "T_VerticalGradient",
+        "path": "/Game/SoStylized/Textures/Gradients/T_VerticalGradient.T_VerticalGradient",
+        "package": "/Game/SoStylized/Textures/Gradients/T_VerticalGradient",
+        "class": "Texture2D"
+      },
+      "category": "Textures/Gradients",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "490d456bf4419782de310d85626208d5fd0d82fc76d0cb8e10a836f7f1a91c91",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "5a4119780c8e6001a890c418ea5fd5170f84b789ca5bca789d962fb54cbdc9a6",
+      "native_bytes": 425,
+      "path": "Textures/Textures/Gradients/T_VerticalGradient.png",
+      "bytes": 425,
+      "sha256": "5a4119780c8e6001a890c418ea5fd5170f84b789ca5bca789d962fb54cbdc9a6",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Textures/Gradients/T_VerticalGradient.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

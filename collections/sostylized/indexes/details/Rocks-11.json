@@ -1,0 +1,1793 @@
+{
+  "schema_version": 1,
+  "category": "Rocks",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock12",
+      "source": {
+        "name": "SM_RockDesert_Rock12",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Rock12.SM_RockDesert_Rock12",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Rock12",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "fad09c7632ce9c79a4cc0c094d0092f39f64c1960b122005cbc29bfbcb80f3e7",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Rocks.MI_RockDesert_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a247dc8443aa192e71f1144e807ef16f1b868c37365429d5109e91245f003fbe",
+      "native_bytes": 2770180,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Rocks_SM_RockDesert_Rock12",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 406,
+      "scene_triangles": 406,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -1.4527018070220947,
+          -0.6353763937950134,
+          -1.1426283121109009
+        ],
+        "max": [
+          1.1881635189056396,
+          1.0861526727676392,
+          1.3416285514831543
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock12.glb",
+      "bytes": 2770152,
+      "sha256": "6240ad0438c50787a0e443516c7fbb6f3939361983ee2cc75216e3d924f21443",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Rock12.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock13",
+      "source": {
+        "name": "SM_RockDesert_Rock13",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Rock13.SM_RockDesert_Rock13",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Rock13",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "25a621a07a4ee273a6ba7270c2242c695092b582f27b70e9fa9180c31d06de2c",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Rocks.MI_RockDesert_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "1ab3d37acd97c536f5447f46a087617b3ffcda3d56a48aceca92ab5eace31d62",
+      "native_bytes": 2231780,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Rocks_SM_RockDesert_Rock13",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 234,
+      "scene_triangles": 234,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -1.764784336090088,
+          -0.55479496717453,
+          -1.3228119611740112
+        ],
+        "max": [
+          1.6331582069396973,
+          1.5523508787155151,
+          1.651186466217041
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock13.glb",
+      "bytes": 2231756,
+      "sha256": "ef51175c5cdb7b9931a794a1ef29485a201aa4d2a5aa76619398f31516de9239",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Rock13.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock14",
+      "source": {
+        "name": "SM_RockDesert_Rock14",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Rock14.SM_RockDesert_Rock14",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Rock14",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6036f905aff8c416bffdd31c0d0c6850428f80e031e7fbfc8de3a17358e2852b",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Rocks.MI_RockDesert_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "496ada0b8ed96f915ec6ea9cf2ff883ea4e32141a4f0f5a1febdb3a6f5db8d0f",
+      "native_bytes": 2620996,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Rocks_SM_RockDesert_Rock14",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 486,
+      "scene_triangles": 486,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -1.953237771987915,
+          -0.7095800042152405,
+          -1.9159917831420898
+        ],
+        "max": [
+          1.8387328386306763,
+          1.4601943492889404,
+          1.8188484907150269
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock14.glb",
+      "bytes": 2620968,
+      "sha256": "e55d871e34c147b21cce267ccaf38b102aa69eaca7e04146413fe2e917f852e0",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Rock14.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock15",
+      "source": {
+        "name": "SM_RockDesert_Rock15",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Rock15.SM_RockDesert_Rock15",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Rock15",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "336a2bd3fd137342ed92e1703d83019a1966056e939e4bebed64f3115209b40b",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Rocks.MI_RockDesert_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ff3b332e875cfbd200005b3e3486b7c4fcb2a7ebbb71bce0cdf484f14f67a643",
+      "native_bytes": 2819888,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Rocks_SM_RockDesert_Rock15",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 530,
+      "scene_triangles": 530,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -2.3626742362976074,
+          -0.5182128548622131,
+          -1.6482383012771606
+        ],
+        "max": [
+          2.107534408569336,
+          1.6761813163757324,
+          2.136460542678833
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock15.glb",
+      "bytes": 2819860,
+      "sha256": "407e550f2dcd97f5b12e46517293430d672f2c30479412c4718696389d000e3a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Rock15.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Rock16",
+      "source": {
+        "name": "SM_RockDesert_Rock16",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Rock16.SM_RockDesert_Rock16",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Rock16",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5aa5818966333fce5c8e4c82cd6ce032ae1d3959fd0061e144dce1b05276b030",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Rocks.MI_RockDesert_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0b592d86ccea622a0e3291127cc52b69b4e5ca171d874423441e76c536ede361",
+      "native_bytes": 3090176,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Rocks_SM_RockDesert_Rock16",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 534,
+      "scene_triangles": 534,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -2.5126795768737793,
+          -0.9093005657196045,
+          -2.634530544281006
+        ],
+        "max": [
+          2.397138833999634,
+          1.9635049104690552,
+          2.6511917114257812
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_emissive_strength"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Rock16.glb",
+      "bytes": 3090148,
+      "sha256": "ae001b70ca106a05db5ba465e4805edb90f8c2ec5633405f6f49c7def53ae18f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Rock16.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf01",
+      "source": {
+        "name": "SM_RockDesert_Shelf01",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf01.SM_RockDesert_Shelf01",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7dfecd3d663e41e394733523e724d682da062354b4d08396378903dd9e95d556",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Shelves.MI_RockDesert_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "7b353be698c46abb39ea4b58cc45fa428b0e9b8c5f4d4ea6f442d93dcf2303ab",
+      "native_bytes": 4310040,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Shelves_SM_RockDesert_Shelf01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 856,
+      "scene_triangles": 856,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -10.979085922241211,
+          -2.0494117736816406,
+          -8.404850006103516
+        ],
+        "max": [
+          10.00523567199707,
+          8.7045259475708,
+          10.284722328186035
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf01.glb",
+      "bytes": 4310016,
+      "sha256": "ac57ff22ed3bbcdb73840d442bcb5e8e85954cfc65aa7cca16e428782f9701a4",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Shelf01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf02",
+      "source": {
+        "name": "SM_RockDesert_Shelf02",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf02.SM_RockDesert_Shelf02",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7ab7d25651559d29bda122a26d72e8950668ce031eb6ad226416533a105fc3d9",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Shelves.MI_RockDesert_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f9ace165bfe347434997339478f2e3b78376cce20692834e7a4991713070acfc",
+      "native_bytes": 4465544,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Shelves_SM_RockDesert_Shelf02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 684,
+      "scene_triangles": 684,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -9.61582088470459,
+          -2.397266387939453,
+          -11.022954940795898
+        ],
+        "max": [
+          9.823295593261719,
+          9.33847427368164,
+          11.355901718139648
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf02.glb",
+      "bytes": 4465516,
+      "sha256": "3bdc96536c3eda44bba780157d0134f35f02c2f43015f4a230a108ca8745a0a9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Shelf02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf03",
+      "source": {
+        "name": "SM_RockDesert_Shelf03",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf03.SM_RockDesert_Shelf03",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "83c822d5751b95025f8f115b06a367f641fdbf08feb9954eec84531a692387cc",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Shelves.MI_RockDesert_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a1e18aac51b21fd665129e873df28ea34d506e9fd6ae66141d814a17b896b940",
+      "native_bytes": 4149348,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Shelves_SM_RockDesert_Shelf03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 820,
+      "scene_triangles": 820,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -10.24940013885498,
+          -1.53533136844635,
+          -11.232319831848145
+        ],
+        "max": [
+          12.351640701293945,
+          9.160421371459961,
+          7.904506683349609
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf03.glb",
+      "bytes": 4149324,
+      "sha256": "5ce99b8e1904d1b8a023b2fbd63603c551cbdba72ef98bd6112c7bf29d9cbebc",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Shelf03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf04",
+      "source": {
+        "name": "SM_RockDesert_Shelf04",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf04.SM_RockDesert_Shelf04",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "257a32e1e3e0ec4b24fd5513b323321da451eeb1b01f14dfc426f6a8d50ea2a9",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Shelves.MI_RockDesert_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e4664cb263aa5a3618ecc2a4415b00ab0409add1d3150611ae0a32a345aa2225",
+      "native_bytes": 4160240,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Shelves_SM_RockDesert_Shelf04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 568,
+      "scene_triangles": 568,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -11.094549179077148,
+          -1.7155110836029053,
+          -11.021346092224121
+        ],
+        "max": [
+          11.195942878723145,
+          8.909445762634277,
+          10.984906196594238
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf04.glb",
+      "bytes": 4160212,
+      "sha256": "ec81425677a7350f6de316d51c9b1b7fd11b87590b2a35ecdcce2b7b9c316d22",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Shelf04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf05",
+      "source": {
+        "name": "SM_RockDesert_Shelf05",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf05.SM_RockDesert_Shelf05",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f8cb22d1b6e578b9c0e18433d104e98a15ee89f01ed3c89e485acf62419a84de",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Shelves.MI_RockDesert_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "7c38ca35d23a9f3f6c867a15a9e97a19f81e876360a01cfba368f25f3e8b8678",
+      "native_bytes": 4047784,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Shelves_SM_RockDesert_Shelf05",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 536,
+      "scene_triangles": 536,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -12.576919555664062,
+          -2.5388386249542236,
+          -12.585768699645996
+        ],
+        "max": [
+          14.202712059020996,
+          8.738462448120117,
+          12.966252326965332
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf05.glb",
+      "bytes": 4047756,
+      "sha256": "8975db69e4081691418ac4f5d5de12b8ddb88c430a57c34645207ea6b5d8628b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Shelf05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf06",
+      "source": {
+        "name": "SM_RockDesert_Shelf06",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf06.SM_RockDesert_Shelf06",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf06",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "679ead309348699e04b9786ee0bdb09a521c0f8d61d6706726fe3bbf0e176823",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Shelves.MI_RockDesert_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "958af680b2de3526afda0192f17c2dd7721732fd23c616055e92150d7ba7eb07",
+      "native_bytes": 3953664,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Shelves_SM_RockDesert_Shelf06",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 542,
+      "scene_triangles": 542,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -13.051934242248535,
+          -11.958194732666016,
+          -12.853975296020508
+        ],
+        "max": [
+          12.90163803100586,
+          12.469295501708984,
+          9.991634368896484
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf06.glb",
+      "bytes": 3953636,
+      "sha256": "6871bd5aaf424cbf6ad7418bf32e8b224ba97bd491e487b329be2f49ab693b35",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Shelf06.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf07",
+      "source": {
+        "name": "SM_RockDesert_Shelf07",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf07.SM_RockDesert_Shelf07",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf07",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3cd0ef912f6aaa0eb1202ccb89c6af4e16e546e0d8fb77dbd040993d48312859",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Shelves.MI_RockDesert_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5f1c312ca896e5e3f6fccd2b0453f39b8b5775083b17867e78dd62613cb7bf07",
+      "native_bytes": 4295456,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Shelves_SM_RockDesert_Shelf07",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 482,
+      "scene_triangles": 482,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -10.794151306152344,
+          -11.9317626953125,
+          -11.763751983642578
+        ],
+        "max": [
+          11.383017539978027,
+          12.820039749145508,
+          10.004925727844238
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf07.glb",
+      "bytes": 4295428,
+      "sha256": "cfc910e1315c2d193343d1ba7efc5b8f645f184d79d5279e631bd7e20a633a53",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Shelf07.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf08",
+      "source": {
+        "name": "SM_RockDesert_Shelf08",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf08.SM_RockDesert_Shelf08",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf08",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d18e3a104a0099a4af7082dedbdf4f16d14bfbe4ff947025863bc10e54e72026",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Shelves.MI_RockDesert_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a36988cfb9c60d6118374d586171afceb16c16b94e946292879139e93a7243cb",
+      "native_bytes": 4360484,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Shelves_SM_RockDesert_Shelf08",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 542,
+      "scene_triangles": 542,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -13.460480690002441,
+          -11.74714183807373,
+          -9.753982543945312
+        ],
+        "max": [
+          15.6522798538208,
+          12.379679679870605,
+          9.904718399047852
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf08.glb",
+      "bytes": 4360456,
+      "sha256": "33e5f03243047b11097d4b94a05734d3e1253416143251782476bd067fc7b707",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Shelf08.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf09",
+      "source": {
+        "name": "SM_RockDesert_Shelf09",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf09.SM_RockDesert_Shelf09",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf09",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e75a938a3064bbbb19a3d45b7ff166bbcd40e5ea46d53c89e3a065c99556de22",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Shelves.MI_RockDesert_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "003ac91c349860ee2bcbcd4422ab532907ee776c20068ca6a11bb86f6d6c0587",
+      "native_bytes": 4074456,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Shelves_SM_RockDesert_Shelf09",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 640,
+      "scene_triangles": 640,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -12.011326789855957,
+          -11.661761283874512,
+          -9.950185775756836
+        ],
+        "max": [
+          13.275614738464355,
+          12.395722389221191,
+          10.312287330627441
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf09.glb",
+      "bytes": 4074428,
+      "sha256": "498d45dcdbd5c48476a1e277be4477653937ca2181a78afe01dab41e456d2598",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Shelf09.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDesert_Shelf10",
+      "source": {
+        "name": "SM_RockDesert_Shelf10",
+        "path": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf10.SM_RockDesert_Shelf10",
+        "package": "/Game/SoStylized/Environment/Rocks/Desert/SM_RockDesert_Shelf10",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4adc52e09e44266ea7dee3af7e676351839027582923dabe62e58ac7db73dfb3",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockDesert",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Desert/MI_RockDesert_Shelves.MI_RockDesert_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "028d8396d7733e65fc355c70ef2014f833e5d8f04835872f56da77330df6e8a0",
+      "native_bytes": 4311132,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDesert_Shelves_SM_RockDesert_Shelf10",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 746,
+      "scene_triangles": 746,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -16.768009185791016,
+          -11.810932159423828,
+          -10.993847846984863
+        ],
+        "max": [
+          17.14807891845703,
+          12.911989212036133,
+          12.611685752868652
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Desert/SM_RockDesert_Shelf10.glb",
+      "bytes": 4311108,
+      "sha256": "e82fe573fdcd2666297e5fb5414c7f21ffa9a4f4828314800df9f9fc5e2bdb5f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Desert/SM_RockDesert_Shelf10.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece01",
+      "source": {
+        "name": "SM_RockHexic_Piece01",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Piece01.SM_RockHexic_Piece01",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Piece01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "25f538a6e3758a81bb4e597d6e25ae027294ab2f89400a4bdb6869439a679a90",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Pieces",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Pieces.MI_RockHexic_Pieces"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c93b660d86d7f4fa919c515c958307d80fa5642d612ac8ef8981d521a2614acc",
+      "native_bytes": 2439696,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Pieces_SM_RockHexic_Piece01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 44,
+      "scene_triangles": 44,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.8022092580795288,
+          -0.9999998807907104,
+          -1.56075918674469
+        ],
+        "max": [
+          1.8022092580795288,
+          1.0,
+          1.56075918674469
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece01.glb",
+      "bytes": 2439672,
+      "sha256": "c2d2bba85cfcb56346af3f6c6b67c61270a5628f2b0ddf8cbbde6b221c348942",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Piece01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece02",
+      "source": {
+        "name": "SM_RockHexic_Piece02",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Piece02.SM_RockHexic_Piece02",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Piece02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9893de86fb54e363eee00d3b0e93db7db4090d0da355d534cce0bde58003d737",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Pieces",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Pieces.MI_RockHexic_Pieces"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6ca9dff745c5de4d6a21e2a4f91970274b542a89876647264c6ccdc4374cb46f",
+      "native_bytes": 2356180,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Pieces_SM_RockHexic_Piece02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 44,
+      "scene_triangles": 44,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.8022079467773438,
+          -2.743123769760132,
+          -1.56075918674469
+        ],
+        "max": [
+          1.802210807800293,
+          2.7431249618530273,
+          1.5607590675354004
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece02.glb",
+      "bytes": 2356156,
+      "sha256": "7814f0c2b5be6f7c268b98a600cf22d98020ba18526e0fa1c4cc613fdd80dd96",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Piece02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece03",
+      "source": {
+        "name": "SM_RockHexic_Piece03",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Piece03.SM_RockHexic_Piece03",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Piece03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "32d8eb5a83fae9ce2505bebcf9dba4cc341f0d3bd129a381b466a5474639fb9b",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Pieces",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Pieces.MI_RockHexic_Pieces"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "27c21eaa5c833bb8ea3d077b5bd93a4969e0eb0e75267dd6e91a8c18be12c9a6",
+      "native_bytes": 2400864,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Pieces_SM_RockHexic_Piece03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 44,
+      "scene_triangles": 44,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.8022069931030273,
+          -5.706309795379639,
+          -1.5607590675354004
+        ],
+        "max": [
+          1.8022117614746094,
+          5.706310749053955,
+          1.56075918674469
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece03.glb",
+      "bytes": 2400836,
+      "sha256": "554eb41617911e46af771dfa91a6d30e9566b1cdfc91a59d1c0e3913050e9993",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Piece03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece04",
+      "source": {
+        "name": "SM_RockHexic_Piece04",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Piece04.SM_RockHexic_Piece04",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Piece04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f6dc5e6b0cd1aa9bcfc1493113cd01cfa382111bde88e3b2f45ee7e62706bb4f",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Pieces",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Pieces.MI_RockHexic_Pieces"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "569cd09de7b437cf19830c8ca385d50a85b00554eb8cc14e66bf7ec44819ee06",
+      "native_bytes": 2474432,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Pieces_SM_RockHexic_Piece04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 44,
+      "scene_triangles": 44,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.8022098541259766,
+          -9.437789916992188,
+          -1.5607589483261108
+        ],
+        "max": [
+          1.8022079467773438,
+          9.437790870666504,
+          1.5607595443725586
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece04.glb",
+      "bytes": 2474408,
+      "sha256": "5a499f32c8a67f8595f9b52db80237bff565c4990f7cb360e04d9affd9acb676",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Piece04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockHexic_Piece05",
+      "source": {
+        "name": "SM_RockHexic_Piece05",
+        "path": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Piece05.SM_RockHexic_Piece05",
+        "package": "/Game/SoStylized/Environment/Rocks/Hexic/SM_RockHexic_Piece05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Hexic",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "262a5932b64764aa24e45de89299f1d9080cb12b78cbc58d59c5a9180062e76b",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockHexic_Pieces",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Hexic/MI_RockHexic_Pieces.MI_RockHexic_Pieces"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "504e497e2ec1ebce8422159ff62c9ef1b12c3a03da2fef868dd7d2bc67714074",
+      "native_bytes": 2289292,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockHexic_Pieces_SM_RockHexic_Piece05",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 44,
+      "scene_triangles": 44,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -1.8022079467773438,
+          -17.515527725219727,
+          -1.5607590675354004
+        ],
+        "max": [
+          1.8022117614746094,
+          17.515535354614258,
+          1.5607599020004272
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Hexic/SM_RockHexic_Piece05.glb",
+      "bytes": 2289264,
+      "sha256": "5c910443b2db2bc4489b1c8a7fd562644c86b05d9a8f2a6737ebfd29796213d5",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Hexic/SM_RockHexic_Piece05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

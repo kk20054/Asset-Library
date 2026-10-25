@@ -1,0 +1,51 @@
+{
+  "scope": "Exactly SM_OakTree1.glb and SM_OakFallen1_SnowCover.glb; one oblique view each; native before UV normalization. No family or runtime acceptance.",
+  "renderer": {
+    "blender": "5.2.2 LTS",
+    "engine": "CYCLES",
+    "device": "CPU",
+    "threads": 4,
+    "samples": 16,
+    "exit_code": 0
+  },
+  "render_errors": [],
+  "source_hashes": [
+    {
+      "name": "SM_OakTree1",
+      "sha256": "6be6ff022d22990caabb7a2eb572a8ac3600be98e9c943bf47c6df0e659c6775",
+      "source_unchanged": true
+    },
+    {
+      "name": "SM_OakFallen1_SnowCover",
+      "sha256": "a0d3c0980c59e6c7ad621789e508ae1ae51b1776f50baabe485f3ea2f57c34b1",
+      "source_unchanged": true
+    }
+  ],
+  "reviewed_images": [
+    "oak-contact-sheet.png"
+  ],
+  "observations": [
+    {
+      "name": "SM_OakTree1",
+      "verdict": "visibly_broken_static_material_requires_review",
+      "ordinary_ready": false,
+      "visible": "Tree silhouette, bark and many green cutout leaves are discernible. Several crown clusters contain broad near-black card/polygon regions that remain conspicuous under the neutral lit CPU setup.",
+      "warning_context": [
+        "Export reported severe overlapping lightmap UVs / max index(-1), handled separately by parent.",
+        "Leaf subsurface material fell back to DefaultLit."
+      ],
+      "cause_status": "The image demonstrates a visible problem, but does not isolate UV bake overlap, source shader or loss of foliage subsurface response. No repair or threshold bypass attempted."
+    },
+    {
+      "name": "SM_OakFallen1_SnowCover",
+      "verdict": "static_shape_visibly_usable_in_this_view",
+      "ordinary_ready": "pending_separate_structural_validation",
+      "visible": "Fallen branching log shape, brown wood undersides, cut branch ends and white/cool snow volume are visible. No broad black material regions are apparent in this single view.",
+      "limits": "This does not confirm all sides, all oak/snow assets, original Unreal shader fidelity, wind or weather behavior."
+    }
+  ],
+  "actions": "Keep OakTree1 out of ordinary visually-ready listing until the black leaf regions are reviewed. Preserve source GLBs. SnowCover may retain a limited single-item static-preview observation subject to the parent structural/index check.",
+  "image_kind": "Converted native GLB Blender CPU preview, not original Unreal screenshot",
+  "full_catalog": "../catalog.json",
+  "subsequent_structural_validation": "../validation/glb-format.json"
+}

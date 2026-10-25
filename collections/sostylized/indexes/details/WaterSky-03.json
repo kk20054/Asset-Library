@@ -1,0 +1,563 @@
+{
+  "schema_version": 1,
+  "category": "WaterSky",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_Waterfall7",
+      "source": {
+        "name": "SM_Waterfall7",
+        "path": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall7.SM_Waterfall7",
+        "package": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall7",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Waterfalls",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "acfd89e3b51fbfc049192a42f57ac79fa55b158d951eb1d997c4cdb8e86d3ffb",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Waterfall7 (section ), this may not be supported on some glTF viewers",
+        "In material MI_Waterfall_Classic : The Refraction property is using non const value. Avarage const value approximation is used as the glTF 2.0 standard only supports const value for said property (via khr_materials_ior)."
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Waterfall",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic.MI_Waterfall_Classic"
+        },
+        {
+          "slot": "M_WaterWaves",
+          "path": "/Game/SoStylized/Environment/Water/Materials/MI_WaterWaves.MI_WaterWaves"
+        },
+        {
+          "slot": "MI_Waterfall_Classic_Masked",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic_Masked.MI_Waterfall_Classic_Masked"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "3424afecaa548c807349719e3ed7de8ceb9bcecf791d9dd5fcb80e8945e735bd",
+      "native_bytes": 226576,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Waterfall_Classic_SM_Waterfall7",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WaterWaves",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 208,
+      "scene_triangles": 208,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -13.678539276123047,
+          -0.1014556735754013,
+          -9.313467979431152
+        ],
+        "max": [
+          13.678547859191895,
+          18.074434280395508,
+          8.80344295501709
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Waterfalls/SM_Waterfall7.glb",
+      "bytes": 226548,
+      "sha256": "f8859fb9e95499e16cc625f8d8f927b5c73b3bb8bb4cad132388f50e30346a22",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall7.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Waterfall8",
+      "source": {
+        "name": "SM_Waterfall8",
+        "path": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall8.SM_Waterfall8",
+        "package": "/Game/SoStylized/Environment/Water/Waterfalls/SM_Waterfall8",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Waterfalls",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "188c50720d10782b35b0c3b2a6f3c69b05bd0a48ba8e4b21492647f0e599fa1d",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Waterfall8 (section ), this may not be supported on some glTF viewers",
+        "In material MI_Waterfall_Classic : The Refraction property is using non const value. Avarage const value approximation is used as the glTF 2.0 standard only supports const value for said property (via khr_materials_ior)."
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Waterfall",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic.MI_Waterfall_Classic"
+        },
+        {
+          "slot": "M_WaterWaves",
+          "path": "/Game/SoStylized/Environment/Water/Materials/MI_WaterWaves.MI_WaterWaves"
+        },
+        {
+          "slot": "MI_Waterfall_Classic_Masked",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic_Masked.MI_Waterfall_Classic_Masked"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a89500c16861e42a85384546ea96a770bf88f07a375efbea003851c01f2c8042",
+      "native_bytes": 201756,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Waterfall_Classic_SM_Waterfall8",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WaterWaves",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 144,
+      "scene_triangles": 144,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -5.6623430252075195,
+          -0.022102436050772667,
+          -5.748678684234619
+        ],
+        "max": [
+          5.236361503601074,
+          43.218074798583984,
+          4.707395076751709
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Waterfalls/SM_Waterfall8.glb",
+      "bytes": 201732,
+      "sha256": "6d1779aa618818b4f46721442a891754ea8b13b6f1ca58ad30bf6ff8af6589cf",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall8.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterfallSplit1",
+      "source": {
+        "name": "SM_WaterfallSplit1",
+        "path": "/Game/SoStylized/Environment/Water/Waterfalls/SM_WaterfallSplit1.SM_WaterfallSplit1",
+        "package": "/Game/SoStylized/Environment/Water/Waterfalls/SM_WaterfallSplit1",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Waterfalls",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ec656750c9b258ff136a4a01a905b893bd9a2c7df405fe7e718ba5679ef496aa",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_WaterfallSplit1 (section ), this may not be supported on some glTF viewers",
+        "In material MI_Waterfall_Classic : The Refraction property is using non const value. Avarage const value approximation is used as the glTF 2.0 standard only supports const value for said property (via khr_materials_ior)."
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Waterfall",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic.MI_Waterfall_Classic"
+        },
+        {
+          "slot": "M_WaterWaves",
+          "path": "/Game/SoStylized/Environment/Water/Materials/MI_WaterWaves.MI_WaterWaves"
+        },
+        {
+          "slot": "MI_Waterfall_Classic_Masked",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic_Masked.MI_Waterfall_Classic_Masked"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "a7bb66898657f1b851c49605e1e78441aba6db0ba403bb7a0e29734a03790a4d",
+      "native_bytes": 221556,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Waterfall_Classic_SM_WaterfallSplit1",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WaterWaves",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 220,
+      "scene_triangles": 220,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -8.814702033996582,
+          -0.026455199345946312,
+          -4.05127477645874
+        ],
+        "max": [
+          8.814703941345215,
+          3.796542167663574,
+          5.163502216339111
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Waterfalls/SM_WaterfallSplit1.glb",
+      "bytes": 221532,
+      "sha256": "e11a627c84ec263c2eab7102f0b1799927b6eaf51d0c4fc1951858526952db95",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_WaterfallSplit1.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterfallSplit2",
+      "source": {
+        "name": "SM_WaterfallSplit2",
+        "path": "/Game/SoStylized/Environment/Water/Waterfalls/SM_WaterfallSplit2.SM_WaterfallSplit2",
+        "package": "/Game/SoStylized/Environment/Water/Waterfalls/SM_WaterfallSplit2",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Waterfalls",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6b50bf71fd3546e0a865be281ae78719cd4d35b8b23ab3a12e2b819b6ecb85c1",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_WaterfallSplit2 (section ), this may not be supported on some glTF viewers",
+        "In material MI_Waterfall_Classic : The Refraction property is using non const value. Avarage const value approximation is used as the glTF 2.0 standard only supports const value for said property (via khr_materials_ior)."
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Waterfall",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic.MI_Waterfall_Classic"
+        },
+        {
+          "slot": "M_WaterWaves",
+          "path": "/Game/SoStylized/Environment/Water/Materials/MI_WaterWaves.MI_WaterWaves"
+        },
+        {
+          "slot": "MI_Waterfall_Classic_Masked",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic_Masked.MI_Waterfall_Classic_Masked"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "69389e28652e88cf9637647f0a31e4bf556b77d96372e69ef02566c88bf7f519",
+      "native_bytes": 241460,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Waterfall_Classic_SM_WaterfallSplit2",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WaterWaves",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 294,
+      "scene_triangles": 294,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -6.403069496154785,
+          -1.0186264489675523e-06,
+          -5.0
+        ],
+        "max": [
+          6.403069972991943,
+          6.79041051864624,
+          5.078192234039307
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Waterfalls/SM_WaterfallSplit2.glb",
+      "bytes": 241436,
+      "sha256": "18deb17110ccd445dde6917e3048821771ba35d16e6be07b336d91444d03df06",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_WaterfallSplit2.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WaterfallSplit3",
+      "source": {
+        "name": "SM_WaterfallSplit3",
+        "path": "/Game/SoStylized/Environment/Water/Waterfalls/SM_WaterfallSplit3.SM_WaterfallSplit3",
+        "package": "/Game/SoStylized/Environment/Water/Waterfalls/SM_WaterfallSplit3",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Water/Waterfalls",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d9b756b3dee561778a2c5b67542af53813cc62ec0874f6a0232364e23a72abd8",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_WaterfallSplit3 (section ), this may not be supported on some glTF viewers",
+        "In material MI_Waterfall_Classic : The Refraction property is using non const value. Avarage const value approximation is used as the glTF 2.0 standard only supports const value for said property (via khr_materials_ior)."
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Waterfall",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic.MI_Waterfall_Classic"
+        },
+        {
+          "slot": "M_WaterWaves",
+          "path": "/Game/SoStylized/Environment/Water/Materials/MI_WaterWaves.MI_WaterWaves"
+        },
+        {
+          "slot": "MI_Waterfall_Classic_Masked",
+          "path": "/Game/SoStylized/Environment/Water/Materials/Presets/Classic/MI_Waterfall_Classic_Masked.MI_Waterfall_Classic_Masked"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b4acde603d0c428910b2c2b316029b7f190d53b32d63af5aea09cb26dc47cd44",
+      "native_bytes": 277456,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Waterfall_Classic_SM_WaterfallSplit3",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_WaterWaves",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 257,
+      "scene_triangles": 257,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -13.678539276123047,
+          -2.1760383788205218e-06,
+          -6.292070388793945
+        ],
+        "max": [
+          13.678547859191895,
+          18.07443618774414,
+          9.120340347290039
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Water/Waterfalls/SM_WaterfallSplit3.glb",
+      "bytes": 277428,
+      "sha256": "b48537be819330e6282f58b0c08972c21a03af37217a39ae71d54fc9c17bebbb",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "WaterSky",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_WaterfallSplit3.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

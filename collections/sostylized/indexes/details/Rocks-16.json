@@ -1,0 +1,1788 @@
+{
+  "schema_version": 1,
+  "category": "Rocks",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB09",
+      "source": {
+        "name": "SM_RockSpire_RockClumpB09",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpB09.SM_RockSpire_RockClumpB09",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpB09",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7c12904afda379f2416a0b28ead2beb6c7d24fc68dd9e1ed496dfd9d9b5b121f",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Rocks.MI_RockSpire_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e470cad3bb0c67f43ab1fc4fac8eebadfaac788b88328f2b2ae1c74923713b34",
+      "native_bytes": 3830788,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Rocks_SM_RockSpire_RockClumpB09",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1846,
+      "scene_triangles": 1846,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -8.595235824584961,
+          -7.8083624839782715,
+          -9.215442657470703
+        ],
+        "max": [
+          8.869351387023926,
+          18.23505973815918,
+          8.076757431030273
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB09.glb",
+      "bytes": 3830744,
+      "sha256": "41a5a77aa6cd9f439bb7db3893105d5a20348be21108c0a44da4866b903462c2",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB09.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB10",
+      "source": {
+        "name": "SM_RockSpire_RockClumpB10",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpB10.SM_RockSpire_RockClumpB10",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpB10",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "fa657a9044714fe566e2b29a77bffb53088fb41bcd01835fbd03694419d69320",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Rocks.MI_RockSpire_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "73089d89c5612cccc4e185dda0830252169c320e68f0119f06436e586dc74809",
+      "native_bytes": 3744232,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Rocks_SM_RockSpire_RockClumpB10",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1246,
+      "scene_triangles": 1246,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -7.087172031402588,
+          -4.897304058074951,
+          -8.641093254089355
+        ],
+        "max": [
+          7.026211261749268,
+          22.081432342529297,
+          6.644168376922607
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB10.glb",
+      "bytes": 3744192,
+      "sha256": "abd3c7e4fbde920f77188ad078b4091e934a48926f3ed1031fce437238917517",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB10.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB11",
+      "source": {
+        "name": "SM_RockSpire_RockClumpB11",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpB11.SM_RockSpire_RockClumpB11",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpB11",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8d79e20dde6844835bfacdfbcc171516329a6172cd9def11114882cd36bbe015",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Rocks.MI_RockSpire_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "35abfed46e1cb071bd2c8120a16e11a6d6134b14aef1584bd4d38f27a537f872",
+      "native_bytes": 3784680,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Rocks_SM_RockSpire_RockClumpB11",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1114,
+      "scene_triangles": 1114,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -7.687863826751709,
+          -6.046908378601074,
+          -6.725623607635498
+        ],
+        "max": [
+          6.098474502563477,
+          23.537933349609375,
+          6.640871524810791
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB11.glb",
+      "bytes": 3784640,
+      "sha256": "c6e8d024d1f01592bee056ef3291a7a3fd09f044c9219341d5e85fa83c455678",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB11.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpB12",
+      "source": {
+        "name": "SM_RockSpire_RockClumpB12",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpB12.SM_RockSpire_RockClumpB12",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpB12",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "39268673534f3162ff090e5c2b980f40b852ba2a52e0d9d4b32050c07b118f06",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Rocks.MI_RockSpire_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "9927b2237693531f5d29ae8d376ca16cfa9d8ed02bf1b576643092a2466c66ff",
+      "native_bytes": 3884752,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Rocks_SM_RockSpire_RockClumpB12",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1346,
+      "scene_triangles": 1346,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -8.013806343078613,
+          -8.01522159576416,
+          -7.224000930786133
+        ],
+        "max": [
+          7.927618980407715,
+          25.02065086364746,
+          7.038235187530518
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB12.glb",
+      "bytes": 3884712,
+      "sha256": "d9f218ea283cabd82a8e1345784387cc9c75b91618f9188c409edf4796847c5c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpB12.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpC01",
+      "source": {
+        "name": "SM_RockSpire_RockClumpC01",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpC01.SM_RockSpire_RockClumpC01",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpC01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e508c43270d0166cb47285879651778927c384d5e3a8200a9e2dba3de9098e7b",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Rocks.MI_RockSpire_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b0f818abd2786bb8be6b1394f5358f1ff89e63644cae5ae9ab51027ba36f8550",
+      "native_bytes": 3703508,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Rocks_SM_RockSpire_RockClumpC01",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1378,
+      "scene_triangles": 1378,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -11.064506530761719,
+          -6.481265068054199,
+          -9.635644912719727
+        ],
+        "max": [
+          11.128252983093262,
+          14.178105354309082,
+          10.046014785766602
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC01.glb",
+      "bytes": 3703468,
+      "sha256": "68be13dacfc17a2fbd17b822560865d8ff49c40c191784f699d1462ae7aaa03c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpC02",
+      "source": {
+        "name": "SM_RockSpire_RockClumpC02",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpC02.SM_RockSpire_RockClumpC02",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpC02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "593bdddbef0ff68612ae85f297f58043ac6d0a189fd204e6237aabb2691908fd",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Rocks.MI_RockSpire_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b1cda7f66c99e60e2c1978cf91741bb2667df1a64eebcdcf6dfa34dfebfc652e",
+      "native_bytes": 3960072,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Rocks_SM_RockSpire_RockClumpC02",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1664,
+      "scene_triangles": 1664,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -12.54584789276123,
+          -4.330984592437744,
+          -6.299715042114258
+        ],
+        "max": [
+          13.723023414611816,
+          13.08542537689209,
+          8.400458335876465
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC02.glb",
+      "bytes": 3960032,
+      "sha256": "2e136b3960d20b8fee891b0d6bc93702a2be7f22f4324b50416cc6c5ef6b91a3",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpC03",
+      "source": {
+        "name": "SM_RockSpire_RockClumpC03",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpC03.SM_RockSpire_RockClumpC03",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpC03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c9f27a5429f1eab7b047a3661fd53e08f7700ba2212002c2cb1650db90c2fee1",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Rocks.MI_RockSpire_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5ca66aa6b7bfd94fbd70f166377563726f2ee6497ca1aefe81f529d47f444292",
+      "native_bytes": 3985376,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Rocks_SM_RockSpire_RockClumpC03",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1792,
+      "scene_triangles": 1792,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -21.089580535888672,
+          -5.705519199371338,
+          -5.435452938079834
+        ],
+        "max": [
+          22.0445499420166,
+          13.383442878723145,
+          5.322930335998535
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC03.glb",
+      "bytes": 3985332,
+      "sha256": "cbf13e1d0754946a18e402540c98907a17e4759e78db72644406dca3df8c2860",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_RockClumpC04",
+      "source": {
+        "name": "SM_RockSpire_RockClumpC04",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpC04.SM_RockSpire_RockClumpC04",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_RockClumpC04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "217e26873fb2004b0da6eda25882b6df0d3326946c3adc0703c2996f8561edb0",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Rocks",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Rocks.MI_RockSpire_Rocks"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ba5bfbbcd6993e152b40c139c88724775f3bf5e9ac17c131504532859f63bff0",
+      "native_bytes": 3596964,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Rocks_SM_RockSpire_RockClumpC04",
+            "source_uvs": [
+              2
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1080,
+      "scene_triangles": 1080,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -14.298494338989258,
+          -9.231411933898926,
+          -6.696117401123047
+        ],
+        "max": [
+          13.299840927124023,
+          16.47977066040039,
+          7.902111053466797
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC04.glb",
+      "bytes": 3596920,
+      "sha256": "eb17afe0ac0d2d3a89f85c03e07cc2a457506b0d5c1a4960385cfc15411e1dd9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_RockClumpC04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf01",
+      "source": {
+        "name": "SM_RockSpire_Shelf01",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf01.SM_RockSpire_Shelf01",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9c04367b1f901b3a6cc9273cc78f55df98db2f78a10777a4cd7d05b9c02798e6",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Shelves",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Shelves.MI_RockSpire_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f60bd491b9cfebadeb80439d6368ee07b8232fb7c9278fed02412683e2c83654",
+      "native_bytes": 3816548,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Shelves_SM_RockSpire_Shelf01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 560,
+      "scene_triangles": 560,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -16.425533294677734,
+          -4.985331058502197,
+          -13.786413192749023
+        ],
+        "max": [
+          17.590604782104492,
+          18.24867057800293,
+          13.99895191192627
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf01.glb",
+      "bytes": 3816520,
+      "sha256": "4d80a9b87fca543a80774042064abf24ebdd25f3d5f238e9706b96be27d6aa94",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Shelf01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf02",
+      "source": {
+        "name": "SM_RockSpire_Shelf02",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf02.SM_RockSpire_Shelf02",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8adb9fc8e437e682b6f2c156603148504f52e7fd87c106ea53dfffe2a2093960",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Shelves",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Shelves.MI_RockSpire_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6c3989c8430b3ad6708da8b0e1a3447d696f126f451fbaa0f1c3b4b3c3e42f7c",
+      "native_bytes": 3973408,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Shelves_SM_RockSpire_Shelf02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 846,
+      "scene_triangles": 846,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -18.78076171875,
+          -3.97041916847229,
+          -17.044612884521484
+        ],
+        "max": [
+          19.212997436523438,
+          18.762861251831055,
+          16.453542709350586
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf02.glb",
+      "bytes": 3973384,
+      "sha256": "bac24c243cad26fcf33714633fd2f6b2230008df4d1f3dbac22006ebaaf084d3",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Shelf02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf03",
+      "source": {
+        "name": "SM_RockSpire_Shelf03",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf03.SM_RockSpire_Shelf03",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ce1c4ed134f1d6ead83a3e52f7e05c3f2af5e11671c2eb31d5c464890464a33f",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Shelves",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Shelves.MI_RockSpire_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "975dea78d53318dd4728c0c7ba331894a0acb984a446d3727f03c557c32c3aa6",
+      "native_bytes": 3880936,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Shelves_SM_RockSpire_Shelf03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 788,
+      "scene_triangles": 788,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -17.49517059326172,
+          -2.963684320449829,
+          -14.588948249816895
+        ],
+        "max": [
+          20.11005210876465,
+          18.482847213745117,
+          14.051724433898926
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf03.glb",
+      "bytes": 3880908,
+      "sha256": "742202831de38105151d49ce725aef261be23b6a94c3842265c78c6689c9ae50",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Shelf03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf04",
+      "source": {
+        "name": "SM_RockSpire_Shelf04",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf04.SM_RockSpire_Shelf04",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "063d2af16736b7a84405ea410fd67b7fc92d751470765d1a067690b9d8b5b372",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Shelves",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Shelves.MI_RockSpire_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0c63a4d3dd4dc59750f4fa283b0addfef0b6d2b569387ff8aff36268a4651b17",
+      "native_bytes": 3832512,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Shelves_SM_RockSpire_Shelf04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 850,
+      "scene_triangles": 850,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -15.01134967803955,
+          -5.117666721343994,
+          -14.653797149658203
+        ],
+        "max": [
+          16.82842254638672,
+          22.972978591918945,
+          14.323037147521973
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf04.glb",
+      "bytes": 3832484,
+      "sha256": "38b22550674cb89b2a24a8b1e59fff66795dd615b1ad82469bb3b25f360ad589",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Shelf04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf05",
+      "source": {
+        "name": "SM_RockSpire_Shelf05",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf05.SM_RockSpire_Shelf05",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8832769b24a3367ceaf6b800eb4b3825af25c0f5f82e4b1b065f7a78dbda9b5d",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Shelves",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Shelves.MI_RockSpire_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "d1e928ec754fcb2f6457ec11450c94fdf7311baa107774346fb484a893c2ad59",
+      "native_bytes": 3990948,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Shelves_SM_RockSpire_Shelf05",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1258,
+      "scene_triangles": 1258,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -21.36590003967285,
+          -4.753230094909668,
+          -20.46761131286621
+        ],
+        "max": [
+          22.737977981567383,
+          22.35276985168457,
+          17.18486976623535
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf05.glb",
+      "bytes": 3990920,
+      "sha256": "393e4331f1857c1fafa17cace82b77e1d4737f621a29412cdfa646844ef5170d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Shelf05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf06",
+      "source": {
+        "name": "SM_RockSpire_Shelf06",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf06.SM_RockSpire_Shelf06",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf06",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c79b87891a94224bc45fd3d672b656ae38ddbf07adae47f00f825164e9ccc098",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Shelves",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Shelves.MI_RockSpire_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b35ee2756f2f130f2ee0fa4d75f63b3d29a0b6bd5eb9726dcea74130f700ebd4",
+      "native_bytes": 4185556,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Shelves_SM_RockSpire_Shelf06",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1192,
+      "scene_triangles": 1192,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -31.259140014648438,
+          -5.722867965698242,
+          -27.076995849609375
+        ],
+        "max": [
+          35.02944564819336,
+          22.079204559326172,
+          25.84903907775879
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf06.glb",
+      "bytes": 4185528,
+      "sha256": "aebc393b4b2c687510dc944dc3c6da04588cf31d1f6110f414bdc5f8e2a11a2f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Shelf06.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf07",
+      "source": {
+        "name": "SM_RockSpire_Shelf07",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf07.SM_RockSpire_Shelf07",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf07",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "64b8d084b41d4373e8d35fb87b87fb992b6031d933c8e260a856ee401378ff9a",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Shelves",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Shelves.MI_RockSpire_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "3aa69485590bad04ad4271a2b6e23aa1b208e66d454a31d6c8c271e479ad73fa",
+      "native_bytes": 3839324,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Shelves_SM_RockSpire_Shelf07",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1085,
+      "scene_triangles": 1085,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -20.555423736572266,
+          -11.041126251220703,
+          -18.45781898498535
+        ],
+        "max": [
+          22.62583351135254,
+          21.803207397460938,
+          21.614803314208984
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf07.glb",
+      "bytes": 3839296,
+      "sha256": "edd8f89180fc914638411a4d4fca7e15f9a7d40289c5453dda7623e005d41d3b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Shelf07.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Shelf08",
+      "source": {
+        "name": "SM_RockSpire_Shelf08",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf08.SM_RockSpire_Shelf08",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Shelf08",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9803f546bba6699c0edf3c34c4399fe183a4210356a96fe1d734d8881f9553eb",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Shelves",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Shelves.MI_RockSpire_Shelves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "fb6c42ae6d6ae4d02fcb5b5fb6a84013a2f17c49705509ad0b357a7fd851fec8",
+      "native_bytes": 3714272,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Shelves_SM_RockSpire_Shelf08",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 522,
+      "scene_triangles": 522,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -21.525197982788086,
+          -9.576029777526855,
+          -21.587472915649414
+        ],
+        "max": [
+          21.53133201599121,
+          36.00788879394531,
+          23.694677352905273
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Shelf08.glb",
+      "bytes": 3714244,
+      "sha256": "a2085a3e4160cf1092fe35841b74caa72fa95141dc491bb13f6e9ff6c5c483ad",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Shelf08.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire01",
+      "source": {
+        "name": "SM_RockSpire_Spire01",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Spire01.SM_RockSpire_Spire01",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Spire01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3576edf08bed74ad47a6ae709fd9aa1e46441478cfcd960348286716ab80d709",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Spires",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Spires.MI_RockSpire_Spires"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "cb522ca256892545c15e3dcfa15b26d957c955616dd0531ff901b6afaed7aa7f",
+      "native_bytes": 3545720,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Spires_SM_RockSpire_Spire01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 448,
+      "scene_triangles": 448,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -14.01534366607666,
+          -9.112147331237793,
+          -12.122603416442871
+        ],
+        "max": [
+          14.180692672729492,
+          53.97804260253906,
+          11.339334487915039
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire01.glb",
+      "bytes": 3545692,
+      "sha256": "bcf29b4a4539cb216ca5acde5550224d0b2a7abdd43adc8ba6e1b03f24767851",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Spire01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire02",
+      "source": {
+        "name": "SM_RockSpire_Spire02",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Spire02.SM_RockSpire_Spire02",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Spire02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c37afa83c631e4a558b1d7d6bfc53898335c8672f8c4685293813899002ba772",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Spires",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Spires.MI_RockSpire_Spires"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "04ef81f6253c3d38c6615bae41668dd68c3ccfbe6b87c9f659a8976e4d88cd77",
+      "native_bytes": 3599296,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Spires_SM_RockSpire_Spire02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 654,
+      "scene_triangles": 654,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -16.373252868652344,
+          -7.973549842834473,
+          -13.499438285827637
+        ],
+        "max": [
+          13.80350399017334,
+          60.39840316772461,
+          12.92493724822998
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire02.glb",
+      "bytes": 3599268,
+      "sha256": "104ec0c476077dd11eb20c49f1557e76ee542b7c9b297bef0efd07b4c0bc0e51",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Spire02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire03",
+      "source": {
+        "name": "SM_RockSpire_Spire03",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Spire03.SM_RockSpire_Spire03",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Spire03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6813a4380b78733d15cbb966cc3013574292b83a0734c8507ca2a17350f91527",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Spires",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Spires.MI_RockSpire_Spires"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "d151e7f1d1ed35dbedd78764f99c742e914955b1cc9b6e5652d0d743ee70712a",
+      "native_bytes": 3536528,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Spires_SM_RockSpire_Spire03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 480,
+      "scene_triangles": 480,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -15.792534828186035,
+          -14.062508583068848,
+          -18.87299346923828
+        ],
+        "max": [
+          15.01235294342041,
+          70.15174102783203,
+          16.23769187927246
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire03.glb",
+      "bytes": 3536500,
+      "sha256": "f3f8f1df166ebef2e83479246fc76734de40652e3df53cd7073c9095972e917a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Spire03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockSpire_Spire04",
+      "source": {
+        "name": "SM_RockSpire_Spire04",
+        "path": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Spire04.SM_RockSpire_Spire04",
+        "package": "/Game/SoStylized/Environment/Rocks/Spire/SM_RockSpire_Spire04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Rocks/Spire",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ccb7db349546d4dde1819dae400fe0d2a3fb23d067d8f16ae14ecb460305d90c",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RockSpire_Spires",
+          "path": "/Game/SoStylized/Environment/Rocks/Materials/Spire/MI_RockSpire_Spires.MI_RockSpire_Spires"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "3c68453cdc589435e41fdc5baebe4e087ec6886be7f3c1e06368e0b5982aa173",
+      "native_bytes": 3986660,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockSpire_Spires_SM_RockSpire_Spire04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1282,
+      "scene_triangles": 1282,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 4,
+      "bounds": {
+        "min": [
+          -20.464298248291016,
+          -17.425745010375977,
+          -14.769184112548828
+        ],
+        "max": [
+          19.32050132751465,
+          73.43355560302734,
+          19.75259017944336
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Rocks/Spire/SM_RockSpire_Spire04.glb",
+      "bytes": 3986632,
+      "sha256": "dd83864bb15dc22c30a1b58de646f22ee0391d9336386790d22919e1bc188aaa",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Review source terrain/RVT blending before using exposed rock surfaces."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Rocks",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Rocks_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Rocks/Spire/SM_RockSpire_Spire04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

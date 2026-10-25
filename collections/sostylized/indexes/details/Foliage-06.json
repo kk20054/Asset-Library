@@ -1,0 +1,850 @@
+{
+  "schema_version": 1,
+  "category": "Foliage",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_Marshtail02",
+      "source": {
+        "name": "SM_Marshtail02",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_Marshtail02.SM_Marshtail02",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_Marshtail02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1e00879bc2674023124a353712f2c8d128faa998e56a17941b762f6258883e25",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_Marshtails, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Marshtails",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Marshtails.MI_Marshtails"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f1bcf9fc9f53450c0e12529c28be2ef9a753082d2081a7d224c69bb3dc3ffa73",
+      "native_bytes": 388092,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Marshtails_SM_Marshtail02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 33,
+      "scene_triangles": 33,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -0.17095854878425598,
+          -0.1408863067626953,
+          -1.1946454048156738
+        ],
+        "max": [
+          0.8688535094261169,
+          1.3681538105010986,
+          0.5403648018836975
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_Marshtail02.glb",
+      "bytes": 388036,
+      "sha256": "21ca91650441a8f5944e14bbfb0218ae47745070cbc20caa978873bac12e027d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Marshtail02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Marshtail03",
+      "source": {
+        "name": "SM_Marshtail03",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_Marshtail03.SM_Marshtail03",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_Marshtail03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "559235e8b1cd43bf1f2f76e29d99591ef40efc4cd4af559ada3a694b546b5810",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_Marshtails, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Marshtails",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Marshtails.MI_Marshtails"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "4e3d7200229a2c21ee06fbf1b894b937f0ab6f9f3083d2f5bdd4e45708338b36",
+      "native_bytes": 506948,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Marshtails_SM_Marshtail03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 32,
+      "scene_triangles": 32,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -0.21390686929225922,
+          -0.15833719074726105,
+          -1.1259474754333496
+        ],
+        "max": [
+          1.325199842453003,
+          1.196046233177185,
+          0.08807633072137833
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_Marshtail03.glb",
+      "bytes": 506892,
+      "sha256": "a5d3b4aa14ac367f8e57ab2bff925f1e87b687845f5857a081d5a92ea752f8d4",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Marshtail03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Marshtail04",
+      "source": {
+        "name": "SM_Marshtail04",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_Marshtail04.SM_Marshtail04",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_Marshtail04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "93a8bc7abe07d30d372248c108c273f2b345c3d7826a5f5b5c1b09e4de2e9ead",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_Marshtails, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Marshtails",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Marshtails.MI_Marshtails"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6893eff26fcd923b8a87cc9e143b129a42735f58e4ba817272d07a3a211387da",
+      "native_bytes": 370640,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Marshtails_SM_Marshtail04",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 27,
+      "scene_triangles": 27,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -0.4723103940486908,
+          -0.13954052329063416,
+          -1.0506805181503296
+        ],
+        "max": [
+          0.8370926380157471,
+          1.7049027681350708,
+          0.10701368004083633
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_Marshtail04.glb",
+      "bytes": 370584,
+      "sha256": "be51a26475bfb1a6be7e45f1a9be7ba182d80632f6250fd77f90bbb80d9b01c8",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Marshtail04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedFern01",
+      "source": {
+        "name": "SM_RedFern01",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_RedFern01.SM_RedFern01",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_RedFern01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a7bfb1b3de32b13e923303a45dbf49ab6ccc59ddbd1dac7200907217735aa9c5",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_RedFerns, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RedFerns",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_RedFerns.MI_RedFerns"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f094ba7b59d4d1ad32db48d4d9b2b91cb800ba7a87fc450e20835f09b0d1bcc8",
+      "native_bytes": 1141928,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RedFerns_SM_RedFern01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 708,
+      "scene_triangles": 708,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -2.3302221298217773,
+          -0.09025806933641434,
+          -2.327144145965576
+        ],
+        "max": [
+          2.268368721008301,
+          2.2580885887145996,
+          2.1050384044647217
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_RedFern01.glb",
+      "bytes": 1141900,
+      "sha256": "ed72319281434c19762285ab6821d4a309634d434695b75cf3465320502c7225",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_RedFern01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RedFern02",
+      "source": {
+        "name": "SM_RedFern02",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_RedFern02.SM_RedFern02",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_RedFern02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "34e5ee6836c41722278b320a2f645a347891fc8125165863ef3dd64331d93568",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_RedFerns, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RedFerns",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_RedFerns.MI_RedFerns"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "8113622aa1f15805f179d52b81f23ffc1d9f682a83cf6bb200d83406b46ca9b4",
+      "native_bytes": 1316124,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RedFerns_SM_RedFern02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1298,
+      "scene_triangles": 1298,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -2.889660596847534,
+          -0.10805647820234299,
+          -3.032338857650757
+        ],
+        "max": [
+          3.4354617595672607,
+          3.300938844680786,
+          2.9058876037597656
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_RedFern02.glb",
+      "bytes": 1316100,
+      "sha256": "126f84089b36c602d4c3a1aa210524f4ef08d7915e944f068e64625e98548e0e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_RedFern02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Rice01",
+      "source": {
+        "name": "SM_Rice01",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_Rice01.SM_Rice01",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_Rice01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "c9bae968896f7e5524beb06867570a69d9e536ce309a7f85b643ccb8984e7f74",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_Rice, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Rice",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Rice.MI_Rice"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c18ec355c08b72c094084b5bc00ee33d9424bda010bf38ff7eff70608da8ab1c",
+      "native_bytes": 662868,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Rice_SM_Rice01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 6,
+      "scene_triangles": 6,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -0.4260479211807251,
+          -0.08433130383491516,
+          -0.1072985976934433
+        ],
+        "max": [
+          0.22681410610675812,
+          1.0057038068771362,
+          0.22448480129241943
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_Rice01.glb",
+      "bytes": 662840,
+      "sha256": "83894517a7cbb3ef8dcf8ec97eed38119ed9ccd26aba1f1c8332dd6e9d351f10",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Rice01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Rice02",
+      "source": {
+        "name": "SM_Rice02",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_Rice02.SM_Rice02",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_Rice02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "346e5063a49e944b9d36755eaddd5dcee6fc7872b5a6022884edcb2d182486ac",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_Rice, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Rice",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Rice.MI_Rice"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "4fe43dc7e197791eb5604bf6536f54101e7e309a590db6053080afe13ec23e71",
+      "native_bytes": 700088,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Rice_SM_Rice02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 10,
+      "scene_triangles": 10,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -0.5036150217056274,
+          -0.0808270275592804,
+          -0.13062535226345062
+        ],
+        "max": [
+          0.42224928736686707,
+          0.9623996615409851,
+          0.28859230875968933
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_Rice02.glb",
+      "bytes": 700060,
+      "sha256": "78a651a1a08072ef03cd76a8b5370441c46988e5fb0dc73407fc0861093df780",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Rice02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Rice03",
+      "source": {
+        "name": "SM_Rice03",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_Rice03.SM_Rice03",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_Rice03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "aad32a71866decf55833b3588aa4e00adb335e384e65f2add225da2820eef1be",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_Rice, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Rice",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Rice.MI_Rice"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ae5f00c98a7306d829b1061b9a26898d2fb920b690d28ed68dbe7c62053edc8a",
+      "native_bytes": 749168,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Rice_SM_Rice03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 28,
+      "scene_triangles": 28,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 2,
+      "bounds": {
+        "min": [
+          -0.6321349740028381,
+          -0.1316816210746765,
+          -0.6319637894630432
+        ],
+        "max": [
+          0.5609954595565796,
+          0.9713072180747986,
+          0.5551595091819763
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_Rice03.glb",
+      "bytes": 749140,
+      "sha256": "1e88eafe4f50de47bac360ab6e9f5df9f5c764314644a664f6eeb7d139f9c6ff",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Rice03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Seaweed",
+      "source": {
+        "name": "SM_Seaweed",
+        "path": "/Game/SoStylized/Environment/Foliage/SM_Seaweed.SM_Seaweed",
+        "package": "/Game/SoStylized/Environment/Foliage/SM_Seaweed",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a614c4ee7d9b0ea3f6ba1c167ded711675469b042afb530cf05b2c70f0ce79c4",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_Seaweed (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_Seaweed, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Seaweed",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Seaweed.MI_Seaweed"
+        },
+        {
+          "slot": "MI_Seaweed_LOD1",
+          "path": "/Game/SoStylized/Environment/Foliage/Materials/MI_Seaweed_LOD1.MI_Seaweed_LOD1"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "788de147b3a90589cb988dbcf7978ab969fe5c43a0c343b842830987ccf7590c",
+      "native_bytes": 1189172,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Seaweed_SM_Seaweed",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 165,
+      "scene_triangles": 165,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.464367389678955,
+          -0.04773632809519768,
+          -1.3742188215255737
+        ],
+        "max": [
+          1.5953238010406494,
+          0.7070915102958679,
+          1.424028992652893
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/SM_Seaweed.glb",
+      "bytes": 1189116,
+      "sha256": "2bf6080b09966a3bd8819a750d0703de97ec42f4e7d089228bc277ab1a913df5",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Foliage",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Seaweed.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2222 @@
+{
+  "schema_version": 1,
+  "category": "Trees",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_PalmTree11",
+      "source": {
+        "name": "SM_PalmTree11",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_PalmTree11.SM_PalmTree11",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_PalmTree11",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "115bfcba08965a1b0a9cb51a0e7d7435af807e87ea67042d7b69d8c6ff2b3cca",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_PalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PalmBark.MI_PalmBark"
+        },
+        {
+          "slot": "MI_PalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PalmLeaves.MI_PalmLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e9edf809d5634c718c15bea8ca521e6c9da65061b3861cd898fbe1b8e2f35386",
+      "native_bytes": 3908308,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PalmBark_SM_PalmTree11",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PalmLeaves_SM_PalmTree11",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1080,
+      "scene_triangles": 1080,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -0.9116239547729492,
+          -1.0200549364089966,
+          -4.352161407470703
+        ],
+        "max": [
+          6.838388442993164,
+          15.122159957885742,
+          2.8161799907684326
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree11.glb",
+      "bytes": 3908188,
+      "sha256": "58f3a2f24d58d19e19e71ab0ba79c01f9465617228b553cac2724b0b0731992a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_PalmTree11.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree12",
+      "source": {
+        "name": "SM_PalmTree12",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_PalmTree12.SM_PalmTree12",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_PalmTree12",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d3c13add354421eb4d8fd02208ddf76a853c2c39310d5d91993dac5d70af115d",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_PalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PalmBark.MI_PalmBark"
+        },
+        {
+          "slot": "MI_PalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PalmLeaves.MI_PalmLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c6f7d7396baa262fbf7b624d161750b34a8e092747681e257a79aabc292d4ab1",
+      "native_bytes": 4068324,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PalmBark_SM_PalmTree12",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PalmLeaves_SM_PalmTree12",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1222,
+      "scene_triangles": 1222,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.626572608947754,
+          -0.9839351177215576,
+          -5.475022315979004
+        ],
+        "max": [
+          5.079462051391602,
+          17.62116813659668,
+          2.9576573371887207
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree12.glb",
+      "bytes": 4068208,
+      "sha256": "f4df1e408b16b3863c763aa302cf827f0e562538cae51a1b87d1305506b7cf84",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_PalmTree12.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree13",
+      "source": {
+        "name": "SM_PalmTree13",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_PalmTree13.SM_PalmTree13",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_PalmTree13",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ada2d762862629a059e502e4aa15d7c28a26fe05cd4e7c32f407a29bdcb8e549",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_PalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PalmBark.MI_PalmBark"
+        },
+        {
+          "slot": "MI_PalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PalmLeaves.MI_PalmLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "17c3647788f78c0b81a69decbcc0113a8598b925801d7ca47cceed828d30cfc7",
+      "native_bytes": 4089140,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PalmBark_SM_PalmTree13",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PalmLeaves_SM_PalmTree13",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1304,
+      "scene_triangles": 1304,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.1827962398529053,
+          -0.896101713180542,
+          -3.2938990592956543
+        ],
+        "max": [
+          6.0193705558776855,
+          20.103078842163086,
+          4.277562618255615
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree13.glb",
+      "bytes": 4089024,
+      "sha256": "849c7a61cdb6e28b91584f7c3d081f38a6b9f4abccdd3ecbadeca30583b0393d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_PalmTree13.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree14",
+      "source": {
+        "name": "SM_PalmTree14",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_PalmTree14.SM_PalmTree14",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_PalmTree14",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5d776e81ac5969ca3fc030070f02a49162cf5c5dcbce96c8b4cec05a716e425d",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_PalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PalmBark.MI_PalmBark"
+        },
+        {
+          "slot": "MI_PalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PalmLeaves.MI_PalmLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "53b1bb5f59d1f6c5f947318adc9165b9fca0168c1adce6f16eba03db878b9608",
+      "native_bytes": 4115324,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PalmBark_SM_PalmTree14",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PalmLeaves_SM_PalmTree14",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1512,
+      "scene_triangles": 1512,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -0.7782235741615295,
+          -1.0449285507202148,
+          -3.8453874588012695
+        ],
+        "max": [
+          10.316287994384766,
+          17.385528564453125,
+          4.500763893127441
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree14.glb",
+      "bytes": 4115204,
+      "sha256": "c38bf608cc8d5d2bd81116b94ba65a629685a906a06637a03152dc71f80ce97d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_PalmTree14.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_PalmTree15",
+      "source": {
+        "name": "SM_PalmTree15",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_PalmTree15.SM_PalmTree15",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_PalmTree15",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ad9dae00f6a0f41f360490f09181078d7527e0d469ec9e1ce35e48a8c351f9db",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_PalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 4,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PalmBark.MI_PalmBark"
+        },
+        {
+          "slot": "MI_PalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_PalmLeaves.MI_PalmLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2b8c2597bf6b532e35a976b1ab4012feb33fb3dcb05fbd77de8131374d1a2fe4",
+      "native_bytes": 4235616,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_PalmBark_SM_PalmTree15",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_PalmLeaves_SM_PalmTree15",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1768,
+      "scene_triangles": 1768,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -0.941425621509552,
+          -0.9648983478546143,
+          -2.968104839324951
+        ],
+        "max": [
+          8.449037551879883,
+          18.78098487854004,
+          4.988354206085205
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_PalmTree15.glb",
+      "bytes": 4235500,
+      "sha256": "4a280588de8dfb813c279a9197e02f024784e16978d77c85829d8e53a1d58bb3",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_PalmTree15.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_YuccaTree01",
+      "source": {
+        "name": "SM_YuccaTree01",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_YuccaTree01.SM_YuccaTree01",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_YuccaTree01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "279e1780d21d13e0d1d88b8799d514ff1c1bbcfbd8c39a20a56e1e942b8552ad",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_YuccaLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_YuccaBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_YuccaBark.MI_YuccaBark"
+        },
+        {
+          "slot": "MI_YuccaLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_YuccaLeaves.MI_YuccaLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "647a98d761bda28c502483fd15f7b5c65f99571c6e4ad80dc7ac0540a2865051",
+      "native_bytes": 2690496,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_YuccaBark_SM_YuccaTree01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_YuccaLeaves_SM_YuccaTree01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 182,
+      "scene_triangles": 182,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -0.9794882535934448,
+          -0.1546420156955719,
+          -0.8049929141998291
+        ],
+        "max": [
+          0.6671271920204163,
+          2.2752931118011475,
+          0.7429369688034058
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_YuccaTree01.glb",
+      "bytes": 2690376,
+      "sha256": "4fed7c02fe504b39a5afa12788f688b98fcfa47da8305fb5f1a6eaae3bd6a3b2",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_YuccaTree01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_YuccaTree02",
+      "source": {
+        "name": "SM_YuccaTree02",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_YuccaTree02.SM_YuccaTree02",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_YuccaTree02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "ef728d8324cfe5b6a6a142fb084277ac485c3795c2a314eb852dbf062bcad4c5",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_YuccaLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_YuccaBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_YuccaBark.MI_YuccaBark"
+        },
+        {
+          "slot": "MI_YuccaLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_YuccaLeaves.MI_YuccaLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ac45c72fd2ea049e4cf2b6121c431512a41ca15f5c9e74e1f38671358014625e",
+      "native_bytes": 3656876,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_YuccaBark_SM_YuccaTree02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_YuccaLeaves_SM_YuccaTree02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 226,
+      "scene_triangles": 226,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -0.9042007327079773,
+          -0.1751253455877304,
+          -0.6504710912704468
+        ],
+        "max": [
+          0.8797810077667236,
+          2.4010324478149414,
+          0.9507666826248169
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_YuccaTree02.glb",
+      "bytes": 3656756,
+      "sha256": "05d06e7eced476eeb67b2c23697274b527baad90c3d9a3ec19fd56d319e1f1c0",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_YuccaTree02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_YuccaTree03",
+      "source": {
+        "name": "SM_YuccaTree03",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_YuccaTree03.SM_YuccaTree03",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_YuccaTree03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a549bb0aed73e9e3b7135ce4976359afd275a5ab264c38a6ef625f03dcde5fd1",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_YuccaLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_YuccaBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_YuccaBark.MI_YuccaBark"
+        },
+        {
+          "slot": "MI_YuccaLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_YuccaLeaves.MI_YuccaLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6e575b7bee488a7daa88797b529ab484202bbaf94cf9ea8677bc5b29c2acbf39",
+      "native_bytes": 3942860,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_YuccaBark_SM_YuccaTree03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_YuccaLeaves_SM_YuccaTree03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 798,
+      "scene_triangles": 798,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -1.6500403881072998,
+          -0.37510454654693604,
+          -1.5701377391815186
+        ],
+        "max": [
+          1.7528579235076904,
+          4.019777774810791,
+          1.3828775882720947
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_YuccaTree03.glb",
+      "bytes": 3942744,
+      "sha256": "4276fd10f9040f8d54e9fe346dd29840aa1b28afed017e211d80d3afd413bccb",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_YuccaTree03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_YuccaTree04",
+      "source": {
+        "name": "SM_YuccaTree04",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_YuccaTree04.SM_YuccaTree04",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_YuccaTree04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0a1dcabf11cd289166d83dbc0d9984f6088bdb5269f3ae42926b4e4caf349c11",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_YuccaLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_YuccaBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_YuccaBark.MI_YuccaBark"
+        },
+        {
+          "slot": "MI_YuccaLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_YuccaLeaves.MI_YuccaLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "8247b2afbee9556f6fba541a32b594f5254d2026fa1c45e9e92e380b2cd63c1c",
+      "native_bytes": 2788508,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_YuccaBark_SM_YuccaTree04",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_YuccaLeaves_SM_YuccaTree04",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2296,
+      "scene_triangles": 2296,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -3.0842721462249756,
+          -0.6919434070587158,
+          -3.2322747707366943
+        ],
+        "max": [
+          3.351180076599121,
+          8.12008285522461,
+          3.518693447113037
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_YuccaTree04.glb",
+      "bytes": 2788392,
+      "sha256": "0fde3f679f573dd60fa2ae50bdbf113309e058755c5ad6d19a077d9696ef10bf",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_YuccaTree04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_YuccaTree05",
+      "source": {
+        "name": "SM_YuccaTree05",
+        "path": "/Game/SoStylized/Environment/Trees/Coastal/SM_YuccaTree05.SM_YuccaTree05",
+        "package": "/Game/SoStylized/Environment/Trees/Coastal/SM_YuccaTree05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Coastal",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "43b4e7c1abd010f1abc42f5ea82868dbb1ead6f4e1411bf3553c9414fc9d5181",
+      "engine_log_warnings": [
+        "Unsupported shading model (Subsurface) in material MI_YuccaLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_YuccaBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_YuccaBark.MI_YuccaBark"
+        },
+        {
+          "slot": "MI_YuccaLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_YuccaLeaves.MI_YuccaLeaves"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "546818ef36f610be32efb965a5f5218aabb88c9ee6835e2833ad965bf0a51c5b",
+      "native_bytes": 3071816,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_YuccaBark_SM_YuccaTree05",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_YuccaLeaves_SM_YuccaTree05",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1852,
+      "scene_triangles": 1852,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 5,
+      "bounds": {
+        "min": [
+          -4.140467643737793,
+          -0.8021136522293091,
+          -4.134984970092773
+        ],
+        "max": [
+          4.678147315979004,
+          6.450662136077881,
+          4.238858699798584
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Coastal/SM_YuccaTree05.glb",
+      "bytes": 3071696,
+      "sha256": "26cbd269971443e323868975d55e8ef76dd27a47f7ca981a617d130fa9073345",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_YuccaTree05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm01",
+      "source": {
+        "name": "SM_DesertCoconutPalm01",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm01.SM_DesertCoconutPalm01",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "90e869020e1e80c773b62fb9eec20d1fb5a9449e870b7fe6f3999fb4fe2b7091",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertCoconutPalm01 (section ), this may not be supported on some glTF viewers",
+        "Material MI_DesertCoconutPalmSaplingBark is baked using mesh data from SM_DesertCoconutPalm01 but the lightmap UV (channel 1) are overlapping by 5.36% (in mesh section 0) and may produce incorrect results",
+        "Unsupported shading model (Subsurface) in material MI_DesertCoconutPalmSaplingLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertCoconutPalmSaplingBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmSaplingBark.MI_DesertCoconutPalmSaplingBark"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmSaplingLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmSaplingLeaves.MI_DesertCoconutPalmSaplingLeaves"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmSaplingBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmSaplingBark_LOD1.MI_DesertCoconutPalmSaplingBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmSaplingLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmSaplingLeaves_LOD1.MI_DesertCoconutPalmSaplingLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmSapling_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmSapling_SingleMat.MI_DesertCoconutPalmSapling_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "09d4447d175939352ac311e9f01dbf66fe5a4427d8319ae04a126c35a8831d81",
+      "native_bytes": 2916632,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertCoconutPalmSaplingBark_SM_DesertCoconutPalm01",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertCoconutPalmSaplingLeaves_SM_DesertCoconutPalm01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1784,
+      "scene_triangles": 1784,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 6,
+      "bounds": {
+        "min": [
+          -3.685513496398926,
+          -0.5244025588035583,
+          -3.6341216564178467
+        ],
+        "max": [
+          3.9455156326293945,
+          9.37180233001709,
+          3.796309232711792
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm01.glb",
+      "bytes": 2916576,
+      "sha256": "384ebdd81cefdd431f1677b767a468064f7f5837eab0998c4564dc28db4a2029",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertCoconutPalm01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm02",
+      "source": {
+        "name": "SM_DesertCoconutPalm02",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm02.SM_DesertCoconutPalm02",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8eb09410b7d20ba4fa62b918dd86dd0030fafb5c06cb88c78aafa082115fa3b2",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertCoconutPalm02 (section ), this may not be supported on some glTF viewers",
+        "Material MI_DesertCoconutPalmBark is baked using mesh data from SM_DesertCoconutPalm02 but the lightmap UV (channel 1) are overlapping by 1.94% (in mesh section 0) and may produce incorrect results",
+        "Unsupported shading model (Subsurface) in material MI_DesertCoconutPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertCoconutPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmBark.MI_DesertCoconutPalmBark"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmLeaves.MI_DesertCoconutPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmBark_LOD1.MI_DesertCoconutPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmLeaves_LOD1.MI_DesertCoconutPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmTree_SingleMat.MI_DesertCoconutPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ce3a9bf70c288923ea6baabe50b340a9b28302cb2bfc7cd4387ebee48698f30f",
+      "native_bytes": 2767340,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertCoconutPalmBark_SM_DesertCoconutPalm02",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertCoconutPalmLeaves_SM_DesertCoconutPalm02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1158,
+      "scene_triangles": 1158,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.8388097286224365,
+          -0.5219874382019043,
+          -2.979846715927124
+        ],
+        "max": [
+          3.277042865753174,
+          10.939985275268555,
+          3.1227200031280518
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm02.glb",
+      "bytes": 2767288,
+      "sha256": "acfd9c6a156205178b82efa4c605f2307b29f63611285a77a341ab951fd17472",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertCoconutPalm02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm03",
+      "source": {
+        "name": "SM_DesertCoconutPalm03",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm03.SM_DesertCoconutPalm03",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d7ec0ce98853aebe13366583c266a0b8ff1fad38cefb3c10f44bfc5ddf77c877",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertCoconutPalm03 (section ), this may not be supported on some glTF viewers",
+        "Material MI_DesertCoconutPalmBark is baked using mesh data from SM_DesertCoconutPalm03 but the lightmap UV (channel 1) are overlapping by 3.24% (in mesh section 0) and may produce incorrect results",
+        "Unsupported shading model (Subsurface) in material MI_DesertCoconutPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertCoconutPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmBark.MI_DesertCoconutPalmBark"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmLeaves.MI_DesertCoconutPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmBark_LOD1.MI_DesertCoconutPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmLeaves_LOD1.MI_DesertCoconutPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmTree_SingleMat.MI_DesertCoconutPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "520f23a6205eeea21155da0aafd1b7bac8eab906acb0d6c4f0dee00cb37fb601",
+      "native_bytes": 2964936,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertCoconutPalmBark_SM_DesertCoconutPalm03",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertCoconutPalmLeaves_SM_DesertCoconutPalm03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1836,
+      "scene_triangles": 1836,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -3.6077334880828857,
+          -0.5269336700439453,
+          -3.5424113273620605
+        ],
+        "max": [
+          3.4870662689208984,
+          11.326334953308105,
+          3.5959064960479736
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm03.glb",
+      "bytes": 2964880,
+      "sha256": "4f1dbeaada08c91a8f512c6c1ba4e159f3568020bdc05ed28665fd6d92be7ea5",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertCoconutPalm03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm04",
+      "source": {
+        "name": "SM_DesertCoconutPalm04",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm04.SM_DesertCoconutPalm04",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "f9868cd7ade741fb85d7af2477902c8869424ebc0aeae8600154fa8159662ed7",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertCoconutPalm04 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_DesertCoconutPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertCoconutPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmBark.MI_DesertCoconutPalmBark"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmLeaves.MI_DesertCoconutPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmBark_LOD1.MI_DesertCoconutPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmLeaves_LOD1.MI_DesertCoconutPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmTree_SingleMat.MI_DesertCoconutPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e59408b7e31872a4eb31056d6be4dad03004a4cfb63884f41013b1ca3b5c5b01",
+      "native_bytes": 2873504,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertCoconutPalmBark_SM_DesertCoconutPalm04",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertCoconutPalmLeaves_SM_DesertCoconutPalm04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1462,
+      "scene_triangles": 1462,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -3.936501979827881,
+          -0.5451087951660156,
+          -3.964059591293335
+        ],
+        "max": [
+          3.782902717590332,
+          14.831910133361816,
+          3.999040126800537
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm04.glb",
+      "bytes": 2873452,
+      "sha256": "514f8b88918b26379e1e393a7aea9432018e2613dad00b96972614c6d80118bf",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertCoconutPalm04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm05",
+      "source": {
+        "name": "SM_DesertCoconutPalm05",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm05.SM_DesertCoconutPalm05",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1653579c726e4eb3aa56071bfea077c7f4503b9e08626ed8882a86cd51ea78af",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertCoconutPalm05 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_DesertCoconutPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertCoconutPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmBark.MI_DesertCoconutPalmBark"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmLeaves.MI_DesertCoconutPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmBark_LOD1.MI_DesertCoconutPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmLeaves_LOD1.MI_DesertCoconutPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmTree_SingleMat.MI_DesertCoconutPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "677caa69a708e306f06d04720984748bcb95e8187c448d1f6d2467a7869e2d5d",
+      "native_bytes": 2830096,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertCoconutPalmBark_SM_DesertCoconutPalm05",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertCoconutPalmLeaves_SM_DesertCoconutPalm05",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1218,
+      "scene_triangles": 1218,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -3.7170088291168213,
+          -0.5487902164459229,
+          -3.9344968795776367
+        ],
+        "max": [
+          4.358190059661865,
+          15.7045316696167,
+          4.0669403076171875
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm05.glb",
+      "bytes": 2830040,
+      "sha256": "bd516a739abe94a41f009e27b96baef63d0fd22839819a6b814558b197937924",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertCoconutPalm05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertCoconutPalm06",
+      "source": {
+        "name": "SM_DesertCoconutPalm06",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm06.SM_DesertCoconutPalm06",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertCoconutPalm06",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0ea39e58ab9116fba2d9c99e7c4dd056e515f163bd17b6fed847506241c9d445",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertCoconutPalm06 (section ), this may not be supported on some glTF viewers",
+        "Material MI_DesertCoconutPalmBark is baked using mesh data from SM_DesertCoconutPalm06 but the lightmap UV (channel 1) are overlapping by 1.64% (in mesh section 0) and may produce incorrect results",
+        "Unsupported shading model (Subsurface) in material MI_DesertCoconutPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertCoconutPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmBark.MI_DesertCoconutPalmBark"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertCoconutPalmLeaves.MI_DesertCoconutPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmBark_LOD1.MI_DesertCoconutPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmLeaves_LOD1.MI_DesertCoconutPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertCoconutPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertCoconutPalmTree_SingleMat.MI_DesertCoconutPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5eb6e99b0a2b61aee49801183ac264721f6c7d364ac872db8d12695023d8dab3",
+      "native_bytes": 3011852,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertCoconutPalmBark_SM_DesertCoconutPalm06",
+            "source_uvs": [
+              1
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertCoconutPalmLeaves_SM_DesertCoconutPalm06",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2124,
+      "scene_triangles": 2124,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -3.8313088417053223,
+          -0.4786648452281952,
+          -3.764005422592163
+        ],
+        "max": [
+          3.6329336166381836,
+          16.67076873779297,
+          3.6077280044555664
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertCoconutPalm06.glb",
+      "bytes": 3011800,
+      "sha256": "a781f8788d15c5233a1ffff947a267e4f0c6afc2b6b2edab0f59512cdc48671c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertCoconutPalm06.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmSapling01",
+      "source": {
+        "name": "SM_DesertPalmSapling01",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmSapling01.SM_DesertPalmSapling01",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmSapling01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b9660770274a0b6bba99ecae3ba99779c601a64234762eb76608726933bb8b7a",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertPalmSapling01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_DesertPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmBark.MI_DesertPalmBark"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmLeaves.MI_DesertPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmBark_LOD1.MI_DesertPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmLeaves_LOD1.MI_DesertPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmTree_SingleMat.MI_DesertPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "e592c0d0eaa91f31c4e190eb64d9752b250f3d4a43bc7545ce2f027a8e8a5973",
+      "native_bytes": 3969252,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertPalmBark_SM_DesertPalmSapling01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertPalmLeaves_SM_DesertPalmSapling01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 632,
+      "scene_triangles": 632,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -0.9378324747085571,
+          -0.4572561979293823,
+          -0.5845026969909668
+        ],
+        "max": [
+          1.4231412410736084,
+          4.482848644256592,
+          1.979990005493164
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmSapling01.glb",
+      "bytes": 3969132,
+      "sha256": "12563b40979b0c1186ffcee57477c892670adfaf21963d893303b8f2e14429d1",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertPalmSapling01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmSapling02",
+      "source": {
+        "name": "SM_DesertPalmSapling02",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmSapling02.SM_DesertPalmSapling02",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmSapling02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "95e12af4232abbe16d9e73519d0bd35eac0c380468e8a466345b36025748c82d",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertPalmSapling02 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_DesertPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmBark.MI_DesertPalmBark"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmLeaves.MI_DesertPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmBark_LOD1.MI_DesertPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmLeaves_LOD1.MI_DesertPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmTree_SingleMat.MI_DesertPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "111a8af2e70d60e27080b388bbc5fa2ab82ad6a7091f05831bb416e320d4a076",
+      "native_bytes": 4284388,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertPalmBark_SM_DesertPalmSapling02",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertPalmLeaves_SM_DesertPalmSapling02",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 856,
+      "scene_triangles": 856,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.384450078010559,
+          -0.4715035557746887,
+          -1.7666409015655518
+        ],
+        "max": [
+          1.9576728343963623,
+          5.129839897155762,
+          1.789907455444336
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmSapling02.glb",
+      "bytes": 4284272,
+      "sha256": "3756c2db46592fdecc12b2b0b6e74084e9154c0d602b84f20b4907b0a00981fc",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertPalmSapling02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmSapling03",
+      "source": {
+        "name": "SM_DesertPalmSapling03",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmSapling03.SM_DesertPalmSapling03",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmSapling03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9691d2ac148bf4f7518429dd4286b1fb3110d2f093cbd9afd25ff6b3cdf01977",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertPalmSapling03 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_DesertPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmBark.MI_DesertPalmBark"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmLeaves.MI_DesertPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmBark_LOD1.MI_DesertPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmLeaves_LOD1.MI_DesertPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmTree_SingleMat.MI_DesertPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "fc578c10da384fdeefdc833accecef0ec96bd985cc44e87c82715e647dcef121",
+      "native_bytes": 4428900,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertPalmBark_SM_DesertPalmSapling03",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertPalmLeaves_SM_DesertPalmSapling03",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1032,
+      "scene_triangles": 1032,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -1.16084885597229,
+          -0.4572550356388092,
+          -1.6792635917663574
+        ],
+        "max": [
+          2.0673725605010986,
+          5.6032938957214355,
+          1.2800642251968384
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmSapling03.glb",
+      "bytes": 4428780,
+      "sha256": "620bc88d38b92dd37352dcb690d468fa408aace908e3fb9bd4609c953b4aca4e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertPalmSapling03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_DesertPalmTree01",
+      "source": {
+        "name": "SM_DesertPalmTree01",
+        "path": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmTree01.SM_DesertPalmTree01",
+        "package": "/Game/SoStylized/Environment/Trees/Desert/SM_DesertPalmTree01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Trees/Desert",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "af968d36195f1c74d062e066601f8296cdc51f61771a29372ce605d2c67d133d",
+      "engine_log_warnings": [
+        "Maximum value (-1) used in indices accessor for mesh SM_DesertPalmTree01 (section ), this may not be supported on some glTF viewers",
+        "Unsupported shading model (Subsurface) in material MI_DesertPalmLeaves, will export as Default Lit"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 3,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_DesertPalmBark",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmBark.MI_DesertPalmBark"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/MI_DesertPalmLeaves.MI_DesertPalmLeaves"
+        },
+        {
+          "slot": "MI_DesertPalmBark_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmBark_LOD1.MI_DesertPalmBark_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmLeaves_LOD1",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmLeaves_LOD1.MI_DesertPalmLeaves_LOD1"
+        },
+        {
+          "slot": "MI_DesertPalmTree_SingleMat",
+          "path": "/Game/SoStylized/Environment/Trees/Materials/LODs/MI_DesertPalmTree_SingleMat.MI_DesertPalmTree_SingleMat"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "10783a77075e7df69854173d8ab33180cc4fad7d76ec237f8758af4dedca93d7",
+      "native_bytes": 4621040,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_DesertPalmBark_SM_DesertPalmTree01",
+            "source_uvs": [
+              3
+            ]
+          },
+          {
+            "material": 1,
+            "name": "MI_DesertPalmLeaves_SM_DesertPalmTree01",
+            "source_uvs": [
+              3
+            ]
+          }
+        ],
+        "removed_stale_tangents": 2,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1224,
+      "scene_triangles": 1224,
+      "mesh_count": 1,
+      "material_count": 2,
+      "image_count": 7,
+      "bounds": {
+        "min": [
+          -2.281118392944336,
+          -0.8091444373130798,
+          -2.933950185775757
+        ],
+        "max": [
+          4.484350204467773,
+          9.349946022033691,
+          4.000746250152588
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Trees/Desert/SM_DesertPalmTree01.glb",
+      "bytes": 4620924,
+      "sha256": "fc05ef4cc67e82f7ccdaf688c61d366bc2249a4f52c5627ffd2fef31b1b22076",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Trees",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Desert/SM_DesertPalmTree01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

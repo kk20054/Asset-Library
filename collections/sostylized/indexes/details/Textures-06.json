@@ -1,0 +1,968 @@
+{
+  "schema_version": 1,
+  "category": "Textures",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_T_CloudLayer11",
+      "source": {
+        "name": "T_CloudLayer11",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer11.T_CloudLayer11",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer11",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/CloudLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1abdb5a65deb48626e690354ba0ac49b3bba6912c19660f55d2add26e9caac1f",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "83d9d824bfef80734bda779e9f43e585b2b72f4590765b9d46453fe2f8981d2c",
+      "native_bytes": 1817702,
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer11.png",
+      "bytes": 1817702,
+      "sha256": "83d9d824bfef80734bda779e9f43e585b2b72f4590765b9d46453fe2f8981d2c",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer11.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer12",
+      "source": {
+        "name": "T_CloudLayer12",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer12.T_CloudLayer12",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer12",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/CloudLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b1d049945e038e16d6e85766f846f82dd8c781b73a57e4fc2257c9291bf1e6de",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "06fbd6a3460f3caa71c580a768de3552f03faf1024ded12c34b4d2de6a931e77",
+      "native_bytes": 3078164,
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer12.png",
+      "bytes": 3078164,
+      "sha256": "06fbd6a3460f3caa71c580a768de3552f03faf1024ded12c34b4d2de6a931e77",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer12.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer13",
+      "source": {
+        "name": "T_CloudLayer13",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer13.T_CloudLayer13",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer13",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/CloudLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8ae7740c085634d0fd2e8c699f6fd5bdfa40473e31d213591a2e3457f1bdfd3d",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "3365b028d55ff00772244728449820983cea3f30e314d682a0101e5d0f98b0d9",
+      "native_bytes": 4678694,
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer13.png",
+      "bytes": 4678694,
+      "sha256": "3365b028d55ff00772244728449820983cea3f30e314d682a0101e5d0f98b0d9",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer13.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Cloudy01",
+      "source": {
+        "name": "T_CloudLayer_Cloudy01",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Cloudy01.T_CloudLayer_Cloudy01",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Cloudy01",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/CloudLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4148d71b7df96c9c4a838b650b1e3d105fad79cbea68238a2cafb834fdfe68a1",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "c3a05ab05247dca22af6a48812bebfcfb829edf86d3d07985f85b0611b81a442",
+      "native_bytes": 4133229,
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Cloudy01.png",
+      "bytes": 4133229,
+      "sha256": "c3a05ab05247dca22af6a48812bebfcfb829edf86d3d07985f85b0611b81a442",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Cloudy01.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Mixed01",
+      "source": {
+        "name": "T_CloudLayer_Mixed01",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Mixed01.T_CloudLayer_Mixed01",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Mixed01",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/CloudLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a5167a38c00c5b2f2aee9c9c849fef2873a898f7ad14f72867f23c54b7991b81",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "415f52deb978d547bdf744f5720c79612c47f718352f9d13bb4f33792c6174d9",
+      "native_bytes": 3541843,
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Mixed01.png",
+      "bytes": 3541843,
+      "sha256": "415f52deb978d547bdf744f5720c79612c47f718352f9d13bb4f33792c6174d9",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Mixed01.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Overhead01",
+      "source": {
+        "name": "T_CloudLayer_Overhead01",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead01.T_CloudLayer_Overhead01",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead01",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/CloudLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "72aabc3a83d031cc784581ba058d1f94db891ec4ea1957d98e3eccf3ecf205d3",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "b5b23a65429a7bad1aab064bfaeff3cfd7b709d86d8d83bc5745338a569f7f16",
+      "native_bytes": 1996769,
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead01.png",
+      "bytes": 1996769,
+      "sha256": "b5b23a65429a7bad1aab064bfaeff3cfd7b709d86d8d83bc5745338a569f7f16",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead01.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Overhead02",
+      "source": {
+        "name": "T_CloudLayer_Overhead02",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead02.T_CloudLayer_Overhead02",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead02",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/CloudLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0eb9e4712c24ec107449b8a1ab3756c9dbb08c1cddc6a9480b1e61740cbcf663",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "5e8bc4f873d2585c0dd158bda08b8e540d193d447dde80723575d990123ec0b9",
+      "native_bytes": 3885056,
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead02.png",
+      "bytes": 3885056,
+      "sha256": "5e8bc4f873d2585c0dd158bda08b8e540d193d447dde80723575d990123ec0b9",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead02.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Overhead03",
+      "source": {
+        "name": "T_CloudLayer_Overhead03",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead03.T_CloudLayer_Overhead03",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead03",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/CloudLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "003a81bfae2d438089fa90a01754543bdeea6e258e3ab1e571867a322108124e",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "9f0a0898a5a90abf4703fd9315d6920513051bbfb098c92892a766668d907655",
+      "native_bytes": 5666626,
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead03.png",
+      "bytes": 5666626,
+      "sha256": "9f0a0898a5a90abf4703fd9315d6920513051bbfb098c92892a766668d907655",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead03.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Overhead04",
+      "source": {
+        "name": "T_CloudLayer_Overhead04",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead04.T_CloudLayer_Overhead04",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead04",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/CloudLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2edf9ed345c2fcca3add743badfff1563f00951b89e05eb5b1d7f1876aa4298f",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "844211bc37a2beaa66b25a599ebd46754d8661ae5705dbead6d757eb1ba9748b",
+      "native_bytes": 1464365,
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead04.png",
+      "bytes": 1464365,
+      "sha256": "844211bc37a2beaa66b25a599ebd46754d8661ae5705dbead6d757eb1ba9748b",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Overhead04.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Sharp01",
+      "source": {
+        "name": "T_CloudLayer_Sharp01",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Sharp01.T_CloudLayer_Sharp01",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Sharp01",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/CloudLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a4fe9294cec22f659692cbefb7cec324755636ee988ae23d98b83061a59b5714",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "73b4e20e8a65572405d9b54db4c1419d0182ce877e382a29a8e13f62a0bc113e",
+      "native_bytes": 4088793,
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Sharp01.png",
+      "bytes": 4088793,
+      "sha256": "73b4e20e8a65572405d9b54db4c1419d0182ce877e382a29a8e13f62a0bc113e",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Sharp01.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CloudLayer_Sharp02",
+      "source": {
+        "name": "T_CloudLayer_Sharp02",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Sharp02.T_CloudLayer_Sharp02",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Sharp02",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/CloudLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "dfe2b6ff95ab45ddd3cef41a53e31a6d9af7890ea3a5fc9b0f682455415b30ea",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "64757119d135486e88886bb3a0fec635814cd61fcc694017601a1578a542896f",
+      "native_bytes": 2665254,
+      "path": "Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Sharp02.png",
+      "bytes": 2665254,
+      "sha256": "64757119d135486e88886bb3a0fec635814cd61fcc694017601a1578a542896f",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/CloudLayers/T_CloudLayer_Sharp02.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds01",
+      "source": {
+        "name": "T_SkyClouds01",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds01.T_SkyClouds01",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds01",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/IndividualCloudTextures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "237f54c39d876af2832564311651ad6430ba20ae6bcd952b7ba8c3a362a08a86",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "d56c2811192e7087ac081c6de0703db081ca16f4113a7eb197288dec74436c2a",
+      "native_bytes": 202530,
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds01.png",
+      "bytes": 202530,
+      "sha256": "d56c2811192e7087ac081c6de0703db081ca16f4113a7eb197288dec74436c2a",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds01.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds02",
+      "source": {
+        "name": "T_SkyClouds02",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds02.T_SkyClouds02",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds02",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/IndividualCloudTextures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "b64483355bb71f76ef7a3ad448ae54d48908d0d0a091dd00f551a1ab5ebf9f2a",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "eef58e76166901982d3069ca1f615920bc8820dc14e4dafff5051498d5ae24ce",
+      "native_bytes": 379294,
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds02.png",
+      "bytes": 379294,
+      "sha256": "eef58e76166901982d3069ca1f615920bc8820dc14e4dafff5051498d5ae24ce",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds02.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds03",
+      "source": {
+        "name": "T_SkyClouds03",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds03.T_SkyClouds03",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds03",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/IndividualCloudTextures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "05b20461fd8d407ca702bf9a5b705b76e19fe05bfc2931f7305c7c580ce24d4b",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "261d1e09deb31819434d9cfe26379beb0dab426a08c1fc2e70b22286bd306f41",
+      "native_bytes": 436243,
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds03.png",
+      "bytes": 436243,
+      "sha256": "261d1e09deb31819434d9cfe26379beb0dab426a08c1fc2e70b22286bd306f41",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds03.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds04",
+      "source": {
+        "name": "T_SkyClouds04",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds04.T_SkyClouds04",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds04",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/IndividualCloudTextures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "927b4c3f8d16e89b32aadb9a49fdf215b27536a925dac828eec4facb2ea72e85",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "09cc6f09fdb728710ea2c085902773dc920c7d50722f206816f5bf66da2e23ed",
+      "native_bytes": 223574,
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds04.png",
+      "bytes": 223574,
+      "sha256": "09cc6f09fdb728710ea2c085902773dc920c7d50722f206816f5bf66da2e23ed",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds04.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds05",
+      "source": {
+        "name": "T_SkyClouds05",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds05.T_SkyClouds05",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds05",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/IndividualCloudTextures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e53a8194f2df60e1448854c46fc17110e51dfc679dd568b5184d074f166651e8",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "b9cde877427d1255a2f6cce7fc6acd3bfc6bcaa19a13ff9f6c310bb008eaa02e",
+      "native_bytes": 348258,
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds05.png",
+      "bytes": 348258,
+      "sha256": "b9cde877427d1255a2f6cce7fc6acd3bfc6bcaa19a13ff9f6c310bb008eaa02e",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds05.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds06",
+      "source": {
+        "name": "T_SkyClouds06",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds06.T_SkyClouds06",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds06",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/IndividualCloudTextures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0aaadfc4e9ab365966bd9e13ead066df879819cf0682d1248afd21b1f9cb1802",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "06b04d87aa867839c314434b922a06d4fce5a570b2d62f667877dcd84ada8698",
+      "native_bytes": 361711,
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds06.png",
+      "bytes": 361711,
+      "sha256": "06b04d87aa867839c314434b922a06d4fce5a570b2d62f667877dcd84ada8698",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds06.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds07",
+      "source": {
+        "name": "T_SkyClouds07",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds07.T_SkyClouds07",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds07",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/IndividualCloudTextures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a0829181bb7f6ab29d729205ea10b0c59515cb5fd0d8faa27b257e3fce2da261",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "caf178926a814656f011e49efed969cbe5af013e06ec6ebc6a12a39647e9cad7",
+      "native_bytes": 288257,
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds07.png",
+      "bytes": 288257,
+      "sha256": "caf178926a814656f011e49efed969cbe5af013e06ec6ebc6a12a39647e9cad7",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds07.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds08",
+      "source": {
+        "name": "T_SkyClouds08",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds08.T_SkyClouds08",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds08",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/IndividualCloudTextures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6b1483c818289cd1cccf44ba379447bef040977863d638ae8bdec01ab26b9ad6",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "d9c3dad4224cd0ec74042bcaf322cee755a5269181b5ed1df5c35778ecffd6de",
+      "native_bytes": 242898,
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds08.png",
+      "bytes": 242898,
+      "sha256": "d9c3dad4224cd0ec74042bcaf322cee755a5269181b5ed1df5c35778ecffd6de",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds08.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SkyClouds09",
+      "source": {
+        "name": "T_SkyClouds09",
+        "path": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds09.T_SkyClouds09",
+        "package": "/Game/SoStylized/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds09",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Sky/Textures/IndividualCloudTextures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "915ec3634292d8190f32f6772d8c9e30aa9baf2aa6824f555a32607f24658048",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "407506f39ed608f16d127e5996c6b7419ccda060c9605d75e848676fa997a2bc",
+      "native_bytes": 466840,
+      "path": "Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds09.png",
+      "bytes": 466840,
+      "sha256": "407506f39ed608f16d127e5996c6b7419ccda060c9605d75e848676fa997a2bc",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Sky/Textures/IndividualCloudTextures/T_SkyClouds09.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

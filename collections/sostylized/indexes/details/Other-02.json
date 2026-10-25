@@ -1,0 +1,1826 @@
+{
+  "schema_version": 1,
+  "category": "Other",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_Cactus07_Collision",
+      "source": {
+        "name": "SM_Cactus07_Collision",
+        "path": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus07_Collision.SM_Cactus07_Collision",
+        "package": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus07_Collision",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "22d7719ce3a111dd2ff023ee401e4fbb92458d75e1f07c960818839d3fa15bc9",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "0f7ce22fd5f3c37e629dbfc3fe4a609f0da3c7e1378d08a92ec8fe8a505d5361",
+      "native_bytes": 578196,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1126,
+      "scene_triangles": 1126,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.626954436302185,
+          -0.9869056344032288,
+          -1.150502324104309
+        ],
+        "max": [
+          1.5130257606506348,
+          7.736049652099609,
+          1.7880393266677856
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus07_Collision.glb",
+      "bytes": 578196,
+      "sha256": "0f7ce22fd5f3c37e629dbfc3fe4a609f0da3c7e1378d08a92ec8fe8a505d5361",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus07_Collision.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus08_Collision",
+      "source": {
+        "name": "SM_Cactus08_Collision",
+        "path": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus08_Collision.SM_Cactus08_Collision",
+        "package": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus08_Collision",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0e8161477dbb80cf1f8a80c66c62a2588b869fa7005902ab8be85e875aa2c9bc",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "172d2c71d59d76dba2febdeaeab22e7f17548fd7fed51ea602b84a689e5c56fe",
+      "native_bytes": 579740,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1122,
+      "scene_triangles": 1122,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -2.4644694328308105,
+          -0.9726892113685608,
+          -2.030953884124756
+        ],
+        "max": [
+          1.2677478790283203,
+          8.473715782165527,
+          1.1549301147460938
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus08_Collision.glb",
+      "bytes": 579740,
+      "sha256": "172d2c71d59d76dba2febdeaeab22e7f17548fd7fed51ea602b84a689e5c56fe",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus08_Collision.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Beach_BandedTulip",
+      "source": {
+        "name": "SM_Beach_BandedTulip",
+        "path": "/Game/SoStylized/Environment/Misc/SM_Beach_BandedTulip.SM_Beach_BandedTulip",
+        "package": "/Game/SoStylized/Environment/Misc/SM_Beach_BandedTulip",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "084d6c1daa3b6faec15242f8ebc841d734f579504515b018ddf7e817f278e0bd",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BeachShells",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_BeachShells.MI_BeachShells"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "19c1968af07e7a0de73fc91b645d8b34fd045e2c9942bebdc1b44c13e763470f",
+      "native_bytes": 1041836,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BeachShells_SM_Beach_BandedTulip",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 36,
+      "scene_triangles": 36,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.22855424880981445,
+          -0.057304441928863525,
+          -0.07762949168682098
+        ],
+        "max": [
+          0.14293977618217468,
+          0.13630519807338715,
+          0.08927587419748306
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_Beach_BandedTulip.glb",
+      "bytes": 1041812,
+      "sha256": "829343c3d8557108269cd0c485d89b5fd82b4e490027b4a3164ec4af7336d130",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_Beach_BandedTulip.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Beach_Conch",
+      "source": {
+        "name": "SM_Beach_Conch",
+        "path": "/Game/SoStylized/Environment/Misc/SM_Beach_Conch.SM_Beach_Conch",
+        "package": "/Game/SoStylized/Environment/Misc/SM_Beach_Conch",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0af3265d67765a87550cc43ecb633fdf9b650bccffabcbd35a5cef793d597df0",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BeachShells",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_BeachShells.MI_BeachShells"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c540f7a2cd9bb7b70c1ac805b0dab6248578848b2acd8877860e4c6fa6b805f9",
+      "native_bytes": 1243184,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BeachShells_SM_Beach_Conch",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 160,
+      "scene_triangles": 160,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.83184814453125,
+          -0.14684872329235077,
+          -0.40444761514663696
+        ],
+        "max": [
+          0.8154647350311279,
+          0.5934723615646362,
+          0.382474809885025
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_Beach_Conch.glb",
+      "bytes": 1243156,
+      "sha256": "5ee1e19865285b991aaa64ba25af755869a2ab5fbfd170ad5d1fbd7874b3258d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_Beach_Conch.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Beach_SandDollar",
+      "source": {
+        "name": "SM_Beach_SandDollar",
+        "path": "/Game/SoStylized/Environment/Misc/SM_Beach_SandDollar.SM_Beach_SandDollar",
+        "package": "/Game/SoStylized/Environment/Misc/SM_Beach_SandDollar",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7711427d873691570f81352fa352f90553c0783749a05e780b14a4b1e4fe7b45",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BeachShells",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_BeachShells.MI_BeachShells"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "c81dca49c4d7b4ea9808b34e716a44585a6a14d6d0e79440a903ca2255794099",
+      "native_bytes": 805640,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BeachShells_SM_Beach_SandDollar",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 34,
+      "scene_triangles": 34,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.24964947998523712,
+          -0.023883270099759102,
+          -0.2430843859910965
+        ],
+        "max": [
+          0.25220343470573425,
+          0.04382767528295517,
+          0.24107040464878082
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_Beach_SandDollar.glb",
+      "bytes": 805612,
+      "sha256": "2bd62e77aab49f904bb3cee42ad44c2379d5b8836c28e4a44ffa94e1e06637f5",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_Beach_SandDollar.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Beach_Scallop",
+      "source": {
+        "name": "SM_Beach_Scallop",
+        "path": "/Game/SoStylized/Environment/Misc/SM_Beach_Scallop.SM_Beach_Scallop",
+        "package": "/Game/SoStylized/Environment/Misc/SM_Beach_Scallop",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "57d81cf36d54959e230a199ccaca8b85089b22dca05a3521d921a9ee6bb5e8db",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BeachShells",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_BeachShells.MI_BeachShells"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "dab66491bfa23e42c0249ff63fd274c0b9e6fffae73646005984f61f9b5fcc75",
+      "native_bytes": 1129820,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BeachShells_SM_Beach_Scallop",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 60,
+      "scene_triangles": 60,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.20660795271396637,
+          -0.04141545295715332,
+          -0.26119881868362427
+        ],
+        "max": [
+          0.2713060975074768,
+          0.07657234370708466,
+          0.25496628880500793
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_Beach_Scallop.glb",
+      "bytes": 1129792,
+      "sha256": "fbf8b6a9b5a34ab869f6cbe42ee19e667671904badbd241eef8e69ee82a33cb0",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_Beach_Scallop.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Beach_Starfish",
+      "source": {
+        "name": "SM_Beach_Starfish",
+        "path": "/Game/SoStylized/Environment/Misc/SM_Beach_Starfish.SM_Beach_Starfish",
+        "package": "/Game/SoStylized/Environment/Misc/SM_Beach_Starfish",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2f532eefa8f81af0e1f4bee2c4b3ba9a5231c93950f1ddd1048472acd5e8b1e8",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_BeachShells",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_BeachShells.MI_BeachShells"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6f7fd186d0484c31a31e5ad1a369acbba7be8c9accf4d3590fd238cd162850c1",
+      "native_bytes": 697384,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_BeachShells_SM_Beach_Starfish",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 112,
+      "scene_triangles": 112,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.26451852917671204,
+          -0.044425059109926224,
+          -0.3069164454936981
+        ],
+        "max": [
+          0.3217705488204956,
+          0.07144898921251297,
+          0.3300382196903229
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_Beach_Starfish.glb",
+      "bytes": 697356,
+      "sha256": "d2f1741556551d0e0f2d3ca97540e42a5b891eb65dac35593a523824aa3fa59f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_Beach_Starfish.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Rainbow",
+      "source": {
+        "name": "SM_Rainbow",
+        "path": "/Game/SoStylized/Environment/Misc/SM_Rainbow.SM_Rainbow",
+        "package": "/Game/SoStylized/Environment/Misc/SM_Rainbow",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e7f626d29585c95719476e1c30bb6259c45329dc2e11e39dc7338c1752c97ecd",
+      "engine_log_warnings": [
+        "Unsupported blend mode (Additive) in material MI_Rainbow, will export as Translucent"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Rainbow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Rainbow.MI_Rainbow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "93705713a1ea47a2c03ab659ba7097f6d27aa223b32278c1b7205a3335a711ba",
+      "native_bytes": 340440,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Rainbow_SM_Rainbow",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 96,
+      "scene_triangles": 96,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -33.711219787597656,
+          1.8633403778076172,
+          -1.53903201862704e-05
+        ],
+        "max": [
+          33.711219787597656,
+          31.9884033203125,
+          7.264598934852984e-06
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_Rainbow.glb",
+      "bytes": 340412,
+      "sha256": "aa7a33155e842903533e9378575e914e83e2e09c37ea28d490b89165a3e5148f",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_Rainbow.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RainbowDouble",
+      "source": {
+        "name": "SM_RainbowDouble",
+        "path": "/Game/SoStylized/Environment/Misc/SM_RainbowDouble.SM_RainbowDouble",
+        "package": "/Game/SoStylized/Environment/Misc/SM_RainbowDouble",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4761439390e998d5ec9e4693969e8b945bcb2594eadc6364b7391c9d046ecd4f",
+      "engine_log_warnings": [
+        "Unsupported blend mode (Additive) in material MI_Rainbow, will export as Translucent"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Rainbow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Rainbow.MI_Rainbow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "3e885db8fef149ada9c69c76ee09ef53dcecc8412e0f6d763b5ec96bb957d6e9",
+      "native_bytes": 488532,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Rainbow_SM_RainbowDouble",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 192,
+      "scene_triangles": 192,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -42.411094665527344,
+          2.0954227447509766,
+          -1.8425704183755443e-05
+        ],
+        "max": [
+          42.411094665527344,
+          40.76034927368164,
+          1.0075781574414577e-05
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_RainbowDouble.glb",
+      "bytes": 488504,
+      "sha256": "93e32bfe307147b3edb48b7492e1f9e5b358cdf3e2ff551ec85de73031ef4d5b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_RainbowDouble.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RainbowThick",
+      "source": {
+        "name": "SM_RainbowThick",
+        "path": "/Game/SoStylized/Environment/Misc/SM_RainbowThick.SM_RainbowThick",
+        "package": "/Game/SoStylized/Environment/Misc/SM_RainbowThick",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e089864b7a2854a7025fc7870ef8e9cd2ca062778edb5c430947cd712e16a9ce",
+      "engine_log_warnings": [
+        "Unsupported blend mode (Additive) in material MI_Rainbow, will export as Translucent"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Rainbow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Rainbow.MI_Rainbow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "8ea540aa9f90ddef30f81e1e858037484815e5673877536ff1e86575732cccd8",
+      "native_bytes": 340456,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Rainbow_SM_RainbowThick",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 96,
+      "scene_triangles": 96,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -35.405250549316406,
+          1.6448287963867188,
+          -1.598136623215396e-05
+        ],
+        "max": [
+          35.405250549316406,
+          33.696468353271484,
+          7.811989235051442e-06
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_RainbowThick.glb",
+      "bytes": 340432,
+      "sha256": "06ddbc8ff9afa6fff6381a7df4650702dbb571ce31cca7e3d07e162b9e807750",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_RainbowThick.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RainbowThin",
+      "source": {
+        "name": "SM_RainbowThin",
+        "path": "/Game/SoStylized/Environment/Misc/SM_RainbowThin.SM_RainbowThin",
+        "package": "/Game/SoStylized/Environment/Misc/SM_RainbowThin",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "5429726bed2da9aef0e9392b6c3c3eb2274974ce9a17016a3a1d601f9cba22b6",
+      "engine_log_warnings": [
+        "Unsupported blend mode (Additive) in material MI_Rainbow, will export as Translucent"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "M_Rainbow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Rainbow.MI_Rainbow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b001d4dfd666f982bc2e0562a49fa54fc473426752da8b09360a99d4e0bc911a",
+      "native_bytes": 340456,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Rainbow_SM_RainbowThin",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 96,
+      "scene_triangles": 96,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -33.00675964355469,
+          1.9542102813720703,
+          -1.5144533790589776e-05
+        ],
+        "max": [
+          33.00675964355469,
+          31.278104782104492,
+          7.036966508167097e-06
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_RainbowThin.glb",
+      "bytes": 340428,
+      "sha256": "910ba648beaeef93abb9e3d27ce8e050a7dba977ae34328abbbad7e6a602899b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_RainbowThin.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sandfall01",
+      "source": {
+        "name": "SM_Sandfall01",
+        "path": "/Game/SoStylized/Environment/Misc/SM_Sandfall01.SM_Sandfall01",
+        "package": "/Game/SoStylized/Environment/Misc/SM_Sandfall01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "68d81737f8a1c696c11046f575de61fdae53964c6c01fdcd83fef851447abbe1",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Sandfall",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Sandfall.MI_Sandfall"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5501ed78a2980b896aeeeebef125472b59234b9b0e7205bd0ae12be2f69084ef",
+      "native_bytes": 1187376,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Sandfall_SM_Sandfall01",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 72,
+      "scene_triangles": 72,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -0.3371019959449768,
+          -0.054208096116781235,
+          -2.543354034423828
+        ],
+        "max": [
+          0.33711084723472595,
+          11.183371543884277,
+          0.21628810465335846
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_Sandfall01.glb",
+      "bytes": 1187348,
+      "sha256": "a502ea39960dee10e8f7bba63b0baa503f361f3ddaae8158515edb9efa2c8109",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_Sandfall01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sandfall02",
+      "source": {
+        "name": "SM_Sandfall02",
+        "path": "/Game/SoStylized/Environment/Misc/SM_Sandfall02.SM_Sandfall02",
+        "package": "/Game/SoStylized/Environment/Misc/SM_Sandfall02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "bf80d535219b8ffb4a08e0b587113bbce48b2db166c8e2941aeeb28e4d69ee2e",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Sandfall",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Sandfall.MI_Sandfall"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "d618012ae6f59d89af770955f7e7c520e46cf6220564cf7bc1679ee2028c98b5",
+      "native_bytes": 1354736,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Sandfall_SM_Sandfall02",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 72,
+      "scene_triangles": 72,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.1369014978408813,
+          -0.08716389536857605,
+          -4.123889923095703
+        ],
+        "max": [
+          1.1369014978408813,
+          17.9822998046875,
+          0.3134753108024597
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_Sandfall02.glb",
+      "bytes": 1354708,
+      "sha256": "4148b751b726965634bf4bbdd9c047a88821702dff76be6674a57b385406c36d",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_Sandfall02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sandfall03",
+      "source": {
+        "name": "SM_Sandfall03",
+        "path": "/Game/SoStylized/Environment/Misc/SM_Sandfall03.SM_Sandfall03",
+        "package": "/Game/SoStylized/Environment/Misc/SM_Sandfall03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2207bc2547fbbf62a49396f3d169eaf821a61df3399b60119f2e68014ae51236",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Sandfall",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Sandfall.MI_Sandfall"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2130217ed7782cfb8c7dfc9c13200ad27d1bb75e74fe01a21e456d814a40f7e3",
+      "native_bytes": 1608116,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Sandfall_SM_Sandfall03",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 193,
+      "scene_triangles": 193,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -4.290910720825195,
+          -1.5768735650567578e-08,
+          -6.941442489624023
+        ],
+        "max": [
+          3.874725818634033,
+          18.07443618774414,
+          0.40701770782470703
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_Sandfall03.glb",
+      "bytes": 1608088,
+      "sha256": "26f578eb953197d77f845ae2fb03cd435e43b19ab014b746112a9334bd58144c",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_Sandfall03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sandfall04",
+      "source": {
+        "name": "SM_Sandfall04",
+        "path": "/Game/SoStylized/Environment/Misc/SM_Sandfall04.SM_Sandfall04",
+        "package": "/Game/SoStylized/Environment/Misc/SM_Sandfall04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "53cd41184f55fc11175cbf384b5a05b874ae0e58a592ce5a3f61ec8dbdaad1ca",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Sandfall",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Sandfall.MI_Sandfall"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "2dcc96579e928c71d9e9438dff202803763b475121f6e47ddf50f51e14c7ee59",
+      "native_bytes": 1205284,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Sandfall_SM_Sandfall04",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 72,
+      "scene_triangles": 72,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -0.5296921133995056,
+          -0.13273999094963074,
+          -4.093232154846191
+        ],
+        "max": [
+          0.5296944975852966,
+          27.384916305541992,
+          0.34634459018707275
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_Sandfall04.glb",
+      "bytes": 1205256,
+      "sha256": "cab4d4b4b68bcc0e3217db4bdf72c19f167c37c5925fd9c956cd01f931082baf",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_Sandfall04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sandfall05",
+      "source": {
+        "name": "SM_Sandfall05",
+        "path": "/Game/SoStylized/Environment/Misc/SM_Sandfall05.SM_Sandfall05",
+        "package": "/Game/SoStylized/Environment/Misc/SM_Sandfall05",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "05b563073721adbedfa3bdee862e69a7ecbe9e5bc2d6d4cc88cbc4a4b6f6153e",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_Sandfall",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Sandfall.MI_Sandfall"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "ecafc475f55465e99c2153e33d9ddad200cd3260e45cb8808afc84c3a4bf41af",
+      "native_bytes": 1518628,
+      "uv_normalization": {
+        "status": "normalized_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Sandfall_SM_Sandfall05",
+            "source_uvs": [
+              1
+            ]
+          }
+        ],
+        "removed_stale_tangents": 1,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 80,
+      "scene_triangles": 80,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -1.1291790008544922,
+          -0.022102341055870056,
+          -6.3481035232543945
+        ],
+        "max": [
+          1.1296868324279785,
+          43.218074798583984,
+          0.41695716977119446
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_texture_transform",
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_Sandfall05.glb",
+      "bytes": 1518600,
+      "sha256": "cdf87c0d8b26eebea9c5c6ce5fd7e52d5e8553627328f59eda605dcff249501e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_Sandfall05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_SnowDrift01",
+      "source": {
+        "name": "SM_SnowDrift01",
+        "path": "/Game/SoStylized/Environment/Misc/SM_SnowDrift01.SM_SnowDrift01",
+        "package": "/Game/SoStylized/Environment/Misc/SM_SnowDrift01",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7e9a34702575d0b707e352b791979c972a40614815c4f7fae887e91b8a4d1364",
+      "engine_log_warnings": [
+        "Material MI_Snow uses mesh data from SM_SnowDrift01 but the lightmap UVs (channel 1) are nearly 100% degenerate (in mesh section 0). Simple baking will be used as fallback"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineSnow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Snow.MI_Snow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "fef57c4f50ae3f4a13c71da4c18c125f24b403ea03600166dc5cf37694606551",
+      "native_bytes": 88880,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Snow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 124,
+      "scene_triangles": 124,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.109350562095642,
+          -0.482532799243927,
+          -1.1150959730148315
+        ],
+        "max": [
+          1.3544002771377563,
+          1.065350890159607,
+          1.0658780336380005
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_SnowDrift01.glb",
+      "bytes": 88880,
+      "sha256": "fef57c4f50ae3f4a13c71da4c18c125f24b403ea03600166dc5cf37694606551",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_SnowDrift01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_SnowDrift02",
+      "source": {
+        "name": "SM_SnowDrift02",
+        "path": "/Game/SoStylized/Environment/Misc/SM_SnowDrift02.SM_SnowDrift02",
+        "package": "/Game/SoStylized/Environment/Misc/SM_SnowDrift02",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9d5b17a474e309e43eb374d66827471b8a21be14553d1efbf18871e2d25b7806",
+      "engine_log_warnings": [
+        "Material MI_Snow uses mesh data from SM_SnowDrift02 but the lightmap UVs (channel 1) are nearly 100% degenerate (in mesh section 0). Simple baking will be used as fallback"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineSnow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Snow.MI_Snow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "923ee243f32bd020c7db49ba26094c8a797df968fa91224ecba5124e75a9467e",
+      "native_bytes": 91616,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Snow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 212,
+      "scene_triangles": 212,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.231395959854126,
+          -0.7472273111343384,
+          -1.1872196197509766
+        ],
+        "max": [
+          1.5683261156082153,
+          1.3999210596084595,
+          0.9949231743812561
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_SnowDrift02.glb",
+      "bytes": 91616,
+      "sha256": "923ee243f32bd020c7db49ba26094c8a797df968fa91224ecba5124e75a9467e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_SnowDrift02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_SnowDrift03",
+      "source": {
+        "name": "SM_SnowDrift03",
+        "path": "/Game/SoStylized/Environment/Misc/SM_SnowDrift03.SM_SnowDrift03",
+        "package": "/Game/SoStylized/Environment/Misc/SM_SnowDrift03",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a41e7f2bf8d8ad9851ccbdd4753e17e5cdab1ea30b1ebb81bc63028bfa4a3ffb",
+      "engine_log_warnings": [
+        "Material MI_Snow uses mesh data from SM_SnowDrift03 but the lightmap UVs (channel 1) are nearly 100% degenerate (in mesh section 0). Simple baking will be used as fallback"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineSnow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Snow.MI_Snow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "47b191416ede6de205d2f4c566bd95f282335f8767bdfdcae7e7b13506160bd7",
+      "native_bytes": 91988,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Snow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 224,
+      "scene_triangles": 224,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.6611720323562622,
+          -0.42906951904296875,
+          -1.065903902053833
+        ],
+        "max": [
+          1.5305191278457642,
+          0.9352934956550598,
+          1.051092505455017
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_SnowDrift03.glb",
+      "bytes": 91988,
+      "sha256": "47b191416ede6de205d2f4c566bd95f282335f8767bdfdcae7e7b13506160bd7",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_SnowDrift03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_SnowDrift04",
+      "source": {
+        "name": "SM_SnowDrift04",
+        "path": "/Game/SoStylized/Environment/Misc/SM_SnowDrift04.SM_SnowDrift04",
+        "package": "/Game/SoStylized/Environment/Misc/SM_SnowDrift04",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Misc",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4481d56eddbf2c2cf701070daa2242649fa790716c459054b4483755abc39dca",
+      "engine_log_warnings": [
+        "Material MI_Snow uses mesh data from SM_SnowDrift04 but the lightmap UVs (channel 1) are nearly 100% degenerate (in mesh section 0). Simple baking will be used as fallback"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 2,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_PineSnow",
+          "path": "/Game/SoStylized/Environment/Misc/Materials/MI_Snow.MI_Snow"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "51a117406dc6a4e2bf7b9713f8d4ae8af202066e1964d641ca2efe4aa640aa34",
+      "native_bytes": 91432,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_Snow",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 206,
+      "scene_triangles": 206,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.6876822710037231,
+          -0.6851491332054138,
+          -1.26982581615448
+        ],
+        "max": [
+          1.9491645097732544,
+          1.2358148097991943,
+          1.4565191268920898
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Environment/Misc/SM_SnowDrift04.glb",
+      "bytes": 91432,
+      "sha256": "51a117406dc6a4e2bf7b9713f8d4ae8af202066e1964d641ca2efe4aa640aa34",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Misc"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Misc/SM_SnowDrift04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

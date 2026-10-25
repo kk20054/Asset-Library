@@ -1,8 +1,16 @@
-# ThreeJS Stylized World Assets
+# Stylized World Assets for Godot, Blender and Three.js
 
-A unified environment asset library for Three.js, combining **Stylized Chinese Lost Temple** architecture and props with **Meadow Environment – Stylized Pack 1.6** vegetation, rocks, and distant scenery. The deliverable is portable glTF data and browser examples, with English text indexes for coding assistants.
+A portable environment library combining **Stylized Chinese Lost Temple**, **Meadow Environment – Stylized Pack 1.6**, and **SoStylized (Stylized Mega Bundle / Stylized Nature)**. Godot and Blender can import the portable assets directly; Three.js is optional. English catalogs help coding assistants select actual files.
 
-## Start here
+## SoStylized: Godot and Blender downloads
+
+The complete SoStylized portable payload contains **787 LOD0 GLBs (including helpers), 286 PNG/EXR textures, and 17 WAV files**. Seven category ZIPs total about **2.78 GB**. All 787 GLBs passed the [format/resource check](collections/sostylized/validation/glb-format.json); six representative GLBs were imported and instantiated in [Godot 4.7.2](collections/sostylized/validation/godot-samples.json). Material limitations remain separate.
+
+Start with the [small collection index](collections/sostylized/index.json), the [English import guide](GODOT_BLENDER_USAGE.md), and [material readiness notes](collections/sostylized/MATERIAL_READINESS.md). Category ZIPs on [GitHub Releases](https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/tag/sostylized-godot-blender-2026-10-25) contain self-contained native LOD0 GLBs, original PNG/EXR textures, and WAV audio. The [download index](collections/sostylized/downloads.json) records exact filenames, sizes and SHA256 values. Extract the ZIP before importing.
+
+The new collection is distributed through Releases to keep gigabytes of portable assets out of the existing Git/Pages viewer. Its catalog paths identify files **inside an extracted ZIP**, rather than files under the repository root. Four [small direct GLB examples](collections/sostylized/samples/) and a [converted-asset preview](collections/sostylized/previews/contact_sheet.png) are included for inspection. The 42 source Unreal Worlds are indexed only; their authored layouts are not converted. Cloud, water, wind and landscape-blend materials require target-engine work; consult the per-asset readiness flags.
+
+## Existing direct browser library
 
 - [Compact asset index](https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/asset-index.json): select exact asset IDs without downloading the model library.
 - [Full manifest](https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/manifest.json): paths, collection, category, geometry statistics, sizes, provenance, and limitations.
@@ -14,7 +22,7 @@ A unified environment asset library for Three.js, combining **Stylized Chinese L
 - [Large-world feasibility and measurement notes](FEASIBILITY.md).
 - [Loading and disposal helper](examples/load-model.js).
 
-The library contains **516 model assets: 135 Temple GLBs and 381 Meadow glTF variants**, representing **278 independent source models** (134 Temple + 144 Meadow). Source FBX counts, Prefab counts, material combinations, and exported assets are different quantities. Use the manifest for current paths, hashes, dependencies, and payload sizes; do not add per-asset dependency sizes without deduplicating shared files.
+The existing direct browser library contains **516 model assets: 135 Temple GLBs and 381 Meadow glTF variants**, representing **278 independent source models** (134 Temple + 144 Meadow). Source FBX counts, Prefab counts, material combinations, and exported assets are different quantities. Use the manifest for current paths, hashes, dependencies, and payload sizes; do not add per-asset dependency sizes without deduplicating shared files.
 
 ## Collections and formats
 
@@ -108,4 +116,4 @@ The demo accepts ?mode=clone or ?mode=instanced and an optional base query param
 
 ## Source and rights
 
-The source packages are user-supplied Stylized Chinese Lost Temple (Assets/Stylarts namespace) and Meadow Environment – Stylized Pack 1.6 (Assets/ANGRY MESH namespace). Conversion and repository publication do not change the original assets' ownership or license terms. This repository does not grant a new permissive license for third-party models or textures; use them under the rights attached to the original source packages. Three.js and validation tooling retain their own licenses.
+The source packages are user-supplied Stylized Chinese Lost Temple (Assets/Stylarts namespace), Meadow Environment – Stylized Pack 1.6 (Assets/ANGRY MESH namespace), and one SoStylized.rar archive (Unreal /Game/SoStylized namespace). Conversion and repository publication do not change the original assets' ownership or license terms. This repository does not grant a new permissive license for third-party models or textures; use them under the rights attached to the original source packages. Three.js and validation tooling retain their own licenses.

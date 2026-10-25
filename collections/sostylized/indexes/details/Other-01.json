@@ -1,0 +1,1784 @@
+{
+  "schema_version": 1,
+  "category": "Other",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_SM_Ramp",
+      "source": {
+        "name": "SM_Ramp",
+        "path": "/Game/SoStylized/Demo/Meshes/SM_Ramp.SM_Ramp",
+        "package": "/Game/SoStylized/Demo/Meshes/SM_Ramp",
+        "class": "StaticMesh"
+      },
+      "category": "Demo/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "aeafa5986ced5b0a20b559f7c813d792e4da70f96882ed43c06dc8072f382c02",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5c3cc0097a1ac792872eccf35b343a5f78ae091b7c5be2465db6a4fd63c1c93b",
+      "native_bytes": 534560,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 8,
+      "scene_triangles": 8,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.5,
+          -0.5000000596046448,
+          -0.5000000596046448
+        ],
+        "max": [
+          0.5,
+          0.5000000596046448,
+          0.5000000596046448
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Demo/Meshes/SM_Ramp.glb",
+      "bytes": 534560,
+      "sha256": "5c3cc0097a1ac792872eccf35b343a5f78ae091b7c5be2465db6a4fd63c1c93b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Demo/Meshes/SM_Ramp.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Sphere",
+      "source": {
+        "name": "SM_Sphere",
+        "path": "/Game/SoStylized/Demo/Meshes/SM_Sphere.SM_Sphere",
+        "package": "/Game/SoStylized/Demo/Meshes/SM_Sphere",
+        "class": "StaticMesh"
+      },
+      "category": "Demo/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "7f885ba8aa6a5f3950c7f6767a9450503ed127c3dcc884c2418fc02c297dbeff",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "cda85031be550679be6c839f93e95a1f56b62edc39719fd4a466fa0f8655a2f9",
+      "native_bytes": 554800,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 528,
+      "scene_triangles": 528,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.999999463558197,
+          -1.0,
+          -1.0
+        ],
+        "max": [
+          0.9999998211860657,
+          1.0,
+          0.9999997019767761
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Demo/Meshes/SM_Sphere.glb",
+      "bytes": 554800,
+      "sha256": "cda85031be550679be6c839f93e95a1f56b62edc39719fd4a466fa0f8655a2f9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Demo/Meshes/SM_Sphere.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_LightningStrike01",
+      "source": {
+        "name": "SM_LightningStrike01",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_LightningStrike01.SM_LightningStrike01",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_LightningStrike01",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "2d583bf2b2689ea34f60d42c87b73a3092404c899c136d7270e1553db134bb1e",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_LightningStrike",
+          "path": "/Game/SoStylized/Effects/Materials/MI_LightningStrike.MI_LightningStrike"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f4cf39e480cc3b71f72358a6e7572650202aa28e33dae032d0ad7eef5cce96ba",
+      "native_bytes": 442092,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_LightningStrike",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 872,
+      "scene_triangles": 872,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -3.580716133117676,
+          -0.12141786515712738,
+          -5.937519550323486
+        ],
+        "max": [
+          2.9376626014709473,
+          48.14939880371094,
+          2.630174398422241
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_LightningStrike01.glb",
+      "bytes": 442092,
+      "sha256": "f4cf39e480cc3b71f72358a6e7572650202aa28e33dae032d0ad7eef5cce96ba",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_LightningStrike02",
+      "source": {
+        "name": "SM_LightningStrike02",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_LightningStrike02.SM_LightningStrike02",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_LightningStrike02",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0698c60ba2c8374de6d53211a00d904aaf2c8eaa63ed460cfb764bb55e50c290",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_LightningStrike",
+          "path": "/Game/SoStylized/Effects/Materials/MI_LightningDistant.MI_LightningDistant"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "def6ab0f43ff5fab8ec5692ba0f76baf22f729bc1764caff4bea66eed8ad6220",
+      "native_bytes": 468212,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_LightningDistant",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1528,
+      "scene_triangles": 1528,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -12.010015487670898,
+          9.631686210632324,
+          -5.102202892303467
+        ],
+        "max": [
+          11.4253511428833,
+          48.97885513305664,
+          12.64445686340332
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_LightningStrike02.glb",
+      "bytes": 468212,
+      "sha256": "def6ab0f43ff5fab8ec5692ba0f76baf22f729bc1764caff4bea66eed8ad6220",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_LightningStrike03",
+      "source": {
+        "name": "SM_LightningStrike03",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_LightningStrike03.SM_LightningStrike03",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_LightningStrike03",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4df126fd14b916d2fbdba5d8386ebabf1336252dcd689e00cf53e5ca050f0bc4",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_LightningStrike",
+          "path": "/Game/SoStylized/Effects/Materials/MI_LightningDistant.MI_LightningDistant"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "cade0af360761cc97e58bba2d66443fe86e99ec071528ab89f6e1e3a2e823ba9",
+      "native_bytes": 435868,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_LightningDistant",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 720,
+      "scene_triangles": 720,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -0.06682305783033371,
+          -0.13022224605083466,
+          -4.855467796325684
+        ],
+        "max": [
+          17.66058921813965,
+          58.4427375793457,
+          1.7557096481323242
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_LightningStrike03.glb",
+      "bytes": 435868,
+      "sha256": "cade0af360761cc97e58bba2d66443fe86e99ec071528ab89f6e1e3a2e823ba9",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_LightningStrike04",
+      "source": {
+        "name": "SM_LightningStrike04",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_LightningStrike04.SM_LightningStrike04",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_LightningStrike04",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6f4d343ec84c276dcc616dea229c80ea59a239f5b3ecf614f5a7de10e4d532b0",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_LightningStrike",
+          "path": "/Game/SoStylized/Effects/Materials/MI_LightningDistant.MI_LightningDistant"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6021f2f7ecb65b427eb97ca4124ad526fe1da0636f8f6d44c5ff23733ebd17e5",
+      "native_bytes": 483900,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_LightningDistant",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1864,
+      "scene_triangles": 1864,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -10.796156883239746,
+          16.200824737548828,
+          -6.996636867523193
+        ],
+        "max": [
+          15.592066764831543,
+          77.6362075805664,
+          8.223299980163574
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_LightningStrike04.glb",
+      "bytes": 483900,
+      "sha256": "6021f2f7ecb65b427eb97ca4124ad526fe1da0636f8f6d44c5ff23733ebd17e5",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike04.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_LightningStrike05",
+      "source": {
+        "name": "SM_LightningStrike05",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_LightningStrike05.SM_LightningStrike05",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_LightningStrike05",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "013b5e0a15a2f4d293ca18517ea7b8979d016b43cbb15fe18593950575ea8d1d",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_LightningStrike",
+          "path": "/Game/SoStylized/Effects/Materials/MI_LightningDistant.MI_LightningDistant"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "8f5ff2da63745351c2fe263aed5fee7892d9202b5a118fd776652107f08a4ebe",
+      "native_bytes": 445332,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_LightningDistant",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 944,
+      "scene_triangles": 944,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -7.533351898193359,
+          -0.5142040848731995,
+          -0.44347599148750305
+        ],
+        "max": [
+          3.0162575244903564,
+          70.36924743652344,
+          6.390025615692139
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_LightningStrike05.glb",
+      "bytes": 445332,
+      "sha256": "8f5ff2da63745351c2fe263aed5fee7892d9202b5a118fd776652107f08a4ebe",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike05.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RainDrop",
+      "source": {
+        "name": "SM_RainDrop",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_RainDrop.SM_RainDrop",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_RainDrop",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [
+        "No material or embedded image; inspect for intentionally untextured source or missing bake"
+      ],
+      "source_uasset_sha256": "97ba1449a2a5285cd93b4c1a7137d81d41b66a10aa41b48052ea10edca7294e1",
+      "engine_log_warnings": [
+        "Unsupported blend mode (Additive) in material MI_RainDrop, will export as Translucent"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RainDrop",
+          "path": "/Game/SoStylized/Effects/Materials/MI_RainDrop.MI_RainDrop"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "7990e1fb15b981dcbeb7a89c7662680c55a5de6bdc811e6b1c7d6a958e432d08",
+      "native_bytes": 1616,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RainDrop",
+            "source_uvs": []
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 2,
+      "scene_triangles": 2,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 0,
+      "bounds": {
+        "min": [
+          -3.0,
+          -5.563223126614503e-08,
+          -0.10000002384185791
+        ],
+        "max": [
+          2.503434792799908e-08,
+          5.5632320083987e-08,
+          0.1000007688999176
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_RainDrop.glb",
+      "bytes": 1616,
+      "sha256": "7990e1fb15b981dcbeb7a89c7662680c55a5de6bdc811e6b1c7d6a958e432d08",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RainDrop.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RainSplash",
+      "source": {
+        "name": "SM_RainSplash",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_RainSplash.SM_RainSplash",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_RainSplash",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "a861d95fc2140ca9ff13e74667490031dd2f9a55ad257be4677d9d86e8ff21ff",
+      "engine_log_warnings": [
+        "Unsupported blend mode (Additive) in material MI_RainSplash, will export as Translucent"
+      ],
+      "engine_log_warning_scope": "GLTFExporter warnings before this asset completion in native log",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "MI_RainSplash",
+          "path": "/Game/SoStylized/Effects/Materials/MI_RainSplash.MI_RainSplash"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "f77f521a38689c76f3da3a841ef8d49c9fc342af397d2fc17f9397eebd9698bf",
+      "native_bytes": 132248,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RainSplash",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 4,
+      "scene_triangles": 4,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 1,
+      "bounds": {
+        "min": [
+          -0.10000002384185791,
+          -1.6292073468093804e-08,
+          -0.1000000536441803
+        ],
+        "max": [
+          0.10000002384185791,
+          0.20000004768371582,
+          0.10000002384185791
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_unlit"
+      ],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_RainSplash.glb",
+      "bytes": 132248,
+      "sha256": "f77f521a38689c76f3da3a841ef8d49c9fc342af397d2fc17f9397eebd9698bf",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior.",
+          "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RainSplash.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDebris01",
+      "source": {
+        "name": "SM_RockDebris01",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_RockDebris01.SM_RockDebris01",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_RockDebris01",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [
+        "No material or embedded image; inspect for intentionally untextured source or missing bake"
+      ],
+      "source_uasset_sha256": "50fec6d3ef52d53df1f327b880e12e5c2e0af9514a9bcadc9dbf62e510680b72",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Effects/Materials/MI_RockDebris.MI_RockDebris"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "9054e3b3795e05fad49f9da79d6ee6cea39d53479f0ff218d45e2b8f5824df0b",
+      "native_bytes": 6292,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDebris_SM_RockDebris01",
+            "source_uvs": []
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 34,
+      "scene_triangles": 34,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 0,
+      "bounds": {
+        "min": [
+          -0.6766409277915955,
+          -0.4393179714679718,
+          -0.4775843620300293
+        ],
+        "max": [
+          0.4969562292098999,
+          0.3215571641921997,
+          0.3947455883026123
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_RockDebris01.glb",
+      "bytes": 6292,
+      "sha256": "9054e3b3795e05fad49f9da79d6ee6cea39d53479f0ff218d45e2b8f5824df0b",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RockDebris01.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDebris02",
+      "source": {
+        "name": "SM_RockDebris02",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_RockDebris02.SM_RockDebris02",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_RockDebris02",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [
+        "No material or embedded image; inspect for intentionally untextured source or missing bake"
+      ],
+      "source_uasset_sha256": "3ef25ab0a3f9cfca284def463f871abbdcaf98b9f102b7fb186d41b3caef5007",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Effects/Materials/MI_RockDebris.MI_RockDebris"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "58a7d853e846625fd415cd78fe2a249ac10f4f8c0d72392d019ab7eca9dc2aba",
+      "native_bytes": 5028,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDebris_SM_RockDebris02",
+            "source_uvs": []
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 26,
+      "scene_triangles": 26,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 0,
+      "bounds": {
+        "min": [
+          -0.673285961151123,
+          -0.4721011221408844,
+          -0.4613739252090454
+        ],
+        "max": [
+          0.7042720913887024,
+          0.25172021985054016,
+          0.5257183909416199
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_RockDebris02.glb",
+      "bytes": 5028,
+      "sha256": "58a7d853e846625fd415cd78fe2a249ac10f4f8c0d72392d019ab7eca9dc2aba",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RockDebris02.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_RockDebris03",
+      "source": {
+        "name": "SM_RockDebris03",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_RockDebris03.SM_RockDebris03",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_RockDebris03",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [
+        "No material or embedded image; inspect for intentionally untextured source or missing bake"
+      ],
+      "source_uasset_sha256": "dfc4ab90e4888420b8099385232cba7fb5f21c2b9193e0a11cfe69aa2a275e4b",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Effects/Materials/MI_RockDebris.MI_RockDebris"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "60d5f8e20dd65943f9a48503f5e965b2a9358bb2eda6ac02f31d95a85805b5cc",
+      "native_bytes": 3204,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_RockDebris_SM_RockDebris03",
+            "source_uvs": []
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 16,
+      "scene_triangles": 16,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 0,
+      "bounds": {
+        "min": [
+          -0.6429590582847595,
+          -0.4750032424926758,
+          -0.36953020095825195
+        ],
+        "max": [
+          0.6652495265007019,
+          0.2571326494216919,
+          0.4519670307636261
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_specular"
+      ],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_RockDebris03.glb",
+      "bytes": 3204,
+      "sha256": "60d5f8e20dd65943f9a48503f5e965b2a9358bb2eda6ac02f31d95a85805b5cc",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RockDebris03.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_VegetationParticle",
+      "source": {
+        "name": "SM_VegetationParticle",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_VegetationParticle.SM_VegetationParticle",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_VegetationParticle",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [
+        "No material or embedded image; inspect for intentionally untextured source or missing bake"
+      ],
+      "source_uasset_sha256": "6b877eaab79f9f988ee6a16d975214d5b7ac8afc93d5b918c735f5134564d160",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Effects/Materials/M_BasicParticle.M_BasicParticle"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "766eee9e32807168b42faf82d0013dfcf96f2e46762080e3e37cfc3cffdc50d0",
+      "native_bytes": 1568,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "M_BasicParticle_SM_VegetationParticle",
+            "source_uvs": []
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1,
+      "scene_triangles": 1,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 0,
+      "bounds": {
+        "min": [
+          -0.257836252450943,
+          -0.0012678802013397217,
+          -0.05808069556951523
+        ],
+        "max": [
+          0.16158747673034668,
+          0.0006339416722767055,
+          0.038537606596946716
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_VegetationParticle.glb",
+      "bytes": 1568,
+      "sha256": "766eee9e32807168b42faf82d0013dfcf96f2e46762080e3e37cfc3cffdc50d0",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_VegetationParticle.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_WindLineMesh",
+      "source": {
+        "name": "SM_WindLineMesh",
+        "path": "/Game/SoStylized/Effects/Meshes/SM_WindLineMesh.SM_WindLineMesh",
+        "package": "/Game/SoStylized/Effects/Meshes/SM_WindLineMesh",
+        "class": "StaticMesh"
+      },
+      "category": "Effects/Meshes",
+      "status": "packaged",
+      "warnings": [
+        "No material or embedded image; inspect for intentionally untextured source or missing bake"
+      ],
+      "source_uasset_sha256": "5bcb2b4b98dbfac2639188254ebe18ad474d264fcbcd056c7793c66da71d0605",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Game/SoStylized/Effects/Materials/MI_WindLineV2.MI_WindLineV2"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "5f07db517fdcd16a7bd7a853f8d5d0b7953780d504f1009f8a092355c5526683",
+      "native_bytes": 6216,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "MI_WindLineV2",
+            "source_uvs": []
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 42,
+      "scene_triangles": 42,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 0,
+      "bounds": {
+        "min": [
+          -2.0663208033511182e-06,
+          -0.12098508328199387,
+          -5.0
+        ],
+        "max": [
+          2.0663208033511182e-06,
+          0.12098508328199387,
+          5.0
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [
+        "KHR_materials_ior"
+      ],
+      "self_contained": true,
+      "path": "Models/Effects/Meshes/SM_WindLineMesh.glb",
+      "bytes": 6216,
+      "sha256": "5f07db517fdcd16a7bd7a853f8d5d0b7953780d504f1009f8a092355c5526683",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Target-engine shader/effect work is required for source runtime behavior."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_WindLineMesh.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus01_Collision",
+      "source": {
+        "name": "SM_Cactus01_Collision",
+        "path": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus01_Collision.SM_Cactus01_Collision",
+        "package": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus01_Collision",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "bea75c8bc17e8354a365995012b59d5ea73730a1485ec5d64645a44e6c7668b2",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6e3dffc07eae32cedea5b4e5c67ca623f790b5a7e6cdd9194ab871db7f87e1a7",
+      "native_bytes": 549012,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 419,
+      "scene_triangles": 419,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.4681418836116791,
+          -0.391507089138031,
+          -0.23836319148540497
+        ],
+        "max": [
+          0.9482578039169312,
+          5.615804195404053,
+          0.6365571618080139
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus01_Collision.glb",
+      "bytes": 549012,
+      "sha256": "6e3dffc07eae32cedea5b4e5c67ca623f790b5a7e6cdd9194ab871db7f87e1a7",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus01_Collision.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus02_Collision",
+      "source": {
+        "name": "SM_Cactus02_Collision",
+        "path": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus02_Collision.SM_Cactus02_Collision",
+        "package": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus02_Collision",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "700788fab76c4f6776ad5b086fa550f6ac87f8558ef703ee8690812358fb723a",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "6714e1653e01ecfbd77db5940a0563844ad206f93b7370e1c79f2ffca0d6743e",
+      "native_bytes": 556952,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 581,
+      "scene_triangles": 581,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.100737452507019,
+          -0.38502979278564453,
+          -0.2106008231639862
+        ],
+        "max": [
+          1.2333976030349731,
+          7.347589492797852,
+          0.8349860906600952
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus02_Collision.glb",
+      "bytes": 556952,
+      "sha256": "6714e1653e01ecfbd77db5940a0563844ad206f93b7370e1c79f2ffca0d6743e",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus02_Collision.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus03_Collision",
+      "source": {
+        "name": "SM_Cactus03_Collision",
+        "path": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus03_Collision.SM_Cactus03_Collision",
+        "package": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus03_Collision",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "4e37c2e8d1fd9a0144398b7f15409d184e444b517f6ad7d40cd4a4043780fc06",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "03b344aff704b3ecdb7bc9e4681ed2c834e86425a26a6b2613d38088322941ff",
+      "native_bytes": 555768,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 552,
+      "scene_triangles": 552,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.2377257347106934,
+          -0.8251553177833557,
+          -0.8040924668312073
+        ],
+        "max": [
+          0.9727146625518799,
+          6.779263019561768,
+          0.8945030570030212
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus03_Collision.glb",
+      "bytes": 555768,
+      "sha256": "03b344aff704b3ecdb7bc9e4681ed2c834e86425a26a6b2613d38088322941ff",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus03_Collision.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus04_Collision",
+      "source": {
+        "name": "SM_Cactus04_Collision",
+        "path": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus04_Collision.SM_Cactus04_Collision",
+        "package": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus04_Collision",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "425d6f2085e0318cc1cc2b8b3b27029a65f1fe86f81fe2b9ce7786fda08e5aca",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "50c9f3acc5203695547564b83940849ecf099961a858c1d3473d900e9788a46a",
+      "native_bytes": 559008,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 616,
+      "scene_triangles": 616,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.666829228401184,
+          -0.9570831656455994,
+          -0.6856934428215027
+        ],
+        "max": [
+          1.3734855651855469,
+          7.43643045425415,
+          1.1885898113250732
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus04_Collision.glb",
+      "bytes": 559008,
+      "sha256": "50c9f3acc5203695547564b83940849ecf099961a858c1d3473d900e9788a46a",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus04_Collision.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus05_Collision",
+      "source": {
+        "name": "SM_Cactus05_Collision",
+        "path": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus05_Collision.SM_Cactus05_Collision",
+        "package": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus05_Collision",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "088ed19ffa373879857bf0e633ea623af1d11de9eb81447028f3dc95d38fc937",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "08c51171f4d90df354dfc37c5cedb619ab93130b99b484e7b041cfacebe5bd86",
+      "native_bytes": 561720,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 686,
+      "scene_triangles": 686,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -0.31407392024993896,
+          -1.234265685081482,
+          -1.7983649969100952
+        ],
+        "max": [
+          2.248910665512085,
+          8.380640029907227,
+          1.8877637386322021
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus05_Collision.glb",
+      "bytes": 561720,
+      "sha256": "08c51171f4d90df354dfc37c5cedb619ab93130b99b484e7b041cfacebe5bd86",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus05_Collision.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_SM_Cactus06_Collision",
+      "source": {
+        "name": "SM_Cactus06_Collision",
+        "path": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus06_Collision.SM_Cactus06_Collision",
+        "package": "/Game/SoStylized/Environment/Foliage/Collision/SM_Cactus06_Collision",
+        "class": "StaticMesh"
+      },
+      "category": "Environment/Foliage/Collision",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1acd040f5247cbe059d99d67b7a484b71075e0815f6cbc4c5c2fbc4292bb01f2",
+      "lod_count": 1,
+      "exported_lods": [
+        0
+      ],
+      "export_messages": {
+        "suggestions": [],
+        "warnings": [],
+        "errors": []
+      },
+      "material_slots": [
+        {
+          "slot": "WorldGridMaterial",
+          "path": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+        }
+      ],
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "native_status": "exported",
+      "native_sha256": "b924fcfd7d211c65507caf00683f6c81272dd3276e8343cd9bc537c996915269",
+      "native_bytes": 578140,
+      "uv_normalization": {
+        "status": "already_uv0",
+        "materials": [
+          {
+            "material": 0,
+            "name": "WorldGridMaterial",
+            "source_uvs": [
+              0
+            ]
+          }
+        ],
+        "removed_stale_tangents": 0,
+        "binary_chunks_unchanged": true
+      },
+      "triangles": 1126,
+      "scene_triangles": 1126,
+      "mesh_count": 1,
+      "material_count": 1,
+      "image_count": 3,
+      "bounds": {
+        "min": [
+          -1.3960660696029663,
+          -0.9239996075630188,
+          -1.3028864860534668
+        ],
+        "max": [
+          1.3745574951171875,
+          10.170151710510254,
+          1.3930834531784058
+        ]
+      },
+      "bounds_scope": "Default scene base POSITION vertices with complete node world matrices; metres",
+      "required_extensions": [],
+      "extensions_used": [],
+      "self_contained": true,
+      "path": "Models/Environment/Foliage/Collision/SM_Cactus06_Collision.glb",
+      "bytes": 578140,
+      "sha256": "b924fcfd7d211c65507caf00683f6c81272dd3276e8343cd9bc537c996915269",
+      "material_readiness": {
+        "status": "static_bake_not_individually_visual_reviewed",
+        "runtime_effects": "not_ported",
+        "notes": [],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+      },
+      "download_category": "Other",
+      "content_labels": [
+        "Collision"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus06_Collision.glb",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

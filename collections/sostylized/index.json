@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "collection": "sostylized",
+  "summary": {
+    "packaged": 1090
+  },
+  "asset_count": 1090,
+  "catalog": "catalog.json",
+  "asset_index": "asset-index.json",
+  "downloads": "downloads.json",
+  "source_inventory": "source-catalog.json",
+  "source_worlds": "source-worlds.json",
+  "material_readiness": "MATERIAL_READINESS.md",
+  "preview": "previews/preview-receipt.json",
+  "release_tag": "sostylized-godot-blender-2026-10-25",
+  "categories": [
+    {
+      "category": "Trees",
+      "asset_count": 161,
+      "index": "indexes/Trees.json"
+    },
+    {
+      "category": "Rocks",
+      "asset_count": 324,
+      "index": "indexes/Rocks.json"
+    },
+    {
+      "category": "Foliage",
+      "asset_count": 109,
+      "index": "indexes/Foliage.json"
+    },
+    {
+      "category": "WaterSky",
+      "asset_count": 45,
+      "index": "indexes/WaterSky.json"
+    },
+    {
+      "category": "Other",
+      "asset_count": 148,
+      "index": "indexes/Other.json"
+    },
+    {
+      "category": "Textures",
+      "asset_count": 286,
+      "index": "indexes/Textures.json"
+    },
+    {
+      "category": "Audio",
+      "asset_count": 17,
+      "index": "indexes/Audio.json"
+    }
+  ],
+  "publication_status": "Local metadata staged; release upload and URL verification are separate."
+}

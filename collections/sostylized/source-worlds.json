@@ -1,0 +1,257 @@
+{
+  "scope": "Source World identity only; layouts not converted",
+  "worlds": [
+    {
+      "name": "Demonstration_Asia",
+      "path": "/Game/SoStylized/Maps/AsiaChina/Demonstration_Asia.Demonstration_Asia",
+      "package": "/Game/SoStylized/Maps/AsiaChina/Demonstration_Asia",
+      "class": "World"
+    },
+    {
+      "name": "Overview_Asia",
+      "path": "/Game/SoStylized/Maps/AsiaChina/Overview_Asia.Overview_Asia",
+      "package": "/Game/SoStylized/Maps/AsiaChina/Overview_Asia",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_Vol1",
+      "path": "/Game/SoStylized/Maps/CompleteVol1/Demonstration_Vol1.Demonstration_Vol1",
+      "package": "/Game/SoStylized/Maps/CompleteVol1/Demonstration_Vol1",
+      "class": "World"
+    },
+    {
+      "name": "Overview_Vol1",
+      "path": "/Game/SoStylized/Maps/CompleteVol1/Overview_Vol1.Overview_Vol1",
+      "package": "/Game/SoStylized/Maps/CompleteVol1/Overview_Vol1",
+      "class": "World"
+    },
+    {
+      "name": "StreamingLevel_Demo_Grass",
+      "path": "/Game/SoStylized/Maps/CompleteVol1/StreamingLevel_Demo_Grass.StreamingLevel_Demo_Grass",
+      "package": "/Game/SoStylized/Maps/CompleteVol1/StreamingLevel_Demo_Grass",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_Vol2",
+      "path": "/Game/SoStylized/Maps/CompleteVol2/Demonstration_Vol2.Demonstration_Vol2",
+      "package": "/Game/SoStylized/Maps/CompleteVol2/Demonstration_Vol2",
+      "class": "World"
+    },
+    {
+      "name": "Overview_Vol2",
+      "path": "/Game/SoStylized/Maps/CompleteVol2/Overview_Vol2.Overview_Vol2",
+      "package": "/Game/SoStylized/Maps/CompleteVol2/Overview_Vol2",
+      "class": "World"
+    },
+    {
+      "name": "Overview_Vol3",
+      "path": "/Game/SoStylized/Maps/CompleteVol3/Overview_Vol3.Overview_Vol3",
+      "package": "/Game/SoStylized/Maps/CompleteVol3/Overview_Vol3",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_Desert",
+      "path": "/Game/SoStylized/Maps/Desert/Demonstration_Desert.Demonstration_Desert",
+      "package": "/Game/SoStylized/Maps/Desert/Demonstration_Desert",
+      "class": "World"
+    },
+    {
+      "name": "Overview_Desert",
+      "path": "/Game/SoStylized/Maps/Desert/Overview_Desert.Overview_Desert",
+      "package": "/Game/SoStylized/Maps/Desert/Overview_Desert",
+      "class": "World"
+    },
+    {
+      "name": "Overview_Megapack",
+      "path": "/Game/SoStylized/Maps/MegaPack/Overview_Megapack.Overview_Megapack",
+      "package": "/Game/SoStylized/Maps/MegaPack/Overview_Megapack",
+      "class": "World"
+    },
+    {
+      "name": "Tutorial_SpatialCulling",
+      "path": "/Game/SoStylized/Maps/MegaPack/Tutorial_SpatialCulling.Tutorial_SpatialCulling",
+      "package": "/Game/SoStylized/Maps/MegaPack/Tutorial_SpatialCulling",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_RocksClassic",
+      "path": "/Game/SoStylized/Maps/RocksClassic/Demonstration_RocksClassic.Demonstration_RocksClassic",
+      "package": "/Game/SoStylized/Maps/RocksClassic/Demonstration_RocksClassic",
+      "class": "World"
+    },
+    {
+      "name": "Overview_RocksClassic",
+      "path": "/Game/SoStylized/Maps/RocksClassic/Overview_RocksClassic.Overview_RocksClassic",
+      "package": "/Game/SoStylized/Maps/RocksClassic/Overview_RocksClassic",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_RocksCubic",
+      "path": "/Game/SoStylized/Maps/RocksCubic/Demonstration_RocksCubic.Demonstration_RocksCubic",
+      "package": "/Game/SoStylized/Maps/RocksCubic/Demonstration_RocksCubic",
+      "class": "World"
+    },
+    {
+      "name": "Overview_RocksCubic",
+      "path": "/Game/SoStylized/Maps/RocksCubic/Overview_RocksCubic.Overview_RocksCubic",
+      "package": "/Game/SoStylized/Maps/RocksCubic/Overview_RocksCubic",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_RocksHexic",
+      "path": "/Game/SoStylized/Maps/RocksHexic/Demonstration_RocksHexic.Demonstration_RocksHexic",
+      "package": "/Game/SoStylized/Maps/RocksHexic/Demonstration_RocksHexic",
+      "class": "World"
+    },
+    {
+      "name": "Overview_RocksHexic",
+      "path": "/Game/SoStylized/Maps/RocksHexic/Overview_RocksHexic.Overview_RocksHexic",
+      "package": "/Game/SoStylized/Maps/RocksHexic/Overview_RocksHexic",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_RocksSpire",
+      "path": "/Game/SoStylized/Maps/RocksSpire/Demonstration_RocksSpire.Demonstration_RocksSpire",
+      "package": "/Game/SoStylized/Maps/RocksSpire/Demonstration_RocksSpire",
+      "class": "World"
+    },
+    {
+      "name": "Overview_RocksSpire",
+      "path": "/Game/SoStylized/Maps/RocksSpire/Overview_RocksSpire.Overview_RocksSpire",
+      "package": "/Game/SoStylized/Maps/RocksSpire/Overview_RocksSpire",
+      "class": "World"
+    },
+    {
+      "name": "Overview_Sky",
+      "path": "/Game/SoStylized/Maps/Sky/Overview_Sky.Overview_Sky",
+      "package": "/Game/SoStylized/Maps/Sky/Overview_Sky",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_SnowPines",
+      "path": "/Game/SoStylized/Maps/SnowPines/Demonstration_SnowPines.Demonstration_SnowPines",
+      "package": "/Game/SoStylized/Maps/SnowPines/Demonstration_SnowPines",
+      "class": "World"
+    },
+    {
+      "name": "Overview_Snow",
+      "path": "/Game/SoStylized/Maps/SnowPines/Overview_Snow.Overview_Snow",
+      "package": "/Game/SoStylized/Maps/SnowPines/Overview_Snow",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_TreesBamboo",
+      "path": "/Game/SoStylized/Maps/TreesBamboo/Demonstration_TreesBamboo.Demonstration_TreesBamboo",
+      "package": "/Game/SoStylized/Maps/TreesBamboo/Demonstration_TreesBamboo",
+      "class": "World"
+    },
+    {
+      "name": "Overview_TreesBamboo",
+      "path": "/Game/SoStylized/Maps/TreesBamboo/Overview_TreesBamboo.Overview_TreesBamboo",
+      "package": "/Game/SoStylized/Maps/TreesBamboo/Overview_TreesBamboo",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_TreesBirch",
+      "path": "/Game/SoStylized/Maps/TreesBirch/Demonstration_TreesBirch.Demonstration_TreesBirch",
+      "package": "/Game/SoStylized/Maps/TreesBirch/Demonstration_TreesBirch",
+      "class": "World"
+    },
+    {
+      "name": "Overview_TreesBirch",
+      "path": "/Game/SoStylized/Maps/TreesBirch/Overview_TreesBirch.Overview_TreesBirch",
+      "package": "/Game/SoStylized/Maps/TreesBirch/Overview_TreesBirch",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_TreesFir",
+      "path": "/Game/SoStylized/Maps/TreesFir/Demonstration_TreesFir.Demonstration_TreesFir",
+      "package": "/Game/SoStylized/Maps/TreesFir/Demonstration_TreesFir",
+      "class": "World"
+    },
+    {
+      "name": "Overview_TreesFir",
+      "path": "/Game/SoStylized/Maps/TreesFir/Overview_TreesFir.Overview_TreesFir",
+      "package": "/Game/SoStylized/Maps/TreesFir/Overview_TreesFir",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_TreesOak",
+      "path": "/Game/SoStylized/Maps/TreesOak/Demonstration_TreesOak.Demonstration_TreesOak",
+      "package": "/Game/SoStylized/Maps/TreesOak/Demonstration_TreesOak",
+      "class": "World"
+    },
+    {
+      "name": "Overview_TreesOak",
+      "path": "/Game/SoStylized/Maps/TreesOak/Overview_TreesOak.Overview_TreesOak",
+      "package": "/Game/SoStylized/Maps/TreesOak/Overview_TreesOak",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_Tropical",
+      "path": "/Game/SoStylized/Maps/TropicalCoastal/Demonstration_Tropical.Demonstration_Tropical",
+      "package": "/Game/SoStylized/Maps/TropicalCoastal/Demonstration_Tropical",
+      "class": "World"
+    },
+    {
+      "name": "Overview_Tropical",
+      "path": "/Game/SoStylized/Maps/TropicalCoastal/Overview_Tropical.Overview_Tropical",
+      "package": "/Game/SoStylized/Maps/TropicalCoastal/Overview_Tropical",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_Water_Classic",
+      "path": "/Game/SoStylized/Maps/Water/Demonstration_Water_Classic.Demonstration_Water_Classic",
+      "package": "/Game/SoStylized/Maps/Water/Demonstration_Water_Classic",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_Water_Fantasy",
+      "path": "/Game/SoStylized/Maps/Water/Demonstration_Water_Fantasy.Demonstration_Water_Fantasy",
+      "package": "/Game/SoStylized/Maps/Water/Demonstration_Water_Fantasy",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_Water_Lightweight",
+      "path": "/Game/SoStylized/Maps/Water/Demonstration_Water_Lightweight.Demonstration_Water_Lightweight",
+      "package": "/Game/SoStylized/Maps/Water/Demonstration_Water_Lightweight",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_Water_Pirate",
+      "path": "/Game/SoStylized/Maps/Water/Demonstration_Water_Pirate.Demonstration_Water_Pirate",
+      "package": "/Game/SoStylized/Maps/Water/Demonstration_Water_Pirate",
+      "class": "World"
+    },
+    {
+      "name": "Demonstration_Water_Retro",
+      "path": "/Game/SoStylized/Maps/Water/Demonstration_Water_Retro.Demonstration_Water_Retro",
+      "package": "/Game/SoStylized/Maps/Water/Demonstration_Water_Retro",
+      "class": "World"
+    },
+    {
+      "name": "Overview_Water",
+      "path": "/Game/SoStylized/Maps/Water/Overview_Water.Overview_Water",
+      "package": "/Game/SoStylized/Maps/Water/Overview_Water",
+      "class": "World"
+    },
+    {
+      "name": "Tutorial_Cutouts",
+      "path": "/Game/SoStylized/Maps/Water/Tutorial_Cutouts.Tutorial_Cutouts",
+      "package": "/Game/SoStylized/Maps/Water/Tutorial_Cutouts",
+      "class": "World"
+    },
+    {
+      "name": "Tutorial_Rivers",
+      "path": "/Game/SoStylized/Maps/Water/Tutorial_Rivers.Tutorial_Rivers",
+      "package": "/Game/SoStylized/Maps/Water/Tutorial_Rivers",
+      "class": "World"
+    },
+    {
+      "name": "Tutorial_ThresholdRendering",
+      "path": "/Game/SoStylized/Maps/Water/Tutorial_ThresholdRendering.Tutorial_ThresholdRendering",
+      "package": "/Game/SoStylized/Maps/Water/Tutorial_ThresholdRendering",
+      "class": "World"
+    }
+  ]
+}

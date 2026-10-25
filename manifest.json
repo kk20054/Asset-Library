@@ -32067,5 +32067,28 @@
   "unique_model_count": 278,
   "total_payload_bytes": 515909107,
   "payload_file_count": 814,
-  "total_glb_bytes_scope": "temple collection only; use total_payload_bytes for the entire library"
+  "total_glb_bytes_scope": "temple collection only; use total_payload_bytes for the entire library",
+  "download_collections": [
+    {
+      "id": "sostylized",
+      "name": "SoStylized — Stylized Mega Bundle / Stylized Nature",
+      "index": "collections/sostylized/index.json",
+      "catalog": "collections/sostylized/catalog.json",
+      "download_index": "collections/sostylized/downloads.json",
+      "import_guide": "GODOT_BLENDER_USAGE.md",
+      "distribution": "GitHub Release category ZIPs",
+      "asset_count": 1090,
+      "static_mesh_count": 787,
+      "texture2d_count": 286,
+      "soundwave_count": 17,
+      "formats": [
+        "glb",
+        "png",
+        "exr",
+        "wav"
+      ],
+      "path_scope": "Payload paths are extracted ZIP members; only explicit direct_sample_url fields are repository binary URLs.",
+      "count_scope": "Separate from the 516 existing directly hosted Temple/Meadow model assets."
+    }
+  ]
 }

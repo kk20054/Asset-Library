@@ -1,0 +1,988 @@
+{
+  "schema_version": 1,
+  "category": "Textures",
+  "catalog": "../../catalog.json",
+  "scope": "Selected full asset records; payload paths are extracted ZIP members.",
+  "assets": [
+    {
+      "id": "SOSTYLIZED_T_ML_Aluminum01",
+      "source": {
+        "name": "T_ML_Aluminum01",
+        "path": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.T_ML_Aluminum01",
+        "package": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Pawn/Mannequin/Character/Materials/MaterialLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "3c1dea5cac924e9eee7497ea8eda3516eaccb63feae7b2debec4792f5e6fa0a4",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "96d35c486b4bacc368e6188bb5e47758f32f57bd1a7e8c9adb236e2339a8237c",
+      "native_bytes": 369533,
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.png",
+      "bytes": 369533,
+      "sha256": "96d35c486b4bacc368e6188bb5e47758f32f57bd1a7e8c9adb236e2339a8237c",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_ML_Aluminum01_N",
+      "source": {
+        "name": "T_ML_Aluminum01_N",
+        "path": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.T_ML_Aluminum01_N",
+        "package": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Pawn/Mannequin/Character/Materials/MaterialLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "88c450ec9a4a36af7e4ec602efe124bd8b5df66d054fde0ae4f0540c81a530e1",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "ae2cf2d53797896098f1830b9b11fd8f98d092da86bcaebc089d85f88ca57650",
+      "native_bytes": 371739,
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.png",
+      "bytes": 371739,
+      "sha256": "ae2cf2d53797896098f1830b9b11fd8f98d092da86bcaebc089d85f88ca57650",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_ML_Rubber_Blue_01_D",
+      "source": {
+        "name": "T_ML_Rubber_Blue_01_D",
+        "path": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D",
+        "package": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Pawn/Mannequin/Character/Materials/MaterialLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "de33d7f28a9d59f81f87abc674fd5f7d4c41cf08e403254f496f965b17e4bb68",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "ff6b6c59961d880f2999abefad64c8b24dbb591fcdf965e7eb11166750137d53",
+      "native_bytes": 398845,
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.png",
+      "bytes": 398845,
+      "sha256": "ff6b6c59961d880f2999abefad64c8b24dbb591fcdf965e7eb11166750137d53",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_ML_Rubber_Blue_01_N",
+      "source": {
+        "name": "T_ML_Rubber_Blue_01_N",
+        "path": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N",
+        "package": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Pawn/Mannequin/Character/Materials/MaterialLayers",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "87807f0e269e87866bfd90cd17e8a22ff3bced8d07c4e652f30f968e1c36fe99",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "7bf2a38281011b72adf3255f03452122cd355d860b5c0817a64e250803749ec4",
+      "native_bytes": 328986,
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.png",
+      "bytes": 328986,
+      "sha256": "7bf2a38281011b72adf3255f03452122cd355d860b5c0817a64e250803749ec4",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Pawn/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_UE4Man_Logo_N",
+      "source": {
+        "name": "T_UE4Man_Logo_N",
+        "path": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Textures/T_UE4Man_Logo_N.T_UE4Man_Logo_N",
+        "package": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Textures/T_UE4Man_Logo_N",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Pawn/Mannequin/Character/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "6e4fc81237e6034e080199f1d2eccce162c803b8469432e27386911be5c26f66",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "53c17d5efaf524e413ce943885f41f16935e9f78e3c9ffd5bb4414d30c0dd519",
+      "native_bytes": 122531,
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4Man_Logo_N.png",
+      "bytes": 122531,
+      "sha256": "53c17d5efaf524e413ce943885f41f16935e9f78e3c9ffd5bb4414d30c0dd519",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4Man_Logo_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_UE4_LOGO_CARD",
+      "source": {
+        "name": "T_UE4_LOGO_CARD",
+        "path": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Textures/T_UE4_LOGO_CARD.T_UE4_LOGO_CARD",
+        "package": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Textures/T_UE4_LOGO_CARD",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Pawn/Mannequin/Character/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "18d62ab019a7a91b83ae8217a5c054a9fb2d4abd3a37c28023e01026ae744afc",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "814e412bf7fbda6c2dea34a1bfb224a764d761f1ee53bc304a5e47c33e2cfe4c",
+      "native_bytes": 56640,
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4_LOGO_CARD.png",
+      "bytes": 56640,
+      "sha256": "814e412bf7fbda6c2dea34a1bfb224a764d761f1ee53bc304a5e47c33e2cfe4c",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4_LOGO_CARD.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_UE4_Mannequin_MAT_MASKA",
+      "source": {
+        "name": "T_UE4_Mannequin_MAT_MASKA",
+        "path": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA",
+        "package": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Textures/T_UE4_Mannequin_MAT_MASKA",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Pawn/Mannequin/Character/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "45431d2f63ad5c8bbccb4c569d79653a48a81b5e62bab08af2b1c2431d5ef557",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "e5a3e8ada31d30d45f755d48d4f747f19d17222db7174ec4389f5c73d85d9dce",
+      "native_bytes": 186760,
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4_Mannequin_MAT_MASKA.png",
+      "bytes": 186760,
+      "sha256": "e5a3e8ada31d30d45f755d48d4f747f19d17222db7174ec4389f5c73d85d9dce",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4_Mannequin_MAT_MASKA.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_UE4_Mannequin__normals",
+      "source": {
+        "name": "T_UE4_Mannequin__normals",
+        "path": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals",
+        "package": "/Game/SoStylized/Demo/Pawn/Mannequin/Character/Textures/T_UE4_Mannequin__normals",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Pawn/Mannequin/Character/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d70a3e0eaf1ac1332ec6893773d54b14fa57418725b629b95bcbfab58e3a3e8b",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "f64d6c0de280a06051daedebf36250f3caf0452b7d1ad061138bb0dfa48d7c5e",
+      "native_bytes": 5140593,
+      "path": "Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4_Mannequin__normals.png",
+      "bytes": 5140593,
+      "sha256": "f64d6c0de280a06051daedebf36250f3caf0452b7d1ad061138bb0dfa48d7c5e",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Pawn/Mannequin/Character/Textures/T_UE4_Mannequin__normals.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_GridChecker_A",
+      "source": {
+        "name": "T_GridChecker_A",
+        "path": "/Game/SoStylized/Demo/Textures/T_GridChecker_A.T_GridChecker_A",
+        "package": "/Game/SoStylized/Demo/Textures/T_GridChecker_A",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "0cb8a7aa276b7263ad4867957cf23a7c4b65975e806542f8082fd82a8aad81b8",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "249836e890f7adefc61492a4511f069b7013ffdeb0f34cf58416311de26cdb38",
+      "native_bytes": 9468,
+      "path": "Textures/Demo/Textures/T_GridChecker_A.png",
+      "bytes": 9468,
+      "sha256": "249836e890f7adefc61492a4511f069b7013ffdeb0f34cf58416311de26cdb38",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Textures/T_GridChecker_A.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_ProcTiles_N",
+      "source": {
+        "name": "T_ProcTiles_N",
+        "path": "/Game/SoStylized/Demo/Textures/T_ProcTiles_N.T_ProcTiles_N",
+        "package": "/Game/SoStylized/Demo/Textures/T_ProcTiles_N",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "9d2ccedc6b4b1fdf0b92293832c3c11209dca37b5254f8a518e62a37d3e90049",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": true,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "64d9287dd630ee08f6a98eef7f994894f8a2c8ba927dadc7069ac202fed8126f",
+      "native_bytes": 24170,
+      "path": "Textures/Demo/Textures/T_ProcTiles_N.png",
+      "bytes": 24170,
+      "sha256": "64d9287dd630ee08f6a98eef7f994894f8a2c8ba927dadc7069ac202fed8126f",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Textures/T_ProcTiles_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Sky_Blue_transformed",
+      "source": {
+        "name": "T_Sky_Blue-transformed",
+        "path": "/Game/SoStylized/Demo/Textures/T_Sky_Blue-transformed.T_Sky_Blue-transformed",
+        "package": "/Game/SoStylized/Demo/Textures/T_Sky_Blue-transformed",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "993da6b957f6389fb809ca452e2cc3e57ab6e4f183fc4f710a35c84300e8f56d",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "2150b6dbfda6e38c3b5da53baa39ca4f860a4034d41c8c3fcd4e6d45740a5ff7",
+      "native_bytes": 12627386,
+      "path": "Textures/Demo/Textures/T_Sky_Blue-transformed.png",
+      "bytes": 12627386,
+      "sha256": "2150b6dbfda6e38c3b5da53baa39ca4f860a4034d41c8c3fcd4e6d45740a5ff7",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Textures/T_Sky_Blue-transformed.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Smoke_SubUV",
+      "source": {
+        "name": "T_Smoke_SubUV",
+        "path": "/Game/SoStylized/Demo/Textures/T_Smoke_SubUV.T_Smoke_SubUV",
+        "package": "/Game/SoStylized/Demo/Textures/T_Smoke_SubUV",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "1fbc9ee2e391d9ee2e9be4f37751bea9b9bd8b59c8a478ee5e7241d6e9d561ab",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "c4d31fbc001784f9106a7867eb027c8a262303ee5e7f2c1379eead87f80fd597",
+      "native_bytes": 3158795,
+      "path": "Textures/Demo/Textures/T_Smoke_SubUV.png",
+      "bytes": 3158795,
+      "sha256": "c4d31fbc001784f9106a7867eb027c8a262303ee5e7f2c1379eead87f80fd597",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Textures/T_Smoke_SubUV.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Smoke_Tiled_D",
+      "source": {
+        "name": "T_Smoke_Tiled_D",
+        "path": "/Game/SoStylized/Demo/Textures/T_Smoke_Tiled_D.T_Smoke_Tiled_D",
+        "package": "/Game/SoStylized/Demo/Textures/T_Smoke_Tiled_D",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "22518e40cedadf010d402e02f6af047068e278c4cc6de529b1c8a51b5d52ca28",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "fc6f51b2dddff52088fc002456a46bc20b086f60ec71eec3ca009a5623eeff15",
+      "native_bytes": 52797,
+      "path": "Textures/Demo/Textures/T_Smoke_Tiled_D.png",
+      "bytes": 52797,
+      "sha256": "fc6f51b2dddff52088fc002456a46bc20b086f60ec71eec3ca009a5623eeff15",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Textures/T_Smoke_Tiled_D.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Water_N",
+      "source": {
+        "name": "T_Water_N",
+        "path": "/Game/SoStylized/Demo/Textures/T_Water_N.T_Water_N",
+        "package": "/Game/SoStylized/Demo/Textures/T_Water_N",
+        "class": "Texture2D"
+      },
+      "category": "Demo/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d9d765f77543206e2abf23b1f0211e578eefe41a2aed14b163a20f08a867a24d",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "75698f3979985ef65852b2b4a791891a3352f2a2555738d4516a4b5af019a425",
+      "native_bytes": 523844,
+      "path": "Textures/Demo/Textures/T_Water_N.png",
+      "bytes": 523844,
+      "sha256": "75698f3979985ef65852b2b4a791891a3352f2a2555738d4516a4b5af019a425",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Demo"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Demo/Textures/T_Water_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_RainSplash",
+      "source": {
+        "name": "T_RainSplash",
+        "path": "/Game/SoStylized/Effects/Textures/T_RainSplash.T_RainSplash",
+        "package": "/Game/SoStylized/Effects/Textures/T_RainSplash",
+        "class": "Texture2D"
+      },
+      "category": "Effects/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8f916a6604235e078670fd84da6044dbe65d9233fa498b6203810c940e157029",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "c3ce73c5f9a9941113cdd5e10edbbccf05322381f8449449e304676601fcade2",
+      "native_bytes": 16242,
+      "path": "Textures/Effects/Textures/T_RainSplash.png",
+      "bytes": 16242,
+      "sha256": "c3ce73c5f9a9941113cdd5e10edbbccf05322381f8449449e304676601fcade2",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Effects/Textures/T_RainSplash.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_Snow",
+      "source": {
+        "name": "T_Snow",
+        "path": "/Game/SoStylized/Effects/Textures/T_Snow.T_Snow",
+        "package": "/Game/SoStylized/Effects/Textures/T_Snow",
+        "class": "Texture2D"
+      },
+      "category": "Effects/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "8b264bbda3e3d29bc6f475a33ff178ffb1d3cc870c2191e17d0fe31f72c2faf5",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "7275e3ec9c333f6ec6163f24e435ebbaa1aeca7143c898e1395d1e1ec45ad42c",
+      "native_bytes": 3538,
+      "path": "Textures/Effects/Textures/T_Snow.png",
+      "bytes": 3538,
+      "sha256": "7275e3ec9c333f6ec6163f24e435ebbaa1aeca7143c898e1395d1e1ec45ad42c",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Effects/Textures/T_Snow.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SnowFlake",
+      "source": {
+        "name": "T_SnowFlake",
+        "path": "/Game/SoStylized/Effects/Textures/T_SnowFlake.T_SnowFlake",
+        "package": "/Game/SoStylized/Effects/Textures/T_SnowFlake",
+        "class": "Texture2D"
+      },
+      "category": "Effects/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "e17c5dd033edb32eb8129ee296a8c175f18b8a8a7681c008318791c2ede4f3ac",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "ff46bc7d26f39e895f0592197adf71bda19b3c765b44691f90681c71e0aa6bcc",
+      "native_bytes": 4564,
+      "path": "Textures/Effects/Textures/T_SnowFlake.png",
+      "bytes": 4564,
+      "sha256": "ff46bc7d26f39e895f0592197adf71bda19b3c765b44691f90681c71e0aa6bcc",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Effects/Textures/T_SnowFlake.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_SpriteStar",
+      "source": {
+        "name": "T_SpriteStar",
+        "path": "/Game/SoStylized/Effects/Textures/T_SpriteStar.T_SpriteStar",
+        "package": "/Game/SoStylized/Effects/Textures/T_SpriteStar",
+        "class": "Texture2D"
+      },
+      "category": "Effects/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "d910953741151b11edd46d50972e37e1f7c13fada8745b99b23f89fceac7637f",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "e3dfb233f2fc3bec19757062ab0b5d0a4bca6ef0fbae4548caa1fd05cf1db648",
+      "native_bytes": 1277,
+      "path": "Textures/Effects/Textures/T_SpriteStar.png",
+      "bytes": 1277,
+      "sha256": "e3dfb233f2fc3bec19757062ab0b5d0a4bca6ef0fbae4548caa1fd05cf1db648",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification.",
+          "Source runtime appearance requires a target-engine shader/effect; this is a texture source only."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [
+        "Effects"
+      ],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Effects/Textures/T_SpriteStar.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CactusPricklyPear_BC",
+      "source": {
+        "name": "T_CactusPricklyPear_BC",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_CactusPricklyPear_BC.T_CactusPricklyPear_BC",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_CactusPricklyPear_BC",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "fa98abe456859c5910052f22522fa5aa189e62ac45ee9d0596065b3b5bef19f2",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": true,
+      "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "b1ca0cad454e406bc4d1596d22d88bbf168294ee9ef28ff2a9f97b7049ddddde",
+      "native_bytes": 223005,
+      "path": "Textures/Environment/Foliage/Textures/T_CactusPricklyPear_BC.png",
+      "bytes": 223005,
+      "sha256": "b1ca0cad454e406bc4d1596d22d88bbf168294ee9ef28ff2a9f97b7049ddddde",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_CactusPricklyPear_BC.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    },
+    {
+      "id": "SOSTYLIZED_T_CactusPricklyPear_N",
+      "source": {
+        "name": "T_CactusPricklyPear_N",
+        "path": "/Game/SoStylized/Environment/Foliage/Textures/T_CactusPricklyPear_N.T_CactusPricklyPear_N",
+        "package": "/Game/SoStylized/Environment/Foliage/Textures/T_CactusPricklyPear_N",
+        "class": "Texture2D"
+      },
+      "category": "Environment/Foliage/Textures",
+      "status": "packaged",
+      "warnings": [],
+      "source_uasset_sha256": "156e7c0d74548bfe0d60e6fb615d418e6d398ca408c42785cd76f2a525adbe03",
+      "export_messages": {
+        "errors": [],
+        "warnings": [],
+        "suggestions": []
+      },
+      "engine": "5.8.4-58902052+++UE5+Release-5.8",
+      "srgb": false,
+      "compression_settings": "<TextureCompressionSettings.TC_NORMALMAP: 1>",
+      "flip_green_channel": false,
+      "channel_mapping": null,
+      "native_status": "exported",
+      "native_sha256": "29c720601bbb613e7ee5d690941783005ef87866dad06d9b1e42080f1417dc9f",
+      "native_bytes": 266426,
+      "path": "Textures/Environment/Foliage/Textures/T_CactusPricklyPear_N.png",
+      "bytes": 266426,
+      "sha256": "29c720601bbb613e7ee5d690941783005ef87866dad06d9b1e42080f1417dc9f",
+      "material_readiness": {
+        "status": "native_texture_source",
+        "runtime_effects": "not_ported",
+        "notes": [
+          "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
+          "sRGB is an authored source import setting, not independent texture-role verification."
+        ],
+        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "channel_mapping": null
+      },
+      "download_category": "Textures",
+      "content_labels": [],
+      "download": {
+        "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
+        "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Foliage/Textures/T_CactusPricklyPear_N.png",
+        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "url_status": "planned_release_url_not_verified_online"
+      }
+    }
+  ]
+}

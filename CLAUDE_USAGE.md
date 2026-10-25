@@ -1,6 +1,14 @@
 # Using the unified library with Claude
 
-## Read text before loading models
+## SoStylized in Godot or Blender
+
+Category selection indexes stay below 200 KB; each asset points to a small details page containing its full record. Read the selected details page rather than fetching the entire catalog.
+
+Read [collections/sostylized/index.json](https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/index.json) first, then only the needed category index. Use the exact Release ZIP URLs in downloads.json. Full collection paths are ZIP members after extraction, not direct repository URLs. Four small examples have explicit direct_sample_url values. The older root asset-index.json still describes the 516 directly hosted Temple/Meadow assets.
+
+> Use the SoStylized collection from https://github.com/kk20054/ThreeJS-Stylized-World-Assets for a Godot or Blender scene. Read the raw collections/sostylized/index.json and selected category index first. Select real IDs and download the matching category ZIPs from downloads.json; do not invent model paths or fetch ZIP-member paths from GitHub raw. Import self-contained GLBs after extraction, retaining metres, source pivots, hierarchy, cutout alpha and double-sided foliage. All supplied static meshes are native LOD0; use an outer parent for scene placement. Check material_readiness and MATERIAL_READINESS.md before using a mesh. Unreal wind, water, cloud fades, Landscape/RVT, Blueprints/Niagara and 42 authored Worlds are not automatically ported. Use PNG/EXR channels only with documented source roles, never guessed ORM packing. Preserve original rights and provenance.
+
+## Temple and Meadow: read text before loading models
 
 Start with these public English text entry points:
 
@@ -12,7 +20,7 @@ Start with these public English text entry points:
 
 The repository is [kk20054/ThreeJS-Stylized-World-Assets](https://github.com/kk20054/ThreeJS-Stylized-World-Assets). A public repository makes HTTP retrieval possible without authentication. It does **not** establish that an untested Claude account has retrieved the files, parsed GLB geometry, or executed the viewer. Some chat tools can read the text index but cannot execute WebGL or fetch binary resources. Report that limitation precisely if it occurs.
 
-The final catalog contains **516 model assets: 135 self-contained Temple GLBs and 381 Meadow glTF material variants**, with **144 independent Meadow source models**. The 14 ground texture files are additional surface resources, not 14 extra model assets. Read current payload sizes and hashes from the manifest instead of hard-coding totals.
+The direct browser catalog contains **516 model assets: 135 self-contained Temple GLBs and 381 Meadow glTF material variants**, with **144 independent Meadow source models**. The 14 ground texture files are additional surface resources, not 14 extra model assets. Read current payload sizes and hashes from the manifest instead of hard-coding totals.
 
 ## Reuse the original author's arrangement
 
