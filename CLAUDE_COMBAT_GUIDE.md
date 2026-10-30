@@ -18,6 +18,10 @@ Use this library with the actual Godot project [kk20054/fanren-godot-world](http
 
 The former models/, textures/, scenes/ and collection paths remain stable. Do not treat a glTF JSON alone as a complete asset; retain declared buffers/textures. SoStylized catalog paths are members of category ZIPs. Ignore collision/editor helper meshes when choosing visible props. A static GLB is not a converted wind/cloud/water material.
 
+## Fetch the private source ingredients
+
+Authorize Claude's GitHub integration for `kk20054/fanren-godot-world`, then start with `reference_assets/index.json`. Read the sword manifest, `effect_summary.json` and `guid_map.json` before fetching only the needed resources. Binary PNG/FBX/archive files use Git LFS. A small response beginning `version https://git-lfs.github.com/spec/v1` is a pointer, not image, mesh or archive data. In an authorized local checkout, retrieve the actual objects with `git lfs pull --include="reference_assets/**"`; do not try to import the pointer text. Verify the downloaded file against the asset manifest. The source text and parsed settings remain directly readable through the GitHub connector. The public catalog alone does not grant an account access to the private repository.
+
 ## Scene and environment
 
 Make one continuous sword-cultivation place: an open, readable combat floor framed by uneven groves, grass masses, stones, a worn path and sparse sect markers. Keep fighting silhouettes, projectiles and telegraphs legible. Group grass/flowers in drifts with calm gaps rather than an even scatter. Ground colour, canopy, stone and fog must agree on biome and light. Use foliage masks/materials under their original terms.
