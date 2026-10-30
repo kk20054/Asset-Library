@@ -86,14 +86,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Meshes/SM_Tumbleweed01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -190,14 +190,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_BambooBush01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -283,7 +283,7 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "preview_scope": "Selected native GLB in Blender CPU; not runtime or whole-family acceptance."
       },
       "download_category": "Foliage",
@@ -291,10 +291,10 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Bush1.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       },
-      "direct_sample_url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/samples/SM_Bush1.glb",
+      "direct_sample_url": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/samples/SM_Bush1.glb",
       "direct_sample": {
         "path": "samples/SM_Bush1.glb",
         "bytes": 694780,
@@ -395,14 +395,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Bush2.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -499,14 +499,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Bush3.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -592,14 +592,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_BushChina01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -685,14 +685,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_BushChina02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -778,14 +778,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_BushChina03.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -882,14 +882,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_BushLeafy01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -986,14 +986,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_BushLeafy02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1079,14 +1079,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_BushSnowDead01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1172,14 +1172,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_BushSnowDead02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1265,14 +1265,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_BushTropical01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1358,14 +1358,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_BushTropical02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1451,14 +1451,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_BushTropical03.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1538,14 +1538,14 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Cactus01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1625,14 +1625,14 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Cactus02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1729,14 +1729,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Cactus03.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1833,14 +1833,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Cactus04.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1930,14 +1930,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Foliage",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Foliage_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/SM_Cactus05.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     }

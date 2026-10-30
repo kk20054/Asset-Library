@@ -77,7 +77,7 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -86,7 +86,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Demo/Meshes/SM_Ramp.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -163,7 +163,7 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -172,7 +172,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Demo/Meshes/SM_Sphere.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -253,7 +253,7 @@
         "notes": [
           "Target-engine shader/effect work is required for source runtime behavior."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -262,7 +262,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -343,7 +343,7 @@
         "notes": [
           "Target-engine shader/effect work is required for source runtime behavior."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -352,7 +352,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -433,7 +433,7 @@
         "notes": [
           "Target-engine shader/effect work is required for source runtime behavior."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -442,7 +442,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike03.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -523,7 +523,7 @@
         "notes": [
           "Target-engine shader/effect work is required for source runtime behavior."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -532,7 +532,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike04.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -613,7 +613,7 @@
         "notes": [
           "Target-engine shader/effect work is required for source runtime behavior."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -622,7 +622,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_LightningStrike05.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -708,7 +708,7 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -717,7 +717,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RainDrop.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -803,7 +803,7 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -812,7 +812,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RainSplash.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -893,7 +893,7 @@
         "notes": [
           "Target-engine shader/effect work is required for source runtime behavior."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -902,7 +902,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RockDebris01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -983,7 +983,7 @@
         "notes": [
           "Target-engine shader/effect work is required for source runtime behavior."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -992,7 +992,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RockDebris02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1073,7 +1073,7 @@
         "notes": [
           "Target-engine shader/effect work is required for source runtime behavior."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -1082,7 +1082,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_RockDebris03.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1161,7 +1161,7 @@
         "notes": [
           "Target-engine shader/effect work is required for source runtime behavior."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -1170,7 +1170,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_VegetationParticle.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1251,7 +1251,7 @@
         "notes": [
           "Target-engine shader/effect work is required for source runtime behavior."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -1260,7 +1260,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Effects/Meshes/SM_WindLineMesh.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1337,7 +1337,7 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -1346,7 +1346,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus01_Collision.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1423,7 +1423,7 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -1432,7 +1432,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus02_Collision.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1509,7 +1509,7 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -1518,7 +1518,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus03_Collision.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1595,7 +1595,7 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -1604,7 +1604,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus04_Collision.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1681,7 +1681,7 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -1690,7 +1690,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus05_Collision.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1767,7 +1767,7 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Other",
       "content_labels": [
@@ -1776,7 +1776,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Other_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Foliage/Collision/SM_Cactus06_Collision.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     }

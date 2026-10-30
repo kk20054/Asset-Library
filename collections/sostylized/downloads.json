@@ -400,7 +400,7 @@
         "Models/Environment/Trees/Pine/SM_PineSnowCover02.glb",
         "Models/Environment/Trees/Pine/SM_PineStump1_SnowCover.glb"
       ],
-      "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+      "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
       "url_status": "verified_uploaded_digest_and_anonymous_head"
     },
     {
@@ -1065,7 +1065,7 @@
         "Models/Environment/Rocks/Spire/SM_RockSpire_Spire07.glb",
         "Models/Environment/Rocks/Spire/SM_RockSpire_Spire08.glb"
       ],
-      "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
+      "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip",
       "url_status": "verified_uploaded_digest_and_anonymous_head"
     },
     {
@@ -1300,7 +1300,7 @@
         "Models/Environment/Foliage/SM_Rice03.glb",
         "Models/Environment/Foliage/SM_Seaweed.glb"
       ],
-      "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
+      "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip",
       "url_status": "verified_uploaded_digest_and_anonymous_head"
     },
     {
@@ -1407,7 +1407,7 @@
         "Models/Environment/Water/Waterfalls/SM_WaterfallSplit2.glb",
         "Models/Environment/Water/Waterfalls/SM_WaterfallSplit3.glb"
       ],
-      "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+      "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
       "url_status": "verified_uploaded_digest_and_anonymous_head"
     },
     {
@@ -1720,7 +1720,7 @@
         "Models/Environment/Trees/Collision/SM_DesertPalmTree04_Collision.glb",
         "Models/Environment/Trees/Collision/SM_DesertPalmTree05_Collision.glb"
       ],
-      "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
+      "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip",
       "url_status": "verified_uploaded_digest_and_anonymous_head"
     },
     {
@@ -2309,7 +2309,7 @@
         "Textures/Textures/Noise/T_RockStripeNoise.png",
         "Textures/Textures/Noise/T_SandDesertWind.png"
       ],
-      "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+      "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
       "url_status": "verified_uploaded_digest_and_anonymous_head"
     },
     {
@@ -2360,7 +2360,7 @@
         "Audio/Sounds/Weather/S_Rain_Gentle.wav",
         "Audio/Sounds/Weather/S_Rain_Medium.wav"
       ],
-      "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
+      "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip",
       "url_status": "verified_uploaded_digest_and_anonymous_head"
     }
   ],

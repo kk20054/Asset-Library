@@ -110,14 +110,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMaple01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -227,14 +227,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMaple02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -344,14 +344,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMaple03.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -461,14 +461,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMaple04.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -548,14 +548,14 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMapleRoots01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -635,14 +635,14 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMapleRoots02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -722,14 +722,14 @@
         "status": "static_bake_not_individually_visual_reviewed",
         "runtime_effects": "not_ported",
         "notes": [],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMapleRoots03.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -826,14 +826,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMapleSapling01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -930,14 +930,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_RedMapleSapling02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1047,14 +1047,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/China/SM_TheGreetingPine.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1151,14 +1151,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_BananaTree01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1255,14 +1255,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_BananaTree02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1359,14 +1359,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_BananaTree03.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1463,14 +1463,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_BananaTree04.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1567,14 +1567,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_BananaTree05.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1672,14 +1672,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_CoconutPalm01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1777,14 +1777,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_CoconutPalm02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1882,14 +1882,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_CoconutPalm03.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1986,14 +1986,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_CoconutPalm04.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -2090,14 +2090,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Coastal/SM_CoconutPalm05.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     }

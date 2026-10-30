@@ -82,14 +82,14 @@
         "notes": [
           "Target-engine shader/effect work is required for source runtime behavior."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_UnderwaterSurface32.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -176,14 +176,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -270,14 +270,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -364,14 +364,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -458,14 +458,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_04.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -552,14 +552,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_08.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -646,14 +646,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_16.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -740,14 +740,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterPlane_32.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -834,14 +834,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver01.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -928,14 +928,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver02.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1023,17 +1023,17 @@
           "Pale static approximation only; animated water and depth behavior need a custom material.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver04.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       },
-      "direct_sample_url": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/samples/SM_WaterRiver04.glb",
+      "direct_sample_url": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/samples/SM_WaterRiver04.glb",
       "direct_sample": {
         "path": "samples/SM_WaterRiver04.glb",
         "bytes": 828004,
@@ -1124,14 +1124,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver08.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1218,14 +1218,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver16.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1312,14 +1312,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Meshes/SM_WaterRiver32.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1423,14 +1423,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall1.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1534,14 +1534,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall2.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1645,14 +1645,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall3.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1756,14 +1756,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall4.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1867,14 +1867,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall5.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -1978,14 +1978,14 @@
           "Target-engine shader/effect work is required for source runtime behavior.",
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "WaterSky",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_WaterSky_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Water/Waterfalls/SM_Waterfall6.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     }

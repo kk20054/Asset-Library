@@ -24,7 +24,7 @@ Use Three.js 0.180.0 for both the core library and addons, as in the included vi
 ~~~js
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 
-const base = 'https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/';
+const base = 'https://raw.githubusercontent.com/kk20054/Asset-Library/main/';
 async function readJSON(path) {
   const response = await fetch(new URL(path, base));
   if (!response.ok) throw new Error(path + ': HTTP ' + response.status);

@@ -8,13 +8,13 @@ Portable SoStylized assets for **Godot and Blender**, with glTF 2.0 GLBs as the 
 
 | Category | Files | ZIP size |
 | --- | ---: | ---: |
-| [Trees](https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip) | 161 | 413.6 MiB |
-| [Rocks](https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip) | 324 | 972.0 MiB |
-| [Foliage](https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip) | 109 | 153.1 MiB |
-| [WaterSky](https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip) | 45 | 16.2 MiB |
-| [Other](https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip) | 148 | 71.4 MiB |
-| [Textures](https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip) | 286 | 995.5 MiB |
-| [Audio](https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip) | 17 | 30.8 MiB |
+| [Trees](https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip) | 161 | 413.6 MiB |
+| [Rocks](https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Rocks_part01.zip) | 324 | 972.0 MiB |
+| [Foliage](https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Foliage_part01.zip) | 109 | 153.1 MiB |
+| [WaterSky](https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_WaterSky_part01.zip) | 45 | 16.2 MiB |
+| [Other](https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Other_part01.zip) | 148 | 71.4 MiB |
+| [Textures](https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip) | 286 | 995.5 MiB |
+| [Audio](https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Audio_part01.zip) | 17 | 30.8 MiB |
 
 The Other category separates collision, helper, demo and effect geometry from ordinary visible props. See [format and bounded Godot import evidence](validation/index.json); geometry/specification validity is separate from material readiness.
 
@@ -22,7 +22,7 @@ The Other category separates collision, helper, demo and effect geometry from or
 
 The [collection catalog](catalog.json) is the authority for published asset paths, source identity, export scope, and each item's exported_lods field. Read the actual entry before downloading or loading a model. A native Unreal source object listed during inventory is not automatically a completed portable asset.
 
-The repository provides English text catalogs, indexes, documented previews, and a small set of direct examples. The complete portable asset payload is intended for category ZIP packages on [GitHub Releases](https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases). Consult the release notes for the packages actually available and their contents; no model total, release tag, or package filename is implied by this guide.
+The repository provides English text catalogs, indexes, documented previews, and a small set of direct examples. The complete portable asset payload is intended for category ZIP packages on [GitHub Releases](https://github.com/kk20054/Asset-Library/releases). Consult the release notes for the packages actually available and their contents; no model total, release tag, or package filename is implied by this guide.
 
 After extracting a category package, import its GLBs directly into Godot or Blender. Self-contained GLBs embed the mesh data and portable material textures. Preserve companion catalog and provenance files when copying a subset. Do not upload only a catalog and expect an application to have the binary models.
 

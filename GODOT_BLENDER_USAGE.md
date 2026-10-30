@@ -6,7 +6,7 @@ This guide covers the portable SoStylized asset collection. The assets are inten
 
 1. Read the [SoStylized collection guide](collections/sostylized/README.md).
 2. Use the [collection catalog](collections/sostylized/catalog.json) to identify the exact exported asset, source object, file path, and exported LODs. Read each item's exported_lods field and conversion notes before importing it. A source inventory entry alone does not establish that a portable export is available.
-3. Download the required category packages from [this repository's Releases page](https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases). Use the actual release notes and catalog to select packages; do not infer ZIP names or construct a release URL from an asset name.
+3. Download the required category packages from [this repository's Releases page](https://github.com/kk20054/Asset-Library/releases). Use the actual release notes and catalog to select packages; do not infer ZIP names or construct a release URL from an asset name.
 4. Extract each ZIP into its own directory before importing its GLB files: packages share a root name and contain category-specific catalog.json files. Preserve those catalogs when combining selected Models/Textures/Audio payloads in one project. Preserve any companion preview and provenance files. The full category packages are distributed separately from the small direct examples in the repository.
 
 Each published GLB is intended to be self-contained: mesh data, portable materials, and their textures are embedded. A self-contained GLB does not need the original RAR, Unreal installation, or source uasset files at runtime. If the catalog declares additional dependencies for a particular item, retain them with that item.

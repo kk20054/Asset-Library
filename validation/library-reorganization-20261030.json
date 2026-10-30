@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-30",
+  "previous_repository": "kk20054/ThreeJS-Stylized-World-Assets",
+  "repository": "kk20054/Asset-Library",
+  "display_title": "素材库 | Asset Library",
+  "previous_head": "84edbd4f75e8d67a69d03c6ec6a6f73f972c00e0",
+  "scope": "Rename, existing-URL migration, logical category routing, factual new source indices and an English Claude combat brief",
+  "original_payload_paths_and_bytes_changed": false,
+  "new_reference_payloads_published": false,
+  "tree": {
+    "commit": "a5f5e026b17657c17ed0bbb8c7a924f81cc5a69f",
+    "license_status": "unconfirmed",
+    "publication": "public reference/index; source snapshot in existing private project repository",
+    "project_use": "owner_authorized_named_license_exception"
+  },
+  "sword": {
+    "sha256": "b0cfd38eb06724c34bb88d0b00b4a47cd068006e551fd78108bc26ae51f78b64",
+    "asset_count": 25,
+    "license_status": "publisher_allows_purchased_personal_commercial_project_use",
+    "publication": "public inventory/evidence; source assets in existing private project repository"
+  },
+  "historical_validation_records": "Retained with their original URLs and observed dates; not rewritten to pretend a fresh historical check",
+  "local_checks": {
+    "json_parse": "passed",
+    "category_index_targets": "exist",
+    "diff_whitespace": "passed",
+    "new_markdown_links": "exist"
+  },
+  "limitations": [
+    "No Godot particle port, runtime integration or new gameplay implementation is claimed by a source-library upload.",
+    "Commercial game use for the purchased DaoGreen pack is supported by its product notice; public raw-source redistribution is not asserted.",
+    "The procedural-tree source is privately available for the expressly owner-directed project use, with its missing upstream license retained."
+  ],
+  "owner_use_direction": {
+    "date": "2026-10-30",
+    "scope": "All supplied materials are to be used in this project; purchased-package use directed by owner, generator license caveat retained."
+  },
+  "private_payload_repository": "kk20054/fanren-godot-world",
+  "new_reference_payloads_uploaded_privately": true,
+  "private_payload_commit": "e094dd5c4c9a8dcb8120530cf0f5f6f28c841fed"
+}

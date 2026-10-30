@@ -98,14 +98,14 @@
         "notes": [
           "Native exporter warnings are retained in engine_log_warnings; inspect shading fallbacks and overlapping/degenerate bake UVs."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md"
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md"
       },
       "download_category": "Trees",
       "content_labels": [],
       "download": {
         "zipname": "SoStylized_Godot_Blender_Trees_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Models/Environment/Trees/Pine/SM_PineStump1_SnowCover.glb",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Trees_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     }

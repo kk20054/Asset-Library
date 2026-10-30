@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "collection": "dao_green_20251211",
+  "reviewed_on": "2026-10-30",
+  "publisher": "VFXCASE",
+  "product_title": "剑影刀光",
+  "product_url": "https://www.vfxcase.com/2025/12/11/20251211_dao_green/",
+  "source_match": "Product HTML assets use the exact 2025.12.11_DaoGreen directory; local archive and Unity resource folder share DaoGreen and the date.",
+  "purchase": {
+    "status": "confirmed_by_owner",
+    "statement_date": "2026-10-30",
+    "private_receipt_reviewed": false
+  },
+  "publisher_statement": "用户购买源文件后，可自由修改、用于个人及商业项目，无额外使用限制。",
+  "commercial_project_use": "allowed_for_purchaser",
+  "modification": "allowed_for_purchaser",
+  "public_source_redistribution": "unconfirmed",
+  "public_source_redistribution_note": "No express raw-source public sharing, resale or sublicensing clause was located on the product page. This is not a claim that redistribution is expressly prohibited.",
+  "user_agreement": "https://www.vfxcase.com/用户协议/",
+  "user_agreement_scope": "The upload-to-site license in section VI is granted by uploaders to the site; it is not recorded as a new raw-redistribution grant to every purchaser.",
+  "payload_distribution": {
+    "repository": "kk20054/fanren-godot-world",
+    "visibility": "private",
+    "path": "reference_assets/sword-vfx/dao-green-20251211",
+    "url": "https://github.com/kk20054/fanren-godot-world/tree/main/reference_assets/sword-vfx/dao-green-20251211"
+  },
+  "runtime_portability": "Original Unity URP source; Godot/Three.js material and particle reconstruction still required."
+}

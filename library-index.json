@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "title": "素材库 | Asset Library",
+  "repository": "https://github.com/kk20054/Asset-Library",
+  "scope": "Catalog and import guidance for Godot, Blender and Three.js; collection terms remain separate",
+  "categories": [
+    {
+      "id": "environment.trees",
+      "title": "Trees and Canopies",
+      "sources": [
+        {
+          "collection": "meadow",
+          "index": "collections/meadow/asset-index.json",
+          "category": "Trees"
+        },
+        {
+          "collection": "sostylized",
+          "index": "collections/sostylized/indexes/Trees.json"
+        },
+        {
+          "collection": "procedural_tree",
+          "index": "collections/procedural-tree/index.json",
+          "availability": "private_project_source_and_public_upstream_reference"
+        }
+      ]
+    },
+    {
+      "id": "environment.grass",
+      "title": "Grass, Ground Cover and Plants",
+      "sources": [
+        {
+          "collection": "meadow",
+          "index": "collections/meadow/asset-index.json",
+          "categories": [
+            "Grass",
+            "CoverPlants",
+            "Plants",
+            "Flowers"
+          ]
+        },
+        {
+          "collection": "sostylized",
+          "index": "collections/sostylized/indexes/Foliage.json"
+        }
+      ]
+    },
+    {
+      "id": "environment.rocks",
+      "title": "Rocks and Landforms",
+      "sources": [
+        {
+          "collection": "meadow",
+          "index": "collections/meadow/asset-index.json",
+          "category": "Rocks"
+        },
+        {
+          "collection": "sostylized",
+          "index": "collections/sostylized/indexes/Rocks.json"
+        }
+      ]
+    },
+    {
+      "id": "architecture",
+      "title": "Sect Architecture and Props",
+      "sources": [
+        {
+          "collection": "temple",
+          "index": "collections/temple/asset-index.json",
+          "categories": [
+            "Buildings",
+            "Pillar",
+            "Props"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "surfaces",
+      "title": "Terrain and Material Textures",
+      "sources": [
+        {
+          "collection": "meadow",
+          "index": "collections/meadow/terrain-textures.json"
+        },
+        {
+          "collection": "sostylized",
+          "index": "collections/sostylized/indexes/Textures.json"
+        }
+      ]
+    },
+    {
+      "id": "water_sky",
+      "title": "Water, Clouds and Sky References",
+      "sources": [
+        {
+          "collection": "sostylized",
+          "index": "collections/sostylized/indexes/WaterSky.json",
+          "portability": "Source runtime shaders/effects require target-engine reconstruction"
+        }
+      ]
+    },
+    {
+      "id": "vfx.sword",
+      "title": "Sword and Saber VFX",
+      "sources": [
+        {
+          "collection": "dao_green_20251211",
+          "index": "collections/sword-vfx/dao-green-20251211/index.json",
+          "availability": "private_project_payload"
+        }
+      ]
+    },
+    {
+      "id": "audio",
+      "title": "Audio",
+      "sources": [
+        {
+          "collection": "sostylized",
+          "index": "collections/sostylized/indexes/Audio.json"
+        }
+      ]
+    }
+  ],
+  "rights": "RIGHTS_AND_COMMERCIAL_USE.md",
+  "claude_combat_guide": "CLAUDE_COMBAT_GUIDE.md"
+}

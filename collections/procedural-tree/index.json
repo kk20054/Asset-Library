@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "id": "procedural_tree",
+  "title": "nicoo-474 procedural-tree",
+  "category": "environment.trees",
+  "source_repository": "https://github.com/nicoo-474/procedural-tree",
+  "pinned_commit": "a5f5e026b17657c17ed0bbb8c7a924f81cc5a69f",
+  "source_entry": "index.html",
+  "source_modules": [
+    "src/tree.js",
+    "src/main.js",
+    "src/export.js",
+    "src/noise.js"
+  ],
+  "species": [
+    "oak",
+    "willow",
+    "pine",
+    "cherry"
+  ],
+  "seasons": [
+    "spring",
+    "summer",
+    "autumn",
+    "winter"
+  ],
+  "distribution": "Private pinned project source snapshot, plus public upstream reference. No new upstream permissive license is asserted.",
+  "code_license": "not_declared",
+  "license_status": "unconfirmed",
+  "commercial_use": "owner_directed_project_use; upstream_commercial_license_not_verified",
+  "redistribution": "unconfirmed",
+  "release_cleared": false,
+  "glb_export": {
+    "retains": [
+      "Current tree shape and baked leaf positions",
+      "Baked spherical leaf normals in NORMAL",
+      "UV, COLOR_0, embedded PNG textures",
+      "alpha MASK cutoff 0.45, double-sided materials, roughness"
+    ],
+    "does_not_retain": [
+      "Generator parameters, seed and seasonal system",
+      "Wind and whole-canopy sway",
+      "Growth animation and GPU instancing",
+      "Custom backface-normal shader behaviour",
+      "Scene lighting, ground, AO and camera"
+    ]
+  },
+  "guide": "README.md",
+  "review_date": "2026-10-30",
+  "project_use": "owner_authorized_named_license_exception",
+  "private_payload_url": "https://github.com/kk20054/fanren-godot-world/tree/main/reference_assets/procedural-tree/nicoo-474_a5f5e026",
+  "owner_direction_date": "2026-10-30"
+}

@@ -21,7 +21,7 @@ export async function loadTempleManifest(baseURL = DEFAULT_BASE) {
 }
 
 // Example usage inside a module:
-// const baseURL = 'https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/COMMIT_SHA/';
+// const baseURL = 'https://raw.githubusercontent.com/kk20054/Asset-Library/COMMIT_SHA/';
 // const manifest = await loadTempleManifest(baseURL);
 // const model = await loadTempleModel(manifest.assets[0].id, { baseURL, manifest });
 // scene.add(model.object);

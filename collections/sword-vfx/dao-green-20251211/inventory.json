@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "collection": "dao_green_20251211",
+  "source_filename": "Particle_2025.12.11_DaoGreen刀.rar",
+  "source_bytes": 1578946,
+  "source_sha256": "b0cfd38eb06724c34bb88d0b00b4a47cd068006e551fd78108bc26ae51f78b64",
+  "asset_count": 25,
+  "asset_types": {
+    "mat": 7,
+    "fbx": 4,
+    "asset": 1,
+    "png": 7,
+    "prefab": 1,
+    "playable": 1,
+    "shadergraph": 2,
+    "unity": 1,
+    "anim": 1
+  },
+  "engine": {
+    "type": "Unity",
+    "shader_target": "UniversalTarget/UniversalUnlitSubTarget",
+    "particle_systems": 6
+  },
+  "entries": [
+    {
+      "id": "14294c2731cef2a4f9c394bcc4b933cc",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/03_Material/m02.mat",
+      "size": 3367
+    },
+    {
+      "id": "1e482a200be033f4baa425ad2c515f6e",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/04_Fbx/Mesh05.FBX",
+      "size": 29392
+    },
+    {
+      "id": "24cc4f12b534eb044a53f365ba998184",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/01_Scene/vfxPreview/Bloom.asset",
+      "size": 1452
+    },
+    {
+      "id": "39acd324cf2252b47a71c49323f1182b",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex_floor01.png",
+      "size": 13909
+    },
+    {
+      "id": "67c050a711b4a994895a381bab2e9fa5",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex_floor02.png",
+      "size": 3014
+    },
+    {
+      "id": "690ddc9343970c247b43519115f46f31",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/05_Prefab/Prefab.prefab",
+      "size": 710592
+    },
+    {
+      "id": "6a79d106945293744b9d2830d61821bb",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/01_Scene/vfxPreview/Timeline_P.playable",
+      "size": 13908
+    },
+    {
+      "id": "7106379ea6a9ec54da55b7d85d8e5baa",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex03.png",
+      "size": 4851
+    },
+    {
+      "id": "7825e80f4d96b6247b99d616677e35c4",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/03_Material/m04.mat",
+      "size": 3129
+    },
+    {
+      "id": "791b4d6fbafdb134180f6acb9bfdfada",
+      "path": "Assets/vfxCase/Shader/vfxCase_P_Base_1.1.shadergraph",
+      "size": 657608
+    },
+    {
+      "id": "7afd5b8afab0d524e9bcdbe74d14dbfd",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/04_Fbx/Mesh03.FBX",
+      "size": 25712
+    },
+    {
+      "id": "7ecb1d6cc6d021d49a28e4c2337094fc",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/03_Material/m03.mat",
+      "size": 3129
+    },
+    {
+      "id": "8e41da15b71c3294ab10b8e51f1a50fb",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex12.png",
+      "size": 54194
+    },
+    {
+      "id": "93b6802ec734c7f47b9be51405d4a718",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/03_Material/m_Floor.mat",
+      "size": 3222
+    },
+    {
+      "id": "94d11895668ff984da83f484b369f257",
+      "path": "Assets/vfxCase/Shader/vfxCase_P_Fresnel_1.1.shadergraph",
+      "size": 129994
+    },
+    {
+      "id": "a803eba00977c63458ac9ac847aa8bd3",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex07.png",
+      "size": 141649
+    },
+    {
+      "id": "aaa47e316e984bf4889d3031129219d8",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex02.png",
+      "size": 11159
+    },
+    {
+      "id": "b98c9fcfa57cf5f4f82edcc4d56c7025",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/01_Scene/vfxPreview.unity",
+      "size": 18374
+    },
+    {
+      "id": "bf6c426e69d9912408ae921829a0d3ab",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/04_Fbx/Anim_Clip.anim",
+      "size": 1687996
+    },
+    {
+      "id": "d892c3dcd84a8e84dbf03f2681277c1c",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/03_Material/m01.mat",
+      "size": 3192
+    },
+    {
+      "id": "d974de49fa65c274eb26875c0fed88fa",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/04_Fbx/Charactor.fbx",
+      "size": 2173200
+    },
+    {
+      "id": "e07a1da8c96ea024191462d6d3ec0583",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex01.png",
+      "size": 10989
+    },
+    {
+      "id": "f254c7bf3448e014985a9d3cc97fceff",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/04_Fbx/mesh01.fbx",
+      "size": 86992
+    },
+    {
+      "id": "f9d133735954b63428c434c0096a1b16",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/03_Material/m_Charactor.mat",
+      "size": 3290
+    },
+    {
+      "id": "fd827b5eff8faf54da086c92f5634dc0",
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/03_Material/m05.mat",
+      "size": 3327
+    }
+  ],
+  "texture_sizes": [
+    {
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex_floor01.png",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex_floor02.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex03.png",
+      "width": 512,
+      "height": 64
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex12.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex07.png",
+      "width": 1024,
+      "height": 256
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex02.png",
+      "width": 256,
+      "height": 64
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.11_DaoGreen_P/02_Texture/Tex01.png",
+      "width": 128,
+      "height": 256
+    }
+  ],
+  "distribution": "Original archive and extracted payload are in the owner's existing private game repository; this public inventory contains no paid source payload.",
+  "private_payload_url": "https://github.com/kk20054/fanren-godot-world/tree/main/reference_assets/sword-vfx/dao-green-20251211"
+}

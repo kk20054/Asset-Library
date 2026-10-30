@@ -39,7 +39,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -47,7 +47,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Grass1_BC.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -86,7 +86,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -94,7 +94,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Grass1_R.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -133,7 +133,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -141,7 +141,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Grass_ColormapDesert.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -180,7 +180,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -188,7 +188,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Grass_ColormapSnow.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -227,7 +227,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -235,7 +235,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Grass_ColormapVol1.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -274,7 +274,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -282,7 +282,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Grass_ColormapVol2.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -321,7 +321,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -329,7 +329,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Rock_ColormapVol2.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -368,7 +368,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -376,7 +376,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Sand_BC.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -415,7 +415,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -423,7 +423,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Sand_N.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -462,7 +462,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -470,7 +470,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Sand_R.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -509,7 +509,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -517,7 +517,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_SnowGrass_BC.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -556,7 +556,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -564,7 +564,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Landscape/Textures/T_Snow_BC.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -603,7 +603,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -613,7 +613,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Misc/Textures/T_BeachShells_BC.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -652,7 +652,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -662,7 +662,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Misc/Textures/T_BeachShells_R.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -701,7 +701,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -709,7 +709,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_BoulderClumpClassic_N.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -748,7 +748,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -756,7 +756,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_RockClassicCliffs_N.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -795,7 +795,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -803,7 +803,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_RockClassicPlatforms_GrassMap.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -842,7 +842,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -850,7 +850,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_RockClassic_BC.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -889,7 +889,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -897,7 +897,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Boulders_N.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     },
@@ -936,7 +936,7 @@
           "Raw native PNG/EXR preserved; no inferred packed-channel semantics.",
           "sRGB is an authored source import setting, not independent texture-role verification."
         ],
-        "reference": "https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/collections/sostylized/MATERIAL_READINESS.md",
+        "reference": "https://raw.githubusercontent.com/kk20054/Asset-Library/main/collections/sostylized/MATERIAL_READINESS.md",
         "channel_mapping": null
       },
       "download_category": "Textures",
@@ -944,7 +944,7 @@
       "download": {
         "zipname": "SoStylized_Godot_Blender_Textures_part01.zip",
         "zip_member": "SoStylized_Godot_Blender/Textures/Environment/Rocks/Textures/Classic/T_RockClassic_Cliff_GrassMap.png",
-        "download_url": "https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
+        "download_url": "https://github.com/kk20054/Asset-Library/releases/download/sostylized-godot-blender-2026-10-25/SoStylized_Godot_Blender_Textures_part01.zip",
         "url_status": "verified_uploaded_digest_and_anonymous_head"
       }
     }

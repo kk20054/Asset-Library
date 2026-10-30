@@ -1,4 +1,21 @@
-# Stylized World Assets for Godot, Blender and Three.js
+# 素材库 | Asset Library
+
+A curated index for **Godot, Blender and Three.js**, covering environment models, vegetation, terrain surfaces, architecture, audio and sword VFX references. Start with [the category index](library-index.json), [Claude's combat guide](CLAUDE_COMBAT_GUIDE.md) and [per-collection commercial-use status](RIGHTS_AND_COMMERCIAL_USE.md).
+
+| Category | Entry |
+| --- | --- |
+| Trees / canopies | Meadow Trees, SoStylized Trees; [procedural-tree source assessment](collections/procedural-tree/) |
+| Grass / ground cover / flowers | Meadow Grass, CoverPlants, Plants and Flowers; SoStylized Foliage |
+| Rocks / landforms | Meadow Rocks; SoStylized Rocks |
+| Architecture / sect props | Temple Buildings, Pillar and Props |
+| Surfaces / textures | Meadow terrain textures; SoStylized Textures |
+| Water / sky | SoStylized WaterSky, with engine-specific material reconstruction notes |
+| Sword / saber VFX | [DaoGreen inventory and Godot porting guide](collections/sword-vfx/dao-green-20251211/) |
+| Audio | SoStylized Audio |
+
+The procedural-tree project has no declared license at the pinned commit and is indexed as a technical reference. The purchased DaoGreen VFX has publisher-confirmed commercial project use; its source payload is held in the owner's private game repository, linked by the public index. Raw-source public redistribution is not claimed. This repository does not grant a blanket commercial license. Existing environment paths and download categories remain intact.
+
+## Existing portable environment collections
 
 A portable environment library combining **Stylized Chinese Lost Temple**, **Meadow Environment – Stylized Pack 1.6**, and **SoStylized (Stylized Mega Bundle / Stylized Nature)**. Godot and Blender can import the portable assets directly; Three.js is optional. English catalogs help coding assistants select actual files.
 
@@ -6,19 +23,19 @@ A portable environment library combining **Stylized Chinese Lost Temple**, **Mea
 
 The complete SoStylized portable payload contains **787 LOD0 GLBs (including helpers), 286 PNG/EXR textures, and 17 WAV files**. Seven category ZIPs total about **2.78 GB**. All 787 GLBs passed the [format/resource check](collections/sostylized/validation/glb-format.json); six representative GLBs were imported and instantiated in [Godot 4.7.2](collections/sostylized/validation/godot-samples.json). Material limitations remain separate.
 
-Start with the [small collection index](collections/sostylized/index.json), the [English import guide](GODOT_BLENDER_USAGE.md), and [material readiness notes](collections/sostylized/MATERIAL_READINESS.md). Category ZIPs on [GitHub Releases](https://github.com/kk20054/ThreeJS-Stylized-World-Assets/releases/tag/sostylized-godot-blender-2026-10-25) contain self-contained native LOD0 GLBs, native-exported PNG/EXR textures, and WAV audio. The [download index](collections/sostylized/downloads.json) records exact filenames, sizes and SHA256 values. Extract the ZIP before importing.
+Start with the [small collection index](collections/sostylized/index.json), the [English import guide](GODOT_BLENDER_USAGE.md), and [material readiness notes](collections/sostylized/MATERIAL_READINESS.md). Category ZIPs on [GitHub Releases](https://github.com/kk20054/Asset-Library/releases/tag/sostylized-godot-blender-2026-10-25) contain self-contained native LOD0 GLBs, native-exported PNG/EXR textures, and WAV audio. The [download index](collections/sostylized/downloads.json) records exact filenames, sizes and SHA256 values. Extract the ZIP before importing.
 
 The new collection is distributed through Releases to keep gigabytes of portable assets out of the existing Git/Pages viewer. Its catalog paths identify files **inside an extracted ZIP**, rather than files under the repository root. Four [small direct GLB examples](collections/sostylized/samples/) and a [converted-asset preview](collections/sostylized/previews/contact_sheet.png) are included for inspection. The 42 source Unreal Worlds are indexed only; their authored layouts are not converted. Cloud, water, wind and landscape-blend materials require target-engine work; consult the per-asset readiness flags.
 
 ## Existing direct browser library
 
-- [Compact asset index](https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/asset-index.json): select exact asset IDs without downloading the model library.
-- [Full manifest](https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/manifest.json): paths, collection, category, geometry statistics, sizes, provenance, and limitations.
+- [Compact asset index](https://raw.githubusercontent.com/kk20054/Asset-Library/main/asset-index.json): select exact asset IDs without downloading the model library.
+- [Full manifest](https://raw.githubusercontent.com/kk20054/Asset-Library/main/manifest.json): paths, collection, category, geometry statistics, sizes, provenance, and limitations.
 - [Instructions for Claude: individual assets](CLAUDE_USAGE.md).
 - [Original authored scene layouts](scenes/README.md), [compact scene index](scenes/index.json), and [Claude authored-scene guide](CLAUDE_AUTHORED_SCENES.md).
-- [Authored scene viewer](https://kk20054.github.io/ThreeJS-Stylized-World-Assets/examples/authored-scenes.html): source camera, complete-layout view, and individual authored groups.
-- [Asset viewer](https://kk20054.github.io/ThreeJS-Stylized-World-Assets/).
-- [Temple + Meadow comparison](https://kk20054.github.io/ThreeJS-Stylized-World-Assets/examples/world-demo.html): the same seeded placements rendered as shared-resource clones or instanced meshes.
+- [Authored scene viewer](https://kk20054.github.io/Asset-Library/examples/authored-scenes.html): source camera, complete-layout view, and individual authored groups.
+- [Asset viewer](https://kk20054.github.io/Asset-Library/).
+- [Temple + Meadow comparison](https://kk20054.github.io/Asset-Library/examples/world-demo.html): the same seeded placements rendered as shared-resource clones or instanced meshes.
 - [Large-world feasibility and measurement notes](FEASIBILITY.md).
 - [Loading and disposal helper](examples/load-model.js).
 
@@ -44,7 +61,7 @@ Use the same pinned Three.js version for the core and addons. The included brows
 ~~~js
 import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
 
-const base = 'https://raw.githubusercontent.com/kk20054/ThreeJS-Stylized-World-Assets/main/';
+const base = 'https://raw.githubusercontent.com/kk20054/Asset-Library/main/';
 const response = await fetch(new URL('manifest.json', base));
 if (!response.ok) throw new Error('Manifest HTTP ' + response.status);
 const { assets } = await response.json();
