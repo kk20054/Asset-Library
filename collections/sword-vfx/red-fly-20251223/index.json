@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "id": "red_fly_20251223",
+  "title": "剑气特效 | RedFly Sword Qi VFX",
+  "category": "vfx.sword",
+  "source_filename": "Particle_2025.12.23_RedFly红飞.rar",
+  "bytes": 1368529,
+  "sha256": "75945868ca97dcd117e9e1418d42fc7d8afdb5ddb5a9490196c003afa1e8de1d",
+  "inventory": "inventory.json",
+  "asset_counts": {
+    ".png": 7,
+    ".asset": 1,
+    ".mat": 6,
+    ".fbx": 2,
+    ".anim": 1,
+    ".shadergraph": 2,
+    ".prefab": 1,
+    ".playable": 1,
+    ".unity": 1
+  },
+  "source_engine": "Unity URP",
+  "godot_readiness": "Source ingredients only. Reuse PNG/FBX inputs and reconstruct particle, ShaderGraph and timing behaviour in Godot; no runtime port supplied by this upload.",
+  "license_status": "owner_confirmed_purchase",
+  "project_use": "owner_authorized",
+  "public_source_redistribution": "unconfirmed",
+  "release_cleared": false,
+  "distribution": "private_project_payload",
+  "guide": "README.md",
+  "private_payload_url": "https://github.com/kk20054/fanren-godot-world/tree/main/reference_assets/sword-vfx/red-fly-20251223",
+  "preview": {
+    "filename": "Particle_2025.12.23_RedFly.mp4",
+    "bytes": 1043655,
+    "sha256": "34307a9265a2246f907fe4f3889e4230e6d8b8440c7590bc53757d7575db552f",
+    "url": "https://github.com/kk20054/fanren-godot-world/blob/main/reference_assets/sword-vfx/red-fly-20251223/previews/Particle_2025.12.23_RedFly.mp4",
+    "availability": "private_project_payload"
+  }
+}

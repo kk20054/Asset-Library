@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "id": "red_fly_20251223",
+  "source_archive": {
+    "filename": "Particle_2025.12.23_RedFly红飞.rar",
+    "bytes": 1368529,
+    "sha256": "75945868ca97dcd117e9e1418d42fc7d8afdb5ddb5a9490196c003afa1e8de1d"
+  },
+  "unitypackage": {
+    "bytes": 1371346,
+    "sha256": "ca8c89d880edbf9431331d52ec7b379e7f92a04ccd339cfd7f1659c92364d40b"
+  },
+  "asset_count": 22,
+  "metadata_count": 22,
+  "particle_systems": 6,
+  "asset_counts": {
+    ".png": 7,
+    ".asset": 1,
+    ".mat": 6,
+    ".fbx": 2,
+    ".anim": 1,
+    ".shadergraph": 2,
+    ".prefab": 1,
+    ".playable": 1,
+    ".unity": 1
+  },
+  "assets": [
+    {
+      "guid": "13c31cb7331728d45a7709d01dcb232e",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex06.png",
+      "bytes": 2875,
+      "sha256": "89db91d8c52782731d04d45bd504773704214d18c655f52e212265ec00f36b20",
+      "meta_sha256": "1d1ba0cb4aefcbc1972d042c950c4411470ead9beb9204416ca154115eec233f",
+      "role": "texture_source"
+    },
+    {
+      "guid": "24cc4f12b534eb044a53f365ba998184",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/01_Scene/vfxPreview/Bloom.asset",
+      "bytes": 1452,
+      "sha256": "5df4505b1043f6dfb1026f9e15db1b0d39715582637423ba581ffe0eddc7f9d2",
+      "meta_sha256": "64ea93d1936f0d1e794de1ef856f6253462a595c0cb038374be91af857f1bbae",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "39acd324cf2252b47a71c49323f1182b",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex_floor01.png",
+      "bytes": 13909,
+      "sha256": "8945d54b3643581718e9499af001d635c9d0f4e9851dcf2f00c216892faf0a89",
+      "meta_sha256": "55f108c8715aa17183a552d059cd55c4fda802964c54accfdb7b8118e4596994",
+      "role": "texture_source"
+    },
+    {
+      "guid": "4ed0c3a8de1c0964cb93d2650a51163d",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/03_Material/m_Charactor.mat",
+      "bytes": 3291,
+      "sha256": "750bb1a50afb599961da0d1c329f4214f0442d9bd150184a598e9955ac91ef2d",
+      "meta_sha256": "46d3fac0723a21eb9f697649ade78b1d3024948b3a6c3cd7713e8305f96067a7",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "519e1ab2426f69a4fb1169222133763d",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/03_Material/m02.mat",
+      "bytes": 3270,
+      "sha256": "56b9edac0316c181d8f083e38bcc089106ae6afe69fdc50991f8ed824c741b1b",
+      "meta_sha256": "4d86fc5c9e8e6a985089d533738e214bc2e4d3b1f3c62503635cc50e153a0723",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "607ea4514dc56d042adedf06fae0d9a2",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/04_Fbx/Mesh01.FBX",
+      "bytes": 21488,
+      "sha256": "26a1f047a069554c3d7710033b7caeac3d17a0f8907833a1d3989157af09e92a",
+      "meta_sha256": "79c6b23d4e0f4bdc4fe48cadd35e95ef1dd960bb427b4ba7131e2d784b3198ca",
+      "role": "effect_mesh_source"
+    },
+    {
+      "guid": "67c050a711b4a994895a381bab2e9fa5",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex_floor02.png",
+      "bytes": 3014,
+      "sha256": "93f519c22c70e84a672c84b71f60e18cbf41038bac1dbe601b7428c568115409",
+      "meta_sha256": "55e085ae0519877fce83a8173d2897f618bca22252a6f9aadbc4ed74a0a1f4ed",
+      "role": "texture_source"
+    },
+    {
+      "guid": "68da38d41d9f3ed45bf3b5a25c47d10a",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/04_Fbx/combo_06_4.anim",
+      "bytes": 1305755,
+      "sha256": "03895eefc790df3babfa6d9ba22a21cd2ff7de3b198b6c59bc0c3ab44d7575b3",
+      "meta_sha256": "57202000bc4df95625dc2f00af7865cb2f8880a321954cc076deed7986114d16",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "757f574e696dbbb4a806d082c3d7df7e",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex07.png",
+      "bytes": 4851,
+      "sha256": "918213f0470909104330928d48dc83b887a4a68ca417143f0e4212768ec26cd6",
+      "meta_sha256": "878d54a6e609a71c2af91e52b243ed89a4552b4ede5d4f624c524833916c0476",
+      "role": "texture_source"
+    },
+    {
+      "guid": "791b4d6fbafdb134180f6acb9bfdfada",
+      "source_path": "Assets/vfxCase/Shader/vfxCase_P_Base_1.1.shadergraph",
+      "bytes": 657608,
+      "sha256": "56a873874d20be68c53ccc95ec3b4dde6ca0af6a0334668ea8fb89dea603b991",
+      "meta_sha256": "16e8e3ef6db3157bc43806c56a6787279907dc91c043fb72d9d3eeb5f3b7e22f",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "7c2eebdd918f48d4f8bdb319f46a66a7",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/05_Prefab/Prefab.prefab",
+      "bytes": 708099,
+      "sha256": "8863cd8361bcbada212296772ac6fbe3686c6f05e1151428b69ddf77b936eee0",
+      "meta_sha256": "1612eeeb33bcafb1bd5ee1a96c85ad7340af796e3ee16fc62aa935abba1334de",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "93b6802ec734c7f47b9be51405d4a718",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/03_Material/m_Floor.mat",
+      "bytes": 3222,
+      "sha256": "6b30d12df0ddc11f73472fd0148e2af0e25b22fa4f13283d0fc5d5f225b93546",
+      "meta_sha256": "dae95336a08d4b6746db6cbb2bb094d4c47a6db3f7dea0657109bf1ee8bfb510",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "94d11895668ff984da83f484b369f257",
+      "source_path": "Assets/vfxCase/Shader/vfxCase_P_Fresnel_1.1.shadergraph",
+      "bytes": 129994,
+      "sha256": "e955d543765dcb3e3b8b85b0ce3e9fbae92f7380ffa9ea8e78b904658f355e3a",
+      "meta_sha256": "3a534e81863d4c1ecd3f5e7f950c3e485182041e52d9a063e974d503f78753d6",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "9c29b39bd6fb5ed4786089c43e0e10b1",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex02.png",
+      "bytes": 83630,
+      "sha256": "22f0cc4aa8b59ebc9abed5013c84e37204ac639015ed4cd200c0841762c36e5e",
+      "meta_sha256": "34da6aa3a64e9849c891ac79411d3ed0444a1362053c0040195dd6696811451e",
+      "role": "texture_source"
+    },
+    {
+      "guid": "c137c1a4a2a36fa4b9cd3a8cba641050",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex01.png",
+      "bytes": 20274,
+      "sha256": "4fc18ca346a8aae0c1ff2fe1abb9161e6cfe297a683b67dbcde51278b09ca666",
+      "meta_sha256": "2ed6ba36583ebf3bd8b07f6840923f55df9939fa5cf077bd88ab117b789ea1fa",
+      "role": "texture_source"
+    },
+    {
+      "guid": "c7c8882b8a5b61649b6715cbdd159ad7",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/01_Scene/vfxPreview/Timeline_P.playable",
+      "bytes": 13908,
+      "sha256": "5cd911e33dd6bcb8ee5f120c1c80f7a2d97f815f9eb1c75056dd1d9f887e5145",
+      "meta_sha256": "898378a56207f69be44c85cf8831726c6deaea6ce532c2e2a7ef6b9c6887aea1",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "d6ee5dfc8807017479b01de423cd6b8c",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex03.png",
+      "bytes": 504,
+      "sha256": "e46507c0afffec1b1d56e9b3749ccb1e7bccd9ea461bb9334218cbe9201e1540",
+      "meta_sha256": "7d980f369d809325edb5d1dcd6a0e3d9314f4f3d051f398c2bae5b717a7964d7",
+      "role": "texture_source"
+    },
+    {
+      "guid": "ee74bf97ced2b79419d98b8111df0022",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/03_Material/m01.mat",
+      "bytes": 3197,
+      "sha256": "a392cae4be4ce21d103b704ac47565a15e7d24e2f9b0810210078a07b5d2e169",
+      "meta_sha256": "bcac83699357049f31c6b4deb23ba6d10c1d052663b61cc8dc7136f81b30ccf2",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "f05c15e3ce577e648961c03535c3bbf5",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/03_Material/m04.mat",
+      "bytes": 3130,
+      "sha256": "fb21602bf257cd181a7232c634908b686dd3be053e7d70e081a5c314a321e1fd",
+      "meta_sha256": "f33e8a15258e23df0301394b53b7fc73ef07dc2f05505d4ec931a56f3369632b",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "f08278958eedb564f9415d4ecdb82a8a",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/04_Fbx/Charactor.fbx",
+      "bytes": 2173200,
+      "sha256": "f7bfe6fae5fa5241a78792047107b7a31cb0d33ba22bdc143d1c0d2e1f2a2dd1",
+      "meta_sha256": "fa0d930ca34e370adc826329ee404527364b557ffd12d4de6e7b7920269db9ad",
+      "role": "preview_character_source"
+    },
+    {
+      "guid": "f7136f0d7c5d73e49a06593da445b405",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/01_Scene/vfxPreview.unity",
+      "bytes": 17441,
+      "sha256": "aeed25fe3f45e740ce608ce40cd8107970fb98ff24f234ead8c00d9b9250b4bc",
+      "meta_sha256": "10f5514ca8c1cb20404c942755322377e1a5631bf5de075181b15a889e9ca77d",
+      "role": "unity_reference_source"
+    },
+    {
+      "guid": "fb6c732e8259d334aa6b3d97326eb933",
+      "source_path": "Assets/vfxCase/2025.12.23_RedFly_P/03_Material/m03.mat",
+      "bytes": 3195,
+      "sha256": "51309b9aafe2ae20a00e7e53f3e1c29ce30420aa3091546afd22e11c8373460c",
+      "meta_sha256": "b0584fe813e9ce084a9070d5114b35c2ba9710174653061e59a662df583fd479",
+      "role": "unity_reference_source"
+    }
+  ],
+  "texture_dimensions": [
+    {
+      "path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex06.png",
+      "width": 128,
+      "height": 128,
+      "png_color_type": 6
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex_floor01.png",
+      "width": 256,
+      "height": 256,
+      "png_color_type": 2
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex_floor02.png",
+      "width": 512,
+      "height": 512,
+      "png_color_type": 2
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex07.png",
+      "width": 512,
+      "height": 64,
+      "png_color_type": 6
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex02.png",
+      "width": 256,
+      "height": 256,
+      "png_color_type": 6
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex01.png",
+      "width": 128,
+      "height": 256,
+      "png_color_type": 6
+    },
+    {
+      "path": "Assets/vfxCase/2025.12.23_RedFly_P/02_Texture/Tex03.png",
+      "width": 128,
+      "height": 128,
+      "png_color_type": 6
+    }
+  ],
+  "source_payload": "https://github.com/kk20054/fanren-godot-world/tree/main/reference_assets/sword-vfx/red-fly-20251223"
+}

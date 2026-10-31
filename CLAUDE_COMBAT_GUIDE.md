@@ -15,6 +15,8 @@ Use this library with the actual Godot project [kk20054/fanren-godot-world](http
 | Sect ruins / stone lamps / steps | Temple | Existing Buildings, Pillar and Props entries | collections/temple/asset-index.json; use actual IDs and bounds |
 | Procedural canopy technique | nicoo-474/procedural-tree | Four species/four seasons, baked spherical normals on GLB export | Pinned source in the private project repository; owner-directed project use with the missing upstream license recorded; see collections/procedural-tree/ |
 | Ordinary attack sword arcs | DaoGreen source inventory | Seven PNGs, four FBXs, six-ParticleSystem Unity prefab (disabled root plus five render layers) | Purchased source payload in the private game repository; public index at collections/sword-vfx/dao-green-20251211/ |
+| Additional sword-qi effects | RedFly purchased source | Seven PNGs, effect Mesh01.FBX, preview character, six-system particle prefab and original URP shader/material sources | [RedFly public index](collections/sword-vfx/red-fly-20251223/); full original archives and 22 assets in the associated private repository |
+| Particle material reconstruction | vfxCase ShaderGraph pack 2026-09-21 | Six original Base/Fresnel/AirDistor graphs; Base_1.1 has a GUID/content collision with RedFly | [Public shader index](collections/shaders/vfxcase-20260921/); select package/path/hash and keep source variants separate |
 
 The former models/, textures/, scenes/ and collection paths remain stable. Do not treat a glTF JSON alone as a complete asset; retain declared buffers/textures. SoStylized catalog paths are members of category ZIPs. Ignore collision/editor helper meshes when choosing visible props. A static GLB is not a converted wind/cloud/water material.
 

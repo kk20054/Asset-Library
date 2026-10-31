@@ -1,0 +1,149 @@
+{
+  "source_archive": "Shader_2026.09.21.rar",
+  "source_archive_bytes": 153774,
+  "source_archive_sha256": "f0840b19d2f8c97f22bc7c5de27c9e6dc4d1fe2e1e898eddbb34b4572b97f64b",
+  "archive_format": "RAR5",
+  "archive_integrity": "Bandizip bz t: All OK",
+  "nested_archives": [],
+  "asset_count": 6,
+  "meta_count": 6,
+  "total_files": 12,
+  "total_extracted_bytes": 2334181,
+  "readme_or_license_files": [],
+  "entries": [
+    {
+      "path": "Shader/vfxCase_P_AirDistor_1.0.shadergraph",
+      "bytes": 102134,
+      "sha256": "9be46e831002de38b8bc37d6bbd338259a71f472128032f9e8c6274ded790fcf",
+      "guid": "72dca50e84fa8fc4bae296d7322c9e62",
+      "targets": [
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalTarget",
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalUnlitSubTarget"
+      ],
+      "custom_functions": [],
+      "external_file_references": [],
+      "source_format": "Unity ShaderGraph JSON object stream"
+    },
+    {
+      "path": "Shader/vfxCase_P_AirDistor_1.0.shadergraph.meta",
+      "bytes": 285,
+      "sha256": "b436f9d14214d6b4385c8a86586e7412a2e2d3bb9c85a7c48df7a4653f32f342"
+    },
+    {
+      "path": "Shader/vfxCase_P_Base_1.0.shadergraph",
+      "bytes": 657608,
+      "sha256": "56a873874d20be68c53ccc95ec3b4dde6ca0af6a0334668ea8fb89dea603b991",
+      "guid": "43278fb7196234549adb9af34ef814a5",
+      "targets": [
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalTarget",
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalUnlitSubTarget"
+      ],
+      "custom_functions": [],
+      "external_file_references": [],
+      "source_format": "Unity ShaderGraph JSON object stream"
+    },
+    {
+      "path": "Shader/vfxCase_P_Base_1.0.shadergraph.meta",
+      "bytes": 285,
+      "sha256": "3562084e7828732a3f0629f640d90dee3a98cc4357aef85725a798b9a1df66b7"
+    },
+    {
+      "path": "Shader/vfxCase_P_Base_1.1.shadergraph",
+      "bytes": 657608,
+      "sha256": "4ea86785803a89727068bd00eff1c96ed4586f8d9b5fa7c4383d8804b1211489",
+      "guid": "791b4d6fbafdb134180f6acb9bfdfada",
+      "targets": [
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalTarget",
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalUnlitSubTarget"
+      ],
+      "custom_functions": [],
+      "external_file_references": [],
+      "source_format": "Unity ShaderGraph JSON object stream"
+    },
+    {
+      "path": "Shader/vfxCase_P_Base_1.1.shadergraph.meta",
+      "bytes": 285,
+      "sha256": "16e8e3ef6db3157bc43806c56a6787279907dc91c043fb72d9d3eeb5f3b7e22f"
+    },
+    {
+      "path": "Shader/vfxCase_P_Base_1.2.shadergraph",
+      "bytes": 659919,
+      "sha256": "44fcec81f80299d6781479eef584128b2573d1d42ed1f16e0a58bc2d56bb1806",
+      "guid": "d22996b93404f3344bdc3c7d8d07b0bd",
+      "targets": [
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalTarget",
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalUnlitSubTarget"
+      ],
+      "custom_functions": [],
+      "external_file_references": [],
+      "source_format": "Unity ShaderGraph JSON object stream"
+    },
+    {
+      "path": "Shader/vfxCase_P_Base_1.2.shadergraph.meta",
+      "bytes": 285,
+      "sha256": "ce9e4112ba9890bc26693b0244331da48dd5c3b2f7c244833d780bc2b1bfd8ad"
+    },
+    {
+      "path": "Shader/vfxCase_P_Fresnel_1.0.shadergraph",
+      "bytes": 125208,
+      "sha256": "4acd2e847b1519bf61029f99b70aa931b44f49abee37d9dacc72a9fb05470407",
+      "guid": "10b2f15e19dc8b94cbe3442efba2788e",
+      "targets": [
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalTarget",
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalUnlitSubTarget"
+      ],
+      "custom_functions": [],
+      "external_file_references": [],
+      "source_format": "Unity ShaderGraph JSON object stream"
+    },
+    {
+      "path": "Shader/vfxCase_P_Fresnel_1.0.shadergraph.meta",
+      "bytes": 285,
+      "sha256": "42818e9c430365cc28166cd651a6b7db31785bd9e89ed9addedea1a931dfd873"
+    },
+    {
+      "path": "Shader/vfxCase_P_Fresnel_1.1.shadergraph",
+      "bytes": 129994,
+      "sha256": "e955d543765dcb3e3b8b85b0ce3e9fbae92f7380ffa9ea8e78b904658f355e3a",
+      "guid": "08da471639764624b97b39e7f085c79e",
+      "targets": [
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalTarget",
+        "UnityEditor.Rendering.Universal.ShaderGraph.UniversalUnlitSubTarget"
+      ],
+      "custom_functions": [],
+      "external_file_references": [],
+      "source_format": "Unity ShaderGraph JSON object stream"
+    },
+    {
+      "path": "Shader/vfxCase_P_Fresnel_1.1.shadergraph.meta",
+      "bytes": 285,
+      "sha256": "f7b31088e6a51acfb8f4db6372d8c39d6f9528236a853cbbf730e227e9381423"
+    }
+  ],
+  "cross_package_review": {
+    "guid_collisions": [
+      {
+        "guid": "791b4d6fbafdb134180f6acb9bfdfada",
+        "shader_path": "Shader/vfxCase_P_Base_1.1.shadergraph",
+        "redfly_path": "Assets/vfxCase/Shader/vfxCase_P_Base_1.1.shadergraph",
+        "shader_sha256": "4ea86785803a89727068bd00eff1c96ed4586f8d9b5fa7c4383d8804b1211489",
+        "redfly_sha256": "56a873874d20be68c53ccc95ec3b4dde6ca0af6a0334668ea8fb89dea603b991",
+        "same_content": false
+      }
+    ],
+    "identical_source_content": [
+      {
+        "shader_path": "Shader/vfxCase_P_Base_1.0.shadergraph",
+        "shader_guid": "43278fb7196234549adb9af34ef814a5",
+        "redfly_path": "Assets/vfxCase/Shader/vfxCase_P_Base_1.1.shadergraph",
+        "redfly_guid": "791b4d6fbafdb134180f6acb9bfdfada"
+      },
+      {
+        "shader_path": "Shader/vfxCase_P_Fresnel_1.1.shadergraph",
+        "shader_guid": "08da471639764624b97b39e7f085c79e",
+        "redfly_path": "Assets/vfxCase/Shader/vfxCase_P_Fresnel_1.1.shadergraph",
+        "redfly_guid": "94d11895668ff984da83f484b369f257"
+      }
+    ]
+  }
+}

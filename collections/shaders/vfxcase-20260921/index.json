@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "id": "vfxcase_shader_20260921",
+  "title": "Particle ShaderGraph Sources — 2026-09-21",
+  "category": "vfx.shaders",
+  "source_filename": "Shader_2026.09.21.rar",
+  "bytes": 153774,
+  "sha256": "f0840b19d2f8c97f22bc7c5de27c9e6dc4d1fe2e1e898eddbb34b4572b97f64b",
+  "inventory": "inventory.json",
+  "asset_count": 6,
+  "meta_count": 6,
+  "source_engine": "Unity URP / Unlit ShaderGraph",
+  "guide": "README.md",
+  "distribution": "private_project_payload",
+  "private_payload_url": "https://github.com/kk20054/fanren-godot-world/tree/main/reference_assets/shaders/vfxcase-20260921",
+  "godot_readiness": "Source references only; rebuild and verify in the target engine.",
+  "release_cleared": false,
+  "public_source_redistribution": "unconfirmed",
+  "cross_package_review": {
+    "guid_collisions": [
+      {
+        "guid": "791b4d6fbafdb134180f6acb9bfdfada",
+        "shader_path": "Shader/vfxCase_P_Base_1.1.shadergraph",
+        "redfly_path": "Assets/vfxCase/Shader/vfxCase_P_Base_1.1.shadergraph",
+        "shader_sha256": "4ea86785803a89727068bd00eff1c96ed4586f8d9b5fa7c4383d8804b1211489",
+        "redfly_sha256": "56a873874d20be68c53ccc95ec3b4dde6ca0af6a0334668ea8fb89dea603b991",
+        "same_content": false
+      }
+    ],
+    "identical_source_content": [
+      {
+        "shader_path": "Shader/vfxCase_P_Base_1.0.shadergraph",
+        "shader_guid": "43278fb7196234549adb9af34ef814a5",
+        "redfly_path": "Assets/vfxCase/Shader/vfxCase_P_Base_1.1.shadergraph",
+        "redfly_guid": "791b4d6fbafdb134180f6acb9bfdfada"
+      },
+      {
+        "shader_path": "Shader/vfxCase_P_Fresnel_1.1.shadergraph",
+        "shader_guid": "08da471639764624b97b39e7f085c79e",
+        "redfly_path": "Assets/vfxCase/Shader/vfxCase_P_Fresnel_1.1.shadergraph",
+        "redfly_guid": "94d11895668ff984da83f484b369f257"
+      }
+    ]
+  }
+}

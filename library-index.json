@@ -107,6 +107,22 @@
           "collection": "dao_green_20251211",
           "index": "collections/sword-vfx/dao-green-20251211/index.json",
           "availability": "private_project_payload"
+        },
+        {
+          "collection": "red_fly_20251223",
+          "index": "collections/sword-vfx/red-fly-20251223/index.json",
+          "availability": "private_project_payload"
+        }
+      ]
+    },
+    {
+      "id": "vfx.shaders",
+      "title": "Effect Shader Sources",
+      "sources": [
+        {
+          "collection": "vfxcase_shader_20260921",
+          "index": "collections/shaders/vfxcase-20260921/index.json",
+          "availability": "private_project_payload"
         }
       ]
     },

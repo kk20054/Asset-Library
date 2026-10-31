@@ -10,10 +10,11 @@ A curated index for **Godot, Blender and Three.js**, covering environment models
 | Architecture / sect props | Temple Buildings, Pillar and Props |
 | Surfaces / textures | Meadow terrain textures; SoStylized Textures |
 | Water / sky | SoStylized WaterSky, with engine-specific material reconstruction notes |
-| Sword / saber VFX | [DaoGreen inventory and Godot porting guide](collections/sword-vfx/dao-green-20251211/) |
+| Sword / saber VFX | [DaoGreen](collections/sword-vfx/dao-green-20251211/) and [RedFly sword qi](collections/sword-vfx/red-fly-20251223/): inventories and Godot adaptation notes |
+| Effect shaders | [vfxCase ShaderGraph source pack](collections/shaders/vfxcase-20260921/), with version-isolation and Godot reconstruction notes |
 | Audio | SoStylized Audio |
 
-The procedural-tree project has no declared license at the pinned commit and is indexed as a technical reference. The purchased DaoGreen VFX has publisher-confirmed commercial project use; its source payload is held in the owner's private game repository, linked by the public index. Raw-source public redistribution is not claimed. This repository does not grant a blanket commercial license. Existing environment paths and download categories remain intact.
+The procedural-tree project has no declared license at the pinned commit and is indexed as a technical reference. The purchased DaoGreen VFX has publisher-confirmed commercial project use; its source payload is held in the owner's private game repository, linked by the public index. The purchased [RedFly sword-qi pack](collections/sword-vfx/red-fly-20251223/) follows the same private-source/public-index workflow; its purchase is owner-confirmed. Raw-source public redistribution is not claimed. This repository does not grant a blanket commercial license. Existing environment paths and download categories remain intact.
 
 ## Existing portable environment collections
 
